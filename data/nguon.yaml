@@ -7,7 +7,8 @@ van_ban:
     ten_ngan: QĐ 5013
     so_hieu: 5013/QĐ-BYT
     ngay: "2020-12-01"
-    url: https://luatvietnam.vn/y-te/quyet-dinh-5013-qd-byt-huong-dan-chan-doan-va-dieu-tri-benh-theo-y-hoc-co-truyen-194863-d1.html
+    # Bản đính kèm (quyết định + tài liệu Tập I, 165 trang) do Sở Y tế Gia Lai đăng lại
+    url: https://syt.gialai.gov.vn/vi/van-ban-chi-dao-dieu-hanh/detail/Quyet-dinh-so-5013-QD-BYT-01-12-2020-cua-Bo-Y-te-V-v-Ban-hanh-Huong-dan-chan-doan-va-dieu-tri-benh-theo-y-hoc-co-truyen-ket-hop-y-hoc-co-truyen-voi-y-hoc-hien-dai-tap-I-1036/
   - ma: tt-05-2015
     ten: Danh mục thuốc đông y, thuốc từ dược liệu và vị thuốc y học cổ truyền thuộc phạm vi thanh toán của quỹ BHYT (sửa đổi bởi TT 27/2020/TT-BYT)
     ten_ngan: TT 05/2015

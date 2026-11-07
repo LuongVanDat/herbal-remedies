@@ -1,7 +1,8 @@
-node_modules/
 dist/
+dist-e2e/
+node_modules/
+playwright-report/
 src/generated/
 .superpowers/
+tai-lieu-goc/
 test-results/
-playwright-report/
-dist-e2e/
