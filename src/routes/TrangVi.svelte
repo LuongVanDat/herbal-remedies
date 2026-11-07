@@ -7,8 +7,8 @@
 
   let { id }: { id: string } = $props()
   const data = layData()
-  const v = data.viThuoc[id]
-  const bai = (data.viTrongBai[id] ?? []).map((b) => data.baiThuoc[b]).filter(Boolean)
+  const v = $derived(data.viThuoc[id])
+  const bai = $derived((data.viTrongBai[id] ?? []).map((b) => data.baiThuoc[b]).filter(Boolean))
 </script>
 
 {#if !v}
