@@ -36,7 +36,6 @@ Chỉ dùng nguồn hợp pháp. Văn bản pháp luật không được bảo h
 | Mã | Văn bản | Vai trò |
 |---|---|---|
 | `qd-5013` | QĐ 5013/QĐ-BYT (01/12/2020): Hướng dẫn chẩn đoán và điều trị bệnh theo YHCT, kết hợp YHCT với YHHĐ | Nguồn cốt lõi: bệnh → thể → triệu chứng → pháp trị → bài thuốc → liều |
-| `qd-3890`, `qd-6390` | QĐ 3890/QĐ-BYT và 6390/QĐ-BYT (2018) | Bổ sung bệnh (giai đoạn sau) |
 | `tt-05-2015` | TT 05/2015/TT-BYT (sửa đổi bởi TT 27/2020/TT-BYT) | Danh mục vị thuốc: tên chuẩn, trạng thái BHYT (dùng làm căn cứ "phổ biến") |
 | `cv-855-2022` | Công văn 855/YDCT-QLD (2022) | Danh mục dược liệu và vị thuốc, dùng để đối chiếu tên |
 | `dd-vn-v` / `dd-vn-vi` | Dược điển Việt Nam V/VI | Liều dùng chuẩn, tính vị, quy kinh, công năng, kiêng kỵ. Chỉ dùng khi có bản đáng tin cậy |
@@ -241,7 +240,9 @@ Môi trường: Node 22 LTS, npm.
 
 1. **Thử nghiệm:** trích 2–3 bệnh từ QĐ 5013 cùng các vị thuốc liên quan. Tên và trạng thái BHYT lấy từ TT 05/2015. Liều lấy theo Dược điển khi có bản đáng tin, nếu không thì để `null`. Tất cả ở trạng thái `chua_doi_chieu`.
 2. Người dùng đối chiếu với văn bản gốc và điều chỉnh cấu trúc dữ liệu nếu cần.
-3. Mở rộng ra toàn bộ các bệnh trong QĐ 5013, sau đó bổ sung QĐ 3890 và 6390.
+3. Mở rộng ra toàn bộ các bệnh trong QĐ 5013.
+
+> Ghi chú (07/11/2026): QĐ 3890/QĐ-BYT (27/6/2018) chỉ thành lập Ban biên soạn, QĐ 6390/QĐ-BYT (23/10/2018) chỉ thành lập Hội đồng thẩm định — theo Lời nói đầu QĐ 5013 Tập I. Hai quyết định này không chứa bệnh/bài thuốc; sản phẩm của chúng chính là QĐ 5013. Không phải nguồn dữ liệu.
 
 Mục `thay_the` chỉ được ghi nguồn khi văn bản thật sự có nêu. Các trường hợp còn lại để `nguon: null`.
 
