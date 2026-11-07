@@ -6,7 +6,8 @@
     "module": "esnext",
     "types": [
       "svelte",
-      "vite/client"
+      "vite/client",
+      "vite-plugin-pwa/svelte"
     ],
     "allowArbitraryExtensions": true,
     "noEmit": true,

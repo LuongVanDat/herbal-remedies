@@ -1,5 +1,6 @@
 <script lang="ts">
   import ChanTrang from './components/ChanTrang.svelte'
+  import ThongBaoCapNhat from './components/ThongBaoCapNhat.svelte'
   import { datData } from './data-context'
   import { appData } from './data'
   import { parseHash, type Route } from './router'
@@ -23,6 +24,7 @@
   })
 </script>
 
+<ThongBaoCapNhat />
 <header class="dau-trang"><a href="#/">Bài thuốc Đông y</a></header>
 <main>
   {#if route.ten === 'chu'}
