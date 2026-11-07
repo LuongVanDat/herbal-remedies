@@ -1,0 +1,10 @@
+id: ma-hoang
+ten: Ma hoàng
+ten_khoa_hoc: Herba Ephedrae
+bo_phan_dung: Thân cỏ
+lieu_dung: { min_g: 2, max_g: 10, nguon: { ma: test, trang: 10, trang_thai: chua_doi_chieu } }
+doc_tinh: { muc: it, canh_bao: null }
+kieng_ky: ["Người ra mồ hôi nhiều"]
+pho_bien: { muc: trung_binh, can_cu: "Dữ liệu kiểm thử" }
+thay_the: []
+nguon: { ma: test, trang: 10, trang_thai: chua_doi_chieu }

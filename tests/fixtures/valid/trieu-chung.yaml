@@ -1,0 +1,20 @@
+nhom:
+  - id: han-nhiet
+    ten: Hàn nhiệt
+    trieu_chung:
+      - { id: so-lanh-nhieu, ten: Sợ lạnh nhiều }
+      - { id: sot-cao, ten: Sốt cao }
+  - id: mo-hoi
+    ten: Mồ hôi
+    trieu_chung:
+      - { id: khong-mo-hoi, ten: Không mồ hôi }
+      - { id: ra-mo-hoi, ten: Ra mồ hôi }
+  - id: toan-than
+    ten: Toàn thân
+    trieu_chung:
+      - { id: dau-dau, ten: Đau đầu }
+      - { id: khat-nuoc, ten: Khát nước }
+  - id: luoi-mach
+    ten: Lưỡi – Mạch
+    trieu_chung:
+      - { id: reu-luoi-trang-mong, ten: Rêu lưỡi trắng mỏng }

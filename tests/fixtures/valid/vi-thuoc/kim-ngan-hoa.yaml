@@ -1,0 +1,10 @@
+id: kim-ngan-hoa
+ten: Kim ngân hoa
+ten_khoa_hoc: Flos Lonicerae
+bo_phan_dung: Hoa
+lieu_dung: { min_g: 6, max_g: 16, nguon: { ma: test, trang: 13, trang_thai: chua_doi_chieu } }
+doc_tinh: { muc: khong, canh_bao: null }
+kieng_ky: []
+pho_bien: { muc: cao, can_cu: "Dữ liệu kiểm thử" }
+thay_the: []
+nguon: { ma: test, trang: 13, trang_thai: chua_doi_chieu }

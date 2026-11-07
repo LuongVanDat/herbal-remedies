@@ -1,0 +1,10 @@
+id: phu-tu-che
+ten: Phụ tử chế
+ten_khoa_hoc: Radix Aconiti lateralis praeparata
+bo_phan_dung: Rễ củ con đã chế
+lieu_dung: { min_g: 2, max_g: 8, nguon: { ma: test, trang: 14, trang_thai: chua_doi_chieu } }
+doc_tinh: { muc: co, canh_bao: "Chỉ dùng dạng đã bào chế; quá liều gây ngộ độc aconitin." }
+kieng_ky: ["Phụ nữ có thai"]
+pho_bien: { muc: thap, can_cu: "Dữ liệu kiểm thử" }
+thay_the: []
+nguon: { ma: test, trang: 14, trang_thai: chua_doi_chieu }

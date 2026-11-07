@@ -1,0 +1,11 @@
+id: cam-thao
+ten: Cam thảo
+ten_khoa_hoc: Radix Glycyrrhizae
+bo_phan_dung: Rễ
+lieu_dung: null
+doc_tinh: { muc: khong, canh_bao: null }
+kieng_ky: []
+pho_bien: { muc: cao, can_cu: "Dữ liệu kiểm thử" }
+thay_the:
+  - { vi: que-chi, ghi_chu: "Thay thế giả định cho kiểm thử", nguon: null }
+nguon: { ma: test, trang: 12, trang_thai: chua_doi_chieu }

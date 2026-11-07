@@ -1,0 +1,2 @@
+van_ban:
+  - { ma: test, ten: Nguồn dữ liệu kiểm thử, ten_ngan: TEST, so_hieu: "0/TEST", ngay: "2026-01-01", url: "https://example.org/test" }

@@ -1,0 +1,13 @@
+id: que-chi
+ten: Quế chi
+ten_khoa_hoc: Ramulus Cinnamomi
+bo_phan_dung: Cành non
+tinh_vi: Cay, ngọt, ấm
+quy_kinh: [Tâm, Phế, Bàng quang]
+cong_nang: [Phát hãn giải biểu]
+lieu_dung: { min_g: 4, max_g: 12, nguon: { ma: test, trang: 11, trang_thai: da_doi_chieu } }
+doc_tinh: { muc: khong, canh_bao: null }
+kieng_ky: []
+pho_bien: { muc: cao, can_cu: "Dữ liệu kiểm thử" }
+thay_the: []
+nguon: { ma: test, trang: 11, trang_thai: da_doi_chieu }

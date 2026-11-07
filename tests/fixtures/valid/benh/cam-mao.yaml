@@ -1,0 +1,25 @@
+id: cam-mao
+ten: Cảm mạo
+ten_yhhd: Cảm cúm, nhiễm virus đường hô hấp trên
+ten_khac: [cảm lạnh]
+dau_hieu_nguy_hiem:
+  - { id: sot-cao-keo-dai, ten: "Sốt cao > 39°C quá 3 ngày" }
+the_benh:
+  - id: phong-han
+    ten: Phong hàn
+    trieu_chung:
+      chinh: [so-lanh-nhieu, khong-mo-hoi]
+      phu: [dau-dau, reu-luoi-trang-mong]
+    loai_tru: [sot-cao, khat-nuoc]
+    phap_tri: Tân ôn giải biểu
+    bai_thuoc: [ma-hoang-thang]
+    nguon: { ma: test, trang: 1, trang_thai: chua_doi_chieu }
+  - id: phong-nhiet
+    ten: Phong nhiệt
+    trieu_chung:
+      chinh: [sot-cao, ra-mo-hoi]
+      phu: [khat-nuoc, dau-dau]
+    loai_tru: [so-lanh-nhieu]
+    phap_tri: Tân lương giải biểu
+    bai_thuoc: [ngan-kieu-tan]
+    nguon: { ma: test, trang: 2, trang_thai: da_doi_chieu }

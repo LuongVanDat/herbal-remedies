@@ -1,0 +1,12 @@
+id: ma-hoang-thang
+ten: Ma hoàng thang
+xuat_xu: Thương hàn luận
+thanh_phan:
+  - { vi: ma-hoang, lieu_g: 6, vai_tro: quan }
+  - { vi: que-chi, lieu_g: 4, vai_tro: than }
+  - { vi: cam-thao, lieu_g: 3, vai_tro: su }
+  - { vi: phu-tu-che, lieu_g: 4, vai_tro: ta }
+cach_dung: "Sắc uống, ngày 1 thang, chia 2 lần."
+gia_giam: ["Ho nhiều: thêm Cát cánh"]
+kieng_ky: ["Người ra nhiều mồ hôi"]
+nguon: { ma: test, trang: 3, trang_thai: chua_doi_chieu }

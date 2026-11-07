@@ -1,0 +1,7 @@
+id: ngan-kieu-tan
+ten: Ngân kiều tán
+thanh_phan:
+  - { vi: kim-ngan-hoa, lieu_g: 12, vai_tro: quan }
+  - { vi: cam-thao, lieu_g: 4, vai_tro: su }
+cach_dung: "Sắc uống, ngày 1 thang."
+nguon: { muc: "Mục 2", ma: test, trang_thai: da_doi_chieu }
