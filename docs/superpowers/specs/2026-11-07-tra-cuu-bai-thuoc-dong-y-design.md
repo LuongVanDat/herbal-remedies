@@ -244,3 +244,22 @@ Môi trường: Node 22 LTS, npm.
 3. Mở rộng ra toàn bộ các bệnh trong QĐ 5013, sau đó bổ sung QĐ 3890 và 6390.
 
 Mục `thay_the` chỉ được ghi nguồn khi văn bản thật sự có nêu. Các trường hợp còn lại để `nguon: null`.
+
+## 10. Bổ sung sau khi nhập dữ liệu thật (2026-11-07)
+
+Văn bản thật khác giả định ban đầu ở vài chỗ, nên cấu trúc dữ liệu được mở rộng (tương thích ngược):
+
+- **Nguồn văn bản:** QĐ 5013 (Tập I) có **20 bệnh**, không có Cảm mạo. Bản PDF lấy từ cổng Sở Y tế Gia Lai; lưu cục bộ ở `tai-lieu-goc/` (không commit).
+- **Thành phần bài thuốc:** thêm `ten_trong_bai` (tên vị như in, vd "Chích thảo" → vị Cam thảo), `lieu_text` khi liều không phải số gam ("vừa đủ", "3 lát", "Văn bản không ghi liều"); `lieu_g` có thể null.
+- **Bài thuốc:** thêm `loai` (cổ phương, nghiệm phương, tân phương, thuốc Nam, dùng ngoài, đối pháp lập phương).
+- **Thể bệnh:** thêm `mo_ta` (câu "Thường gặp…" của văn bản).
+- **Vị thuốc:**
+  - `ten_khoa_hoc` không bắt buộc (vị ngoài danh mục cuối tài liệu).
+  - Thêm `ten_cay`, `nguon_goc` (trong nước / nhập khẩu / cả hai, theo cột "Nguồn gốc" của danh mục).
+  - `bo_phan_dung` không bắt buộc, suy từ từ Latin đầu tên vị thuốc.
+  - `pho_bien` có thể null (chưa có nguồn hợp pháp cho mức phổ biến).
+  - `doc_tinh.muc` thêm `chua_ro`: mặc định cho mọi vị **không** thuộc Danh mục dược liệu độc (TT 13/2024/TT-BYT). Không bao giờ ghi "không độc" khi chưa có nguồn.
+- **Chính/phụ:** văn bản không phân biệt; quy ước triệu chứng chỉ thể đó có (so với các thể cùng bệnh) là **chính**, dùng chung là **phụ**.
+- **Loại trừ:** chỉ khi văn bản phủ định rõ ("không đỏ", "không khát").
+- **Cảnh báo kiểm tra:** "vị không được dùng" và "chưa có liều chuẩn" gộp thành một dòng mỗi loại.
+- **Quy trình dữ liệu:** bản trích JSON (`scripts/trich/ban-trich/`) → `scripts/trich/sinh-du-lieu.ts` → `data/*.yaml`. Script đối chiếu mọi liều với chữ trên trang gốc và từ chối chạy nếu còn tên vị chưa khớp danh mục (bảng ánh xạ có lý do: `scripts/trich/bi-danh-vi.ts`).
