@@ -4,6 +4,7 @@
   import { appData } from './data'
   import { parseHash, type Route } from './router'
   import KhongTimThay from './routes/KhongTimThay.svelte'
+  import TrangBenh from './routes/TrangBenh.svelte'
   import TrangChu from './routes/TrangChu.svelte'
 
   datData(appData)
@@ -22,6 +23,8 @@
 <main>
   {#if route.ten === 'chu'}
     <TrangChu />
+  {:else if route.ten === 'benh'}
+    {#key route.id}<TrangBenh id={route.id} tc={route.tc} />{/key}
   {:else}
     <KhongTimThay />
   {/if}
