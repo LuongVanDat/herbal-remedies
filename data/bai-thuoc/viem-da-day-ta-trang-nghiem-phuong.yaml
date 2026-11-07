@@ -1,0 +1,34 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: viem-da-day-ta-trang-nghiem-phuong
+ten: Nghiệm phương — Viêm dạ dày và tá tràng, thể Khí trệ (can khí phạm vị)
+loai: nghiem_phuong
+thanh_phan:
+  - vi: la-khoi
+    lieu_g: 20
+    vai_tro: null
+  - vi: bo-cong-anh
+    lieu_g: 20
+    vai_tro: null
+  - vi: kho-sam
+    ten_trong_bai: Khổ sâm cho lá
+    lieu_g: 16
+    vai_tro: null
+  - vi: huong-phu
+    lieu_g: 8
+    vai_tro: null
+  - vi: hau-phac
+    lieu_g: 8
+    vai_tro: null
+  - vi: uat-kim
+    lieu_g: 8
+    vai_tro: null
+  - vi: cam-thao-dat
+    ten_trong_bai: Cam thảo nam
+    lieu_g: 16
+    vai_tro: null
+cach_dung: Sắc uống ngày 1 thang, chia 2 lần.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 112
+  trang_thai: chua_doi_chieu

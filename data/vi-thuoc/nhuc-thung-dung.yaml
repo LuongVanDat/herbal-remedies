@@ -1,0 +1,18 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: nhuc-thung-dung
+ten: Nhục thung dung
+ten_khac: []
+ten_khoa_hoc: Herba Cistanches
+ten_cay: Cistanche deserticola Y. C. Ma - Orobanchaceae
+bo_phan_dung: Toàn cây hoặc phần trên mặt đất
+nguon_goc: nhap_khau
+lieu_dung: null
+doc_tinh:
+  muc: chua_ro
+  canh_bao: null
+pho_bien: null
+thay_the: []
+nguon:
+  ma: qd-5013
+  trang: 160
+  trang_thai: chua_doi_chieu

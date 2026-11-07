@@ -1,0 +1,159 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: gout
+ten: Gout (Thống phong)
+ten_khac:
+  - Thống phong
+  - Lịch tiết phong
+  - Bạch hổ phong
+  - Bạch hổ lịch tiết
+dau_hieu_nguy_hiem:
+  - id: nh-gout-1
+    ten: Hạt tophi bị vỡ, dò dịch hoặc ảnh hưởng nhiều đến chức năng vận động của khớp
+the_benh:
+  - id: phong-thap-nhiet
+    ten: Phong thấp nhiệt
+    trieu_chung:
+      chinh:
+        - sung-nong-do-dau-mot-hoac-nhieu-khop-dac-biet
+        - dau-cu-an
+        - khoi-phat-thuong-cap-tinh
+        - mieng-kho-khat
+        - phien-tao-but-rut-khong-yen
+        - tieu-vang-so-luong-it
+        - luoi-do
+        - reu-vang-ban
+        - mach-hoat-sac
+      phu:
+        - phat-sot
+        - so-gio
+    loai_tru: []
+    phap_tri: Thanh nhiệt lợi thấp, tiêu thũng chỉ thống.
+    bai_thuoc:
+      - gout-tuyen-ty-thang-hop-tam-dieu-thang
+      - gout-bach-ho-que-chi-thang
+      - gout-tu-dieu-thang
+      - gout-cao-kim-hoang-tan-ngoai-khoa-chinh-tong
+      - gout-nghiem-phuong
+    nguon:
+      ma: qd-5013
+      trang: 22
+      trang_thai: chua_doi_chieu
+  - id: phong-han-thap-phong-ta-thien-thinh
+    ten: Phong hàn thấp (phong tà thiên thịnh)
+    trieu_chung:
+      chinh:
+        - dau-khop-co-tinh-chat-luu-chuyen
+      phu:
+        - sung-ne
+        - han-che-van-dong-khop
+        - co-the-co-hat-lang-dong-canh-khop
+        - so-gio
+        - phat-sot
+        - reu-luoi-mong-trang-hoac-trang-nhot
+        - mach-huyen-khan-hoac-nhu-hoan
+    loai_tru: []
+    phap_tri: Khu phong tán hàn trừ thấp, thông lạc chỉ thống.
+    bai_thuoc:
+      - gout-y-di-nhan-thang
+      - gout-nghiem-phuong-phong-han-thap-phong-ta-thien-thinh
+    nguon:
+      ma: qd-5013
+      trang: 24
+      trang_thai: chua_doi_chieu
+  - id: phong-han-thap-han-ta-thien-thinh
+    ten: Phong hàn thấp (hàn tà thiên thịnh)
+    trieu_chung:
+      chinh:
+        - dau-du-doi-cac-khop
+        - vi-tri-dau-co-dinh
+        - gap-lanh-dau-tang
+        - chuom-nong-de-chiu
+      phu:
+        - sung-ne
+        - han-che-van-dong-khop
+        - co-the-co-hat-lang-dong-canh-khop
+        - reu-luoi-mong-trang-hoac-trang-nhot
+        - mach-huyen-khan-hoac-nhu-hoan
+    loai_tru: []
+    phap_tri: Khu phong tán hàn trừ thấp, thông lạc chỉ thống.
+    bai_thuoc:
+      - gout-o-dau-thang
+      - gout-nghiem-phuong-phong-han-thap-phong-ta-thien-thinh
+    nguon:
+      ma: qd-5013
+      trang: 24
+      trang_thai: chua_doi_chieu
+  - id: phong-han-thap-thap-ta-thien-thinh
+    ten: Phong hàn thấp (thấp tà thiên thịnh)
+    trieu_chung:
+      chinh:
+        - cam-giac-dau-but-rut-nang-ne-tai-cac-khop
+        - vi-tri-dau-thuong-co-dinh
+        - cam-giac-te-bi-kho-chiu-trong-co-va-ngoai-da
+      phu:
+        - sung-ne
+        - han-che-van-dong-khop
+        - co-the-co-hat-lang-dong-canh-khop
+        - reu-luoi-mong-trang-hoac-trang-nhot
+        - mach-huyen-khan-hoac-nhu-hoan
+    loai_tru: []
+    phap_tri: Khu phong tán hàn trừ thấp, thông lạc chỉ thống.
+    bai_thuoc:
+      - gout-y-di-nhan-thang
+    nguon:
+      ma: qd-5013
+      trang: 24
+      trang_thai: chua_doi_chieu
+  - id: dam-u-tro-tre
+    ten: Đàm ứ trở trệ
+    trieu_chung:
+      chinh:
+        - cac-khop-sung
+        - nang-thi-xung-quanh-khop-cung-sung
+        - tai-di-tai-lai-nhieu-lan-dai-dang-khong-dut
+        - dau-nhuc-nhe
+        - co-cac-hat-cung-canh-khop
+        - sac-da-tim
+        - chat-luoi-beu
+        - reu-trang-ban
+        - mach-huyen-hoat
+      phu: []
+    loai_tru: []
+    phap_tri: Hoạt huyết hoá ứ, hoá đàm tán kết.
+    bai_thuoc:
+      - gout-dao-nhan-am-hop-nhi-tran-thang
+      - gout-nghiem-phuong-phong-han-thap-phong-ta-thien-thinh
+    nguon:
+      ma: qd-5013
+      trang: 25
+      trang_thai: chua_doi_chieu
+  - id: can-than-luong-hu
+    ten: Can thận lưỡng hư
+    trieu_chung:
+      chinh:
+        - dau-khop-tai-di-tai-lai-dai-dang-khong-dut
+        - luc-nang-luc-nhe
+        - cam-giac-dau-nhuc-am-i-di-chuyen-giua-cac-khop
+        - tham-chi-bien-dang-khop
+        - dau-lung-moi-goi
+        - nguoi-met-moi
+        - dau-dau
+        - hoa-mat
+        - chong-mat
+        - tam-quy
+        - khi-doan
+        - chat-luoi-nhot
+        - reu-trang
+        - mach-huyen-tram-te-vo-luc
+      phu:
+        - sung-ne
+        - han-che-van-dong-khop
+    loai_tru: []
+    phap_tri: Bổ can thận, trừ phong thấp, hoạt lạc chỉ thống.
+    bai_thuoc:
+      - gout-doc-hoat-ky-sinh-thang
+      - gout-nghiem-phuong-phong-han-thap-phong-ta-thien-thinh
+    nguon:
+      ma: qd-5013
+      trang: 26
+      trang_thai: chua_doi_chieu

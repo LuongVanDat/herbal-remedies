@@ -1,0 +1,23 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: suy-dinh-duong-tre-em-bot-cam-coc
+ten: Bột cam cóc
+loai: nghiem_phuong
+thanh_phan:
+  - vi: bot-coc
+    lieu_g: null
+    lieu_text: 10 phần
+    vai_tro: null
+  - vi: bot-chuoi
+    lieu_g: null
+    lieu_text: 14 phần
+    vai_tro: null
+  - vi: long-do-trung-ga
+    lieu_g: null
+    lieu_text: 2 phần
+    vai_tro: null
+cach_dung: "Cách chế: Bột cóc chế bằng con cóc sống to, (da đen hoặc vàng đều dùng được, trong dân gian thường dùng loại cóc mắt đỏ) chặt bỏ đầu phía dưới 2 u ở đầu, rồi lọc bỏ da và phủ tạng nhất là trứng cóc, rửa thật sạch tránh dính nhựa cóc, rồi cho vào chảo gang rang cho khô ròn rồi tán bột. Lòng đỏ trứng gà hấp chín sấy khô tán bột. Chuối bỏ vỏ xẻ dọc sấy cho vừa dẻo nhuyễn. Cả 3 thứ trộn đều làm viên 4g/viên, ngày uống 2 lần, mỗi lần 2 viên, dùng liền trong 2-3 tháng."
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 108
+  trang_thai: chua_doi_chieu

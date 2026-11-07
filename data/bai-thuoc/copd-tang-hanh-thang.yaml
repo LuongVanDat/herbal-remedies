@@ -1,0 +1,32 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: copd-tang-hanh-thang
+ten: Tang hạnh thang
+loai: co_phuong
+thanh_phan:
+  - vi: tang-diep
+    lieu_g: 12
+    vai_tro: null
+  - vi: tho-boi-mau
+    lieu_g: 4
+    vai_tro: null
+  - vi: hanh-nhan
+    lieu_g: 8
+    vai_tro: null
+  - vi: sa-sam
+    lieu_g: 8
+    vai_tro: null
+  - vi: chi-tu
+    lieu_g: 8
+    vai_tro: null
+  - vi: dam-dau-xi
+    lieu_g: 8
+    vai_tro: null
+  - vi: le-bi
+    lieu_g: 6
+    vai_tro: null
+cach_dung: Sắc uống ngày 1 thang, chia 2 lần.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 129
+  trang_thai: chua_doi_chieu

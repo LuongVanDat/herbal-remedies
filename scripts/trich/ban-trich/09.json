@@ -1,0 +1,214 @@
+{
+  "so": 9,
+  "id": "dau-than-kinh-lien-suon",
+  "ten": "Đau dây thần kinh liên sườn (Hiếp thống)",
+  "ten_khac": ["Hiếp thống"],
+  "trang_dau": 64,
+  "trang_cuoi": 71,
+  "dau_hieu_nguy_hiem": [
+    { "ten": "Đau chói cả hai bên sườn, đau liên tục, cảm giác bó chặt lấy ngực hoặc bụng; ấn cột sống có điểm đau chói", "trang": 64 },
+    { "ten": "Sốt về chiều, mệt mỏi, sút cân", "trang": 64 },
+    { "ten": "Biến dạng cột sống", "trang": 64 },
+    { "ten": "Đau rát một mảng sườn rồi đỏ da, xuất hiện mụn nước lan theo khoang liên sườn, sốt nhẹ, đau hạch nách", "trang": 64 },
+    { "ten": "Đau sau chấn thương cột sống", "trang": 64 }
+  ],
+  "the_benh": [
+    {
+      "ten": "Phong hàn",
+      "mo_ta": null,
+      "trang": 65,
+      "trieu_chung": [
+        { "ten": "Đau liên sườn dọc theo đường đi của dây thần kinh", "nhom": "vi-tri-dau" },
+        { "ten": "Đau nhất ở vùng rễ sau lưng, đường nách giữa, sau ức đòn", "nhom": "vi-tri-dau" },
+        { "ten": "Sợ lạnh", "nhom": "han-nhiet" },
+        { "ten": "Rêu lưỡi trắng mỏng", "nhom": "luoi" },
+        { "ten": "Mạch phù", "nhom": "mach" }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Khu phong, tán hàn, thông kinh lạc.",
+      "bai_thuoc": [
+        {
+          "ten": "Can khương thương truật thang", "loai": "co_phuong", "trang": 65,
+          "thanh_phan": [
+            { "ten": "Can khương", "lieu_g": 8 }, { "ten": "Quế chi", "lieu_g": 8 },
+            { "ten": "Thương truật", "lieu_g": 8 }, { "ten": "Ý dĩ", "lieu_g": 8 },
+            { "ten": "Cam thảo", "lieu_g": 6 }, { "ten": "Bạch linh", "lieu_g": 12 },
+            { "ten": "Xuyên khung", "lieu_g": 16 }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.", "gia_giam": [], "giong_the": null
+        },
+        {
+          "ten": "Ngải cứu sao muối chườm", "loai": "dung_ngoai", "trang": 65,
+          "thanh_phan": [{ "ten": "Ngải cứu tươi", "lieu_g": 100 }],
+          "cach_dung": "Ngải cứu tươi 100g sao với muối chườm, tại chỗ đau.", "gia_giam": [], "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Can khí uất kết",
+      "mo_ta": null,
+      "trang": 66,
+      "trieu_chung": [
+        { "ten": "Đau vùng hạ sườn", "nhom": "vi-tri-dau" },
+        { "ten": "Điểm đau không cố định", "nhom": "vi-tri-dau" },
+        { "ten": "Thậm chí đau như bó chặt vùng ngực sườn xuyên ra lưng và vai", "nhom": "vi-tri-dau" },
+        { "ten": "Đau tăng khi tình chí kích động", "nhom": "vi-tri-dau" },
+        { "ten": "Tinh thần uất ức hay cáu gắt", "nhom": "than-kinh" },
+        { "ten": "Cảm giác bí bách trong ngực", "nhom": "khac" },
+        { "ten": "Hay thở dài", "nhom": "ho-hap" },
+        { "ten": "Ợ hơi", "nhom": "tieu-hoa" },
+        { "ten": "Bụng chướng không muốn ăn", "nhom": "tieu-hoa" },
+        { "ten": "Lưỡi rêu mỏng", "nhom": "luoi" },
+        { "ten": "Mạch huyền hoặc huyền sác", "nhom": "mach" }
+      ],
+      "loai_tru": [{ "ten": "Đau cố định", "dan_chung": "điểm đau không cố định" }],
+      "phap_tri": "Sơ can lý khí.",
+      "bai_thuoc": [
+        {
+          "ten": "Sài hồ sơ can tán", "loai": "co_phuong", "trang": 67,
+          "thanh_phan": [
+            { "ten": "Sài hồ", "lieu_g": 10 }, { "ten": "Hương phụ", "lieu_g": 15 },
+            { "ten": "Chỉ xác", "lieu_g": 12 }, { "ten": "Xuyên khung", "lieu_g": 12 },
+            { "ten": "Bạch thược", "lieu_g": 15 }, { "ten": "Trần bì", "lieu_g": 12 },
+            { "ten": "Cam thảo", "lieu_g": 6 }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.", "gia_giam": [], "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Can uất hóa hỏa",
+      "mo_ta": null,
+      "trang": 67,
+      "trieu_chung": [
+        { "ten": "Vùng sườn cảm giác nóng rát, đau", "nhom": "vi-tri-dau" },
+        { "ten": "Tình chí không yên, dễ cáu", "nhom": "than-kinh" },
+        { "ten": "Đầu đau", "nhom": "dau-mat" },
+        { "ten": "Mặt đỏ", "nhom": "dau-mat" },
+        { "ten": "Tai ù", "nhom": "dau-mat" },
+        { "ten": "Tâm phiền mất ngủ", "nhom": "than-kinh" },
+        { "ten": "Ợ chua", "nhom": "tieu-hoa" },
+        { "ten": "Miệng đắng mà khô", "nhom": "dau-mat" },
+        { "ten": "Đại tiện nóng rát", "nhom": "tieu-hoa" },
+        { "ten": "Chất lưỡi đỏ", "nhom": "luoi" },
+        { "ten": "Rêu vàng", "nhom": "luoi" },
+        { "ten": "Mạch huyền sác", "nhom": "mach" }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Thanh can tả hỏa.",
+      "bai_thuoc": [
+        {
+          "ten": "Đan chi tiêu dao", "loai": "co_phuong", "trang": 67,
+          "thanh_phan": [
+            { "ten": "Đan bì", "lieu_g": 12 }, { "ten": "Chi tử", "lieu_g": 12 },
+            { "ten": "Sài hồ", "lieu_g": 10 }, { "ten": "Bạch thược", "lieu_g": 12 },
+            { "ten": "Đương quy", "lieu_g": 12 }, { "ten": "Phục linh", "lieu_g": 12 },
+            { "ten": "Bạch truật", "lieu_g": 12 }, { "ten": "Bạc hà", "lieu_g": 4 },
+            { "ten": "Sinh khương", "lieu_g": 4 }, { "ten": "Cam thảo", "lieu_g": 6 }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.", "gia_giam": [], "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Tà uất thiếu dương",
+      "mo_ta": null,
+      "trang": 68,
+      "trieu_chung": [
+        { "ten": "Ngực sườn chướng, đau", "nhom": "vi-tri-dau" },
+        { "ten": "Hàn nhiệt vãng lai", "nhom": "han-nhiet" },
+        { "ten": "Đau đầu", "nhom": "dau-mat" },
+        { "ten": "Chóng mặt", "nhom": "than-kinh" },
+        { "ten": "Miệng đắng họng khô", "nhom": "dau-mat" },
+        { "ten": "Ăn kém", "nhom": "tieu-hoa" },
+        { "ten": "Tâm phiền", "nhom": "than-kinh" },
+        { "ten": "Buồn nôn", "nhom": "tieu-hoa" },
+        { "ten": "Rêu lưỡi trắng mỏng hoặc vàng mỏng hơi bẩn", "nhom": "luoi" },
+        { "ten": "Mạch huyền sác", "nhom": "mach" }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Hòa giải thiếu dương.",
+      "bai_thuoc": [
+        {
+          "ten": "Tiểu sài hồ thang", "loai": "co_phuong", "trang": 68,
+          "thanh_phan": [
+            { "ten": "Sài hồ", "lieu_g": 10 }, { "ten": "Bán hạ chế", "lieu_g": 12 },
+            { "ten": "Đảng sâm", "lieu_g": 15 }, { "ten": "Hoàng cầm", "lieu_g": 12 },
+            { "ten": "Sinh khương", "lieu_g": 6 }, { "ten": "Đại táo", "lieu_g": 12 },
+            { "ten": "Cam thảo", "lieu_g": 6 }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.", "gia_giam": [], "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Huyết ứ",
+      "mo_ta": null,
+      "trang": 69,
+      "trieu_chung": [
+        { "ten": "Vùng mạng sườn đau như kim châm", "nhom": "vi-tri-dau" },
+        { "ten": "Đau cố định", "nhom": "vi-tri-dau" },
+        { "ten": "Đau tăng về đêm", "nhom": "vi-tri-dau" },
+        { "ten": "Có thể có vết sang thương", "nhom": "da" },
+        { "ten": "Lưỡi tím hoặc có điểm ứ huyết", "nhom": "luoi" },
+        { "ten": "Mạch trầm sáp hoặc huyền sáp", "nhom": "mach" }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Hóa ứ thông lạc.",
+      "bai_thuoc": [
+        {
+          "ten": "Huyết phủ trục ứ thang", "loai": "co_phuong", "trang": 69,
+          "thanh_phan": [
+            { "ten": "Đương quy", "lieu_g": 12 }, { "ten": "Sinh địa", "lieu_g": 12 },
+            { "ten": "Đào nhân", "lieu_g": 6 }, { "ten": "Hồng hoa", "lieu_g": 6 },
+            { "ten": "Sài hồ", "lieu_g": 10 }, { "ten": "Xuyên khung", "lieu_g": 12 },
+            { "ten": "Ngưu tất", "lieu_g": 12 }, { "ten": "Xích thược", "lieu_g": 10 },
+            { "ten": "Cát cánh", "lieu_g": 6 }, { "ten": "Chỉ xác", "lieu_g": 8 },
+            { "ten": "Cam thảo", "lieu_g": 6 }
+          ],
+          "cach_dung": null, "gia_giam": [], "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Can đởm thấp nhiệt",
+      "mo_ta": null,
+      "trang": 70,
+      "trieu_chung": [
+        { "ten": "Sườn đau", "nhom": "vi-tri-dau" },
+        { "ten": "Miệng đắng", "nhom": "dau-mat" },
+        { "ten": "Ngực bụng đầy chướng", "nhom": "tieu-hoa" },
+        { "ten": "Ăn kém", "nhom": "tieu-hoa" },
+        { "ten": "Tiểu tiện ngắn đỏ", "nhom": "tieu-tien" },
+        { "ten": "Lưỡi đỏ", "nhom": "luoi" },
+        { "ten": "Rêu vàng bẩn", "nhom": "luoi" },
+        { "ten": "Mạch hoạt sác", "nhom": "mach" }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Thanh nhiệt lợi thấp.",
+      "bai_thuoc": [
+        {
+          "ten": "Long đởm tả can thang", "loai": "co_phuong", "trang": 70,
+          "thanh_phan": [
+            { "ten": "Long đởm thảo", "lieu_g": 15 }, { "ten": "Chi tử", "lieu_g": 12 },
+            { "ten": "Hoàng cầm", "lieu_g": 12 }, { "ten": "Sài hồ", "lieu_g": 10 },
+            { "ten": "Sinh địa", "lieu_g": 12 }, { "ten": "Xa tiền tử", "lieu_g": 15 },
+            { "ten": "Trạch tả", "lieu_g": 15 }, { "ten": "Đương qui", "lieu_g": 12 },
+            { "ten": "Mộc thông", "lieu_g": 12 }, { "ten": "Cam thảo", "lieu_g": 5 }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.", "gia_giam": [], "giong_the": null
+        }
+      ]
+    }
+  ],
+  "ghi_chu_trich": [
+    "Tr.64: dấu hiệu nguy hiểm lấy từ phần I (các nguyên nhân lao/ung thư cột sống, zona, chấn thương cột sống); văn bản mô tả các nguyên nhân này nhưng không ghi nguyên văn câu 'cần khám/can thiệp YHHĐ' — tr.70 chỉ ghi 'Tùy theo nguyên nhân điều trị theo phác đồ của YHHĐ' (có nêu zona).",
+    "Tr.65: 'Ngải cứu sao muối chườm' là tên đặt để hiển thị, văn bản không đặt tên bài dùng ngoài; văn bản không ghi lượng muối.",
+    "Tr.66: tiêu đề các thể 2–6 không có chữ 'Thể' (chỉ thể 1 ghi 'Thể phong hàn').",
+    "Tr.66–67: thể Can khí uất kết — mục triệu chứng ở tr.66, bài Sài hồ sơ can tán in ở đầu tr.67.",
+    "Tr.67: tên bài in là 'Đan chi tiêu dao' (không có chữ 'tán').",
+    "Tr.69: bài Huyết phủ trục ứ thang không in cách dùng (cach_dung = null).",
+    "Tr.70: Long đởm tả can thang in 'Đương qui' (chính tả khác 'Đương quy' ở các bài khác) — giữ nguyên chữ in.",
+    "Tr.67/68: loai_tru thể Can khí uất kết ('điểm đau không cố định') đối chiếu với triệu chứng 'Đau cố định' của thể Huyết ứ."
+  ]
+}

@@ -1,0 +1,31 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: viem-gan-virus-man-nhat-quan-tien
+ten: Nhất quán tiễn
+loai: co_phuong
+thanh_phan:
+  - vi: sa-sam
+    lieu_g: 16
+    vai_tro: null
+  - vi: duong-quy
+    ten_trong_bai: Đương qui
+    lieu_g: 12
+    vai_tro: null
+  - vi: cau-ky-tu
+    ten_trong_bai: Kỷ tử
+    lieu_g: 12
+    vai_tro: null
+  - vi: mach-mon
+    lieu_g: 12
+    vai_tro: null
+  - vi: sinh-dia
+    lieu_g: 12
+    vai_tro: null
+  - vi: xuyen-luyen-tu
+    lieu_g: 12
+    vai_tro: null
+cach_dung: Sắc uống ngày 1 thang, chia 2 lần.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 122
+  trang_thai: chua_doi_chieu

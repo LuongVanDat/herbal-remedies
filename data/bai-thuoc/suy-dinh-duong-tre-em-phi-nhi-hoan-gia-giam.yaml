@@ -1,0 +1,53 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: suy-dinh-duong-tre-em-phi-nhi-hoan-gia-giam
+ten: Phì nhi hoàn gia giảm
+loai: co_phuong
+thanh_phan:
+  - vi: hoang-lien
+    lieu_g: 40
+    vai_tro: null
+  - vi: binh-lang
+    lieu_g: 32
+    vai_tro: null
+  - vi: mach-nha
+    lieu_g: 20
+    vai_tro: null
+  - vi: moc-huong
+    lieu_g: 20
+    vai_tro: null
+  - vi: luc-than-khuc
+    ten_trong_bai: Thần khúc
+    lieu_g: 40
+    vai_tro: null
+  - vi: su-quan-tu
+    lieu_g: 20
+    vai_tro: null
+  - vi: dang-sam
+    lieu_g: 40
+    vai_tro: null
+  - vi: cam-thao
+    lieu_g: 20
+    vai_tro: null
+  - vi: bach-linh
+    lieu_g: 32
+    vai_tro: null
+  - vi: bach-truat
+    lieu_g: 32
+    vai_tro: null
+  - vi: son-tra
+    lieu_g: 16
+    vai_tro: null
+cach_dung: Tán mịn, hoàn với mật lợn tươi, mỗi viên 3g. Uống lúc đói 1 viên/lần x 2 lần/ngày. Trẻ em dưới 3 tuổi giảm liều cho thích hợp. Dưới 1 tuổi không dùng. Có thể dùng dạng thuốc thang sắc uống ngày 1 thang với liều thích hợp theo chỉ định của bác sĩ điều trị.
+gia_giam:
+  - Bụng chướng đau nhiều gia Mộc hương 4g, Trần bì 4g.
+  - Phiền nhiễu không yên thêm Chi tử 6g, Liên tâm 4g.
+  - Đại tiện táo kết thêm Ma nhân 10g.
+  - Khát nước uống nhiều, mau đói gia Thạch hộc 8g, Thiên hoa phấn12g.
+  - Bụng căng cứng, thể trạng thực gia Lai phục tử 12g.
+  - Buồn nôn, nôn gia Trúc nhự 6g, Bán hạ chế 4g.
+  - Có tiết tả gia Hoài sơn 8g, Bạch biển đậu 12g để kiện tỳ ích khí; đại tiện phân sống gia Bào khương 2g, Thảo quả 4g.
+  - Chất lưỡi đỏ, ít rêu, miệng khát bỏ Hoàng liên, gia Sinh địa 6g. Mạch môn 12g, Thạch hộc 6g.
+nguon:
+  ma: qd-5013
+  trang: 107
+  trang_thai: chua_doi_chieu

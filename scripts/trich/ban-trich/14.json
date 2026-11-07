@@ -1,0 +1,556 @@
+{
+ "so": 14,
+ "id": "suy-dinh-duong-tre-em",
+ "ten": "Suy dinh dưỡng thể marasmus (Cam tích)",
+ "ten_khac": [
+  "Cam tích",
+  "Cam chứng",
+  "suy dinh dưỡng"
+ ],
+ "trang_dau": 104,
+ "trang_cuoi": 110,
+ "dau_hieu_nguy_hiem": [
+  {
+   "ten": "Suy dinh dưỡng nặng có biến chứng (cần chuyển cơ sở YHHĐ)",
+   "trang": 109
+  },
+  {
+   "ten": "Trẻ mất hết mỡ dưới da ở mặt, mông, chi, gầy đét, mặt hốc hác, mắt trũng, da khô, nhăn nheo",
+   "trang": 104
+  },
+  {
+   "ten": "Khô mắt, sợ ánh sáng, quáng gà (thiếu vitamin A)",
+   "trang": 104
+  },
+  {
+   "ten": "Nhiễm trùng, hạ thân nhiệt, rối loạn nước - điện giải",
+   "trang": 109
+  }
+ ],
+ "the_benh": [
+  {
+   "ten": "Cam khí (Tỳ hư)",
+   "mo_ta": null,
+   "trang": 105,
+   "trieu_chung": [
+    {
+     "ten": "Người gầy gò",
+     "nhom": "toan-than"
+    },
+    {
+     "ten": "Sắc mặt vàng ải, kém tươi nhuận",
+     "nhom": "toan-than"
+    },
+    {
+     "ten": "Lông tóc thưa",
+     "nhom": "toan-than"
+    },
+    {
+     "ten": "Ăn uống ít hoặc ăn nhiều dễ đói",
+     "nhom": "tieu-hoa"
+    },
+    {
+     "ten": "Tinh thần mệt mỏi",
+     "nhom": "toan-than"
+    },
+    {
+     "ten": "Dễ tức giận",
+     "nhom": "than-kinh"
+    },
+    {
+     "ten": "Đại tiện nát hoặc bí",
+     "nhom": "tieu-hoa"
+    },
+    {
+     "ten": "Chất lưỡi nhợt",
+     "nhom": "luoi"
+    },
+    {
+     "ten": "Rêu mỏng trắng hoặc vàng nhạt",
+     "nhom": "luoi"
+    },
+    {
+     "ten": "Mạch tế",
+     "nhom": "mach"
+    },
+    {
+     "ten": "Chỉ văn nhợt",
+     "nhom": "mach"
+    }
+   ],
+   "loai_tru": [],
+   "phap_tri": "Hòa tỳ kiện vận.",
+   "bai_thuoc": [
+    {
+     "ten": "Sâm linh bạch truật tán",
+     "loai": "co_phuong",
+     "trang": 106,
+     "thanh_phan": [
+      {
+       "ten": "Đảng sâm",
+       "lieu_g": 12
+      },
+      {
+       "ten": "Hoài sơn",
+       "lieu_g": 12
+      },
+      {
+       "ten": "Bạch linh",
+       "lieu_g": 8
+      },
+      {
+       "ten": "Liên nhục",
+       "lieu_g": 12
+      },
+      {
+       "ten": "Bạch truật",
+       "lieu_g": 12
+      },
+      {
+       "ten": "Bạch biển đậu",
+       "lieu_g": 8
+      },
+      {
+       "ten": "Sa nhân",
+       "lieu_g": 4
+      },
+      {
+       "ten": "Cam thảo",
+       "lieu_g": 4
+      },
+      {
+       "ten": "Cát cánh",
+       "lieu_g": 4
+      },
+      {
+       "ten": "Trần bì",
+       "lieu_g": 4
+      },
+      {
+       "ten": "Ý dĩ",
+       "lieu_g": 8
+      }
+     ],
+     "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.",
+     "gia_giam": [],
+     "giong_the": null
+    },
+    {
+     "ten": "Tư sinh kiện tỳ hoàn gia giảm",
+     "loai": "nghiem_phuong",
+     "trang": 106,
+     "thanh_phan": [
+      {
+       "ten": "Đảng sâm",
+       "lieu_g": 100
+      },
+      {
+       "ten": "Bạch truật",
+       "lieu_g": 100
+      },
+      {
+       "ten": "Liên nhục",
+       "lieu_g": 100
+      },
+      {
+       "ten": "Bạch linh",
+       "lieu_g": 100
+      },
+      {
+       "ten": "Bạch biển đậu",
+       "lieu_g": 80
+      },
+      {
+       "ten": "Trạch tả",
+       "lieu_g": 80
+      },
+      {
+       "ten": "Sa nhân",
+       "lieu_g": 40
+      },
+      {
+       "ten": "Mạch nha",
+       "lieu_g": 60
+      },
+      {
+       "ten": "Hoài sơn",
+       "lieu_g": 100
+      },
+      {
+       "ten": "Hoắc hương",
+       "lieu_g": 60
+      },
+      {
+       "ten": "Ý dĩ",
+       "lieu_g": 120
+      },
+      {
+       "ten": "Sơn tra",
+       "lieu_g": 40
+      }
+     ],
+     "cach_dung": "Tán bột, hoàn viên, uống 10 - 20g/ngày, chia hai lần sáng, chiều. Có thể dùng dạng thuốc thang sắc uống ngày 1 thang với liều thích hợp theo chỉ định của bác sĩ điều trị.",
+     "gia_giam": [
+      "Bụng chướng nhiều, ợ hơi, không muốn ăn, rêu lưỡi dày bẩn, nên bỏ Đảng sâm, Bạch truật, Hoài sơn, gia Kê nội kim 12g để tiêu tích.",
+      "Đại tiện nát gia Bào khương 4g để ôn vận tỳ dương.",
+      "Đại tiện táo gia Thảo quyết minh 6g, Lai phục tử 8g để nhuận tràng thông tiện.",
+      "Ăn nhiều mau đói, dễ cáu giận, đêm ngủ không yên giấc gia Hoàng liên 6g, Câu đằng 6g để thanh hỏa trừ phiền."
+     ],
+     "giong_the": null
+    },
+    {
+     "ten": null,
+     "loai": "doi_phap_lap_phuong",
+     "trang": 106,
+     "thanh_phan": [
+      {
+       "ten": "Bạch truật",
+       "lieu_g": 12
+      },
+      {
+       "ten": "Ý dĩ",
+       "lieu_g": 10
+      },
+      {
+       "ten": "Bạch linh",
+       "lieu_g": 12
+      },
+      {
+       "ten": "Sa nhân",
+       "lieu_g": 4
+      },
+      {
+       "ten": "Hoài sơn",
+       "lieu_g": 12
+      },
+      {
+       "ten": "Mạch nha",
+       "lieu_g": 12
+      },
+      {
+       "ten": "Liên nhục",
+       "lieu_g": 12
+      },
+      {
+       "ten": "Cam thảo",
+       "lieu_g": 6
+      },
+      {
+       "ten": "Bạch biển đậu",
+       "lieu_g": 12
+      }
+     ],
+     "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.",
+     "gia_giam": [],
+     "giong_the": null
+    }
+   ]
+  },
+  {
+   "ten": "Cam tích",
+   "mo_ta": null,
+   "trang": 107,
+   "trieu_chung": [
+    {
+     "ten": "Người gầy",
+     "nhom": "toan-than"
+    },
+    {
+     "ten": "Bụng chướng to, nổi gân xanh",
+     "nhom": "tieu-hoa"
+    },
+    {
+     "ten": "Sắc mặt vàng tối",
+     "nhom": "toan-than"
+    },
+    {
+     "ten": "Lông tóc thưa",
+     "nhom": "toan-than"
+    },
+    {
+     "ten": "Tinh thần hay phiền não",
+     "nhom": "than-kinh"
+    },
+    {
+     "ten": "Dễ kích động",
+     "nhom": "than-kinh"
+    },
+    {
+     "ten": "Ngủ không yên",
+     "nhom": "than-kinh"
+    },
+    {
+     "ten": "Có các hành động khác thường",
+     "nhom": "than-kinh"
+    },
+    {
+     "ten": "Ăn uống ít hoặc nhiều",
+     "nhom": "tieu-hoa"
+    },
+    {
+     "ten": "Đại tiện nhiều",
+     "nhom": "tieu-hoa"
+    },
+    {
+     "ten": "Chất lưỡi nhợt",
+     "nhom": "luoi"
+    },
+    {
+     "ten": "Rêu mỏng bẩn",
+     "nhom": "luoi"
+    },
+    {
+     "ten": "Mạch tế sác",
+     "nhom": "mach"
+    }
+   ],
+   "loai_tru": [],
+   "phap_tri": "Tiêu tích lý tỳ.",
+   "bai_thuoc": [
+    {
+     "ten": "Phì nhi hoàn gia giảm",
+     "loai": "co_phuong",
+     "trang": 107,
+     "thanh_phan": [
+      {
+       "ten": "Hoàng liên",
+       "lieu_g": 40
+      },
+      {
+       "ten": "Binh lang",
+       "lieu_g": 32
+      },
+      {
+       "ten": "Mạch nha",
+       "lieu_g": 20
+      },
+      {
+       "ten": "Mộc hương",
+       "lieu_g": 20
+      },
+      {
+       "ten": "Thần khúc",
+       "lieu_g": 40
+      },
+      {
+       "ten": "Sử quân tử",
+       "lieu_g": 20
+      },
+      {
+       "ten": "Đảng sâm",
+       "lieu_g": 40
+      },
+      {
+       "ten": "Cam thảo",
+       "lieu_g": 20
+      },
+      {
+       "ten": "Bạch linh",
+       "lieu_g": 32
+      },
+      {
+       "ten": "Bạch truật",
+       "lieu_g": 32
+      },
+      {
+       "ten": "Sơn tra",
+       "lieu_g": 16
+      }
+     ],
+     "cach_dung": "Tán mịn, hoàn với mật lợn tươi, mỗi viên 3g. Uống lúc đói 1 viên/lần x 2 lần/ngày. Trẻ em dưới 3 tuổi giảm liều cho thích hợp. Dưới 1 tuổi không dùng. Có thể dùng dạng thuốc thang sắc uống ngày 1 thang với liều thích hợp theo chỉ định của bác sĩ điều trị.",
+     "gia_giam": [
+      "Bụng chướng đau nhiều gia Mộc hương 4g, Trần bì 4g.",
+      "Phiền nhiễu không yên thêm Chi tử 6g, Liên tâm 4g.",
+      "Đại tiện táo kết thêm Ma nhân 10g.",
+      "Khát nước uống nhiều, mau đói gia Thạch hộc 8g, Thiên hoa phấn12g.",
+      "Bụng căng cứng, thể trạng thực gia Lai phục tử 12g.",
+      "Buồn nôn, nôn gia Trúc nhự 6g, Bán hạ chế 4g.",
+      "Có tiết tả gia Hoài sơn 8g, Bạch biển đậu 12g để kiện tỳ ích khí; đại tiện phân sống gia Bào khương 2g, Thảo quả 4g.",
+      "Chất lưỡi đỏ, ít rêu, miệng khát bỏ Hoàng liên, gia Sinh địa 6g. Mạch môn 12g, Thạch hộc 6g."
+     ],
+     "giong_the": null
+    }
+   ]
+  },
+  {
+   "ten": "Can cam (Khí huyết hư)",
+   "mo_ta": null,
+   "trang": 108,
+   "trieu_chung": [
+    {
+     "ten": "Người tiêu gầy",
+     "nhom": "toan-than"
+    },
+    {
+     "ten": "Vẻ mặt cụ già",
+     "nhom": "toan-than"
+    },
+    {
+     "ten": "Da khô",
+     "nhom": "da"
+    },
+    {
+     "ten": "Cơ teo",
+     "nhom": "toan-than"
+    },
+    {
+     "ten": "Da bọc xương",
+     "nhom": "toan-than"
+    },
+    {
+     "ten": "Tinh thần mệt mỏi",
+     "nhom": "toan-than"
+    },
+    {
+     "ten": "Mắt mờ hoặc có màng",
+     "nhom": "dau-mat"
+    },
+    {
+     "ten": "Tiếng khóc nhỏ yếu",
+     "nhom": "phu-nu-tre-em"
+    },
+    {
+     "ten": "Lông tóc khô",
+     "nhom": "toan-than"
+    },
+    {
+     "ten": "Bụng lõm lòng thuyền",
+     "nhom": "tieu-hoa"
+    },
+    {
+     "ten": "Ngửi không muốn ăn",
+     "nhom": "tieu-hoa"
+    },
+    {
+     "ten": "Đại tiện nát hoặc phân khuôn bé",
+     "nhom": "tieu-hoa"
+    },
+    {
+     "ten": "Có lúc hạ thân nhiệt",
+     "nhom": "han-nhiet"
+    },
+    {
+     "ten": "Miệng khô",
+     "nhom": "dau-mat"
+    },
+    {
+     "ten": "Chất lưỡi hồng",
+     "nhom": "luoi"
+    },
+    {
+     "ten": "Rêu lưỡi mỏng",
+     "nhom": "luoi"
+    },
+    {
+     "ten": "Mạch trầm tế",
+     "nhom": "mach"
+    }
+   ],
+   "loai_tru": [],
+   "phap_tri": "Bổ ích khí huyết.",
+   "bai_thuoc": [
+    {
+     "ten": "Bát trân thang gia giảm",
+     "loai": "co_phuong",
+     "trang": 108,
+     "thanh_phan": [
+      {
+       "ten": "Đảng sâm",
+       "lieu_g": 16
+      },
+      {
+       "ten": "Hoàng kỳ",
+       "lieu_g": 16
+      },
+      {
+       "ten": "Phục linh",
+       "lieu_g": 8
+      },
+      {
+       "ten": "Cam thảo",
+       "lieu_g": 6
+      },
+      {
+       "ten": "Đương quy",
+       "lieu_g": 8
+      },
+      {
+       "ten": "Bạch thược",
+       "lieu_g": 8
+      },
+      {
+       "ten": "Trần bì",
+       "lieu_g": 6
+      },
+      {
+       "ten": "Bạch biển đậu",
+       "lieu_g": 12
+      },
+      {
+       "ten": "Bạch truật",
+       "lieu_g": 12
+      },
+      {
+       "ten": "Thục địa",
+       "lieu_g": 12
+      },
+      {
+       "ten": "Xuyên khung",
+       "lieu_g": 6
+      },
+      {
+       "ten": "Sa nhân",
+       "lieu_g": 4
+      }
+     ],
+     "cach_dung": null,
+     "gia_giam": [
+      "Chân tay lạnh, đại tiện nát bỏ Thục địa, Đương qui; thêm Nhục quế 2g, Bào khương 2g.",
+      "Đêm ngủ không yên thêm Ngũ vị tử 6g, Dạ giao đằng12g.",
+      "Mặt tối, chất lưỡi nhạt bỏ Bạch thược, gia Bào khương 2g.",
+      "Chất lưỡi đỏ khô, rêu lưỡi sáng gia Ô mai 4g, Thạch hộc 6g."
+     ],
+     "giong_the": null
+    },
+    {
+     "ten": "Bột cam cóc",
+     "loai": "nghiem_phuong",
+     "trang": 108,
+     "thanh_phan": [
+      {
+       "ten": "Bột cóc",
+       "lieu_g": null,
+       "lieu_text": "10 phần"
+      },
+      {
+       "ten": "Bột chuối",
+       "lieu_g": null,
+       "lieu_text": "14 phần"
+      },
+      {
+       "ten": "Lòng đỏ trứng gà",
+       "lieu_g": null,
+       "lieu_text": "2 phần"
+      }
+     ],
+     "cach_dung": "Cách chế: Bột cóc chế bằng con cóc sống to, (da đen hoặc vàng đều dùng được, trong dân gian thường dùng loại cóc mắt đỏ) chặt bỏ đầu phía dưới 2 u ở đầu, rồi lọc bỏ da và phủ tạng nhất là trứng cóc, rửa thật sạch tránh dính nhựa cóc, rồi cho vào chảo gang rang cho khô ròn rồi tán bột. Lòng đỏ trứng gà hấp chín sấy khô tán bột. Chuối bỏ vỏ xẻ dọc sấy cho vừa dẻo nhuyễn. Cả 3 thứ trộn đều làm viên 4g/viên, ngày uống 2 lần, mỗi lần 2 viên, dùng liền trong 2-3 tháng.",
+     "gia_giam": [],
+     "giong_the": null
+    }
+   ]
+  }
+ ],
+ "ghi_chu_trich": [
+  "Tr.104/109: dấu hiệu nguy hiểm lấy từ mô tả SDD nặng (tr.104) và câu 'Những trường hợp SDD nặng có biến chứng nên chuyển đến cơ sở YHHĐ để điều trị' + mục phát hiện sớm nhiễm trùng, hạ đường huyết, hạ thân nhiệt, rối loạn nước - điện giải (tr.109; hạ đường huyết không tự nhận biết được nên không ghi).",
+  "Tr.105: mạch thể Cam khí 'Mạch tế hoặc chỉ văn nhợt' — tách 'Mạch tế' và 'Chỉ văn nhợt', cả hai xếp nhóm mach.",
+  "Tr.106: mục 'Đối pháp lập phương' của thể Cam khí lại CÓ danh sách vị kèm liều (Bạch truật 12g, Ý dĩ 10g, Bạch linh 12g, Sa nhân 04g, Hoài sơn 12g, Mạch nha 12g, Liên nhục 12g, Cam thảo 06g, Bạch biển đậu 12g; sắc uống ngày 1 thang, chia 2 lần) — theo hướng dẫn bỏ qua ĐPLP nên KHÔNG đưa vào bai_thuoc; điều phối viên quyết định có thêm hay không.",
+  "Tr.106: 'Tư sinh kiện tỳ hoàn gia giảm' được văn bản xếp vào mục 'Nghiệm phương' — loai nghiem_phuong dù có tên.",
+  "Tr.106: phần 'Gia giảm' đứng sau Tư sinh kiện tỳ hoàn, không nói rõ áp dụng cho bài nào — gắn vào bài liền trước (Tư sinh kiện tỳ hoàn) theo vị trí.",
+  "Tr.107–108: Phì nhi hoàn gia giảm bắt đầu tr.107, gia giảm ở tr.108. Vị 'Binh lang' chép nguyên chữ in.",
+  "Tr.108: gia giảm in dính 'Thiên hoa phấn12g', 'Dạ giao đằng12g' và dấu chấm thay dấu phẩy 'Sinh địa 6g. Mạch môn 12g' — chép nguyên văn.",
+  "Tr.108: Bát trân thang gia giảm thể Can cam không ghi cách dùng — cach_dung null.",
+  "Tr.108–109: Bột cam cóc (nghiệm phương của Lương y Nguyễn Trọng Tấn, theo Đỗ Tất Lợi) tính theo 'phần' — lieu_g null; cách chế/cách dùng kéo sang tr.109.",
+  "Tr.109: món ăn dược thiện cho bà mẹ mang thai (trứng gà chưng lá ngải, chè hạt sen) thuộc phần phòng bệnh — bỏ qua.",
+  "Tr.106: danh sách vị dưới mục 'Đối pháp lập phương' của thể Cam khí được thêm (main session) với loai doi_phap_lap_phuong."
+ ]
+}

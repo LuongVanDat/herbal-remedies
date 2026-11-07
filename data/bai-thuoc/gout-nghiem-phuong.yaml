@@ -1,0 +1,37 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: gout-nghiem-phuong
+ten: Bài dùng ngoài — Gout, thể Phong thấp nhiệt
+loai: dung_ngoai
+thanh_phan:
+  - vi: ma-tien
+    ten_trong_bai: Hạt mã tiền
+    lieu_g: 20
+    vai_tro: null
+  - vi: ban-ha
+    ten_trong_bai: Sinh Bán hạ
+    lieu_g: 20
+    vai_tro: null
+  - vi: ngai-cuu
+    ten_trong_bai: Ngải diệp
+    lieu_g: 20
+    vai_tro: null
+  - vi: hong-hoa
+    lieu_g: 15
+    vai_tro: null
+  - vi: vuong-bat-luu-hanh
+    lieu_g: 40
+    vai_tro: null
+  - vi: dai-hoang
+    lieu_g: 30
+    vai_tro: null
+  - vi: hanh-tuoi
+    ten_trong_bai: Hành tươi cả rễ
+    lieu_g: null
+    lieu_text: 3 củ
+    vai_tro: null
+cach_dung: Đun lấy 2 lít nước xông ngâm vùng khớp đau ngày 1-2 lần, 7 ngày/liệu trình (Trung y đương đại chẩn trị bệnh phong thấp).
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 23
+  trang_thai: chua_doi_chieu

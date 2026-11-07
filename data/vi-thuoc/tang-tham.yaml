@@ -1,0 +1,19 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: tang-tham
+ten: Tang thầm
+ten_khac:
+  - quả dâu
+ten_khoa_hoc: Fructus Mori albae
+ten_cay: Morus alba L. - Moraceae
+bo_phan_dung: Quả
+nguon_goc: ca_hai
+lieu_dung: null
+doc_tinh:
+  muc: chua_ro
+  canh_bao: null
+pho_bien: null
+thay_the: []
+nguon:
+  ma: qd-5013
+  trang: 162
+  trang_thai: chua_doi_chieu

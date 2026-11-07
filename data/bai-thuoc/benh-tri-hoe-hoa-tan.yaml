@@ -1,0 +1,27 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: benh-tri-hoe-hoa-tan
+ten: Hòe hoa tán
+loai: co_phuong
+thanh_phan:
+  - vi: hoe-hoa
+    ten_trong_bai: Hòe hoa sao vàng
+    lieu_g: 12
+    vai_tro: null
+  - vi: kinh-gioi
+    ten_trong_bai: Kinh giới tuệ sao đen
+    lieu_g: 12
+    vai_tro: null
+  - vi: trac-bach-diep
+    ten_trong_bai: Trắc bá diệp sao cháy
+    lieu_g: 12
+    vai_tro: null
+  - vi: chi-xac
+    ten_trong_bai: Chỉ xác sao
+    lieu_g: 12
+    vai_tro: null
+cach_dung: Tán bột mịn, trộn đều. Mỗi lần uống 8-10g với nước sôi để nguội hoặc nước cơm.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 147
+  trang_thai: chua_doi_chieu

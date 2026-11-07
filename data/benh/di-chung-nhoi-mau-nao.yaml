@@ -1,0 +1,86 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: di-chung-nhoi-mau-nao
+ten: Di chứng nhồi máu não (Bán thân bất toại)
+ten_khac:
+  - Bán thân bất toại
+  - di chứng tai biến mạch máu não
+dau_hieu_nguy_hiem:
+  - id: nh-di-chung-nhoi-mau-nao-1
+    ten: Đang trong giai đoạn cấp, dấu hiệu sinh tồn chưa ổn định (chỉ bắt đầu điều trị YHCT khi đã qua giai đoạn cấp, dấu hiệu sinh tồn ổn định)
+the_benh:
+  - id: can-than-am-hu
+    ten: Can thận âm hư
+    mo_ta: Thường gặp ở người có thể trạng gầy, người cao tuổi, tăng huyết áp và có xơ vữa mạch.
+    trieu_chung:
+      chinh:
+        - chan-tay-cung-do-co-quap
+        - dau-dau
+        - u-tai
+        - chat-luoi-do
+        - khong-reu-hoac-reu-vang-kho
+        - mach-huyen-sac
+      phu:
+        - ban-than-bat-toai-yeu-liet-nua-nguoi
+        - noi-ngong
+        - mieng-meo
+        - hoa-mat-chong-mat
+    loai_tru: []
+    phap_tri: Tư âm tiềm dương, trấn hỏa tức phong.
+    bai_thuoc:
+      - di-chung-nhoi-mau-nao-luc-vi-dia-hoang-hoan-tieu-nhi-duoc-chung-truc-quyet
+      - di-chung-nhoi-mau-nao-dai-dinh-phong-chau-on-benh-dieu-bien
+      - di-chung-nhoi-mau-nao-nghiem-phuong
+    nguon:
+      ma: qd-5013
+      trang: 80
+      trang_thai: chua_doi_chieu
+  - id: phong-dam
+    ten: Phong đàm
+    mo_ta: Thường gặp ở những người tăng huyết áp, béo phì, cholesterol máu cao.
+    trieu_chung:
+      chinh:
+        - ban-than-bat-toai-liet-nua-nguoi
+        - chan-tay-te-dai
+        - nang-ne-kho-cu-dong
+        - nang-dau
+        - luoi-beu-dinh-nhot
+        - reu-trang-day
+        - mach-huyen-hoat-hoac-phu-hoat
+      phu:
+        - mieng-meo
+        - noi-ngong
+        - hoa-mat-chong-mat
+    loai_tru: []
+    phap_tri: Kiện tỳ, trừ đàm thông lạc.
+    bai_thuoc:
+      - di-chung-nhoi-mau-nao-dao-dam-thang-te-sinh-phuong
+      - di-chung-nhoi-mau-nao-ban-ha-bach-truat-thien-ma-thang-y-hoc-tam-ngo
+      - di-chung-nhoi-mau-nao-nghiem-phuong-phong-dam
+    nguon:
+      ma: qd-5013
+      trang: 82
+      trang_thai: chua_doi_chieu
+  - id: khi-hu-huyet-u
+    ten: Khí hư huyết ứ
+    mo_ta: Thường gặp ở người bệnh có bệnh lý tim mạch, xơ vữa động mạch.
+    trieu_chung:
+      chinh:
+        - chan-tay-minh-may-mem-vo-luc
+        - te-bi
+        - noi-kho
+        - sac-mat-khong-tuoi-nhuan
+        - luoi-tim-co-diem-u-huyet
+        - mach-te-sap-hoac-hu-nhuoc
+      phu:
+        - ban-than-bat-toai-yeu-liet-nua-nguoi
+        - noi-ngong
+        - mieng-meo
+    loai_tru: []
+    phap_tri: Ích khí hoạt huyết thông lạc.
+    bai_thuoc:
+      - di-chung-nhoi-mau-nao-bo-duong-hoan-ngu-thang
+      - di-chung-nhoi-mau-nao-nghiem-phuong-khi-hu-huyet-u
+    nguon:
+      ma: qd-5013
+      trang: 84
+      trang_thai: chua_doi_chieu

@@ -1,0 +1,96 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: liet-day-than-kinh-mat
+ten: Bệnh dây thần kinh mặt (Khẩu nhãn oa tà)
+ten_khac:
+  - Khẩu nhãn oa tà
+  - liệt dây thần kinh VII ngoại biên
+  - liệt mặt
+  - trúng phong kinh lạc
+dau_hieu_nguy_hiem:
+  - id: nh-liet-day-than-kinh-mat-1
+    ten: Liệt ngày càng nặng, sau điều trị đến ngày thứ 21 vẫn không thấy dấu hiệu hồi phục
+  - id: nh-liet-day-than-kinh-mat-2
+    ten: Liệt mặt do viêm tai cấp hoặc mạn tính, điều trị 4 - 5 tuần không phục hồi
+  - id: nh-liet-day-than-kinh-mat-3
+    ten: Liệt mặt sau mổ tai
+  - id: nh-liet-day-than-kinh-mat-4
+    ten: Liệt mặt do khối u
+  - id: nh-liet-day-than-kinh-mat-5
+    ten: Có nhiễm khuẩn hoặc bị zona
+the_benh:
+  - id: phong-han-o-kinh-lac
+    ten: Phong hàn ở kinh lạc
+    mo_ta: Thường gặp trong liệt dây thần kinh VII do lạnh.
+    trieu_chung:
+      chinh:
+        - sau-khi-bi-lanh-xuat-hien-mieng-meo
+        - so-lanh
+        - gai-ret
+        - reu-luoi-trang-mong
+        - mach-phu-khan
+      phu:
+        - mat-nham-khong-kin
+        - kho-thoi-lua-huyt-sao
+        - an-uong-nuoc-trao-ra-ben-liet
+        - nhan-trung-lech-ve-ben-lanh
+        - nep-nhan-tran-va-ranh-mui-ma-mo-hoac-mat-ben
+        - so-gio
+    loai_tru: []
+    phap_tri: Khu phong tán hàn, ôn kinh hoạt lạc.
+    bai_thuoc:
+      - liet-day-than-kinh-mat-dai-tan-giao-thang
+      - liet-day-than-kinh-mat-nghiem-phuong
+    nguon:
+      ma: qd-5013
+      trang: 60
+      trang_thai: chua_doi_chieu
+  - id: phong-nhiet
+    ten: Phong nhiệt
+    mo_ta: Thường gặp trong liệt dây thần kinh VII do viêm nhiễm.
+    trieu_chung:
+      chinh:
+        - mieng-meo
+        - sot
+        - tieu-tien-vang
+        - dai-tien-tao
+        - chat-luoi-do
+        - reu-luoi-vang
+        - mach-phu-sac
+      phu:
+        - mat-nham-khong-kin
+        - kho-thoi-lua-huyt-sao
+        - an-uong-nuoc-trao-ra-ben-liet
+        - nhan-trung-lech-ve-ben-lanh
+        - nep-nhan-tran-va-ranh-mui-ma-mo-hoac-mat-ben
+        - so-gio
+    loai_tru: []
+    phap_tri: Khu phong, thanh nhiệt, hoạt huyết.
+    bai_thuoc:
+      - liet-day-than-kinh-mat-nghiem-phuong-phong-nhiet
+    nguon:
+      ma: qd-5013
+      trang: 61
+      trang_thai: chua_doi_chieu
+  - id: huyet-u
+    ten: Huyết ứ
+    mo_ta: Thường gặp trong liệt dây thần kinh VII do chấn thương như sau ngã, sau phẫu thuật vùng tai, vùng xương chẩm, nhổ răng hoặc khối u.
+    trieu_chung:
+      chinh:
+        - sau-sang-chan-xuat-hien-mieng-meo
+        - luoi-co-diem-u-huyet
+        - mach-sap
+      phu:
+        - mat-nham-khong-kin
+        - kho-thoi-lua-huyt-sao
+        - an-uong-nuoc-trao-ra-ben-liet
+        - nhan-trung-lech-ve-ben-lanh
+        - nep-nhan-tran-va-ranh-mui-ma-mo-hoac-mat-ben
+    loai_tru: []
+    phap_tri: Hoạt huyết, tiêu ứ, hành khí.
+    bai_thuoc:
+      - liet-day-than-kinh-mat-tu-vat-dao-hong
+      - liet-day-than-kinh-mat-nghiem-phuong-huyet-u
+    nguon:
+      ma: qd-5013
+      trang: 62
+      trang_thai: chua_doi_chieu

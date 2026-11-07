@@ -1,0 +1,117 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: hoi-chung-co-vai-canh-tay
+ten: Hội chứng cổ vai cánh tay (Chứng tý)
+ten_khac:
+  - Chứng tý
+  - hội chứng vai cánh tay
+  - bệnh lý rễ tủy cổ
+dau_hieu_nguy_hiem:
+  - id: nh-hoi-chung-co-vai-canh-tay-1
+    ten: Đau nhiều, điều trị nội khoa ít có kết quả hoặc không có hiệu quả
+  - id: nh-hoi-chung-co-vai-canh-tay-2
+    ten: Có tổn thương thần kinh nặng và tiến triển, có chèn ép tủy cổ
+the_benh:
+  - id: phong-han
+    ten: Phong hàn
+    trieu_chung:
+      chinh:
+        - co-diem-dau-co-dinh-o-co
+        - co-the-so-thay-co-co-o-co-vai-gay
+        - cung-co
+        - han-che-van-dong
+        - dau-te-nhuc-tu-chi
+        - co-the-co-cam-giac-nang-va-yeu-hai-chi-tren
+        - dau-nang-dau
+        - thich-am
+        - so-lanh
+        - luoi-nhot
+        - reu-trang-mong
+        - mach-phu-hoan-hoac-sap
+      phu:
+        - dau-nhuc-vung-dau-co-vai-va-nguc-lung
+    loai_tru: []
+    phap_tri: Trừ phong tán hàn, thông kinh hoạt lạc.
+    bai_thuoc:
+      - hoi-chung-co-vai-canh-tay-que-chi-gia-cat-can-thang
+      - hoi-chung-co-vai-canh-tay-nghiem-phuong
+    nguon:
+      ma: qd-5013
+      trang: 37
+      trang_thai: chua_doi_chieu
+  - id: phong-thap-nhiet-ty
+    ten: Phong thấp nhiệt tý
+    trieu_chung:
+      chinh:
+        - vung-co-gay-sung-nong-do
+        - dau-dau
+        - chong-mat
+        - sot-cao
+        - khat-nuoc
+        - nuoc-tieu-do
+        - dai-tien-tao
+        - chat-luoi-do
+        - reu-luoi-vang
+        - mach-hoat-sac
+      phu:
+        - dau-nhuc-vung-dau-co-vai-va-nguc-lung
+    loai_tru: []
+    phap_tri: Thanh nhiệt giải độc, khu phong, trừ thấp, thông lạc.
+    bai_thuoc:
+      - hoi-chung-co-vai-canh-tay-bach-ho-gia-que-chi-thang
+      - hoi-chung-co-vai-canh-tay-que-chi-thuoc-duoc-tri-mau-thang
+      - hoi-chung-co-vai-canh-tay-nghiem-phuong-phong-thap-nhiet-ty
+    nguon:
+      ma: qd-5013
+      trang: 39
+      trang_thai: chua_doi_chieu
+  - id: huyet-u
+    ten: Huyết ứ
+    mo_ta: Thể huyết ứ thường ít xuất hiện đơn thuần mà kết hợp với các thể lâm sàng khác của chứng Tý vùng vai gáy.
+    trieu_chung:
+      chinh:
+        - dau-nhuc-te-vung-dau-co-vai-va-nguc-lung
+        - te-dau-nhoi-co-dinh
+        - dau-tang-ve-dem-ban-ngay-do-dau
+        - dau-cu-an
+        - co-cung-co-tai-cho
+        - kich-thich-kho-chiu
+        - mieng-kho
+        - luoi-tim
+        - co-the-co-diem-u-huyet
+        - mach-huyen-hoac-sap
+      phu: []
+    loai_tru: []
+    phap_tri: Hoạt huyết hóa ứ, thông kinh hoạt lạc chỉ thống.
+    bai_thuoc:
+      - hoi-chung-co-vai-canh-tay-dao-hong-am
+      - hoi-chung-co-vai-canh-tay-nghiem-phuong-huyet-u
+    nguon:
+      ma: qd-5013
+      trang: 40
+      trang_thai: chua_doi_chieu
+  - id: can-than-hu
+    ten: Can thận hư
+    trieu_chung:
+      chinh:
+        - dau-nhuc-vai-gay-va-nguc-lung
+        - dau-cang-dau
+        - te-bi-tay
+        - dau-moi-lung-goi
+        - hoa-mat-chong-mat
+        - nhin-mo
+        - trieu-nhiet
+        - ra-mo-hoi-trom
+        - mieng-hong-kho
+        - luoi-do-it-reu
+        - mach-te-sac
+      phu: []
+    loai_tru: []
+    phap_tri: Tư dưỡng can thận, hoạt huyết thông kinh lạc.
+    bai_thuoc:
+      - hoi-chung-co-vai-canh-tay-quyen-ty-thang
+      - hoi-chung-co-vai-canh-tay-ho-tiem-hoan
+      - hoi-chung-co-vai-canh-tay-nghiem-phuong-can-than-hu
+    nguon:
+      ma: qd-5013
+      trang: 41
+      trang_thai: chua_doi_chieu

@@ -1,0 +1,51 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: bai-nao-tre-em-thong-khieu-hoat-huyet-thang-ket-hop-nhi-tran-thang-gia-giam
+ten: Thông khiếu hoạt huyết thang kết hợp Nhị trần thang gia giảm
+loai: co_phuong
+thanh_phan:
+  - vi: xich-thuoc
+    lieu_g: 12
+    vai_tro: null
+  - vi: hong-hoa
+    lieu_g: 8
+    vai_tro: null
+  - vi: xuyen-khung
+    lieu_g: 6
+    vai_tro: null
+  - vi: sinh-khuong
+    lieu_g: 4
+    vai_tro: null
+  - vi: dao-nhan
+    lieu_g: 8
+    vai_tro: null
+  - vi: hanh-tuoi
+    ten_trong_bai: Thông bạch
+    lieu_g: null
+    lieu_text: 03 củ
+    vai_tro: null
+  - vi: dan-sam
+    lieu_g: 10
+    vai_tro: null
+  - vi: ban-ha
+    ten_trong_bai: Bán hạ chế
+    lieu_g: 8
+    vai_tro: null
+  - vi: bach-linh
+    lieu_g: 10
+    vai_tro: null
+  - vi: tran-bi
+    lieu_g: 6
+    vai_tro: null
+  - vi: cam-thao
+    lieu_g: 6
+    vai_tro: null
+cach_dung: Sắc uống ngày 1 thang, chia 2 lần.
+gia_giam:
+  - Gia Viễn chí 6g, Thạch xương bồ 06g để tăng sức khai khiếu; Uất kim 6 - 8g để tăng tác dụng hoạt huyết thông lạc.
+  - Tâm can hỏa vượng, kinh giật kêu khóc, gia Hoàng liên 10g, Long đởm thảo 10g.
+  - Đại tiện táo gia Đại hoàng 2g để thông phủ.
+  - Nhiệt cực sinh phong gây co giật, gia Quy bản 16g, Thiên ma 12g, Mẫu lệ 12g.
+nguon:
+  ma: qd-5013
+  trang: 93
+  trang_thai: chua_doi_chieu

@@ -1,0 +1,18 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: hoang-dang
+ten: Hoàng đằng
+ten_khac: []
+ten_khoa_hoc: Caulis et Radix Fibraureae
+ten_cay: Fibraurea tinctoria Lour. (Fibraurea recisa Pierre) - Menispemnaceae
+bo_phan_dung: Thân và rễ
+nguon_goc: ca_hai
+lieu_dung: null
+doc_tinh:
+  muc: chua_ro
+  canh_bao: null
+pho_bien: null
+thay_the: []
+nguon:
+  ma: qd-5013
+  trang: 157
+  trang_thai: chua_doi_chieu

@@ -1,0 +1,31 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: copd-nghiem-phuong-khi-tao
+ten: Bài thuốc Nam — Bệnh phổi tắc nghẽn mạn tính, thể Khí táo
+loai: thuoc_nam
+thanh_phan:
+  - vi: rau-ma
+    lieu_g: 20
+    vai_tro: null
+  - vi: tang-bach-bi
+    ten_trong_bai: Tang bạch bì (sao mật)
+    lieu_g: 16
+    vai_tro: null
+  - vi: la-chanh
+    lieu_g: 12
+    vai_tro: null
+  - vi: truc-diep
+    lieu_g: 12
+    vai_tro: null
+  - vi: cam-thao-day
+    lieu_g: 8
+    vai_tro: null
+  - vi: chi-tu
+    ten_trong_bai: Quả dành dành (sao vàng)
+    lieu_g: 8
+    vai_tro: null
+cach_dung: Sắc uống ngày 01 thang, chia 2 lần.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 130
+  trang_thai: chua_doi_chieu

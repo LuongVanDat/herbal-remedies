@@ -3,17 +3,19 @@
  * (scripts/trich/danh-muc-vi.json) và danh mục dược liệu độc TT 13/2024 (scripts/trich/duoc-lieu-doc.json).
  *
  * Chạy: npx tsx scripts/trich/sinh-du-lieu.ts [thư mục json bệnh] [thư mục data] [file text QĐ 5013]
+ * File text: pdftotext -layout tai-lieu-goc/qd-5013-huong-dan-tap-1.pdf .superpowers/trich/full.txt
+ * (PDF tải từ cổng Sở Y tế Gia Lai — xem data/nguon.yaml).
  * In báo cáo: tên vị không khớp danh mục, liều không tìm thấy cạnh tên vị trên trang gốc.
  * Thoát mã 1 nếu còn vị không khớp (dữ liệu sẽ thiếu tham chiếu).
  */
 import { mkdirSync, readdirSync, readFileSync, rmSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
 import { stringify } from 'yaml'
-import { BI_DANH, VI_GOP } from './bi-danh-vi'
+import { BI_DANH, NGOAI_DANH_MUC, VI_GOP } from './bi-danh-vi'
 import { boPhanDung, chiaChinhPhu, slug, timVi, xacNhanLieu, type DongDanhMuc, type DongDoc } from './lib'
 import { boDau } from '../../src/search'
 
-const [dirJson = '.superpowers/trich/benh', dirData = 'data', fileText = '.superpowers/trich/full.txt'] = process.argv.slice(2)
+const [dirJson = 'scripts/trich/ban-trich', dirData = 'data', fileText = '.superpowers/trich/full.txt'] = process.argv.slice(2)
 const trangText = readFileSync(fileText, 'utf8').split('\f')
 const dm: DongDanhMuc[] = JSON.parse(readFileSync('scripts/trich/danh-muc-vi.json', 'utf8'))
 const docDs: DongDoc[] = JSON.parse(readFileSync('scripts/trich/duoc-lieu-doc.json', 'utf8')).ds
@@ -62,13 +64,27 @@ function maTrieuChung(t: TrieuChungJ): string {
 
 // ---- Vị thuốc ----
 const viDung = new Set<number>() // STT danh mục được dùng
-function maVi(d: DongDanhMuc): string {
-  const trung = dm.filter((x) => slug(x.ten) === slug(d.ten))
-  return trung.length > 1 && trung[0].stt !== d.stt ? slug(`${d.ten} ${d.ten_khac[0] ?? d.stt}`) : slug(d.ten)
+// Mã vị tính trước một lần (tên trùng → thêm tên khác/STT cho dòng sau).
+const MA_VI = new Map<number, string>()
+const TEN_THEO_MA = new Map<string, string>()
+for (const d of dm) {
+  let id = slug(d.ten)
+  if (TEN_THEO_MA.has(id)) id = slug(`${d.ten} ${d.ten_khac[0] ?? d.stt}`)
+  MA_VI.set(d.stt, id)
+  TEN_THEO_MA.set(id, d.ten)
 }
-function viCuaTen(tenIn: string, noi: string): string | null {
-  const gop = VI_GOP[boDau(tenIn.replace(/\([^)]*\)/g, ' '))]
+const maVi = (d: DongDanhMuc) => MA_VI.get(d.stt)!
+const NGOAI = Object.fromEntries(Object.entries(NGOAI_DANH_MUC).map(([k, v]) => [boDau(k), v]))
+const ngoaiDung = new Map<string, { ten: string; ten_khac?: string[]; trang: number }>()
+function viCuaTen(tenIn: string, noi: string, trang: number): string | null {
+  const khoa = boDau(tenIn.replace(/\([^)]*\)/g, ' ').replace(/\s*\((sao vàng|sao cháy)\)/g, ''))
+  const gop = VI_GOP[khoa]
   if (gop) return gop.id
+  const ng = NGOAI[khoa]
+  if (ng) {
+    if (!ngoaiDung.has(ng.id)) ngoaiDung.set(ng.id, { ten: ng.ten, ten_khac: ng.ten_khac, trang })
+    return ng.id
+  }
   const d = timVi(tenIn, dm, biDanh)
   if (!d) {
     khongKhop.set(tenIn, [...(khongKhop.get(tenIn) ?? []), noi])
@@ -90,6 +106,8 @@ for (const f of files) {
   const tcCacThe = b.the_benh.map((t) => [...new Set(t.trieu_chung.map(maTrieuChung))])
   const chia = chiaChinhPhu(tcCacThe)
   const baiCuaThe = new Map<string, string[]>()
+  const baiMeta = new Map<string, { tenJ: string | null; loai: string | null }>() // id → tên/loại trong bản trích
+  const moTaThem = new Map<string, string[]>()
   const noiDungBai = new Map<string, string>() // dấu vân tay nội dung → id (gộp bài trùng trong cùng bệnh)
 
   b.the_benh.forEach((t, i) => {
@@ -99,23 +117,23 @@ for (const f of files) {
       const dau = JSON.stringify([bj.ten, bj.loai, bj.thanh_phan, bj.cach_dung, bj.gia_giam])
       const daCo = noiDungBai.get(dau)
       if (daCo) { ids.push(daCo); continue }
-      const tenBai = bj.ten ?? `${bj.loai === 'dung_ngoai' ? 'Bài dùng ngoài' : 'Nghiệm phương'} — ${tenNgan}, thể ${t.ten}`
+      const tenBai = bj.ten ?? `${bj.loai === 'dung_ngoai' ? 'Bài dùng ngoài' : bj.loai === 'doi_phap_lap_phuong' ? 'Đối pháp lập phương' : bj.loai === 'thuoc_nam' ? 'Bài thuốc Nam' : 'Nghiệm phương'} — ${tenNgan}, thể ${t.ten}`
       let id = `${b.id}-${slug(bj.ten ?? 'nghiem-phuong')}`
       if (baiOut.has(id)) id = `${id}-${theIds[i]}`
       for (let k = 2; baiOut.has(id); k++) id = `${b.id}-${slug(bj.ten ?? 'nghiem-phuong')}-${theIds[i]}-${k}`
       const thanhPhan = bj.thanh_phan.map((tp) => {
-        const vi = viCuaTen(tp.ten, `${f} › ${t.ten} › ${tenBai}`)
+        const vi = viCuaTen(tp.ten, `${f} › ${t.ten} › ${tenBai}`, bj.trang)
         if (tp.lieu_g !== null) {
           const ok = [bj.trang, bj.trang + 1].some((p) => trangText[p - 1] && xacNhanLieu(trangText[p - 1], tp.ten, tp.lieu_g!))
           if (!ok) baoCao.push(`LIỀU? ${f} tr.${bj.trang} ${tenBai}: "${tp.ten} ${tp.lieu_g}g" không thấy trên trang`)
         }
-        const tenVi = vi && Object.values(VI_GOP).find((g) => g.id === vi)?.ten
-        const tenDm = vi && (tenVi ?? dm.find((d) => maVi(d) === vi)?.ten)
+        const tenVi = vi && (Object.values(VI_GOP).find((g) => g.id === vi)?.ten ?? ngoaiDung.get(vi)?.ten)
+        const tenDm = vi && (tenVi ?? TEN_THEO_MA.get(vi))
         return {
           vi: vi ?? 'khong-khop',
           ...(tenDm && tenDm !== tp.ten ? { ten_trong_bai: tp.ten } : {}),
           lieu_g: tp.lieu_g,
-          ...(tp.lieu_text ? { lieu_text: tp.lieu_text } : {}),
+          ...(tp.lieu_text ? { lieu_text: tp.lieu_text } : tp.lieu_g === null ? { lieu_text: 'Văn bản không ghi liều' } : {}),
           vai_tro: null,
         }
       })
@@ -125,15 +143,35 @@ for (const f of files) {
         cach_dung: bj.cach_dung ?? 'Văn bản không ghi cách dùng.', gia_giam: bj.gia_giam, nguon: NG(bj.trang),
       })
       noiDungBai.set(dau, id)
+      baiMeta.set(id, { tenJ: bj.ten, loai: bj.loai })
       ids.push(id)
     }
     baiCuaThe.set(t.ten, ids)
   })
-  // thể "giống thể X"
-  b.the_benh.forEach((t) => {
-    const giong = t.bai_thuoc.find((x) => x.giong_the)?.giong_the
-    if (giong) baiCuaThe.set(t.ten, [...(baiCuaThe.get(t.ten) ?? []), ...(baiCuaThe.get(giong) ?? [])])
-    if (giong && !baiCuaThe.has(giong)) baoCao.push(`GIỐNG THỂ? ${f} ${t.ten} → "${giong}" không có`)
+  // thể "giống thể X" — chỉ chép phần văn bản chỉ định:
+  //  có tên bài → đúng bài đó (kèm gia giảm → bài "gia giảm" riêng); loai nghiem_phuong → chỉ nghiệm phương;
+  //  loai co_phuong (quy ước "các bài uống trong") → bỏ bài dùng ngoài; loai null → tất cả.
+  b.the_benh.forEach((t, i) => {
+    for (const g of t.bai_thuoc.filter((x) => x.giong_the)) {
+      const nguon = baiCuaThe.get(g.giong_the!)
+      if (!nguon) { baoCao.push(`GIỐNG THỂ? ${f} ${t.ten} → "${g.giong_the}" không có`); continue }
+      let chon = nguon
+      if (g.ten) chon = nguon.filter((id) => slug(baiMeta.get(id)?.tenJ ?? '') === slug(g.ten!))
+      else if (g.loai === 'nghiem_phuong') chon = nguon.filter((id) => baiMeta.get(id)?.loai === 'nghiem_phuong')
+      else if (g.loai) chon = nguon.filter((id) => baiMeta.get(id)?.loai !== 'dung_ngoai')
+      if (!chon.length) baoCao.push(`GIỐNG THỂ RỖNG? ${f} ${t.ten} → "${g.giong_the}" (${g.ten ?? g.loai})`)
+      if (g.gia_giam.length && g.ten) {
+        for (const id of chon) {
+          const goc = baiOut.get(id)!
+          const moi = `${id}-gia-giam-${theIds[i]}`
+          baiOut.set(moi, { ...goc, id: moi, ten: `${goc.ten} (gia giảm, thể ${t.ten})`, gia_giam: g.gia_giam, nguon: NG(g.trang) })
+          baiCuaThe.set(t.ten, [...(baiCuaThe.get(t.ten) ?? []), moi])
+        }
+      } else {
+        baiCuaThe.set(t.ten, [...(baiCuaThe.get(t.ten) ?? []), ...chon])
+        if (g.gia_giam.length) moTaThem.set(t.ten, [...(moTaThem.get(t.ten) ?? []), ...g.gia_giam.map((x) => `Văn bản (tr.${g.trang}): ${x}`)])
+      }
+    }
   })
 
   benhOut.push({
@@ -144,7 +182,7 @@ for (const f of files) {
     the_benh: b.the_benh.map((t, i) => ({
       id: theIds[i],
       ten: t.ten,
-      ...(t.mo_ta ? { mo_ta: t.mo_ta } : {}),
+      ...(t.mo_ta || moTaThem.has(t.ten) ? { mo_ta: [t.mo_ta, ...(moTaThem.get(t.ten) ?? [])].filter(Boolean).join(' ') } : {}),
       trieu_chung: chia[i],
       loai_tru: [...new Set(t.loai_tru.map((l) => maTrieuChung({ ten: l.ten, nhom: 'khac' })))].filter(
         (id) => !tcCacThe[i].includes(id),
@@ -198,6 +236,14 @@ for (const g of Object.values(VI_GOP)) {
   })
 }
 
+for (const [id, v] of ngoaiDung) {
+  ghi(`vi-thuoc/${id}.yaml`, {
+    id, ten: v.ten, ten_khac: v.ten_khac ?? [],
+    lieu_dung: null, doc_tinh: { muc: 'chua_ro', canh_bao: null }, pho_bien: null, thay_the: [],
+    nguon: NG(v.trang), // trang văn bản đầu tiên dùng vị này (không có trong danh mục cuối tài liệu)
+  })
+}
+
 const nhomOut = NHOM.map(([id, ten]) => ({
   id, ten,
   trieu_chung: [...tcInfo].filter(([, v]) => v.nhom === id).map(([tid, v]) => ({ id: tid, ten: v.ten })),
@@ -206,7 +252,7 @@ ghi('trieu-chung.yaml', { nhom: nhomOut })
 
 // ---- Báo cáo ----
 const soBai = baiOut.size
-console.log(`${benhOut.length} bệnh, ${benhOut.reduce((s, b) => s + (b.the_benh as unknown[]).length, 0)} thể, ${soBai} bài, ${tcInfo.size} triệu chứng, ${dm.length + Object.keys(VI_GOP).length} vị (dùng ${viDung.size} vị trong danh mục)`)
+console.log(`${benhOut.length} bệnh, ${benhOut.reduce((s, b) => s + (b.the_benh as unknown[]).length, 0)} thể, ${soBai} bài, ${tcInfo.size} triệu chứng, ${dm.length + new Set(Object.values(VI_GOP).map((g) => g.id)).size + ngoaiDung.size} vị (dùng ${viDung.size} vị trong danh mục)`)
 for (const [ten, noi] of khongKhop) console.log(`KHÔNG KHỚP VỊ: "${ten}" (${noi.length} lần, vd ${noi[0]})`)
 writeFileSync('.superpowers/trich/bao-cao.txt', baoCao.join('\n') + '\n')
 console.log(`${baoCao.filter((x) => x.startsWith('LIỀU?')).length} liều cần xem; báo cáo đầy đủ: .superpowers/trich/bao-cao.txt`)

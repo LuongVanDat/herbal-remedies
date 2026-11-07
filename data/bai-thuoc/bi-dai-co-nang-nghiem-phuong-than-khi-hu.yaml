@@ -1,0 +1,20 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: bi-dai-co-nang-nghiem-phuong-than-khi-hu
+ten: Nghiệm phương — Bí đái cơ năng, thể Thận khí hư
+loai: nghiem_phuong
+thanh_phan:
+  - vi: hanh-tuoi
+    ten_trong_bai: Thông bạch
+    lieu_g: 30
+    vai_tro: null
+  - vi: sinh-khuong
+    ten_trong_bai: gừng
+    lieu_g: 12
+    vai_tro: null
+cach_dung: "Sắc từ 2 đến 3 lít nước uống. Công dụng: thông dương, ích khí, tán kết, lợi niệu... trị chứng bí tiểu, tiểu đục, tiểu dắt, dương khí hư chân tay lạnh."
+gia_giam:
+  - Nếu đau lưng gia ngũ gia bì, đỗ trọng 20g.
+nguon:
+  ma: qd-5013
+  trang: 144
+  trang_thai: chua_doi_chieu

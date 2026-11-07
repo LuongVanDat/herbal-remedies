@@ -1,0 +1,190 @@
+{
+  "so": 16,
+  "id": "viem-gan-virus-man",
+  "ten": "Viêm gan virus mạn (Hiếp thống)",
+  "ten_khac": ["Hiếp thống", "viêm gan mạn", "viêm gan vi rút B mạn tính"],
+  "trang_dau": 119,
+  "trang_cuoi": 124,
+  "dau_hieu_nguy_hiem": [],
+  "the_benh": [
+    {
+      "ten": "Khí ngưng",
+      "mo_ta": null,
+      "trang": 120,
+      "trieu_chung": [
+        { "ten": "Đau tức nặng ở vùng hạ sườn phải", "nhom": "vi-tri-dau" },
+        { "ten": "Mỗi khi tinh thần bị kích động, tức giận thì cảm giác đau tức lại tăng lên", "nhom": "vi-tri-dau" },
+        { "ten": "Ăn uống kém", "nhom": "tieu-hoa" },
+        { "ten": "Miệng đắng", "nhom": "dau-mat" },
+        { "ten": "Người mệt mỏi", "nhom": "toan-than" },
+        { "ten": "Khi gắng sức thì nước tiểu vàng", "nhom": "tieu-tien" },
+        { "ten": "Chất lưỡi bình thường", "nhom": "luoi" },
+        { "ten": "Rêu lưỡi trắng mỏng", "nhom": "luoi" },
+        { "ten": "Mạch huyền", "nhom": "mach" }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Sơ can lý khí.",
+      "bai_thuoc": [
+        {
+          "ten": "Sài hồ sơ can thang", "loai": "co_phuong", "trang": 120,
+          "thanh_phan": [
+            { "ten": "Sài hồ", "lieu_g": 12 }, { "ten": "Cam thảo", "lieu_g": 6 },
+            { "ten": "Bạch thược", "lieu_g": 16 }, { "ten": "Xuyên khung", "lieu_g": 8 },
+            { "ten": "Chỉ xác", "lieu_g": 12 }, { "ten": "Hương phụ", "lieu_g": 12 },
+            { "ten": "Trần bì", "lieu_g": 6 }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.", "gia_giam": [], "giong_the": null
+        },
+        {
+          "ten": null, "loai": "nghiem_phuong", "trang": 121,
+          "thanh_phan": [
+            { "ten": "Rau má", "lieu_g": 12 }, { "ten": "Uất kim", "lieu_g": 8 },
+            { "ten": "Mướp đắng", "lieu_g": 12 }, { "ten": "Hậu phác", "lieu_g": 8 },
+            { "ten": "Thanh bì", "lieu_g": 8 }, { "ten": "Ý dĩ", "lieu_g": 16 },
+            { "ten": "Chỉ thực", "lieu_g": 8 }, { "ten": "Hoài sơn", "lieu_g": 16 },
+            { "ten": "Bạch biển đậu", "lieu_g": 12 }, { "ten": "Đinh lăng", "lieu_g": 16 }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.", "gia_giam": [], "giong_the": null
+        },
+        {
+          "ten": "Siro nhân trần", "loai": "nghiem_phuong", "trang": 121,
+          "thanh_phan": [
+            { "ten": "Nhân trần", "lieu_g": 24 }, { "ten": "Chi tử", "lieu_g": 12 }
+          ],
+          "cach_dung": "Thêm 600ml nước, sắc còn 100ml thêm đường vào cho đủ thành siro. Chia 3 lần uống trong ngày.", "gia_giam": [], "giong_the": null
+        },
+        {
+          "ten": null, "loai": "nghiem_phuong", "trang": 121,
+          "thanh_phan": [
+            { "ten": "Nhân trần", "lieu_g": 30 }, { "ten": "Vỏ cây đại (sao vàng)", "lieu_g": 10 },
+            { "ten": "Chi tử", "lieu_g": 12 }
+          ],
+          "cach_dung": "Thêm 600ml nước, sắc còn 200ml (sắc 2 nước). Uống chia 2 lần.", "gia_giam": [], "giong_the": null
+        },
+        {
+          "ten": null, "loai": "nghiem_phuong", "trang": 121,
+          "thanh_phan": [
+            { "ten": "Nhân trần", "lieu_g": 40 }, { "ten": "Khương hoàng", "lieu_g": 30 },
+            { "ten": "Cam thảo đất", "lieu_g": 20 }
+          ],
+          "cach_dung": "Thêm 500ml nước, sắc còn 200ml. Uống chia 2 lần.", "gia_giam": [], "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Huyết ứ",
+      "mo_ta": null,
+      "trang": 121,
+      "trieu_chung": [
+        { "ten": "Vùng hạ sườn phải có cảm giác đau như kim châm", "nhom": "vi-tri-dau" },
+        { "ten": "Chỗ đau thường cố định, không di chuyển", "nhom": "vi-tri-dau" },
+        { "ten": "Về đêm thường đau tăng lên", "nhom": "vi-tri-dau" },
+        { "ten": "Đôi khi có thể sờ thấy một khối rắn ở vùng hạ sườn phải", "nhom": "khac" },
+        { "ten": "Chất lưỡi tím sẫm", "nhom": "luoi" },
+        { "ten": "Mạch trầm sáp", "nhom": "mach" }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Hoạt huyết khứ ứ.",
+      "bai_thuoc": [
+        {
+          "ten": "Huyết phủ trục ứ thang", "loai": "co_phuong", "trang": 121,
+          "thanh_phan": [
+            { "ten": "Đương qui", "lieu_g": 16 }, { "ten": "Hồng hoa", "lieu_g": 8 },
+            { "ten": "Sài hồ", "lieu_g": 10 }, { "ten": "Sinh địa", "lieu_g": 12 },
+            { "ten": "Chỉ xác", "lieu_g": 10 }, { "ten": "Cam thảo", "lieu_g": 6 },
+            { "ten": "Đào nhân", "lieu_g": 8 }, { "ten": "Xích thược", "lieu_g": 12 },
+            { "ten": "Cát cánh", "lieu_g": 10 }, { "ten": "Xuyên khung", "lieu_g": 8 },
+            { "ten": "Ngưu tất", "lieu_g": 12 }
+          ],
+          "cach_dung": "Tất cả làm thang sắc uống ngày 1 thang, chia 2 lần.", "gia_giam": [], "giong_the": null
+        },
+        {
+          "ten": null, "loai": "nghiem_phuong", "trang": 122,
+          "thanh_phan": [], "cach_dung": "Nghiệm phương: tương tự thể Khí ngưng.", "gia_giam": [], "giong_the": "Khí ngưng"
+        }
+      ]
+    },
+    {
+      "ten": "Can đởm thấp nhiệt",
+      "mo_ta": null,
+      "trang": 122,
+      "trieu_chung": [
+        { "ten": "Đau tức vùng mạng sườn phải", "nhom": "vi-tri-dau" },
+        { "ten": "Miệng đắng", "nhom": "dau-mat" },
+        { "ten": "Ngực có cảm giác đầy tức", "nhom": "khac" },
+        { "ten": "Ăn kém", "nhom": "tieu-hoa" },
+        { "ten": "Không muốn ăn", "nhom": "tieu-hoa" },
+        { "ten": "Đôi khi có cảm giác nôn, buồn nôn", "nhom": "tieu-hoa" },
+        { "ten": "Củng mạc mắt vàng", "nhom": "dau-mat" },
+        { "ten": "Da vàng", "nhom": "da" },
+        { "ten": "Có thể kèm theo sốt", "nhom": "han-nhiet" },
+        { "ten": "Đại tiện táo", "nhom": "tieu-hoa" },
+        { "ten": "Nước tiểu vàng", "nhom": "tieu-tien" },
+        { "ten": "Chất lưỡi đỏ", "nhom": "luoi" },
+        { "ten": "Rêu lưỡi vàng nhớt", "nhom": "luoi" },
+        { "ten": "Mạch huyền sác", "nhom": "mach" }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Thanh nhiệt lợi thấp thoái hoàng.",
+      "bai_thuoc": [
+        {
+          "ten": "Nhân trần ngũ linh tán", "loai": "co_phuong", "trang": 122,
+          "thanh_phan": [
+            { "ten": "Nhân trần", "lieu_g": 16 }, { "ten": "Bạch truật", "lieu_g": 16 },
+            { "ten": "Phục linh", "lieu_g": 16 }, { "ten": "Trư linh", "lieu_g": 12 },
+            { "ten": "Trạch tả", "lieu_g": 12 }, { "ten": "Quế chi", "lieu_g": 6 }
+          ],
+          "cach_dung": "Tất cả làm thang sắc uống ngày 1 thang chia 2 lần.", "gia_giam": [], "giong_the": null
+        },
+        {
+          "ten": null, "loai": "nghiem_phuong", "trang": 122,
+          "thanh_phan": [], "cach_dung": "Nghiệm phương: tương tự thể Khí ngưng.", "gia_giam": [], "giong_the": "Khí ngưng"
+        }
+      ]
+    },
+    {
+      "ten": "Âm hư nội nhiệt",
+      "mo_ta": null,
+      "trang": 122,
+      "trieu_chung": [
+        { "ten": "Đau tức vùng hạ sườn phải", "nhom": "vi-tri-dau" },
+        { "ten": "Ăn kém", "nhom": "tieu-hoa" },
+        { "ten": "Nước tiểu vàng", "nhom": "tieu-tien" },
+        { "ten": "Mỗi khi lao lực mệt mỏi những triệu chứng này lại tăng lên", "nhom": "toan-than" },
+        { "ten": "Miệng khô", "nhom": "dau-mat" },
+        { "ten": "Họng khô", "nhom": "dau-mat" },
+        { "ten": "Đắng miệng", "nhom": "dau-mat" },
+        { "ten": "Đại tiện táo", "nhom": "tieu-hoa" },
+        { "ten": "Chất lưỡi đỏ", "nhom": "luoi" },
+        { "ten": "Rêu lưỡi hơi vàng", "nhom": "luoi" },
+        { "ten": "Mạch huyền tế", "nhom": "mach" }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Tư âm dưỡng can.",
+      "bai_thuoc": [
+        {
+          "ten": "Nhất quán tiễn", "loai": "co_phuong", "trang": 122,
+          "thanh_phan": [
+            { "ten": "Sa sâm", "lieu_g": 16 }, { "ten": "Đương qui", "lieu_g": 12 },
+            { "ten": "Kỷ tử", "lieu_g": 12 }, { "ten": "Mạch môn", "lieu_g": 12 },
+            { "ten": "Sinh địa", "lieu_g": 12 }, { "ten": "Xuyên luyện tử", "lieu_g": 12 }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.", "gia_giam": [], "giong_the": null
+        },
+        {
+          "ten": null, "loai": "nghiem_phuong", "trang": 123,
+          "thanh_phan": [], "cach_dung": "Nghiệm phương: tương tự thể Khí ngưng.", "gia_giam": [], "giong_the": "Khí ngưng"
+        }
+      ]
+    }
+  ],
+  "ghi_chu_trich": [
+    "Tr.119–124: văn bản không nêu dấu hiệu lâm sàng tự nhận biết được cần chuyển YHHĐ; chỉ định kết hợp thuốc kháng vi rút (tr.123) dựa trên xét nghiệm (ALT tăng trên 2 lần, xơ hóa gan/xơ gan, HBV-DNA) — để dau_hieu_nguy_hiem rỗng.",
+    "Tr.120: triệu chứng thể khí ngưng in 'mỗi khí tinh thần bị kích động' — lỗi in, đọc là 'mỗi khi'; 'cảm giác này' được ghi rõ là 'cảm giác đau tức' cho triệu chứng đứng riêng.",
+    "Tr.120–121: Sài hồ sơ can thang bắt đầu tr.120 (Sài hồ, Cam thảo), 5 vị còn lại và cách dùng ở tr.121.",
+    "Tr.121: thể khí ngưng có 4 nghiệm phương (Bài 1, Bài 2 'Siro nhân trần', Bài 3, Bài 4); chỉ Bài 2 có tên. Bài 2 không ghi liều đường.",
+    "Tr.121–122: Huyết phủ trục ứ thang bắt đầu tr.121 (Đương qui, Hồng hoa, Sài hồ, Sinh địa), 7 vị còn lại ở tr.122.",
+    "Tr.122–123: thể huyết ứ, can đởm thấp nhiệt, âm hư nội nhiệt đều ghi 'Nghiệm phương: tương tự thể Khí ngưng' (không nói bài nào trong 4 bài) — ghi một mục giong_the = 'Khí ngưng'.",
+    "Tr.120–122: văn bản không có gia giảm và không có điều trị không dùng thuốc cho các thể."
+  ]
+}

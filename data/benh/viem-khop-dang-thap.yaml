@@ -1,0 +1,180 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: viem-khop-dang-thap
+ten: Viêm khớp dạng thấp (Chứng tý)
+ten_khac:
+  - Chứng tý
+  - VKDT
+dau_hieu_nguy_hiem: []
+the_benh:
+  - id: phong-thap
+    ten: Phong thấp
+    trieu_chung:
+      chinh:
+        - cac-khop-va-co-nhuc-dau-moi
+        - cam-giac-nang-ne
+        - dau-co-tinh-chat-di-chuyen
+        - thuong-xay-ra-o-cac-khop-nho-va-nho
+        - trong-dot-benh-tien-trien-cac-khop-sung-dau
+        - bi-phu-co-cam-giac-te-bi
+        - thoi-ky-dau-co-bieu-hien-so-gio
+        - thoi-ky-dau-phat-sot
+        - reu-luoi-mong-trang-hay-nhot-dinh
+        - mach-phu-hoan-hoac-nhu-hoan
+      phu:
+        - co-duoi-kho-khan
+        - chat-luoi-nhot
+    loai_tru: []
+    phap_tri: Khu phong, trừ thấp, thông lạc, chỉ thống.
+    bai_thuoc:
+      - viem-khop-dang-thap-quyen-ty-thang
+      - viem-khop-dang-thap-nghiem-phuong
+    nguon:
+      ma: qd-5013
+      trang: 30
+      trang_thai: chua_doi_chieu
+  - id: han-thap
+    ten: Hàn thấp
+    trieu_chung:
+      chinh:
+        - cac-khop-o-chi-tren-va-chi-duoi-co-cam-giac-dau
+        - tinh-chat-dau-thuong-co-dinh-it-di-chuyen
+        - ngay-dau-nhe-ve-dem-dau-nang
+        - thoi-tiet-lanh-am-dau-tang-len
+        - chuom-nong-do-dau
+        - cho-dau-it-sung-ne
+        - mach-huyen-khan-hay-huyen-hoan
+      phu:
+        - co-duoi-kho-khan
+        - chat-luoi-nhot
+        - reu-luoi-trang-nhot
+    loai_tru:
+      - cac-khop-sung-nong-do-dau
+    phap_tri: Ôn kinh, tán hàn, trừ thấp, thông lạc.
+    bai_thuoc:
+      - viem-khop-dang-thap-can-khuong-thuong-truat-thang
+      - viem-khop-dang-thap-nghiem-phuong-han-thap
+    nguon:
+      ma: qd-5013
+      trang: 32
+      trang_thai: chua_doi_chieu
+  - id: phong-thap-nhiet-khop-sung-nong-do-dau-nhieu-sot-cao
+    ten: Phong thấp nhiệt (khớp sưng nóng đỏ đau nhiều, sốt cao)
+    mo_ta: Đợt tiến triển của VKDT.
+    trieu_chung:
+      chinh:
+        - cac-khop-sung-nong-do-dau-nhieu
+        - sot-cao
+      phu:
+        - cac-khop-sung-nong-do-dau
+        - xuat-hien-doi-xung
+        - cu-an
+        - co-duoi-kho-khan
+        - van-dong-di-lai-kho
+        - phat-sot
+        - thich-uong-nuoc-mat
+        - chuom-lanh-cac-khop-co-cam-giac-de-chiu
+        - sac-mat-do
+        - nuoc-tieu-do
+        - dai-tien-tao
+        - chat-luoi-do
+        - reu-luoi-vang
+        - mach-hoat-sac
+    loai_tru: []
+    phap_tri: Khu phong, thanh nhiệt giải độc, hóa thấp.
+    bai_thuoc:
+      - viem-khop-dang-thap-bach-ho-que-chi-thang
+      - viem-khop-dang-thap-nghiem-phuong-phong-thap-nhiet-khop-sung-nong-do-dau-nhieu-sot-cao
+    nguon:
+      ma: qd-5013
+      trang: 33
+      trang_thai: chua_doi_chieu
+  - id: phong-thap-nhiet-khop-sung-dau-it
+    ten: Phong thấp nhiệt (khớp sưng đau ít)
+    mo_ta: Đợt tiến triển của VKDT.
+    trieu_chung:
+      chinh:
+        - cac-khop-sung-dau-it
+      phu:
+        - cac-khop-sung-nong-do-dau
+        - xuat-hien-doi-xung
+        - cu-an
+        - co-duoi-kho-khan
+        - van-dong-di-lai-kho
+        - phat-sot
+        - thich-uong-nuoc-mat
+        - chuom-lanh-cac-khop-co-cam-giac-de-chiu
+        - sac-mat-do
+        - nuoc-tieu-do
+        - dai-tien-tao
+        - chat-luoi-do
+        - reu-luoi-vang
+        - mach-hoat-sac
+    loai_tru: []
+    phap_tri: Khu phong, thanh nhiệt giải độc, hóa thấp.
+    bai_thuoc:
+      - viem-khop-dang-thap-que-chi-thuoc-duoc-tri-mau-thang
+      - viem-khop-dang-thap-nghiem-phuong-phong-thap-nhiet-khop-sung-nong-do-dau-nhieu-sot-cao
+    nguon:
+      ma: qd-5013
+      trang: 33
+      trang_thai: chua_doi_chieu
+  - id: phong-thap-nhiet-sot-nhe-khop-sung-dau-keo-dai
+    ten: Phong thấp nhiệt (sốt nhẹ, khớp sưng đau kéo dài)
+    mo_ta: Đợt tiến triển của VKDT.
+    trieu_chung:
+      chinh:
+        - sot-nhe
+        - cac-khop-sung-dau-keo-dai
+        - mach-te-sac
+      phu:
+        - cac-khop-sung-nong-do-dau
+        - xuat-hien-doi-xung
+        - cu-an
+        - co-duoi-kho-khan
+        - van-dong-di-lai-kho
+        - thich-uong-nuoc-mat
+        - chuom-lanh-cac-khop-co-cam-giac-de-chiu
+        - sac-mat-do
+        - nuoc-tieu-do
+        - dai-tien-tao
+        - chat-luoi-do
+        - reu-luoi-vang
+    loai_tru: []
+    phap_tri: Khu phong, thanh nhiệt giải độc, hóa thấp.
+    bai_thuoc:
+      - viem-khop-dang-thap-que-chi-thuoc-duoc-tri-mau-thang-phong-thap-nhiet-sot-nhe-khop-sung-dau-keo-dai
+      - viem-khop-dang-thap-nghiem-phuong-phong-thap-nhiet-khop-sung-nong-do-dau-nhieu-sot-cao
+    nguon:
+      ma: qd-5013
+      trang: 33
+      trang_thai: chua_doi_chieu
+  - id: can-than-hu
+    ten: Can thận hư
+    mo_ta: "VKDT kéo dài có teo cơ, dính khớp. Văn bản (tr.34): Trường hợp các khớp vẫn sưng, nóng, đỏ đau thì dùng các bài thuốc như thể Phong thấp nhiệt trên gia các vị thuốc trừ đàm, hoạt huyết: Nam tinh chế, Bạch giới tử sao, Bạch cương tàm, Đào nhân, Hồng hoa..."
+    trieu_chung:
+      chinh:
+        - mac-benh-lau-ngay
+        - co-nhuc-va-cac-khop-dau-moi
+        - cho-dau-co-dinh-khong-di-chuyen
+        - cac-khop-sung-ne
+        - teo-co
+        - cung-khop
+        - bien-dang-khop
+        - tay-va-chan-co-cam-giac-te-bi-va-nang-ne
+        - sac-mat-sam-den-va-co-the-sung-ne
+        - nguc-day-tuc
+        - chat-luoi-tim-sam
+        - mach-huyen-sac
+      phu:
+        - reu-luoi-trang-nhot
+    loai_tru: []
+    phap_tri: Khu phong, thanh nhiệt, trừ thấp, hóa đàm thông lạc, bổ can thận, kiện tỳ.
+    bai_thuoc:
+      - viem-khop-dang-thap-doc-hoat-ky-sinh-thang
+      - viem-khop-dang-thap-nghiem-phuong-can-than-hu
+      - viem-khop-dang-thap-bach-ho-que-chi-thang
+      - viem-khop-dang-thap-nghiem-phuong-phong-thap-nhiet-khop-sung-nong-do-dau-nhieu-sot-cao
+    nguon:
+      ma: qd-5013
+      trang: 33
+      trang_thai: chua_doi_chieu

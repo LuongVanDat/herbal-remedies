@@ -27,7 +27,7 @@ test('vuot-lieu được phép khi có vuot_lieu_ly_do', () => {
 test('vuot-lieu không xét khi lieu_dung null (chỉ cảnh báo chua-co-lieu)', () => {
   const raw = sua(ok, (r) => { bai(r, 'ma-hoang-thang').thanh_phan[2].lieu_g = 999 }) // cam-thao: lieu_dung null
   expect(loi(raw, 'vuot-lieu')).toEqual([])
-  expect(canhBao(raw, 'chua-co-lieu').map((v) => v.file)).toEqual([expect.stringContaining('cam-thao')])
+  expect(canhBao(raw, 'chua-co-lieu').map((v) => v.thongDiep)).toEqual(['1 vị chưa có liều chuẩn (vd: cam-thao)'])
 })
 test('liều đúng bằng max_g không lỗi', () => {
   const raw = sua(ok, (r) => { bai(r, 'ma-hoang-thang').thanh_phan[0].lieu_g = 10 })

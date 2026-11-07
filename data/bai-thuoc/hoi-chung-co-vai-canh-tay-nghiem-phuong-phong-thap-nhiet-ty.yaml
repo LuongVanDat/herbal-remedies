@@ -1,0 +1,37 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: hoi-chung-co-vai-canh-tay-nghiem-phuong-phong-thap-nhiet-ty
+ten: Nghiệm phương — Hội chứng cổ vai cánh tay, thể Phong thấp nhiệt tý
+loai: nghiem_phuong
+thanh_phan:
+  - vi: y-di
+    lieu_g: 12
+    vai_tro: null
+  - vi: khuong-hoat
+    lieu_g: 8
+    vai_tro: null
+  - vi: kim-ngan-hoa
+    lieu_g: 12
+    vai_tro: null
+  - vi: hoang-ba
+    lieu_g: 12
+    vai_tro: null
+  - vi: hy-thiem
+    ten_trong_bai: Hy thiêm thảo
+    lieu_g: 12
+    vai_tro: null
+  - vi: khuong-hoang
+    lieu_g: 8
+    vai_tro: null
+  - vi: tan-giao
+    lieu_g: 10
+    vai_tro: null
+  - vi: lien-kieu
+    ten_trong_bai: Liên kiểu
+    lieu_g: 12
+    vai_tro: null
+cach_dung: Sắc uống ngày 1 thang, chia 2 lần.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 39
+  trang_thai: chua_doi_chieu

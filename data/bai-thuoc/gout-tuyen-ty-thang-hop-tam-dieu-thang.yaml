@@ -1,0 +1,45 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: gout-tuyen-ty-thang-hop-tam-dieu-thang
+ten: Tuyên tý thang hợp Tam diệu thang
+loai: co_phuong
+thanh_phan:
+  - vi: thuong-truat
+    lieu_g: 8
+    vai_tro: null
+  - vi: hoang-ba
+    lieu_g: 15
+    vai_tro: null
+  - vi: nguu-tat
+    lieu_g: 15
+    vai_tro: null
+  - vi: ty-giai
+    lieu_g: 12
+    vai_tro: null
+  - vi: hoat-thach
+    lieu_g: 30
+    vai_tro: null
+  - vi: y-di
+    lieu_g: 20
+    vai_tro: null
+  - vi: hanh-nhan
+    lieu_g: 12
+    vai_tro: null
+  - vi: hy-thiem
+    ten_trong_bai: Hy thiêm thảo
+    lieu_g: 15
+    vai_tro: null
+  - vi: xich-tieu-dau
+    lieu_g: 15
+    vai_tro: null
+  - vi: lien-kieu
+    lieu_g: 12
+    vai_tro: null
+  - vi: chi-tu
+    lieu_g: 12
+    vai_tro: null
+cach_dung: Văn bản không ghi cách dùng.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 22
+  trang_thai: chua_doi_chieu

@@ -1,0 +1,17 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: trac-bach-diep
+ten: Trắc bách diệp
+ten_khac: []
+ten_khoa_hoc: Cacumen Platycladi
+ten_cay: Platycladus orientalis (L.) Franco - Cupressaceae
+nguon_goc: ca_hai
+lieu_dung: null
+doc_tinh:
+  muc: chua_ro
+  canh_bao: null
+pho_bien: null
+thay_the: []
+nguon:
+  ma: qd-5013
+  trang: 164
+  trang_thai: chua_doi_chieu

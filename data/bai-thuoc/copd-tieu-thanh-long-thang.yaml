@@ -1,0 +1,37 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: copd-tieu-thanh-long-thang
+ten: Tiểu thanh long thang
+loai: co_phuong
+thanh_phan:
+  - vi: ma-hoang
+    lieu_g: 6
+    vai_tro: null
+  - vi: que-nhuc
+    ten_trong_bai: Nhục quế
+    lieu_g: 8
+    vai_tro: null
+  - vi: te-tan
+    lieu_g: 4
+    vai_tro: null
+  - vi: can-khuong
+    lieu_g: 6
+    vai_tro: null
+  - vi: ban-ha
+    ten_trong_bai: Bán hạ chế
+    lieu_g: 12
+    vai_tro: null
+  - vi: ngu-vi-tu
+    lieu_g: 6
+    vai_tro: null
+  - vi: bach-thuoc
+    lieu_g: 12
+    vai_tro: null
+  - vi: cam-thao
+    lieu_g: 6
+    vai_tro: null
+cach_dung: Tất cả làm thang sắc uống ngày 01 thang chia 2 lần.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 131
+  trang_thai: chua_doi_chieu

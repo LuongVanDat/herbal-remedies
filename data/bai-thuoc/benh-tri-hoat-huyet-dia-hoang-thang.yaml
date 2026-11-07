@@ -1,0 +1,33 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: benh-tri-hoat-huyet-dia-hoang-thang
+ten: Hoạt huyết địa hoàng thang
+loai: co_phuong
+thanh_phan:
+  - vi: sinh-dia
+    lieu_g: 20
+    vai_tro: null
+  - vi: hoe-hoa
+    lieu_g: 12
+    vai_tro: null
+  - vi: kinh-gioi
+    lieu_g: 12
+    vai_tro: null
+  - vi: dia-du
+    lieu_g: 12
+    vai_tro: null
+  - vi: hoang-cam
+    lieu_g: 12
+    vai_tro: null
+  - vi: xich-thuoc
+    lieu_g: 12
+    vai_tro: null
+  - vi: duong-quy
+    lieu_g: 12
+    vai_tro: null
+cach_dung: Sắc uống ngày 1 thang chia 2 lần.
+gia_giam:
+  - "Gia giảm: táo bón gia Ma nhân 12g, Đại hoàng 04g"
+nguon:
+  ma: qd-5013
+  trang: 148
+  trang_thai: chua_doi_chieu

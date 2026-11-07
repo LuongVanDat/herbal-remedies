@@ -1,0 +1,46 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: dau-than-kinh-toa-nghiem-phuong-phong-han-thap-ket-hop-can-than-hu
+ten: Nghiệm phương — Đau thần kinh tọa, thể Phong hàn thấp kết hợp can thận hư
+loai: nghiem_phuong
+thanh_phan:
+  - vi: thuc-dia
+    lieu_g: 12
+    vai_tro: null
+  - vi: y-di
+    lieu_g: 12
+    vai_tro: null
+  - vi: cau-tich
+    lieu_g: 12
+    vai_tro: null
+  - vi: bach-truat
+    lieu_g: 12
+    vai_tro: null
+  - vi: tuc-doan
+    lieu_g: 12
+    vai_tro: null
+  - vi: hoai-son
+    ten_trong_bai: Củ mài
+    lieu_g: 12
+    vai_tro: null
+  - vi: tang-ky-sinh
+    lieu_g: 12
+    vai_tro: null
+  - vi: ty-giai
+    lieu_g: 12
+    vai_tro: null
+  - vi: co-xuoc
+    ten_trong_bai: Rễ cỏ xước
+    lieu_g: 12
+    vai_tro: null
+  - vi: ha-thu-o-do
+    lieu_g: 12
+    vai_tro: null
+  - vi: dang-sam
+    lieu_g: 12
+    vai_tro: null
+cach_dung: Ngày sắc uống 1 thang, chia 3 lần, liệu trình 10 - 15 thang.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 75
+  trang_thai: chua_doi_chieu

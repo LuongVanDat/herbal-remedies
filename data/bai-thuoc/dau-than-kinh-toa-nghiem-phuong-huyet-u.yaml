@@ -1,0 +1,34 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: dau-than-kinh-toa-nghiem-phuong-huyet-u
+ten: Nghiệm phương — Đau thần kinh tọa, thể Huyết ứ
+loai: nghiem_phuong
+thanh_phan:
+  - vi: ngai-cuu
+    lieu_g: 12
+    vai_tro: null
+  - vi: tran-bi
+    lieu_g: 8
+    vai_tro: null
+  - vi: to-moc
+    lieu_g: 12
+    vai_tro: null
+  - vi: kinh-gioi
+    lieu_g: 12
+    vai_tro: null
+  - vi: khuong-hoang
+    ten_trong_bai: Nghệ vàng
+    lieu_g: 10
+    vai_tro: null
+  - vi: uat-kim
+    lieu_g: 10
+    vai_tro: null
+  - vi: co-xuoc
+    ten_trong_bai: Rễ cỏ xước
+    lieu_g: 12
+    vai_tro: null
+cach_dung: Sắc uống ngày 1 thang, chia 2 lần.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 77
+  trang_thai: chua_doi_chieu

@@ -1,0 +1,159 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: copd
+ten: Bệnh phổi tắc nghẽn mạn tính (COPD) (Khái suyễn)
+ten_khac:
+  - Khái suyễn
+  - Khái thấu
+  - Đàm ẩm
+  - COPD
+  - BPTNMT
+dau_hieu_nguy_hiem: []
+the_benh:
+  - id: phong-nhiet
+    ten: Phong nhiệt
+    trieu_chung:
+      chinh:
+        - ho-nhieu
+        - tieng-ho-nang
+        - khac-dom-dac-vang
+        - mieng-khat
+        - hong-dau
+        - nuoc-mui-vang-duc
+        - toan-than-dau-moi
+        - sot-cao
+        - ra-mo-hoi
+        - nhuc-dau
+        - reu-luoi-vang-mong
+        - mach-phu-sac
+      phu:
+        - so-gio
+    loai_tru: []
+    phap_tri: Sơ phong thanh nhiệt, tuyên thông phế khí.
+    bai_thuoc:
+      - copd-tang-cuc-am
+      - copd-ma-hanh-thach-cam-thang
+      - copd-nghiem-phuong
+    nguon:
+      ma: qd-5013
+      trang: 127
+      trang_thai: chua_doi_chieu
+  - id: phong-han
+    ten: Phong hàn
+    trieu_chung:
+      chinh:
+        - dom-trong-loang-sac-trang-de-khac
+        - tac-mui
+        - chay-nuoc-mui-trong
+        - sot
+        - so-lanh
+        - dau-dau
+        - cam-giac-moi-nguoi
+        - khan-tieng
+        - reu-luoi-trang-mong
+        - mach-phu
+      phu:
+        - ho
+    loai_tru:
+      - ra-mo-hoi
+    phap_tri: Sơ tán phong hàn, tuyên phế hóa đàm.
+    bai_thuoc:
+      - copd-hanh-to-tan
+      - copd-nghiem-phuong-phong-han
+    nguon:
+      ma: qd-5013
+      trang: 128
+      trang_thai: chua_doi_chieu
+  - id: khi-tao
+    ten: Khí táo
+    trieu_chung:
+      chinh:
+        - ho-khan
+        - it-dom
+        - doi-khi-ho-co-lan-it-dom-trong-co-tia-mau
+        - hong-kho
+        - mui-kho
+        - phat-sot
+        - dau-hong
+        - dau-luoi-do
+        - luoi-kho
+        - reu-luoi-vang
+        - mach-hoat-sac
+      phu:
+        - so-gio
+    loai_tru: []
+    phap_tri: "Nhuận táo dưỡng phế. Nếu ôn táo thì kiêm thêm: Sơ phong thanh nhiệt. Nếu lương táo thì kiêm thêm: Sơ tán phong hàn."
+    bai_thuoc:
+      - copd-tang-hanh-thang
+      - copd-nghiem-phuong-khi-tao
+    nguon:
+      ma: qd-5013
+      trang: 129
+      trang_thai: chua_doi_chieu
+  - id: dam-thap
+    ten: Đàm thấp
+    trieu_chung:
+      chinh:
+        - khac-dom-nhieu
+        - dom-trang-dinh-loang-hoac-thanh-cuc
+        - nguc-bung-co-cam-giac-day-tuc
+        - an-kem
+        - tinh-than-moi-met
+        - reu-luoi-trang-nhon
+        - mach-nhu-hoat
+      phu:
+        - ho
+    loai_tru: []
+    phap_tri: Bổ phế, kiện tỳ, táo thấp hóa đàm, chỉ khái.
+    bai_thuoc:
+      - copd-luc-quan-tu-thang-hop-binh-vi-tan
+      - copd-nhi-tran-thang
+      - copd-nghiem-phuong-dam-thap
+    nguon:
+      ma: qd-5013
+      trang: 130
+      trang_thai: chua_doi_chieu
+  - id: dam-thap-ty-than-duong-hu
+    ten: Đàm thấp (tỳ thận dương hư)
+    trieu_chung:
+      chinh:
+        - dom-nhieu
+        - nguc-suon-day-tuc
+        - mieng-khat-ma-khong-muon-uong
+        - uong-nuoc-bi-non
+        - lung-va-tay-chan-lanh
+        - hoa-mat-chong-mat-2
+        - tho-ngan
+        - hoi-hop
+        - luoi-nhot
+        - reu-luoi-trang-tron
+        - mach-huyen-hoat
+      phu:
+        - ho
+    loai_tru: []
+    phap_tri: Ôn dương lợi thấp, trừ đàm.
+    bai_thuoc:
+      - copd-linh-que-truat-cam-thang
+    nguon:
+      ma: qd-5013
+      trang: 130
+      trang_thai: chua_doi_chieu
+  - id: thuy-am-han-am
+    ten: Thủy ẩm (hàn ẩm)
+    mo_ta: Thường hay gặp ở người bệnh viêm phế quản mạn tính kèm theo giãn phế nang ở người cao tuổi, suy giảm chức năng hô hấp rõ, bệnh tâm phế mạn.
+    trieu_chung:
+      chinh:
+        - ho-keo-dai-hay-tai-phat
+        - kho-tho
+        - khi-troi-lanh-thi-ho-tang-len
+        - khac-ra-nhieu-dom-loang-trang
+        - khi-van-dong-cac-trieu-chung-tren-tang-len
+        - kho-tho-nhieu-khi-nam-phai-goi-dau-cao
+      phu: []
+    loai_tru: []
+    phap_tri: Ôn bổ phế thận, hoá đàm.
+    bai_thuoc:
+      - copd-tieu-thanh-long-thang
+    nguon:
+      ma: qd-5013
+      trang: 131
+      trang_thai: chua_doi_chieu

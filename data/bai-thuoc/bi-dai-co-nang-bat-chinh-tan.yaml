@@ -1,0 +1,37 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: bi-dai-co-nang-bat-chinh-tan
+ten: Bát chính tán
+loai: co_phuong
+thanh_phan:
+  - vi: moc-thong
+    lieu_g: 12
+    vai_tro: null
+  - vi: xa-tien-tu
+    lieu_g: 8
+    vai_tro: null
+  - vi: cu-mach
+    lieu_g: 12
+    vai_tro: null
+  - vi: bien-suc
+    lieu_g: 10
+    vai_tro: null
+  - vi: hoat-thach
+    lieu_g: 16
+    vai_tro: null
+  - vi: chi-tu
+    lieu_g: 8
+    vai_tro: null
+  - vi: dai-hoang
+    lieu_g: 6
+    vai_tro: null
+  - vi: cam-thao
+    lieu_g: 6
+    vai_tro: null
+cach_dung: Sắc uống ngày 1 thang, chia 2 lần.
+gia_giam:
+  - "Nếu tâm phiền, miệng lưỡi mọc mụn, đầu lưỡi đỏ đau gia: Hoàng liên 4g, Đạm trúc diệp 12g để thanh tâm giáng hỏa."
+  - "Nếu miệng đắng dính, rêu lưỡi vàng nhớt gia: Thương truật 8g, Hoàng bá 10g, Ý dĩ 12g để hóa thấp thanh nhiệt."
+nguon:
+  ma: qd-5013
+  trang: 141
+  trang_thai: chua_doi_chieu

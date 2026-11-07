@@ -1,0 +1,17 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: ha-thu-o
+ten: Hà thủ ô
+ten_khac: []
+ten_khoa_hoc: Radix Fallopiae multiflorae
+ten_cay: "Hà thủ ô đỏ (STT 120): Fallopia multiflora (Thunb.) Haraldson - Polygonaceae; Hà thủ ô trắng (STT 121): Streptocaulon juventas (Lour.) Merr. - Asclepiadaceae"
+bo_phan_dung: Rễ
+lieu_dung: null
+doc_tinh:
+  muc: chua_ro
+  canh_bao: null
+pho_bien: null
+thay_the: []
+nguon:
+  ma: qd-5013
+  trang: 156
+  trang_thai: chua_doi_chieu

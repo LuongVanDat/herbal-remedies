@@ -1,0 +1,35 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: benh-tri-bo-trung-ich-khi-thang
+ten: Bổ trung ích khí thang
+loai: co_phuong
+thanh_phan:
+  - vi: dang-sam
+    lieu_g: 16
+    vai_tro: null
+  - vi: tran-bi
+    lieu_g: 6
+    vai_tro: null
+  - vi: hoang-ky
+    lieu_g: 12
+    vai_tro: null
+  - vi: duong-quy
+    lieu_g: 10
+    vai_tro: null
+  - vi: bach-truat
+    lieu_g: 12
+    vai_tro: null
+  - vi: thang-ma
+    lieu_g: 8
+    vai_tro: null
+  - vi: cam-thao
+    lieu_g: 4
+    vai_tro: null
+  - vi: sai-ho
+    lieu_g: 12
+    vai_tro: null
+cach_dung: Sắc uống ngày 1 thang chia 2 lần.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 150
+  trang_thai: chua_doi_chieu

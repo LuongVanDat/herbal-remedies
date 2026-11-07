@@ -1,0 +1,18 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: bach-cap
+ten: Bạch cập
+ten_khac: []
+ten_khoa_hoc: Rhizoma Bletillae striatae
+ten_cay: Bletilla striata (Thunb.) Reichb. F. - Orchidaceae
+bo_phan_dung: Thân rễ
+nguon_goc: nhap_khau
+lieu_dung: null
+doc_tinh:
+  muc: chua_ro
+  canh_bao: null
+pho_bien: null
+thay_the: []
+nguon:
+  ma: qd-5013
+  trang: 152
+  trang_thai: chua_doi_chieu

@@ -11,7 +11,7 @@
   let phoBien = $state<'' | NonNullable<ViThuoc['pho_bien']>['muc']>('')
   let chiDoc = $state(false)
   const ketQua = $derived(
-    timKiem(tatCa, q, (v) => [v.ten, v.ten_khoa_hoc, ...v.ten_khac]).filter(
+    timKiem(tatCa, q, (v) => [v.ten, v.ten_khoa_hoc ?? '', ...v.ten_khac]).filter(
       (v) => (!phoBien || v.pho_bien?.muc === phoBien) && (!chiDoc || coDoc(v)),
     ),
   )
@@ -34,7 +34,7 @@
   {#each ketQua as v (v.id)}
     <li>
       <a href={href({ ten: 'vi', id: v.id })}>{v.ten}</a>
-      <span class="mo"> <em>{v.ten_khoa_hoc}</em>{#if v.pho_bien} · {PHO_BIEN[v.pho_bien.muc]}{/if}</span>
+      <span class="mo"> {#if v.ten_khoa_hoc}<em>{v.ten_khoa_hoc}</em>{/if}{#if v.pho_bien} · {PHO_BIEN[v.pho_bien.muc]}{/if}</span>
       {#if coDoc(v)}<span class="doc"> · ⚠ {DOC_TINH[v.doc_tinh.muc]}</span>{/if}
     </li>
   {/each}

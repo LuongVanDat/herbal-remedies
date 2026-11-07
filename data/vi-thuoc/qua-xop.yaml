@@ -1,0 +1,19 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: qua-xop
+ten: Quả xộp
+ten_khac:
+  - trâu cổ
+ten_khoa_hoc: Fructus Fici Pumilae
+ten_cay: Ficus Pumila L. - Moraccae
+bo_phan_dung: Quả
+nguon_goc: trong_nuoc
+lieu_dung: null
+doc_tinh:
+  muc: chua_ro
+  canh_bao: null
+pho_bien: null
+thay_the: []
+nguon:
+  ma: qd-5013
+  trang: 161
+  trang_thai: chua_doi_chieu

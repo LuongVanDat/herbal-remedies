@@ -1,0 +1,32 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: di-chung-viem-nao-dao-dam-thang-gia-giam
+ten: Đạo đàm thang gia giảm
+loai: co_phuong
+thanh_phan:
+  - vi: ban-ha
+    ten_trong_bai: Bán hạ chế
+    lieu_g: 8
+    vai_tro: null
+  - vi: chi-thuc
+    lieu_g: 8
+    vai_tro: null
+  - vi: tran-bi
+    lieu_g: 8
+    vai_tro: null
+  - vi: thien-nam-tinh
+    lieu_g: 6
+    vai_tro: null
+  - vi: bach-linh
+    ten_trong_bai: Phục linh
+    lieu_g: 8
+    vai_tro: null
+  - vi: cam-thao
+    lieu_g: 4
+    vai_tro: null
+cach_dung: Trường hợp bệnh nhi viêm não giai đoạn bán cấp, có loạn thần, nuốt thở khó khăn, miệng chảy dãi, họng có tiếng đờm khò khè, chất lưỡi nhợt, rêu cáu bẩn. Mạch hoạt trệ, dùng bài Đạo đàm thang gia giảm. Sắc uống ngày 1 thang, chia 2 lần.
+gia_giam:
+  - Thường gia Xương bồ 12g, Viễn chí 6g để tăng sức khai khiếu tỉnh thần, Uất kim 6g để thanh nhiệt khai khiếu.
+nguon:
+  ma: qd-5013
+  trang: 98
+  trang_thai: chua_doi_chieu

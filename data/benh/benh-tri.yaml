@@ -1,0 +1,116 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: benh-tri
+ten: Bệnh trĩ (Hạ trĩ)
+ten_khac:
+  - Hạ trĩ
+  - trĩ
+dau_hieu_nguy_hiem:
+  - id: nh-benh-tri-1
+    ten: Búi trĩ sa khi rặn không tự co lên được, hoặc sa thường xuyên không đẩy lên được (trĩ nội độ III, IV) — văn bản nêu phẫu thuật cắt bỏ
+  - id: nh-benh-tri-2
+    ten: Trĩ ngoại lớn, trĩ tắc mạch, trĩ viêm nghẹt — văn bản nêu phẫu thuật cắt bỏ theo chỉ định của thầy thuốc
+the_benh:
+  - id: nhiet-doc
+    ten: Nhiệt độc
+    mo_ta: Tương ứng với trĩ nội độ 1, 2.
+    trieu_chung:
+      chinh:
+        - dai-tien-co-kem-theo-mau-tuoi-tham-giay-ve-sinh
+        - nguoi-nong
+        - hau-mon-nong
+        - khoi-tri-sa-ra-it-hoac-khong-sa
+        - tieu-vang-luong-it
+        - dai-tien-tao-ket
+        - luoi-do
+        - mach-sac
+      phu:
+        - reu-vang
+    loai_tru:
+      - tiet-nhieu-dich
+      - chay-mu
+    phap_tri: Thanh nhiệt giải độc, thanh nhiệt lương huyết, chỉ huyết.
+    bai_thuoc:
+      - benh-tri-hoe-hoa-tan
+      - benh-tri-nghiem-phuong
+      - benh-tri-bot-ngam-tri
+      - benh-tri-nghiem-phuong-nhiet-doc
+    nguon:
+      ma: qd-5013
+      trang: 147
+      trang_thai: chua_doi_chieu
+  - id: huyet-u
+    ten: Huyết ứ
+    mo_ta: Tương ứng với trĩ tắc mạch.
+    trieu_chung:
+      chinh:
+        - bui-tri-sung-chac-dau-nhuc-tim-sam-mau
+        - an-dau
+        - dai-tien-co-mau-tuoi
+        - luoi-tim-co-diem-u-huyet-2
+        - reu-luoi-mong-trang-hoac-trang-nhot
+        - mach-hoat
+      phu: []
+    loai_tru:
+      - tiet-nhieu-dich
+      - chay-mu
+    phap_tri: Hoạt huyết khứ ứ, hành khí chỉ huyết.
+    bai_thuoc:
+      - benh-tri-hoat-huyet-dia-hoang-thang
+      - benh-tri-nghiem-phuong-huyet-u
+      - benh-tri-bot-ngam-tri
+      - benh-tri-nghiem-phuong-nhiet-doc
+    nguon:
+      ma: qd-5013
+      trang: 148
+      trang_thai: chua_doi_chieu
+  - id: thap-nhiet
+    ten: Thấp nhiệt
+    mo_ta: Tương ứng với trĩ viêm, loét.
+    trieu_chung:
+      chinh:
+        - vung-hau-mon-dau
+        - tiet-nhieu-dich
+        - tri-sa-ra-ngoai-kho-day-vao
+        - co-the-co-diem-hoai-tu-be-mat-bui-tri
+        - co-diem-loet-chay-dich-vang-hoi
+        - dai-tien-tao
+        - luoi-beu-nhot
+        - mach-hoat-sac
+      phu:
+        - reu-vang
+    loai_tru: []
+    phap_tri: Thanh nhiệt lợi thấp, hoạt huyết chỉ thống.
+    bai_thuoc:
+      - benh-tri-hoe-hoa-tan-thap-nhiet
+      - benh-tri-nghiem-phuong-thap-nhiet
+      - benh-tri-bot-ngam-tri
+      - benh-tri-nghiem-phuong-nhiet-doc
+    nguon:
+      ma: qd-5013
+      trang: 149
+      trang_thai: chua_doi_chieu
+  - id: khi-huyet-luong-hu
+    ten: Khí huyết lưỡng hư
+    mo_ta: Tương ứng trĩ hỗn hợp độ IV, trĩ lâu ngày gây thiếu máu.
+    trieu_chung:
+      chinh:
+        - dai-tien-ra-mau-lau-ngay
+        - hoa-mat-chong-mat
+        - u-tai
+        - mat-trang-nhot
+        - nguoi-met-moi
+        - doan-hoi
+        - reu-luoi-trang-mong
+        - mach-tram-te
+      phu: []
+    loai_tru: []
+    phap_tri: Bổ khí huyết chỉ huyết, ích khí thăng đề.
+    bai_thuoc:
+      - benh-tri-bo-trung-ich-khi-thang
+      - benh-tri-nghiem-phuong-khi-huyet-luong-hu
+      - benh-tri-bot-ngam-tri
+      - benh-tri-nghiem-phuong-nhiet-doc
+    nguon:
+      ma: qd-5013
+      trang: 150
+      trang_thai: chua_doi_chieu

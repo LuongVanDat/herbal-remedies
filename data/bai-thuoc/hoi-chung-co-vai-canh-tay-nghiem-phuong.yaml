@@ -1,0 +1,35 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: hoi-chung-co-vai-canh-tay-nghiem-phuong
+ten: Nghiệm phương — Hội chứng cổ vai cánh tay, thể Phong hàn
+loai: nghiem_phuong
+thanh_phan:
+  - vi: que-chi
+    lieu_g: 8
+    vai_tro: null
+  - vi: tang-chi
+    lieu_g: 12
+    vai_tro: null
+  - vi: khuong-hoang
+    lieu_g: 8
+    vai_tro: null
+  - vi: cat-can
+    lieu_g: 12
+    vai_tro: null
+  - vi: ke-huyet-dang
+    lieu_g: 12
+    vai_tro: null
+  - vi: thien-nien-kien
+    lieu_g: 8
+    vai_tro: null
+  - vi: bach-chi
+    lieu_g: 8
+    vai_tro: null
+  - vi: sinh-khuong
+    lieu_g: 4
+    vai_tro: null
+cach_dung: Sắc uống ngày 1 thang, chia 2 lần, uống ấm.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 38
+  trang_thai: chua_doi_chieu

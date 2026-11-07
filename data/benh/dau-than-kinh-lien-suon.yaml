@@ -1,0 +1,149 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: dau-than-kinh-lien-suon
+ten: Đau dây thần kinh liên sườn (Hiếp thống)
+ten_khac:
+  - Hiếp thống
+dau_hieu_nguy_hiem:
+  - id: nh-dau-than-kinh-lien-suon-1
+    ten: Đau chói cả hai bên sườn, đau liên tục, cảm giác bó chặt lấy ngực hoặc bụng; ấn cột sống có điểm đau chói
+  - id: nh-dau-than-kinh-lien-suon-2
+    ten: Sốt về chiều, mệt mỏi, sút cân
+  - id: nh-dau-than-kinh-lien-suon-3
+    ten: Biến dạng cột sống
+  - id: nh-dau-than-kinh-lien-suon-4
+    ten: Đau rát một mảng sườn rồi đỏ da, xuất hiện mụn nước lan theo khoang liên sườn, sốt nhẹ, đau hạch nách
+  - id: nh-dau-than-kinh-lien-suon-5
+    ten: Đau sau chấn thương cột sống
+the_benh:
+  - id: phong-han
+    ten: Phong hàn
+    trieu_chung:
+      chinh:
+        - dau-lien-suon-doc-theo-duong-di-cua-day-than
+        - dau-nhat-o-vung-re-sau-lung-duong-nach-giua-sau
+        - so-lanh
+        - reu-luoi-trang-mong
+        - mach-phu
+      phu: []
+    loai_tru: []
+    phap_tri: Khu phong, tán hàn, thông kinh lạc.
+    bai_thuoc:
+      - dau-than-kinh-lien-suon-can-khuong-thuong-truat-thang
+      - dau-than-kinh-lien-suon-ngai-cuu-sao-muoi-chuom
+    nguon:
+      ma: qd-5013
+      trang: 65
+      trang_thai: chua_doi_chieu
+  - id: can-khi-uat-ket
+    ten: Can khí uất kết
+    trieu_chung:
+      chinh:
+        - dau-vung-ha-suon
+        - diem-dau-khong-co-dinh
+        - tham-chi-dau-nhu-bo-chat-vung-nguc-suon-xuyen
+        - dau-tang-khi-tinh-chi-kich-dong
+        - tinh-than-uat-uc-hay-cau-gat
+        - cam-giac-bi-bach-trong-nguc
+        - hay-tho-dai
+        - o-hoi
+        - bung-chuong-khong-muon-an
+        - luoi-reu-mong
+        - mach-huyen-hoac-huyen-sac
+      phu: []
+    loai_tru:
+      - dau-co-dinh
+    phap_tri: Sơ can lý khí.
+    bai_thuoc:
+      - dau-than-kinh-lien-suon-sai-ho-so-can-tan
+    nguon:
+      ma: qd-5013
+      trang: 66
+      trang_thai: chua_doi_chieu
+  - id: can-uat-hoa-hoa
+    ten: Can uất hóa hỏa
+    trieu_chung:
+      chinh:
+        - vung-suon-cam-giac-nong-rat-dau
+        - tinh-chi-khong-yen-de-cau
+        - mat-do
+        - tai-u
+        - tam-phien-mat-ngu
+        - o-chua
+        - mieng-dang-ma-kho
+        - dai-tien-nong-rat
+        - chat-luoi-do
+        - reu-vang
+      phu:
+        - dau-dau
+        - mach-huyen-sac
+    loai_tru: []
+    phap_tri: Thanh can tả hỏa.
+    bai_thuoc:
+      - dau-than-kinh-lien-suon-dan-chi-tieu-dao
+    nguon:
+      ma: qd-5013
+      trang: 67
+      trang_thai: chua_doi_chieu
+  - id: ta-uat-thieu-duong
+    ten: Tà uất thiếu dương
+    trieu_chung:
+      chinh:
+        - nguc-suon-chuong-dau
+        - han-nhiet-vang-lai
+        - chong-mat
+        - mieng-dang-hong-kho
+        - tam-phien
+        - buon-non
+        - reu-luoi-trang-mong-hoac-vang-mong-hoi-ban
+      phu:
+        - dau-dau
+        - an-kem
+        - mach-huyen-sac
+    loai_tru: []
+    phap_tri: Hòa giải thiếu dương.
+    bai_thuoc:
+      - dau-than-kinh-lien-suon-tieu-sai-ho-thang
+    nguon:
+      ma: qd-5013
+      trang: 68
+      trang_thai: chua_doi_chieu
+  - id: huyet-u
+    ten: Huyết ứ
+    trieu_chung:
+      chinh:
+        - vung-mang-suon-dau-nhu-kim-cham
+        - dau-co-dinh
+        - dau-tang-ve-dem
+        - co-the-co-vet-sang-thuong
+        - luoi-tim-hoac-co-diem-u-huyet
+        - mach-tram-sap-hoac-huyen-sap
+      phu: []
+    loai_tru: []
+    phap_tri: Hóa ứ thông lạc.
+    bai_thuoc:
+      - dau-than-kinh-lien-suon-huyet-phu-truc-u-thang
+    nguon:
+      ma: qd-5013
+      trang: 69
+      trang_thai: chua_doi_chieu
+  - id: can-dom-thap-nhiet
+    ten: Can đởm thấp nhiệt
+    trieu_chung:
+      chinh:
+        - suon-dau
+        - mieng-dang
+        - nguc-bung-day-chuong
+        - tieu-tien-ngan-do
+        - luoi-do
+        - reu-vang-ban
+        - mach-hoat-sac
+      phu:
+        - an-kem
+    loai_tru: []
+    phap_tri: Thanh nhiệt lợi thấp.
+    bai_thuoc:
+      - dau-than-kinh-lien-suon-long-dom-ta-can-thang
+    nguon:
+      ma: qd-5013
+      trang: 70
+      trang_thai: chua_doi_chieu

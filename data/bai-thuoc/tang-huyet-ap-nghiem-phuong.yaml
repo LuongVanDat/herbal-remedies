@@ -1,0 +1,27 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: tang-huyet-ap-nghiem-phuong
+ten: Nghiệm phương — Tăng huyết áp vô căn, thể Can dương thượng cang
+loai: nghiem_phuong
+thanh_phan:
+  - vi: huong-phu
+    lieu_g: null
+    lieu_text: 1 lạng
+    vai_tro: null
+  - vi: cuc-hoa
+    lieu_g: null
+    lieu_text: 1 lạng
+    vai_tro: null
+  - vi: kinh-gioi
+    lieu_g: null
+    lieu_text: 1 lạng
+    vai_tro: null
+  - vi: bac-ha
+    lieu_g: null
+    lieu_text: 3 đồng cân
+    vai_tro: null
+cach_dung: Tán mịn, mỗi lần uống 10g sắc với nước chè và hành làm thang, uống trước khi ăn.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 45
+  trang_thai: chua_doi_chieu

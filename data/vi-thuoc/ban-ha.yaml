@@ -1,0 +1,17 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: ban-ha
+ten: Bán hạ
+ten_khac: []
+ten_khoa_hoc: Rhizoma Pinelliae
+ten_cay: "Bán hạ bắc (STT 29): Pinellia ternata (Thunb.) Breit. - Araceae; Bán hạ nam (STT 30): Typhonium trilobatum (L.) Schott, - Araceae."
+bo_phan_dung: Thân rễ
+lieu_dung: null
+doc_tinh:
+  muc: co
+  canh_bao: Thuộc Danh mục dược liệu độc làm thuốc (TT 13/2024/TT-BYT, Phụ lục I, STT 2). Chỉ dùng theo chỉ định của thầy thuốc.
+pho_bien: null
+thay_the: []
+nguon:
+  ma: qd-5013
+  trang: 153
+  trang_thai: chua_doi_chieu

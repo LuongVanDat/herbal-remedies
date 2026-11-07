@@ -1,0 +1,17 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: viem-da-day-ta-trang-cao-da-cam
+ten: Cao Dạ cẩm
+loai: nghiem_phuong
+thanh_phan:
+  - vi: da-cam
+    lieu_g: 300
+    vai_tro: null
+  - vi: duong
+    lieu_g: 900
+    vai_tro: null
+cach_dung: Chế thành cao hoặc siro, mỗi ngày uống lượng tương đương 20g Dạ cẩm.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 112
+  trang_thai: chua_doi_chieu

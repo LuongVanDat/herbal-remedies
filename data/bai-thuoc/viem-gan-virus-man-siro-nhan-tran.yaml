@@ -1,0 +1,17 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: viem-gan-virus-man-siro-nhan-tran
+ten: Siro nhân trần
+loai: nghiem_phuong
+thanh_phan:
+  - vi: nhan-tran
+    lieu_g: 24
+    vai_tro: null
+  - vi: chi-tu
+    lieu_g: 12
+    vai_tro: null
+cach_dung: Thêm 600ml nước, sắc còn 100ml thêm đường vào cho đủ thành siro. Chia 3 lần uống trong ngày.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 121
+  trang_thai: chua_doi_chieu

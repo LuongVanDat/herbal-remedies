@@ -1,1 +1,1198 @@
-nhom: []
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+nhom:
+  - id: vi-tri-dau
+    ten: Đau – vận động
+    trieu_chung:
+      - id: dau-nhieu-vung-that-lung
+        ten: Đau nhiều vùng thắt lưng
+      - id: dau-tang-khi-troi-lanh-am
+        ten: Đau tăng khi trời lạnh, ẩm
+      - id: co-canh-cot-song-co-cung
+        ten: Cơ cạnh cột sống co cứng
+      - id: an-dau
+        ten: Ấn đau
+      - id: vung-that-lung-dau
+        ten: Vùng thắt lưng đau
+      - id: sung-nong-do-hoac-cam-giac-nong-but-rut-vung
+        ten: Sưng nóng đỏ hoặc cảm giác nóng bứt rứt vùng thắt lưng
+      - id: dau-lung-xuat-hien-sau-khi-vac-nang-lech-nguoi
+        ten: Đau lưng xuất hiện sau khi vác nặng, lệch người hoặc thay đổi tư thế đột ngột
+      - id: dau-du-doi-o-mot-cho
+        ten: Đau dữ dội ở một chỗ
+      - id: cu-an
+        ten: Cự án
+      - id: van-dong-bi-han-che
+        ten: Vận động bị hạn chế
+      - id: thay-doi-tu-the-thi-dau-tang
+        ten: Thay đổi tư thế thì đau tăng
+      - id: dau-am-i
+        ten: Đau âm ỉ
+      - id: chan-goi-yeu
+        ten: Chân gối yếu
+      - id: lao-dong-dau-nhieu-nghi-ngoi-dau-giam-it
+        ten: Lao động đau nhiều, nghỉ ngơi đau giảm ít
+      - id: sau-khi-nhiem-ngoai-ta-phong-han-thap-xuat-hien
+        ten: Sau khi nhiễm ngoại tà (phong, hàn, thấp) xuất hiện đau
+      - id: sung-ne
+        ten: Sưng nề
+      - id: han-che-van-dong-khop-goi-mot-hoac-hai-ben
+        ten: Hạn chế vận động khớp gối một hoặc hai bên
+      - id: troi-lanh-am-dau-tang
+        ten: Trời lạnh ẩm đau tăng
+      - id: chuom-am-do-dau
+        ten: Chườm ấm đỡ đau
+      - id: dau-moi-khop-goi
+        ten: Đau mỏi khớp gối
+      - id: van-dong-co-duoi-kho-khan
+        ten: Vận động co duỗi khó khăn
+      - id: co-the-bien-dang-khop
+        ten: Có thể biến dạng khớp
+      - id: sau-khi-nhiem-them-ngoai-ta-phong-han-thap-xuat
+        ten: Sau khi nhiễm thêm ngoại tà (phong, hàn, thấp) xuất hiện đau tăng lên
+      - id: khop-goi-sung-ne
+        ten: Khớp gối sưng nề
+      - id: dau-moi-lung-goi
+        ten: Đau mỏi lưng gối
+      - id: dau-moi-khop-goi-tu-lau
+        ten: Đau mỏi khớp gối từ lâu
+      - id: co-the-co-bien-dang-khop
+        ten: Có thể có biến dạng khớp
+      - id: dot-nay-xuat-hien-sung-dau-khop-goi-mot-hoac
+        ten: Đợt này xuất hiện sưng, đau khớp gối một hoặc hai bên
+      - id: khop-goi-nong-hoac-do
+        ten: Khớp gối nóng hoặc đỏ
+      - id: dau-cu-an
+        ten: Đau cự án
+      - id: sung-nong-do-dau-mot-hoac-nhieu-khop-dac-biet
+        ten: Sưng, nóng, đỏ, đau một hoặc nhiều khớp (đặc biệt là khớp bàn ngón chân cái)
+      - id: khoi-phat-thuong-cap-tinh
+        ten: Khởi phát thường cấp tính
+      - id: han-che-van-dong-khop
+        ten: Hạn chế vận động khớp
+      - id: co-the-co-hat-lang-dong-canh-khop
+        ten: Có thể có hạt lắng đọng cạnh khớp
+      - id: dau-khop-co-tinh-chat-luu-chuyen
+        ten: Đau khớp có tính chất lưu chuyển
+      - id: dau-du-doi-cac-khop
+        ten: Đau dữ dội các khớp
+      - id: vi-tri-dau-co-dinh
+        ten: Vị trí đau cố định
+      - id: gap-lanh-dau-tang
+        ten: Gặp lạnh đau tăng
+      - id: chuom-nong-de-chiu
+        ten: Chườm nóng dễ chịu
+      - id: cam-giac-dau-but-rut-nang-ne-tai-cac-khop
+        ten: Cảm giác đau bứt rứt nặng nề tại các khớp
+      - id: vi-tri-dau-thuong-co-dinh
+        ten: Vị trí đau thường cố định
+      - id: cac-khop-sung
+        ten: Các khớp sưng
+      - id: nang-thi-xung-quanh-khop-cung-sung
+        ten: Nặng thì xung quanh khớp cũng sưng
+      - id: tai-di-tai-lai-nhieu-lan-dai-dang-khong-dut
+        ten: Tái đi tái lại nhiều lần, dai dẳng không dứt
+      - id: dau-nhuc-nhe
+        ten: Đau nhức nhẹ
+      - id: co-cac-hat-cung-canh-khop
+        ten: Có các hạt cứng cạnh khớp
+      - id: dau-khop-tai-di-tai-lai-dai-dang-khong-dut
+        ten: Đau khớp tái đi tái lại, dai dẳng không dứt
+      - id: luc-nang-luc-nhe
+        ten: Lúc nặng lúc nhẹ
+      - id: cam-giac-dau-nhuc-am-i-di-chuyen-giua-cac-khop
+        ten: Cảm giác đau nhức âm ỉ di chuyển giữa các khớp
+      - id: tham-chi-bien-dang-khop
+        ten: Thậm chí biến dạng khớp
+      - id: dau-lung-moi-goi
+        ten: Đau lưng mỏi gối
+      - id: cac-khop-va-co-nhuc-dau-moi
+        ten: Các khớp và cơ nhục đau mỏi
+      - id: co-duoi-kho-khan
+        ten: Co duỗi khó khăn
+      - id: cam-giac-nang-ne
+        ten: Cảm giác nặng nề
+      - id: dau-co-tinh-chat-di-chuyen
+        ten: Đau có tính chất di chuyển
+      - id: thuong-xay-ra-o-cac-khop-nho-va-nho
+        ten: Thường xảy ra ở các khớp nhỏ và nhỡ
+      - id: trong-dot-benh-tien-trien-cac-khop-sung-dau
+        ten: Trong đợt bệnh tiến triển các khớp sưng đau
+      - id: cac-khop-o-chi-tren-va-chi-duoi-co-cam-giac-dau
+        ten: Các khớp ở chi trên và chi dưới có cảm giác đau, lạnh và nặng nề
+      - id: tinh-chat-dau-thuong-co-dinh-it-di-chuyen
+        ten: Tính chất đau thường cố định, ít di chuyển
+      - id: ngay-dau-nhe-ve-dem-dau-nang
+        ten: Ngày đau nhẹ, về đêm đau nặng
+      - id: thoi-tiet-lanh-am-dau-tang-len
+        ten: Thời tiết lạnh, ẩm đau tăng lên
+      - id: chuom-nong-do-dau
+        ten: Chườm nóng đỡ đau
+      - id: cho-dau-it-sung-ne
+        ten: Chỗ đau ít sưng nề
+      - id: cac-khop-sung-nong-do-dau
+        ten: Các khớp sưng, nóng, đỏ, đau
+      - id: xuat-hien-doi-xung
+        ten: Xuất hiện đối xứng
+      - id: van-dong-di-lai-kho
+        ten: Vận động, đi lại khó
+      - id: chuom-lanh-cac-khop-co-cam-giac-de-chiu
+        ten: Chườm lạnh các khớp có cảm giác dễ chịu
+      - id: cac-khop-sung-nong-do-dau-nhieu
+        ten: Các khớp sưng nóng đỏ đau nhiều
+      - id: cac-khop-sung-dau-it
+        ten: Các khớp sưng đau ít
+      - id: cac-khop-sung-dau-keo-dai
+        ten: Các khớp sưng đau kéo dài
+      - id: co-nhuc-va-cac-khop-dau-moi
+        ten: Cơ nhục và các khớp đau mỏi
+      - id: cho-dau-co-dinh-khong-di-chuyen
+        ten: Chỗ đau cố định không di chuyển
+      - id: cac-khop-sung-ne
+        ten: Các khớp sưng nề
+      - id: teo-co
+        ten: Teo cơ
+      - id: cung-khop
+        ten: Cứng khớp
+      - id: bien-dang-khop
+        ten: Biến dạng khớp
+      - id: dau-nhuc-vung-dau-co-vai-va-nguc-lung
+        ten: Đau nhức vùng đầu, cổ, vai và ngực lưng
+      - id: co-diem-dau-co-dinh-o-co
+        ten: Có điểm đau cố định ở cổ
+      - id: co-the-so-thay-co-co-o-co-vai-gay
+        ten: Có thể sờ thấy co cơ ở cổ vai gáy
+      - id: cung-co
+        ten: Cứng cổ
+      - id: han-che-van-dong
+        ten: Hạn chế vận động
+      - id: dau-te-nhuc-tu-chi
+        ten: Đau, tê, nhức tứ chi
+      - id: co-the-co-cam-giac-nang-va-yeu-hai-chi-tren
+        ten: Có thể có cảm giác nặng và yếu hai chi trên
+      - id: vung-co-gay-sung-nong-do
+        ten: Vùng cổ gáy sưng, nóng, đỏ
+      - id: dau-nhuc-te-vung-dau-co-vai-va-nguc-lung
+        ten: Đau nhức, tê vùng đầu, cổ, vai và ngực lưng
+      - id: te-dau-nhoi-co-dinh
+        ten: Tê, đau nhói cố định
+      - id: dau-tang-ve-dem-ban-ngay-do-dau
+        ten: Đau tăng về đêm, ban ngày đỡ đau
+      - id: co-cung-co-tai-cho
+        ten: Co cứng cơ tại chỗ
+      - id: dau-nhuc-vai-gay-va-nguc-lung
+        ten: Đau nhức vai gáy và ngực lưng
+      - id: lung-goi-dau-yeu
+        ten: Lưng gối đau yếu
+      - id: lung-dau-goi-moi
+        ten: Lưng đau, gối mỏi
+      - id: lung-goi-dau-moi
+        ten: Lưng gối đau mỏi
+      - id: lung-dau-goi-moi-2
+        ten: Lưng đau gối mỏi
+      - id: dau-2-ben-mang-suon-tung-con-vi-tri-khong-co
+        ten: Đau 2 bên mạng sườn từng cơn, vị trí không cố định
+      - id: dau-nhoi-vung-nguc-co-the-lan-ra-sau-vung-lung
+        ten: Đau nhói vùng ngực, có thể lan ra sau vùng lưng trên
+      - id: dau-vung-thuong-vi
+        ten: Đau vùng thượng vị
+      - id: dau-lien-suon-doc-theo-duong-di-cua-day-than
+        ten: Đau liên sườn dọc theo đường đi của dây thần kinh
+      - id: dau-nhat-o-vung-re-sau-lung-duong-nach-giua-sau
+        ten: Đau nhất ở vùng rễ sau lưng, đường nách giữa, sau ức đòn
+      - id: dau-vung-ha-suon
+        ten: Đau vùng hạ sườn
+      - id: diem-dau-khong-co-dinh
+        ten: Điểm đau không cố định
+      - id: tham-chi-dau-nhu-bo-chat-vung-nguc-suon-xuyen
+        ten: Thậm chí đau như bó chặt vùng ngực sườn xuyên ra lưng và vai
+      - id: dau-tang-khi-tinh-chi-kich-dong
+        ten: Đau tăng khi tình chí kích động
+      - id: vung-suon-cam-giac-nong-rat-dau
+        ten: Vùng sườn cảm giác nóng rát, đau
+      - id: nguc-suon-chuong-dau
+        ten: Ngực sườn chướng, đau
+      - id: vung-mang-suon-dau-nhu-kim-cham
+        ten: Vùng mạng sườn đau như kim châm
+      - id: dau-co-dinh
+        ten: Đau cố định
+      - id: dau-tang-ve-dem
+        ten: Đau tăng về đêm
+      - id: suon-dau
+        ten: Sườn đau
+      - id: sau-khi-bi-nhiem-lanh-dau-tu-that-lung-hoac-tu
+        ten: Sau khi bị nhiễm lạnh, đau từ thắt lưng hoặc từ mông xuống chân
+      - id: dau-co-diem-khu-tru
+        ten: Đau có điểm khu trú
+      - id: dau-tang-khi-troi-lanh
+        ten: Đau tăng khi trời lạnh
+      - id: chuom-am-de-chiu
+        ten: Chườm ấm dễ chịu
+      - id: dau-vung-that-lung-lan-xuong-mong-chan-doc-theo
+        ten: Đau vùng thắt lưng lan xuống mông, chân dọc theo đường đi của dây thần kinh tọa
+      - id: dau-co-cam-giac-te-bi-nang-ne
+        ten: Đau có cảm giác tê bì, nặng nề
+      - id: co-the-teo-co
+        ten: Có thể teo cơ
+      - id: dau-vung-that-lung-lan-xuong-mong-chan-doc-theo-2
+        ten: Đau vùng thắt lưng lan xuống mông, chân dọc theo đường đi của dây thần kinh hông to
+      - id: dau-co-cam-nong-rat-nhu-kim-cham
+        ten: Đau có cảm nóng rát như kim châm
+      - id: chan-dau-nong-hon-chan-ben-lanh
+        ten: Chân đau nóng hơn chân bên lành
+      - id: dau-dot-ngot-du-doi-tai-mot-diem
+        ten: Đau đột ngột, dữ dội tại một điểm
+      - id: dau-lan-xuong-chan
+        ten: Đau lan xuống chân
+      - id: han-che-van-dong-nhieu
+        ten: Hạn chế vận động nhiều
+      - id: chan-tay-cung-do-co-quap
+        ten: Chân tay cứng đờ, co quắp
+      - id: nang-ne-kho-cu-dong
+        ten: Nặng nề, khó cử động
+      - id: chan-tay-cu-dong-cham-chap
+        ten: Chân tay cử động chậm chạp
+      - id: khi-dung-chan-co-rut-buoc-khong-thang
+        ten: Khi đứng chân co rút, bước không thẳng
+      - id: co-lung-mem
+        ten: Cổ lưng mềm
+      - id: tu-chi-mem-yeu
+        ten: Tứ chi mềm yếu
+      - id: cu-dong-cham-chap-kho-khan
+        ten: Cử động chậm chạp, khó khăn
+      - id: buoc-di-khong-thang
+        ten: Bước đi không thẳng
+      - id: cu-dong-khong-tu-chu
+        ten: Cử động không tự chủ
+      - id: chan-tay-co-cung-xoan-van
+        ten: Chân tay co cứng, xoắn vặn
+      - id: chan-tay-co-cung-hoac-liet
+        ten: Chân tay co cứng hoặc liệt
+      - id: khong-ngoi-khong-dung-khong-di-duoc
+        ten: Không ngồi, không đứng, không đi được
+      - id: dau-bung-vung-thuong-vi-thanh-con
+        ten: Đau bụng vùng thượng vị thành cơn
+      - id: dau-lan-ra-man-suon
+        ten: Đau lan ra mạn sườn
+      - id: co-khi-dau-lan-ra-sau-lung
+        ten: Có khi đau lan ra sau lưng
+      - id: an-dau-cu-an
+        ten: Ấn đau (cự án)
+      - id: khi-o-hoi-duoc-thi-do-dau
+        ten: Khi ợ hơi được thì đỡ đau
+      - id: dau-thuong-vi-nhieu
+        ten: Đau thượng vị nhiều
+      - id: dau-nong-rat
+        ten: Đau nóng rát
+      - id: dau-du-doi-o-mot-vi-tri-nhat-dinh-vung-thuong-vi
+        ten: Đau dữ dội ở một vị trí nhất định vùng thượng vị
+      - id: dau-thuong-vi-am-i
+        ten: Đau thượng vị âm ỉ
+      - id: dau-lien-mien
+        ten: Đau liên miên
+      - id: khi-dau-thich-xoa-bop-chuom-nong
+        ten: Khi đau thích xoa bóp, chườm nóng
+      - id: dau-tuc-nang-o-vung-ha-suon-phai
+        ten: Đau tức nặng ở vùng hạ sườn phải
+      - id: moi-khi-tinh-than-bi-kich-dong-tuc-gian-thi-cam
+        ten: Mỗi khi tinh thần bị kích động, tức giận thì cảm giác đau tức lại tăng lên
+      - id: vung-ha-suon-phai-co-cam-giac-dau-nhu-kim-cham
+        ten: Vùng hạ sườn phải có cảm giác đau như kim châm
+      - id: cho-dau-thuong-co-dinh-khong-di-chuyen
+        ten: Chỗ đau thường cố định, không di chuyển
+      - id: ve-dem-thuong-dau-tang-len
+        ten: Về đêm thường đau tăng lên
+      - id: dau-tuc-vung-mang-suon-phai
+        ten: Đau tức vùng mạng sườn phải
+      - id: dau-tuc-vung-ha-suon-phai
+        ten: Đau tức vùng hạ sườn phải
+      - id: toan-than-dau-moi
+        ten: Toàn thân đau mỏi
+      - id: nguc-suon-day-tuc
+        ten: Ngực sườn đầy tức
+      - id: khi-van-dong-cac-trieu-chung-tren-tang-len
+        ten: Khi vận động các triệu chứng trên tăng lên
+      - id: vung-hau-mon-dau
+        ten: Vùng hậu môn đau
+  - id: han-nhiet
+    ten: Hàn nhiệt
+    trieu_chung:
+      - id: so-lanh
+        ten: Sợ lạnh
+      - id: co-the-sot
+        ten: Có thể sốt
+      - id: chan-tay-lanh
+        ten: Chân tay lạnh
+      - id: long-ban-tay-ban-chan-nong
+        ten: Lòng bàn tay bàn chân nóng
+      - id: so-gio
+        ten: Sợ gió
+      - id: phat-sot
+        ten: Phát sốt
+      - id: thoi-ky-dau-co-bieu-hien-so-gio
+        ten: Thời kỳ đầu có biểu hiện sợ gió
+      - id: thoi-ky-dau-phat-sot
+        ten: Thời kỳ đầu phát sốt
+      - id: sot-cao
+        ten: Sốt cao
+      - id: sot-nhe
+        ten: Sốt nhẹ
+      - id: thich-am
+        ten: Thích ấm
+      - id: trieu-nhiet
+        ten: Triều nhiệt
+      - id: nguoi-lanh
+        ten: Người lạnh
+      - id: phien-nhiet
+        ten: Phiền nhiệt
+      - id: gai-ret
+        ten: Gai rét
+      - id: sot
+        ten: Sốt
+      - id: han-nhiet-vang-lai
+        ten: Hàn nhiệt vãng lai
+      - id: dem-nong-sang-mat
+        ten: Đêm nóng, sáng mát
+      - id: het-sot-hoac-chi-con-sot-nhe-ma-khong-co-mo-hoi
+        ten: Hết sốt hoặc chỉ còn sốt nhẹ mà không có mồ hôi
+      - id: long-ban-chan-tay-nong-do
+        ten: Lòng bàn chân tay nóng đỏ
+      - id: co-luc-ha-than-nhiet
+        ten: Có lúc hạ thân nhiệt
+      - id: tay-chan-lanh
+        ten: Tay chân lạnh
+      - id: co-the-kem-theo-sot
+        ten: Có thể kèm theo sốt
+      - id: lung-va-tay-chan-lanh
+        ten: Lưng và tay chân lạnh
+      - id: nguoi-nong
+        ten: Người nóng
+      - id: so-nong
+        ten: Sợ nóng
+      - id: chan-khong-am
+        ten: Chân không ấm
+  - id: mo-hoi
+    ten: Mồ hôi
+    trieu_chung:
+      - id: ra-mo-hoi-trom
+        ten: Ra mồ hôi trộm
+      - id: ra-mo-hoi
+        ten: Ra mồ hôi
+  - id: dau-mat
+    ten: Đầu – mặt – họng
+    trieu_chung:
+      - id: mieng-hong-kho
+        ten: Miệng họng khô
+      - id: u-tai
+        ten: Ù tai
+      - id: dau-dau
+        ten: Đau đầu
+      - id: hoa-mat
+        ten: Hoa mắt
+      - id: dau-nang-dau
+        ten: Đau nặng đầu
+      - id: mieng-kho
+        ten: Miệng khô
+      - id: dau-cang-dau
+        ten: Đau căng đầu
+      - id: nhin-mo
+        ten: Nhìn mờ
+      - id: mieng-dang
+        ten: Miệng đắng
+      - id: nang-dau
+        ten: Nặng đầu
+      - id: rang-rung
+        ten: Răng rụng
+      - id: dang-mieng
+        ten: Đắng miệng
+      - id: kho-mieng
+        ten: Khô miệng
+      - id: dau-nhuc-mat
+        ten: Đau nhức mắt
+      - id: sau-khi-bi-lanh-xuat-hien-mieng-meo
+        ten: Sau khi bị lạnh xuất hiện miệng méo
+      - id: mat-nham-khong-kin
+        ten: Mắt nhắm không kín
+      - id: kho-thoi-lua-huyt-sao
+        ten: Khó thổi lửa, huýt sáo
+      - id: an-uong-nuoc-trao-ra-ben-liet
+        ten: Ăn uống nước trào ra bên liệt
+      - id: nhan-trung-lech-ve-ben-lanh
+        ten: Nhân trung lệch về bên lành
+      - id: nep-nhan-tran-va-ranh-mui-ma-mo-hoac-mat-ben
+        ten: Nếp nhăn trán và rãnh mũi má mờ hoặc mất bên liệt
+      - id: mieng-meo
+        ten: Miệng méo
+      - id: sau-sang-chan-xuat-hien-mieng-meo
+        ten: Sau sang chấn xuất hiện miệng méo
+      - id: tai-u
+        ten: Tai ù
+      - id: mieng-dang-ma-kho
+        ten: Miệng đắng mà khô
+      - id: mieng-dang-hong-kho
+        ten: Miệng đắng họng khô
+      - id: mat-mat-co-keo
+        ten: Mặt, mắt co kéo
+      - id: mieng-chay-dai
+        ten: Miệng chảy dãi
+      - id: nghe-kem
+        ten: Nghe kém
+      - id: mat-mo-hoac-co-mang
+        ten: Mắt mờ hoặc có màng
+      - id: mieng-kho-dang
+        ten: Miệng khô đắng
+      - id: moi-nhot
+        ten: Môi nhợt
+      - id: cung-mac-mat-vang
+        ten: Củng mạc mắt vàng
+      - id: hong-kho
+        ten: Họng khô
+      - id: hong-dau
+        ten: Họng đau
+      - id: nuoc-mui-vang-duc
+        ten: Nước mũi vàng đục
+      - id: nhuc-dau
+        ten: Nhức đầu
+      - id: tac-mui
+        ten: Tắc mũi
+      - id: chay-nuoc-mui-trong
+        ten: Chảy nước mũi trong
+      - id: khan-tieng
+        ten: Khản tiếng
+      - id: mui-kho
+        ten: Mũi khô
+      - id: dau-hong
+        ten: Đau họng
+      - id: hau-hong-sung-dau
+        ten: Hầu họng sưng đau
+      - id: mieng-dang-va-kho
+        ten: Miệng đắng và khô
+  - id: ho-hap
+    ten: Hô hấp
+    trieu_chung:
+      - id: khi-doan
+        ten: Khí đoản
+      - id: nuot-tho-kho-khan
+        ten: Nuốt thở khó khăn
+      - id: hong-co-tieng-dom-kho-khe
+        ten: Họng có tiếng đờm khò khè
+      - id: ho-nhieu
+        ten: Ho nhiều
+      - id: tieng-ho-nang
+        ten: Tiếng ho nặng
+      - id: khac-dom-dac-vang
+        ten: Khạc đờm đặc, vàng
+      - id: ho
+        ten: Ho
+      - id: dom-trong-loang-sac-trang-de-khac
+        ten: Đờm trong loãng, sắc trắng, dễ khạc
+      - id: ho-khan
+        ten: Ho khan
+      - id: it-dom
+        ten: Ít đờm
+      - id: doi-khi-ho-co-lan-it-dom-trong-co-tia-mau
+        ten: Đôi khi ho có lẫn ít đờm, trong có tia máu
+      - id: khac-dom-nhieu
+        ten: Khạc đờm nhiều
+      - id: dom-trang-dinh-loang-hoac-thanh-cuc
+        ten: Đờm trắng, dính loãng hoặc thành cục
+      - id: dom-nhieu
+        ten: Đờm nhiều
+      - id: tho-ngan
+        ten: Thở ngắn
+      - id: ho-keo-dai-hay-tai-phat
+        ten: Ho kéo dài, hay tái phát
+      - id: kho-tho
+        ten: Khó thở
+      - id: khi-troi-lanh-thi-ho-tang-len
+        ten: Khi trời lạnh thì ho tăng lên
+      - id: khac-ra-nhieu-dom-loang-trang
+        ten: Khạc ra nhiều đờm loãng trắng
+      - id: kho-tho-nhieu-khi-nam-phai-goi-dau-cao
+        ten: Khó thở, nhiều khi nằm phải gối đầu cao
+      - id: tho-ngan-gap
+        ten: Thở ngắn gấp
+      - id: doan-hoi
+        ten: Đoản hơi
+  - id: tieu-hoa
+    ten: Tiêu hóa – ăn uống
+    trieu_chung:
+      - id: bung-duoi-lanh-dau
+        ten: Bụng dưới lạnh đau
+      - id: bung-duoi-lanh
+        ten: Bụng dưới lạnh
+      - id: dai-tien-phan-nat
+        ten: Đại tiện phân nát
+      - id: mieng-kho-khat
+        ten: Miệng khô khát
+      - id: thich-uong-nuoc-mat
+        ten: Thích uống nước mát
+      - id: dai-tien-tao
+        ten: Đại tiện táo
+      - id: khat-nuoc
+        ten: Khát nước
+      - id: dai-tien-long
+        ten: Đại tiện lỏng
+      - id: bung-day
+        ten: Bụng đầy
+      - id: buon-non
+        ten: Buồn nôn
+      - id: an-it
+        ten: Ăn ít
+      - id: an-kem-khong-muon-an
+        ten: Ăn kém, không muốn ăn
+      - id: day-chuong-bung
+        ten: Đầy chướng bụng
+      - id: dai-tien-nat
+        ten: Đại tiện nát
+      - id: an-kem
+        ten: Ăn kém
+      - id: day-bung
+        ten: Đầy bụng
+      - id: cam-giac-nong-hau-mon
+        ten: Cảm giác nóng hậu môn
+      - id: o-hoi
+        ten: Ợ hơi
+      - id: bung-chuong-khong-muon-an
+        ten: Bụng chướng không muốn ăn
+      - id: o-chua
+        ten: Ợ chua
+      - id: dai-tien-nong-rat
+        ten: Đại tiện nóng rát
+      - id: nguc-bung-day-chuong
+        ten: Ngực bụng đầy chướng
+      - id: dai-tien-co-the-binh-thuong-hoac-nat
+        ten: Đại tiện có thể bình thường hoặc nát
+      - id: nhai-bu-vo-luc
+        ten: Nhai bú vô lực
+      - id: nuot-thuc-an-kho-khan
+        ten: Nuốt thức ăn khó khăn
+      - id: bieng-an
+        ten: Biếng ăn
+      - id: an-uong-it-hoac-an-nhieu-de-doi
+        ten: Ăn uống ít hoặc ăn nhiều dễ đói
+      - id: dai-tien-nat-hoac-bi
+        ten: Đại tiện nát hoặc bí
+      - id: bung-chuong-to-noi-gan-xanh
+        ten: Bụng chướng to, nổi gân xanh
+      - id: an-uong-it-hoac-nhieu
+        ten: Ăn uống ít hoặc nhiều
+      - id: dai-tien-nhieu
+        ten: Đại tiện nhiều
+      - id: bung-lom-long-thuyen
+        ten: Bụng lõm lòng thuyền
+      - id: ngui-khong-muon-an
+        ten: Ngửi không muốn ăn
+      - id: dai-tien-nat-hoac-phan-khuon-be
+        ten: Đại tiện nát hoặc phân khuôn bé
+      - id: bung-day-chuong-nhieu
+        ten: Bụng đầy chướng nhiều
+      - id: hay-o-chua
+        ten: Hay ợ chua
+      - id: o-chua-nhieu
+        ten: Ợ chua nhiều
+      - id: non-ra-mau
+        ten: Nôn ra máu
+      - id: di-ngoai-phan-den
+        ten: Đi ngoài phân đen
+      - id: non-nhieu-non-ra-nuoc-trong
+        ten: Nôn nhiều nôn ra nước trong
+      - id: thich-an-do-am-nong
+        ten: Thích ăn đồ ấm nóng
+      - id: bung-day-thuong-xuyen
+        ten: Bụng đầy thường xuyên
+      - id: dai-tien-long-nat
+        ten: Đại tiện lỏng nát
+      - id: an-uong-kem
+        ten: Ăn uống kém
+      - id: khong-muon-an
+        ten: Không muốn ăn
+      - id: doi-khi-co-cam-giac-non-buon-non
+        ten: Đôi khi có cảm giác nôn, buồn nôn
+      - id: mieng-khat
+        ten: Miệng khát
+      - id: nguc-bung-co-cam-giac-day-tuc
+        ten: Ngực bụng có cảm giác đầy tức
+      - id: mieng-khat-ma-khong-muon-uong
+        ten: Miệng khát mà không muốn uống
+      - id: uong-nuoc-bi-non
+        ten: Uống nước bị nôn
+      - id: bung-duoi-day
+        ten: Bụng dưới đầy
+      - id: khong-muon-uong-nuoc
+        ten: Không muốn uống nước
+      - id: dai-tien-kho
+        ten: Đại tiện khó
+      - id: phien-khat
+        ten: Phiền khát
+      - id: thich-uong-nuoc
+        ten: Thích uống nước
+      - id: bung-day-truong-hoac-dau
+        ten: Bụng đầy trướng hoặc đau
+      - id: dai-tien-co-kem-theo-mau-tuoi-tham-giay-ve-sinh
+        ten: Đại tiện có kèm theo máu tươi (thấm giấy vệ sinh, nhỏ giọt hoặc thành tia)
+      - id: hau-mon-nong
+        ten: Hậu môn nóng
+      - id: khoi-tri-sa-ra-it-hoac-khong-sa
+        ten: Khối trĩ sa ra ít hoặc không sa
+      - id: dai-tien-tao-ket
+        ten: Đại tiện táo kết
+      - id: bui-tri-sung-chac-dau-nhuc-tim-sam-mau
+        ten: Búi trĩ sưng, chắc, đau nhức, tím sẫm màu
+      - id: dai-tien-co-mau-tuoi
+        ten: Đại tiện có máu tươi
+      - id: tiet-nhieu-dich
+        ten: Tiết nhiều dịch
+      - id: tri-sa-ra-ngoai-kho-day-vao
+        ten: Trĩ sa ra ngoài khó đẩy vào
+      - id: co-the-co-diem-hoai-tu-be-mat-bui-tri
+        ten: Có thể có điểm hoại tử bề mặt búi trĩ
+      - id: co-diem-loet-chay-dich-vang-hoi
+        ten: Có điểm loét chảy dịch vàng hôi
+      - id: dai-tien-ra-mau-lau-ngay
+        ten: Đại tiện ra máu lâu ngày
+  - id: tieu-tien
+    ten: Tiểu tiện
+    trieu_chung:
+      - id: tieu-dem
+        ten: Tiểu đêm
+      - id: tieu-vang-luong-it
+        ten: Tiểu vàng lượng ít
+      - id: tieu-vang-so-luong-it
+        ten: Tiểu vàng số lượng ít
+      - id: nuoc-tieu-do
+        ten: Nước tiểu đỏ
+      - id: tieu-dem-nhieu-lan
+        ten: Tiểu đêm nhiều lần
+      - id: tieu-trong-dai
+        ten: Tiểu trong dài
+      - id: nuoc-tieu-vang
+        ten: Nước tiểu vàng
+      - id: tieu-tien-vang
+        ten: Tiểu tiện vàng
+      - id: tieu-tien-ngan-do
+        ten: Tiểu tiện ngắn đỏ
+      - id: tieu-tien-trong
+        ten: Tiểu tiện trong
+      - id: khi-gang-suc-thi-nuoc-tieu-vang
+        ten: Khi gắng sức thì nước tiểu vàng
+      - id: tieu-luong-it-nho-giot
+        ten: Tiểu lượng ít, nhỏ giọt
+      - id: tieu-nong-rat
+        ten: Tiểu nóng rát
+      - id: khong-tieu-tien-duoc
+        ten: Không tiểu tiện được
+      - id: tieu-tien-nho-giot-khong-de-dang
+        ten: Tiểu tiện nhỏ giọt, không dễ dàng
+      - id: tia-nho-khong-thong
+        ten: Tia nhỏ không thông
+      - id: tieu-tien-dot-ngot-khong-thong-hoac-thong-ma
+        ten: Tiểu tiện đột ngột không thông hoặc thông mà không dễ dàng
+      - id: tieu-it
+        ten: Tiểu ít
+      - id: tieu-kho
+        ten: Tiểu khó
+  - id: da
+    ten: Da
+    trieu_chung:
+      - id: sac-da-tim
+        ten: Sắc da tím
+      - id: co-the-co-vet-sang-thuong
+        ten: Có thể có vết sang thương
+      - id: da-kho
+        ten: Da khô
+      - id: da-vang
+        ten: Da vàng
+      - id: san-phu-mau-trang
+        ten: Sẩn phù màu trắng
+      - id: gap-gio-lanh-thi-nang-len
+        ten: Gặp gió lạnh thì nặng lên
+      - id: chuom-am-thay-do
+        ten: Chườm ấm thấy đỡ
+      - id: san-phu-mau-do-tuoi
+        ten: Sẩn phù màu đỏ tươi
+      - id: ngua-du-doi
+        ten: Ngứa dữ dội
+      - id: gap-nong-benh-nang-them
+        ten: Gặp nóng bệnh nặng thêm
+      - id: benh-tai-di-tai-lai
+        ten: Bệnh tái đi tái lại
+      - id: ton-thuong-co-mau-trang
+        ten: Tổn thương có màu trắng
+      - id: sau-trua-hoac-ve-dem-thi-nang-len
+        ten: Sau trưa hoặc về đêm thì nặng lên
+  - id: than-kinh
+    ten: Thần kinh – giấc ngủ
+    trieu_chung:
+      - id: ngu-kem
+        ten: Ngủ kém
+      - id: phien-tao-but-rut-khong-yen
+        ten: Phiền táo bứt rứt không yên
+      - id: cam-giac-te-bi-kho-chiu-trong-co-va-ngoai-da
+        ten: Cảm giác tê bì khó chịu trong cơ và ngoài da
+      - id: chong-mat
+        ten: Chóng mặt
+      - id: bi-phu-co-cam-giac-te-bi
+        ten: Bì phù có cảm giác tê bì
+      - id: tay-va-chan-co-cam-giac-te-bi-va-nang-ne
+        ten: Tay và chân có cảm giác tê bì và nặng nề
+      - id: kich-thich-kho-chiu
+        ten: Kích thích khó chịu
+      - id: te-bi-tay
+        ten: Tê bì tay
+      - id: hoa-mat-chong-mat
+        ten: Hoa mắt chóng mặt
+      - id: choang-vang
+        ten: Choáng váng
+      - id: hay-tuc-gian
+        ten: Hay tức giận
+      - id: it-ngu
+        ten: Ít ngủ
+      - id: ngu-hay-me
+        ten: Ngủ hay mê
+      - id: vang-dau
+        ten: Váng đầu
+      - id: hay-quen
+        ten: Hay quên
+      - id: mat-ngu
+        ten: Mất ngủ
+      - id: ngu-it
+        ten: Ngủ ít
+      - id: hoi-hop
+        ten: Hồi hộp
+      - id: ngu-li-bi
+        ten: Ngủ li bì
+      - id: tinh-than-ue-oai
+        ten: Tinh thần uể oải
+      - id: tinh-khi-that-thuong
+        ten: Tính khí thất thường
+      - id: tinh-than-uat-uc-hay-cau-gat
+        ten: Tinh thần uất ức hay cáu gắt
+      - id: tinh-chi-khong-yen-de-cau
+        ten: Tình chí không yên, dễ cáu
+      - id: tam-phien-mat-ngu
+        ten: Tâm phiền mất ngủ
+      - id: tam-phien
+        ten: Tâm phiền
+      - id: ban-than-bat-toai-yeu-liet-nua-nguoi
+        ten: Bán thân bất toại (yếu, liệt nửa người)
+      - id: noi-ngong
+        ten: Nói ngọng
+      - id: ban-than-bat-toai-liet-nua-nguoi
+        ten: Bán thân bất toại (liệt nửa người)
+      - id: chan-tay-te-dai
+        ten: Chân tay tê dại
+      - id: te-bi
+        ten: Tê bì
+      - id: noi-kho
+        ten: Nói khó
+      - id: noi-ngong-khong-ro-tieng
+        ten: Nói ngọng, không rõ tiếng
+      - id: dem-ngu-khong-yen
+        ten: Đêm ngủ không yên
+      - id: de-len-con-co-giat
+        ten: Dễ lên cơn co giật
+      - id: tinh-than-dan-don
+        ten: Tinh thần đần độn
+      - id: that-ngon
+        ten: Thất ngôn
+      - id: tinh-than-mo-toi
+        ten: Tinh thần mờ tối
+      - id: phan-ung-cham-chap
+        ten: Phản ứng chậm chạp
+      - id: co-the-co-con-dong-kinh
+        ten: Có thể có cơn động kinh
+      - id: thuong-nam-yen-it-cu-dong
+        ten: Thường nằm yên ít cử động
+      - id: nhan-biet-kem
+        ten: Nhận biết kém
+      - id: quay-khoc
+        ten: Quấy khóc
+      - id: la-het
+        ten: La hét
+      - id: vat-va
+        ten: Vật vã
+      - id: co-giat-hoac-run-giat
+        ten: Co giật hoặc run giật
+      - id: khong-noi-that-van-ngon
+        ten: Không nói (thất vận ngôn)
+      - id: de-tuc-gian
+        ten: Dễ tức giận
+      - id: tinh-than-hay-phien-nao
+        ten: Tinh thần hay phiền não
+      - id: de-kich-dong
+        ten: Dễ kích động
+      - id: ngu-khong-yen
+        ten: Ngủ không yên
+      - id: co-cac-hanh-dong-khac-thuong
+        ten: Có các hành động khác thường
+      - id: hoa-mat-chong-mat-2
+        ten: Hoa mắt, chóng mặt
+      - id: de-bi-xuc-dong
+        ten: Dễ bị xúc động
+      - id: buon-phien
+        ten: Buồn phiền
+      - id: de-cau-gian
+        ten: Dễ cáu giận
+  - id: toan-than
+    ten: Toàn thân
+    trieu_chung:
+      - id: sac-mat-nhot
+        ten: Sắc mặt nhợt
+      - id: sac-mat-do
+        ten: Sắc mặt đỏ
+      - id: nguoi-met-moi
+        ten: Người mệt mỏi
+      - id: sac-mat-sam-den-va-co-the-sung-ne
+        ten: Sắc mặt sạm đen và có thể sưng nề
+      - id: mat-do
+        ten: Mặt đỏ
+      - id: met-moi
+        ten: Mệt mỏi
+      - id: sac-mat-trang
+        ten: Sắc mặt trắng
+      - id: nguoi-thuong-beo-beu
+        ten: Người thường béo bệu
+      - id: nang-ne
+        ten: Nặng nề
+      - id: nguoi-cam-giac-nang-ne
+        ten: Người cảm giác nặng nề
+      - id: thua-can-beo-phi
+        ten: Thừa cân, béo phì
+      - id: toc-bac
+        ten: Tóc bạc
+      - id: met-moi-toan-than
+        ten: Mệt mỏi toàn thân
+      - id: tay-chan-nang-ne
+        ten: Tay chân nặng nề
+      - id: nguoi-beo-beu
+        ten: Người béo bệu
+      - id: chan-tay-minh-may-mem-vo-luc
+        ten: Chân tay mình mẩy mềm vô lực
+      - id: sac-mat-khong-tuoi-nhuan
+        ten: Sắc mặt không tươi nhuận
+      - id: gan-xuong-mem-yeu
+        ten: Gân xương mềm yếu
+      - id: co-nhuc-nheo
+        ten: Cơ nhục nhẽo
+      - id: co-nhuc-mem-nheo
+        ten: Cơ nhục mềm nhẽo
+      - id: nguoi-gay
+        ten: Người gầy
+      - id: sac-mat-luc-trang-luc-do
+        ten: Sắc mặt lúc trắng lúc đỏ
+      - id: nguoi-gay-go
+        ten: Người gầy gò
+      - id: sac-mat-vang-ai-kem-tuoi-nhuan
+        ten: Sắc mặt vàng ải, kém tươi nhuận
+      - id: long-toc-thua
+        ten: Lông tóc thưa
+      - id: tinh-than-met-moi
+        ten: Tinh thần mệt mỏi
+      - id: sac-mat-vang-toi
+        ten: Sắc mặt vàng tối
+      - id: nguoi-tieu-gay
+        ten: Người tiêu gầy
+      - id: ve-mat-cu-gia
+        ten: Vẻ mặt cụ già
+      - id: co-teo
+        ten: Cơ teo
+      - id: da-boc-xuong
+        ten: Da bọc xương
+      - id: long-toc-kho
+        ten: Lông tóc khô
+      - id: sac-mat-nhot-nhat
+        ten: Sắc mặt nhợt nhạt
+      - id: moi-khi-lao-luc-met-moi-nhung-trieu-chung-nay
+        ten: Mỗi khi lao lực mệt mỏi những triệu chứng này lại tăng lên
+      - id: cam-giac-moi-nguoi
+        ten: Cảm giác mỏi người
+      - id: tinh-than-moi-met
+        ten: Tinh thần mỏi mệt
+      - id: mat-trang-nhot
+        ten: Mặt trắng nhợt
+  - id: phu-nu-tre-em
+    ten: Phụ nữ – trẻ em
+    trieu_chung:
+      - id: o-phu-nu-co-the-gap-roi-loan-kinh-nguyet
+        ten: Ở phụ nữ có thể gặp rối loạn kinh nguyệt
+      - id: bau-vu-cang-truong-va-dau
+        ten: Bầu vú căng trướng và đau
+      - id: phat-duc-cham
+        ten: Phát dục chậm
+      - id: cham-ngoi-dung-di-moc-rang
+        ten: Chậm ngồi, đứng, đi, mọc răng
+      - id: thop-lau-lien
+        ten: Thóp lâu liền
+      - id: cham-noi
+        ten: Chậm nói
+      - id: toc-moc-cham-vang-kho-thua
+        ten: Tóc mọc chậm, vàng, khô thưa
+      - id: tieng-khoc-nho-yeu
+        ten: Tiếng khóc nhỏ yếu
+  - id: luoi
+    ten: Lưỡi
+    trieu_chung:
+      - id: reu-luoi-trang-mong
+        ten: Rêu lưỡi trắng mỏng
+      - id: chat-luoi-do
+        ten: Chất lưỡi đỏ
+      - id: reu-luoi-vang-day
+        ten: Rêu lưỡi vàng dầy
+      - id: chat-luoi-tim-co-diem-u-huyet
+        ten: Chất lưỡi tím, có điểm ứ huyết
+      - id: sac-luoi-nhot
+        ten: Sắc lưỡi nhợt
+      - id: luoi-do
+        ten: Lưỡi đỏ
+      - id: reu-luoi-trang-nhot
+        ten: Rêu lưỡi trắng nhớt
+      - id: reu-vang-ban
+        ten: Rêu vàng bẩn
+      - id: reu-luoi-mong-trang-hoac-trang-nhot
+        ten: Rêu lưỡi mỏng trắng hoặc trắng nhớt
+      - id: chat-luoi-beu
+        ten: Chất lưỡi bệu
+      - id: reu-trang-ban
+        ten: Rêu trắng bẩn
+      - id: chat-luoi-nhot
+        ten: Chất lưỡi nhợt
+      - id: reu-trang
+        ten: Rêu trắng
+      - id: reu-luoi-mong-trang-hay-nhot-dinh
+        ten: Rêu lưỡi mỏng trắng hay nhớt dính
+      - id: reu-luoi-vang
+        ten: Rêu lưỡi vàng
+      - id: chat-luoi-tim-sam
+        ten: Chất lưỡi tím sẫm
+      - id: luoi-nhot
+        ten: Lưỡi nhợt
+      - id: reu-trang-mong
+        ten: Rêu trắng mỏng
+      - id: luoi-tim
+        ten: Lưỡi tím
+      - id: co-the-co-diem-u-huyet
+        ten: Có thể có điểm ứ huyết
+      - id: luoi-do-it-reu
+        ten: Lưỡi đỏ ít rêu
+      - id: chat-luoi-hong-nhat
+        ten: Chất lưỡi hồng nhạt
+      - id: reu-luoi-trang
+        ten: Rêu lưỡi trắng
+      - id: chat-luoi-nhot-beu
+        ten: Chất lưỡi nhợt bệu
+      - id: reu-luoi-trang-anh-vang
+        ten: Rêu lưỡi trắng, ánh vàng
+      - id: reu-luoi-trang-day-nhot
+        ten: Rêu lưỡi trắng dày, nhớt
+      - id: luoi-beu-co-vet-han-rang
+        ten: Lưỡi bệu, có vết hằn răng
+      - id: reu-luoi-mong-trang-nhot
+        ten: Rêu lưỡi mỏng, trắng, nhớt
+      - id: reu-luoi-vang-nhot
+        ten: Rêu lưỡi vàng nhớt
+      - id: chat-luoi-tim
+        ten: Chất lưỡi tím
+      - id: luoi-co-diem-u-huyet
+        ten: Lưỡi có điểm ứ huyết
+      - id: luoi-reu-mong
+        ten: Lưỡi rêu mỏng
+      - id: reu-vang
+        ten: Rêu vàng
+      - id: reu-luoi-trang-mong-hoac-vang-mong-hoi-ban
+        ten: Rêu lưỡi trắng mỏng hoặc vàng mỏng hơi bẩn
+      - id: luoi-tim-hoac-co-diem-u-huyet
+        ten: Lưỡi tím hoặc có điểm ứ huyết
+      - id: reu-luoi-trang-day-va-nhot
+        ten: Rêu lưỡi trắng dầy và nhớt
+      - id: chat-luoi-hong-hoac-do
+        ten: Chất lưỡi hồng hoặc đỏ
+      - id: khong-reu-hoac-reu-vang-kho
+        ten: Không rêu hoặc rêu vàng khô
+      - id: luoi-beu-dinh-nhot
+        ten: Lưỡi bệu, dính nhớt
+      - id: reu-trang-day
+        ten: Rêu trắng dày
+      - id: luoi-tim-co-diem-u-huyet
+        ten: Lưỡi tím có điểm ứ huyết
+      - id: it-reu
+        ten: Ít rêu
+      - id: luoi-nhot-beu
+        ten: Lưỡi nhợt bệu
+      - id: chat-luoi-beu-co-diem-u-huyet
+        ten: Chất lưỡi bệu có điểm ứ huyết
+      - id: reu-nhot
+        ten: Rêu nhớt
+      - id: moi-luoi-do
+        ten: Môi lưỡi đỏ
+      - id: it-reu-hoac-khong-reu
+        ten: Ít rêu hoặc không rêu
+      - id: chat-luoi-nhot-hoac-tim
+        ten: Chất lưỡi nhợt hoặc tím
+      - id: reu-mong-trang-hoac-vang-nhat
+        ten: Rêu mỏng trắng hoặc vàng nhạt
+      - id: reu-mong-ban
+        ten: Rêu mỏng bẩn
+      - id: chat-luoi-hong
+        ten: Chất lưỡi hồng
+      - id: reu-luoi-mong
+        ten: Rêu lưỡi mỏng
+      - id: chat-luoi-hoi-do
+        ten: Chất lưỡi hơi đỏ
+      - id: reu-luoi-trang-hoac-hoi-vang-mong
+        ten: Rêu lưỡi trắng hoặc hơi vàng mỏng
+      - id: moi-do-luoi-do
+        ten: Môi đỏ lưỡi đỏ
+      - id: chat-luoi-beu-co-u-huyet
+        ten: Chất lưỡi bệu có ứ huyết
+      - id: reu-luoi-nhuan
+        ten: Rêu lưỡi nhuận
+      - id: chat-luoi-binh-thuong
+        ten: Chất lưỡi bình thường
+      - id: reu-luoi-hoi-vang
+        ten: Rêu lưỡi hơi vàng
+      - id: reu-luoi-vang-mong
+        ten: Rêu lưỡi vàng mỏng
+      - id: dau-luoi-do
+        ten: Đầu lưỡi đỏ
+      - id: luoi-kho
+        ten: Lưỡi khô
+      - id: reu-luoi-trang-nhon
+        ten: Rêu lưỡi trắng nhờn
+      - id: reu-luoi-trang-tron
+        ten: Rêu lưỡi trắng trơn
+      - id: luoi-hong-nhat
+        ten: Lưỡi hồng nhạt
+      - id: reu-luoi-vang-va-nhot
+        ten: Rêu lưỡi vàng và nhớt
+      - id: luoi-tim-co-diem-u-huyet-2
+        ten: Lưỡi tím, có điểm ứ huyết
+      - id: luoi-beu-nhot
+        ten: Lưỡi bệu nhớt
+  - id: mach
+    ten: Mạch
+    trieu_chung:
+      - id: mach-phu-khan
+        ten: Mạch phù khẩn
+      - id: mach-nhu-sac
+        ten: Mạch nhu sác
+      - id: mach-sap
+        ten: Mạch sáp
+      - id: mach-tram-te
+        ten: Mạch trầm tế
+      - id: mach-te-sac
+        ten: Mạch tế sác
+      - id: mach-phu-hoan
+        ten: Mạch phù hoãn
+      - id: mach-tram-hoan
+        ten: Mạch trầm hoãn
+      - id: mach-hoat-sac
+        ten: Mạch hoạt sác
+      - id: mach-huyen-khan-hoac-nhu-hoan
+        ten: Mạch huyền khẩn hoặc nhu hoãn
+      - id: mach-huyen-hoat
+        ten: Mạch huyền hoạt
+      - id: mach-huyen-tram-te-vo-luc
+        ten: Mạch huyền trầm tế vô lực
+      - id: mach-phu-hoan-hoac-nhu-hoan
+        ten: Mạch phù hoãn hoặc nhu hoãn
+      - id: mach-huyen-khan-hay-huyen-hoan
+        ten: Mạch huyền khẩn hay huyền hoãn
+      - id: mach-huyen-sac
+        ten: Mạch huyền sác
+      - id: mach-phu-hoan-hoac-sap
+        ten: Mạch phù hoãn hoặc sáp
+      - id: mach-huyen-hoac-sap
+        ten: Mạch huyền hoặc sáp
+      - id: mach-huyen-sac-hoac-huyen-hoat
+        ten: Mạch huyền sác hoặc huyền hoạt
+      - id: mach-huyen-te
+        ten: Mạch huyền tế
+      - id: mach-huyen-te-hoac-tram-te
+        ten: Mạch huyền tế hoặc trầm tế
+      - id: mach-nhu-hoat
+        ten: Mạch nhu hoạt
+      - id: mach-tram-hoat
+        ten: Mạch trầm hoạt
+      - id: mach-tram-nhuoc
+        ten: Mạch trầm nhược
+      - id: mach-huyen
+        ten: Mạch huyền
+      - id: mach-huyen-sap
+        ten: Mạch huyền sáp
+      - id: mach-phu-sac
+        ten: Mạch phù sác
+      - id: mach-phu
+        ten: Mạch phù
+      - id: mach-huyen-hoac-huyen-sac
+        ten: Mạch huyền hoặc huyền sác
+      - id: mach-tram-sap-hoac-huyen-sap
+        ten: Mạch trầm sáp hoặc huyền sáp
+      - id: mach-phu-hoac-phu-khan
+        ten: Mạch phù hoặc phù khẩn
+      - id: mach-nhu-hoan-hoac-tram-nhuoc
+        ten: Mạch nhu hoãn hoặc trầm nhược
+      - id: mach-huyen-hoat-hoac-phu-hoat
+        ten: Mạch huyền hoạt hoặc phù hoạt
+      - id: mach-te-sap-hoac-hu-nhuoc
+        ten: Mạch tế sáp hoặc hư nhược
+      - id: mach-te-hoan
+        ten: Mạch tế hoãn
+      - id: mach-tram-sap-hoac-hoat
+        ten: Mạch trầm sáp hoặc hoạt
+      - id: mach-te-nhuoc
+        ten: Mạch tế nhược
+      - id: mach-te
+        ten: Mạch tế
+      - id: mach-huyen-sac-huu-luc
+        ten: Mạch huyền sác hữu lực
+      - id: mach-hu-dai-hoac-te-sap
+        ten: Mạch hư đại hoặc tế sáp
+      - id: mach-tram-sap
+        ten: Mạch trầm sáp
+      - id: mach-sac
+        ten: Mạch sác
+      - id: mach-hoat
+        ten: Mạch hoạt
+  - id: khac
+    ten: Khác
+    trieu_chung:
+      - id: tam-quy
+        ten: Tâm quý
+      - id: mac-benh-lau-ngay
+        ten: Mắc bệnh lâu ngày
+      - id: nguc-day-tuc
+        ten: Ngực đầy tức
+      - id: nam-gioi-co-the-di-tinh
+        ten: Nam giới có thể di tinh
+      - id: di-tinh-liet-duong-neu-o-nam
+        ten: Di tinh, liệt dương (nếu ở nam)
+      - id: nguc-tuc
+        ten: Ngực tức
+      - id: hay-tho-dai
+        ten: Hay thở dài
+      - id: cam-giac-tuc-nguc
+        ten: Cảm giác tức ngực
+      - id: cam-giac-bi-bach-trong-nguc
+        ten: Cảm giác bí bách trong ngực
+      - id: benh-keo-dai-de-tai-phat
+        ten: Bệnh kéo dài, dễ tái phát
+      - id: chi-van-nhot
+        ten: Chỉ văn nhợt
+      - id: chi-van-nhat
+        ten: Chỉ văn nhạt
+      - id: chi-van-toi-tre
+        ten: Chỉ văn tối trệ
+      - id: chay-mau-nhieu
+        ten: Chảy máu nhiều
+      - id: doi-khi-co-the-so-thay-mot-khoi-ran-o-vung-ha
+        ten: Đôi khi có thể sờ thấy một khối rắn ở vùng hạ sườn phải
+      - id: nguc-co-cam-giac-day-tuc
+        ten: Ngực có cảm giác đầy tức
+      - id: khat
+        ten: Khát
+      - id: sau-khi-tinh-chi-uat-han-hoac-sau-phau-thuat
+        ten: Sau khi tình chí uất hận hoặc sau phẫu thuật, giang môn bị đau quá
+      - id: thuong-gap-o-nguoi-cao-tuoi
+        ten: Thường gặp ở người cao tuổi
+      - id: chay-mu
+        ten: Chảy mủ

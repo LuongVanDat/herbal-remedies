@@ -1,0 +1,96 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: thoai-hoa-khop-goi
+ten: Thoái hóa khớp gối (Hạc tất phong)
+ten_khac:
+  - Hạc tất phong
+dau_hieu_nguy_hiem:
+  - id: nh-thoai-hoa-khop-goi-1
+    ten: Khớp gối viêm và tràn dịch
+  - id: nh-thoai-hoa-khop-goi-2
+    ten: Điều trị nội khoa và bảo tồn không có hiệu quả, đau nhiều và mất chức năng vận động nhiều
+the_benh:
+  - id: phong-han-thap-ty
+    ten: Phong hàn thấp tý
+    trieu_chung:
+      chinh:
+        - sau-khi-nhiem-ngoai-ta-phong-han-thap-xuat-hien
+        - sung-ne
+        - troi-lanh-am-dau-tang
+        - chuom-am-do-dau
+        - so-lanh
+        - mach-phu-hoan
+      phu:
+        - han-che-van-dong-khop-goi-mot-hoac-hai-ben
+        - so-gio
+        - reu-luoi-trang-nhot
+    loai_tru:
+      - khop-goi-nong-hoac-do
+      - phat-sot
+    phap_tri: Trừ thấp, khu phong, tán hàn, chỉ thống.
+    bai_thuoc:
+      - thoai-hoa-khop-goi-y-di-nhan-thang
+      - thoai-hoa-khop-goi-o-dau-thang
+      - thoai-hoa-khop-goi-thap-khop-ii-vien-dong-y
+    nguon:
+      ma: qd-5013
+      trang: 16
+      trang_thai: chua_doi_chieu
+  - id: phong-han-thap-ty-kem-can-than-hu
+    ten: Phong hàn thấp tý kèm can thận hư
+    trieu_chung:
+      chinh:
+        - dau-moi-khop-goi
+        - co-the-bien-dang-khop
+        - sau-khi-nhiem-them-ngoai-ta-phong-han-thap-xuat
+        - khop-goi-sung-ne
+        - dau-moi-lung-goi
+        - u-tai
+        - ngu-kem
+        - mach-tram-hoan
+      phu:
+        - van-dong-co-duoi-kho-khan
+        - han-che-van-dong-khop-goi-mot-hoac-hai-ben
+        - reu-luoi-trang-nhot
+    loai_tru:
+      - khop-goi-nong-hoac-do
+    phap_tri: Trừ thấp, khu phong, tán hàn, chỉ thống, bổ can thận.
+    bai_thuoc:
+      - thoai-hoa-khop-goi-doc-hoat-ky-sinh-thang
+      - thoai-hoa-khop-goi-tam-ty-thang
+      - thoai-hoa-khop-goi-doc-hoat-phong-thap-hoan-vien-dong-y
+    nguon:
+      ma: qd-5013
+      trang: 17
+      trang_thai: chua_doi_chieu
+  - id: phong-thap-nhiet-kem-can-than-hu
+    ten: Phong thấp nhiệt kèm can thận hư
+    trieu_chung:
+      chinh:
+        - dau-moi-khop-goi-tu-lau
+        - co-the-co-bien-dang-khop
+        - dot-nay-xuat-hien-sung-dau-khop-goi-mot-hoac
+        - khop-goi-nong-hoac-do
+        - dau-cu-an
+        - phat-sot
+        - mieng-kho-khat
+        - phien-tao-but-rut-khong-yen
+        - tieu-vang-luong-it
+        - luoi-do
+        - reu-vang-ban
+        - mach-hoat-sac
+      phu:
+        - van-dong-co-duoi-kho-khan
+        - so-gio
+    loai_tru: []
+    phap_tri: Thanh nhiệt, khu phong, trừ thấp, chỉ thống, bổ can thận.
+    bai_thuoc:
+      - thoai-hoa-khop-goi-y-di-nhan-thang-hop-voi-nhi-dieu-tan
+      - thoai-hoa-khop-goi-bach-ho-que-chi-thang
+      - thoai-hoa-khop-goi-nghiem-phuong
+      - thoai-hoa-khop-goi-doc-hoat-ky-sinh-thang
+      - thoai-hoa-khop-goi-tam-ty-thang
+      - thoai-hoa-khop-goi-doc-hoat-phong-thap-hoan-vien-dong-y
+    nguon:
+      ma: qd-5013
+      trang: 18
+      trang_thai: chua_doi_chieu

@@ -1,0 +1,18 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: o-ro
+ten: Ô rô
+ten_khac: []
+ten_khoa_hoc: Herba et radix Acanthi ilicifolii
+ten_cay: Acanthus ilicifolius L, - Acanthaceae
+bo_phan_dung: Toàn cây và rễ
+nguon_goc: trong_nuoc
+lieu_dung: null
+doc_tinh:
+  muc: chua_ro
+  canh_bao: null
+pho_bien: null
+thay_the: []
+nguon:
+  ma: qd-5013
+  trang: 160
+  trang_thai: chua_doi_chieu

@@ -1,0 +1,677 @@
+{
+  "so": 7,
+  "id": "roi-loan-lipid-mau",
+  "ten": "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác (Chứng đàm)",
+  "ten_khac": [
+    "Chứng đàm",
+    "Đàm thấp",
+    "rối loạn lipid máu",
+    "RLLM"
+  ],
+  "trang_dau": 51,
+  "trang_cuoi": 58,
+  "dau_hieu_nguy_hiem": [
+    {
+      "ten": "Xét nghiệm máu: Cholesterol toàn phần ≥ 5,2 mmol/l, LDL – C ≥ 3,4 mmol/l, Triglycerid ≥ 1,7 mmol/l hoặc HDL – C < 1,0 mmol/l",
+      "trang": 51
+    }
+  ],
+  "the_benh": [
+    {
+      "ten": "Tỳ hư đàm thấp",
+      "mo_ta": null,
+      "trang": 52,
+      "trieu_chung": [
+        {
+          "ten": "Người thường béo bệu",
+          "nhom": "toan-than"
+        },
+        {
+          "ten": "Nặng nề",
+          "nhom": "toan-than"
+        },
+        {
+          "ten": "Mệt mỏi",
+          "nhom": "toan-than"
+        },
+        {
+          "ten": "Ăn kém, không muốn ăn",
+          "nhom": "tieu-hoa"
+        },
+        {
+          "ten": "Bụng đầy",
+          "nhom": "tieu-hoa"
+        },
+        {
+          "ten": "Đại tiện phân nát",
+          "nhom": "tieu-hoa"
+        },
+        {
+          "ten": "Rêu lưỡi trắng dày, nhớt",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Lưỡi bệu, có vết hằn răng",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Mạch trầm hoạt",
+          "nhom": "mach"
+        }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Kiện tỳ, hóa đàm, trừ thấp.",
+      "bai_thuoc": [
+        {
+          "ten": "Bán hạ bạch truật thiên ma thang",
+          "loai": "co_phuong",
+          "trang": 53,
+          "thanh_phan": [
+            {
+              "ten": "Bán hạ chế",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Bạch truật",
+              "lieu_g": 16
+            },
+            {
+              "ten": "Thiên ma",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Cam thảo",
+              "lieu_g": 6
+            },
+            {
+              "ten": "Trần bì",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Bạch linh",
+              "lieu_g": 16
+            }
+          ],
+          "cach_dung": "Sắc uống mỗi ngày 01 thang, chia 2 lần.",
+          "gia_giam": [],
+          "giong_the": null
+        },
+        {
+          "ten": "Hương sa lục quân tử thang",
+          "loai": "co_phuong",
+          "trang": 53,
+          "thanh_phan": [
+            {
+              "ten": "Đảng sâm",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Chích cam thảo",
+              "lieu_g": 4
+            },
+            {
+              "ten": "Phục linh",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Trần bì",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Bạch truật",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Bán hạ chế",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Mộc hương",
+              "lieu_g": 6
+            },
+            {
+              "ten": "Sa nhân",
+              "lieu_g": 6
+            }
+          ],
+          "cach_dung": "Sắc uống mỗi ngày 01 thang, chia 2 lần.",
+          "gia_giam": [],
+          "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Tỳ thận dương hư",
+      "mo_ta": "Thường gặp ở người cao tuổi.",
+      "trang": 53,
+      "trieu_chung": [
+        {
+          "ten": "Người cảm giác nặng nề",
+          "nhom": "toan-than"
+        },
+        {
+          "ten": "Đầy chướng bụng",
+          "nhom": "tieu-hoa"
+        },
+        {
+          "ten": "Thừa cân, béo phì",
+          "nhom": "toan-than"
+        },
+        {
+          "ten": "Người lạnh",
+          "nhom": "han-nhiet"
+        },
+        {
+          "ten": "Chân tay lạnh",
+          "nhom": "han-nhiet"
+        },
+        {
+          "ten": "Sợ lạnh",
+          "nhom": "han-nhiet"
+        },
+        {
+          "ten": "Sắc mặt nhợt",
+          "nhom": "toan-than"
+        },
+        {
+          "ten": "Lưng gối đau mỏi",
+          "nhom": "vi-tri-dau"
+        },
+        {
+          "ten": "Đại tiện nát",
+          "nhom": "tieu-hoa"
+        },
+        {
+          "ten": "Tiểu trong dài",
+          "nhom": "tieu-tien"
+        },
+        {
+          "ten": "Rêu lưỡi trắng dày, nhớt",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Lưỡi bệu, có vết hằn răng",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Mạch trầm nhược",
+          "nhom": "mach"
+        }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Ôn bổ tỳ thận.",
+      "bai_thuoc": [
+        {
+          "ten": "Hữu quy hoàn",
+          "loai": "co_phuong",
+          "trang": 53,
+          "thanh_phan": [
+            {
+              "ten": "Thục địa",
+              "lieu_g": 32
+            },
+            {
+              "ten": "Đỗ trọng",
+              "lieu_g": 160
+            },
+            {
+              "ten": "Hoài sơn",
+              "lieu_g": 160
+            },
+            {
+              "ten": "Kỷ tử",
+              "lieu_g": 160
+            },
+            {
+              "ten": "Sơn thù",
+              "lieu_g": 160
+            },
+            {
+              "ten": "Thỏ ty tử",
+              "lieu_g": 160
+            },
+            {
+              "ten": "Phụ tử chế",
+              "lieu_g": 80
+            },
+            {
+              "ten": "Lộc giác giao",
+              "lieu_g": 160
+            },
+            {
+              "ten": "Nhục quế",
+              "lieu_g": 120
+            },
+            {
+              "ten": "Đương quy",
+              "lieu_g": 120
+            }
+          ],
+          "cach_dung": "Tất cả tán bột mịn, luyện mật làm hoàn, ngày uống 4-8g. Hoặc có thể làm thang sắc với liều thích hợp, sắc uống ngày 1 thang, chia 2 lần.",
+          "gia_giam": [],
+          "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Can thận âm hư",
+      "mo_ta": null,
+      "trang": 54,
+      "trieu_chung": [
+        {
+          "ten": "Váng đầu",
+          "nhom": "than-kinh"
+        },
+        {
+          "ten": "Chóng mặt",
+          "nhom": "than-kinh"
+        },
+        {
+          "ten": "Hay quên",
+          "nhom": "than-kinh"
+        },
+        {
+          "ten": "Mất ngủ",
+          "nhom": "than-kinh"
+        },
+        {
+          "ten": "Ù tai",
+          "nhom": "dau-mat"
+        },
+        {
+          "ten": "Miệng họng khô",
+          "nhom": "dau-mat"
+        },
+        {
+          "ten": "Lưng đau gối mỏi",
+          "nhom": "vi-tri-dau"
+        },
+        {
+          "ten": "Tóc bạc",
+          "nhom": "toan-than"
+        },
+        {
+          "ten": "Răng rụng",
+          "nhom": "dau-mat"
+        },
+        {
+          "ten": "Tiểu đêm",
+          "nhom": "tieu-tien"
+        },
+        {
+          "ten": "Rêu lưỡi vàng dày",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Mạch tế sác",
+          "nhom": "mach"
+        }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Tư bổ can thận.",
+      "bai_thuoc": [
+        {
+          "ten": "Kỷ cúc địa hoàng thang",
+          "loai": "co_phuong",
+          "trang": 54,
+          "thanh_phan": [
+            {
+              "ten": "Thục địa",
+              "lieu_g": 16
+            },
+            {
+              "ten": "Hoài sơn",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Sơn thù",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Trạch tả",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Đan bì",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Phục linh",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Kỷ tử",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Cúc hoa",
+              "lieu_g": 12
+            }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.",
+          "gia_giam": [],
+          "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Can uất tỳ hư",
+      "mo_ta": null,
+      "trang": 54,
+      "trieu_chung": [
+        {
+          "ten": "Đau 2 bên mạng sườn từng cơn, vị trí không cố định",
+          "nhom": "vi-tri-dau"
+        },
+        {
+          "ten": "Đau đầu",
+          "nhom": "dau-mat"
+        },
+        {
+          "ten": "Chóng mặt",
+          "nhom": "than-kinh"
+        },
+        {
+          "ten": "Tinh thần uể oải",
+          "nhom": "than-kinh"
+        },
+        {
+          "ten": "Ăn kém",
+          "nhom": "tieu-hoa"
+        },
+        {
+          "ten": "Tính khí thất thường",
+          "nhom": "than-kinh"
+        },
+        {
+          "ten": "Hay thở dài",
+          "nhom": "khac"
+        },
+        {
+          "ten": "Đại tiện lỏng",
+          "nhom": "tieu-hoa"
+        },
+        {
+          "ten": "Ở phụ nữ có thể gặp rối loạn kinh nguyệt",
+          "nhom": "phu-nu-tre-em"
+        },
+        {
+          "ten": "Bầu vú căng trướng và đau",
+          "nhom": "phu-nu-tre-em"
+        },
+        {
+          "ten": "Chất lưỡi bệu",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Rêu lưỡi mỏng, trắng, nhớt",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Mạch huyền",
+          "nhom": "mach"
+        }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Sơ can giải uất, kiện tỳ trừ đàm.",
+      "bai_thuoc": [
+        {
+          "ten": "Tiêu dao tán",
+          "loai": "co_phuong",
+          "trang": 55,
+          "thanh_phan": [
+            {
+              "ten": "Sài hồ",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Đương quy",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Bạch thược",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Phục linh",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Bạch truật",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Cam thảo",
+              "lieu_g": 6
+            },
+            {
+              "ten": "Bạc hà",
+              "lieu_g": 6
+            },
+            {
+              "ten": "Sinh khương",
+              "lieu_g": 4
+            }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.",
+          "gia_giam": [],
+          "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Thấp nhiệt nội kết",
+      "mo_ta": null,
+      "trang": 55,
+      "trieu_chung": [
+        {
+          "ten": "Chóng mặt",
+          "nhom": "than-kinh"
+        },
+        {
+          "ten": "Đau nặng đầu",
+          "nhom": "dau-mat"
+        },
+        {
+          "ten": "Cảm giác tức ngực",
+          "nhom": "khac"
+        },
+        {
+          "ten": "Phiền nhiệt",
+          "nhom": "han-nhiet"
+        },
+        {
+          "ten": "Đầy bụng",
+          "nhom": "tieu-hoa"
+        },
+        {
+          "ten": "Buồn nôn",
+          "nhom": "tieu-hoa"
+        },
+        {
+          "ten": "Mệt mỏi toàn thân",
+          "nhom": "toan-than"
+        },
+        {
+          "ten": "Tay chân nặng nề",
+          "nhom": "toan-than"
+        },
+        {
+          "ten": "Đắng miệng",
+          "nhom": "dau-mat"
+        },
+        {
+          "ten": "Khô miệng",
+          "nhom": "dau-mat"
+        },
+        {
+          "ten": "Người béo bệu",
+          "nhom": "toan-than"
+        },
+        {
+          "ten": "Đại tiện phân nát",
+          "nhom": "tieu-hoa"
+        },
+        {
+          "ten": "Cảm giác nóng hậu môn",
+          "nhom": "tieu-hoa"
+        },
+        {
+          "ten": "Nước tiểu vàng",
+          "nhom": "tieu-tien"
+        },
+        {
+          "ten": "Chất lưỡi đỏ",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Rêu lưỡi vàng nhớt",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Mạch hoạt sác",
+          "nhom": "mach"
+        }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Thanh nhiệt lợi thấp.",
+      "bai_thuoc": [
+        {
+          "ten": "Tứ linh tán hợp Lục nhất tán",
+          "loai": "co_phuong",
+          "trang": 55,
+          "thanh_phan": [
+            {
+              "ten": "Bạch linh",
+              "lieu_g": 15
+            },
+            {
+              "ten": "Trư linh",
+              "lieu_g": 15
+            },
+            {
+              "ten": "Bạch truật",
+              "lieu_g": 15
+            },
+            {
+              "ten": "Trạch tả",
+              "lieu_g": 15
+            },
+            {
+              "ten": "Hoạt thạch",
+              "lieu_g": 25
+            },
+            {
+              "ten": "Cam thảo",
+              "lieu_g": 4
+            }
+          ],
+          "cach_dung": "Tất cả các vị tán bột mịn, trộn đều, uống 12g - 18g/lần x 2 lần/ngày với nước ấm. Hoặc có thể làm thang sắc với liều thích hợp, mỗi ngày sắc 1 thang, uống chia 2 lần.",
+          "gia_giam": [],
+          "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Khí trệ huyết ứ",
+      "mo_ta": null,
+      "trang": 56,
+      "trieu_chung": [
+        {
+          "ten": "Đau nhói vùng ngực, có thể lan ra sau vùng lưng trên",
+          "nhom": "vi-tri-dau"
+        },
+        {
+          "ten": "Đau vùng thượng vị",
+          "nhom": "vi-tri-dau"
+        },
+        {
+          "ten": "Chóng mặt",
+          "nhom": "than-kinh"
+        },
+        {
+          "ten": "Đau nhức mắt",
+          "nhom": "dau-mat"
+        },
+        {
+          "ten": "Chất lưỡi tím",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Có thể có điểm ứ huyết",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Mạch huyền sáp",
+          "nhom": "mach"
+        }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Hoạt huyết hóa ứ.",
+      "bai_thuoc": [
+        {
+          "ten": "Huyết phủ trục ứ thang",
+          "loai": "co_phuong",
+          "trang": 56,
+          "thanh_phan": [
+            {
+              "ten": "Đương quy",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Ngưu tất",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Sinh địa",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Xích thược",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Đào nhân",
+              "lieu_g": 16
+            },
+            {
+              "ten": "Sài hồ",
+              "lieu_g": 4
+            },
+            {
+              "ten": "Hồng hoa",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Cát cánh",
+              "lieu_g": 6
+            },
+            {
+              "ten": "Xuyên khung",
+              "lieu_g": 6
+            },
+            {
+              "ten": "Cam thảo",
+              "lieu_g": 4
+            },
+            {
+              "ten": "Chỉ xác",
+              "lieu_g": 8
+            }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.",
+          "gia_giam": [],
+          "giong_the": null
+        }
+      ]
+    }
+  ],
+  "ghi_chu_trich": [
+    "Toàn bệnh: không có thể bệnh nào có nghiệm phương; mỗi thể chỉ có cổ phương + đối pháp lập phương (bỏ qua).",
+    "Tr.53: Hữu quy hoàn (thể tỳ thận dương hư) in 'Thục địa 32g' trong khi các vị khác 80–160g — đã đối chiếu ảnh PDF, đúng như in; chép nguyên 32g, nghi lỗi in (có thể là 320g) nhưng không sửa.",
+    "Tr.56: triệu chứng thể khí trệ huyết ứ có ghi chú trong ngoặc '(người bệnh thường có kèm bệnh động mạch vành, thiếu máu cơ tim)' sau 'đau vùng thượng vị' — không đưa thành triệu chứng; nên coi là cảnh báo cần khám YHHĐ (văn bản không nêu ở phần I/IV nên không đưa vào dau_hieu_nguy_hiem).",
+    "Tr.55: 'cảm giác nóng hậu môn. nước tiểu vàng' — dấu chấm/chữ thường lỗi in, tách 2 triệu chứng.",
+    "Tr.54–55: triệu chứng thể can uất tỳ hư trải 2 trang (bắt đầu tr.54).",
+    "Dấu hiệu nguy hiểm: phần I/IV chỉ nêu tiêu chuẩn xét nghiệm chẩn đoán RLLM (tr.51) và ghi bệnh có thể không có triệu chứng (tr.52); không có dấu hiệu tự nhận biết khác."
+  ]
+}

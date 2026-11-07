@@ -1,0 +1,29 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: bi-dai-co-nang-nghiem-phuong-khi-tre-huyet-u
+ten: Nghiệm phương — Bí đái cơ năng, thể Khí trệ huyết ứ
+loai: nghiem_phuong
+thanh_phan:
+  - vi: rau-meo
+    lieu_g: 30
+    vai_tro: null
+  - vi: kim-tien-thao
+    lieu_g: 30
+    vai_tro: null
+  - vi: rau-dang-dat
+    ten_trong_bai: rau đắng đất
+    lieu_g: 30
+    vai_tro: null
+  - vi: rau-dua-nuoc
+    ten_trong_bai: rau dừa nước
+    lieu_g: 30
+    vai_tro: null
+  - vi: vo-cam
+    ten_trong_bai: vỏ cam
+    lieu_g: 30
+    vai_tro: null
+cach_dung: "Mỗi vị 30g, nếu dùng tươi liều gấp 3 sắc 2 - 3 lít nước uống. Công dụng: khai uất, lý khí, thông tiểu."
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 143
+  trang_thai: chua_doi_chieu

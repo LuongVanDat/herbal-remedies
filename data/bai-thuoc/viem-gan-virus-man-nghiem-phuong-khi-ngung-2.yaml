@@ -1,0 +1,20 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: viem-gan-virus-man-nghiem-phuong-khi-ngung-2
+ten: Nghiệm phương — Viêm gan virus mạn, thể Khí ngưng
+loai: nghiem_phuong
+thanh_phan:
+  - vi: nhan-tran
+    lieu_g: 40
+    vai_tro: null
+  - vi: khuong-hoang
+    lieu_g: 30
+    vai_tro: null
+  - vi: cam-thao-dat
+    lieu_g: 20
+    vai_tro: null
+cach_dung: Thêm 500ml nước, sắc còn 200ml. Uống chia 2 lần.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 121
+  trang_thai: chua_doi_chieu

@@ -1,0 +1,735 @@
+{
+  "so": 20,
+  "id": "benh-tri",
+  "ten": "Bệnh trĩ (Hạ trĩ)",
+  "ten_khac": [
+    "Hạ trĩ",
+    "trĩ"
+  ],
+  "trang_dau": 146,
+  "trang_cuoi": 151,
+  "dau_hieu_nguy_hiem": [
+    {
+      "ten": "Búi trĩ sa khi rặn không tự co lên được, hoặc sa thường xuyên không đẩy lên được (trĩ nội độ III, IV) — văn bản nêu phẫu thuật cắt bỏ",
+      "trang": 151
+    },
+    {
+      "ten": "Trĩ ngoại lớn, trĩ tắc mạch, trĩ viêm nghẹt — văn bản nêu phẫu thuật cắt bỏ theo chỉ định của thầy thuốc",
+      "trang": 151
+    }
+  ],
+  "the_benh": [
+    {
+      "ten": "Nhiệt độc",
+      "mo_ta": "Tương ứng với trĩ nội độ 1, 2.",
+      "trang": 147,
+      "trieu_chung": [
+        {
+          "ten": "Đại tiện có kèm theo máu tươi (thấm giấy vệ sinh, nhỏ giọt hoặc thành tia)",
+          "nhom": "tieu-hoa"
+        },
+        {
+          "ten": "Người nóng",
+          "nhom": "han-nhiet"
+        },
+        {
+          "ten": "Hậu môn nóng",
+          "nhom": "tieu-hoa"
+        },
+        {
+          "ten": "Khối trĩ sa ra ít hoặc không sa",
+          "nhom": "tieu-hoa"
+        },
+        {
+          "ten": "Tiểu vàng lượng ít",
+          "nhom": "tieu-tien"
+        },
+        {
+          "ten": "Đại tiện táo kết",
+          "nhom": "tieu-hoa"
+        },
+        {
+          "ten": "Lưỡi đỏ",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Rêu vàng",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Mạch sác",
+          "nhom": "mach"
+        }
+      ],
+      "loai_tru": [
+        {
+          "ten": "Tiết nhiều dịch",
+          "dan_chung": "không chảy dịch"
+        },
+        {
+          "ten": "Chảy mủ",
+          "dan_chung": "không chảy mủ"
+        }
+      ],
+      "phap_tri": "Thanh nhiệt giải độc, thanh nhiệt lương huyết, chỉ huyết.",
+      "bai_thuoc": [
+        {
+          "ten": "Hòe hoa tán",
+          "loai": "co_phuong",
+          "trang": 147,
+          "thanh_phan": [
+            {
+              "ten": "Hòe hoa sao vàng",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Kinh giới tuệ sao đen",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Trắc bá diệp sao cháy",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Chỉ xác sao",
+              "lieu_g": 12
+            }
+          ],
+          "cach_dung": "Tán bột mịn, trộn đều. Mỗi lần uống 8-10g với nước sôi để nguội hoặc nước cơm.",
+          "gia_giam": [],
+          "giong_the": null
+        },
+        {
+          "ten": null,
+          "loai": "nghiem_phuong",
+          "trang": 147,
+          "thanh_phan": [
+            {
+              "ten": "Sài đất",
+              "lieu_g": 20
+            },
+            {
+              "ten": "Bồ công anh",
+              "lieu_g": 20
+            },
+            {
+              "ten": "Hoàng bá",
+              "lieu_g": 20
+            },
+            {
+              "ten": "Hòe hoa",
+              "lieu_g": 20
+            },
+            {
+              "ten": "Râu ngô",
+              "lieu_g": 20
+            },
+            {
+              "ten": "Rễ cỏ tranh",
+              "lieu_g": 20
+            }
+          ],
+          "cach_dung": "Mỗi vị 20g, nếu dùng tươi liều gấp 3. Sắc 2 - 3 lít nước uống trong ngày. Công dụng: thanh nhiệt giải độc, thanh nhiệt lương huyết, chỉ huyết.",
+          "gia_giam": [],
+          "giong_the": null
+        },
+        {
+          "ten": "Bột ngâm trĩ",
+          "loai": "dung_ngoai",
+          "trang": 147,
+          "thanh_phan": [
+            {
+              "ten": "Lá móng",
+              "lieu_g": null,
+              "lieu_text": "lượng bằng nhau"
+            },
+            {
+              "ten": "Binh lang",
+              "lieu_g": null,
+              "lieu_text": "lượng bằng nhau"
+            },
+            {
+              "ten": "Hoàng bá",
+              "lieu_g": null,
+              "lieu_text": "lượng bằng nhau"
+            },
+            {
+              "ten": "Phèn phi",
+              "lieu_g": null,
+              "lieu_text": "lượng bằng nhau"
+            }
+          ],
+          "cach_dung": "Lượng bằng nhau, tán bột ngâm hậu môn ngày 20 - 30g.",
+          "gia_giam": [],
+          "giong_the": null
+        },
+        {
+          "ten": null,
+          "loai": "dung_ngoai",
+          "trang": 147,
+          "thanh_phan": [
+            {
+              "ten": "Kha tử",
+              "lieu_g": null,
+              "lieu_text": "lượng bằng nhau"
+            },
+            {
+              "ten": "Phèn phi",
+              "lieu_g": null,
+              "lieu_text": "lượng bằng nhau"
+            }
+          ],
+          "cach_dung": "Lượng bằng nhau, tán bột, ngâm hậu môn ngày 30g.",
+          "gia_giam": [],
+          "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Huyết ứ",
+      "mo_ta": "Tương ứng với trĩ tắc mạch.",
+      "trang": 148,
+      "trieu_chung": [
+        {
+          "ten": "Búi trĩ sưng, chắc, đau nhức, tím sẫm màu",
+          "nhom": "tieu-hoa"
+        },
+        {
+          "ten": "Ấn đau",
+          "nhom": "vi-tri-dau"
+        },
+        {
+          "ten": "Đại tiện có máu tươi",
+          "nhom": "tieu-hoa"
+        },
+        {
+          "ten": "Lưỡi tím, có điểm ứ huyết",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Rêu lưỡi mỏng trắng hoặc trắng nhớt",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Mạch hoạt",
+          "nhom": "mach"
+        }
+      ],
+      "loai_tru": [
+        {
+          "ten": "Tiết nhiều dịch",
+          "dan_chung": "không chảy dịch"
+        },
+        {
+          "ten": "Chảy mủ",
+          "dan_chung": "không chảy mủ"
+        }
+      ],
+      "phap_tri": "Hoạt huyết khứ ứ, hành khí chỉ huyết.",
+      "bai_thuoc": [
+        {
+          "ten": "Hoạt huyết địa hoàng thang",
+          "loai": "co_phuong",
+          "trang": 148,
+          "thanh_phan": [
+            {
+              "ten": "Sinh địa",
+              "lieu_g": 20
+            },
+            {
+              "ten": "Hòe hoa",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Kinh giới",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Địa du",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Hoàng cầm",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Xích thược",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Đương quy",
+              "lieu_g": 12
+            }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang chia 2 lần.",
+          "gia_giam": [
+            "Gia giảm: táo bón gia Ma nhân 12g, Đại hoàng 04g"
+          ],
+          "giong_the": null
+        },
+        {
+          "ten": null,
+          "loai": "nghiem_phuong",
+          "trang": 148,
+          "thanh_phan": [
+            {
+              "ten": "Kê huyết đằng",
+              "lieu_g": null,
+              "lieu_text": null
+            },
+            {
+              "ten": "Huyết giác",
+              "lieu_g": null,
+              "lieu_text": null
+            },
+            {
+              "ten": "Trần bì",
+              "lieu_g": null,
+              "lieu_text": null
+            },
+            {
+              "ten": "Ngưu tất",
+              "lieu_g": null,
+              "lieu_text": null
+            },
+            {
+              "ten": "Bạch thược",
+              "lieu_g": null,
+              "lieu_text": null
+            },
+            {
+              "ten": "Hoài sơn",
+              "lieu_g": null,
+              "lieu_text": null
+            },
+            {
+              "ten": "Hòe hoa",
+              "lieu_g": null,
+              "lieu_text": null
+            },
+            {
+              "ten": "Chỉ xác",
+              "lieu_g": null,
+              "lieu_text": null
+            },
+            {
+              "ten": "Cỏ ngọt",
+              "lieu_g": null,
+              "lieu_text": null
+            }
+          ],
+          "cach_dung": "Sắc 2 - 3 lít nước uống trong ngày. Công dụng: hoạt huyết, hành khí, hóa ứ, lương huyết, chỉ huyết, ích khí thăng đề.",
+          "gia_giam": [],
+          "giong_the": null
+        },
+        {
+          "ten": "Bột ngâm trĩ",
+          "loai": "dung_ngoai",
+          "trang": 148,
+          "thanh_phan": [
+            {
+              "ten": "Lá móng",
+              "lieu_g": null,
+              "lieu_text": "lượng bằng nhau"
+            },
+            {
+              "ten": "Binh lang",
+              "lieu_g": null,
+              "lieu_text": "lượng bằng nhau"
+            },
+            {
+              "ten": "Hoàng bá",
+              "lieu_g": null,
+              "lieu_text": "lượng bằng nhau"
+            },
+            {
+              "ten": "Phèn phi",
+              "lieu_g": null,
+              "lieu_text": "lượng bằng nhau"
+            }
+          ],
+          "cach_dung": "Lượng bằng nhau, tán bột ngâm hậu môn ngày 20 - 30g.",
+          "gia_giam": [],
+          "giong_the": null
+        },
+        {
+          "ten": null,
+          "loai": "dung_ngoai",
+          "trang": 148,
+          "thanh_phan": [
+            {
+              "ten": "Kha tử",
+              "lieu_g": null,
+              "lieu_text": "lượng bằng nhau"
+            },
+            {
+              "ten": "Phèn phi",
+              "lieu_g": null,
+              "lieu_text": "lượng bằng nhau"
+            }
+          ],
+          "cach_dung": "Lượng bằng nhau, tán bột, ngâm hậu môn ngày 30g.",
+          "gia_giam": [],
+          "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Thấp nhiệt",
+      "mo_ta": "Tương ứng với trĩ viêm, loét.",
+      "trang": 149,
+      "trieu_chung": [
+        {
+          "ten": "Vùng hậu môn đau",
+          "nhom": "vi-tri-dau"
+        },
+        {
+          "ten": "Tiết nhiều dịch",
+          "nhom": "tieu-hoa"
+        },
+        {
+          "ten": "Trĩ sa ra ngoài khó đẩy vào",
+          "nhom": "tieu-hoa"
+        },
+        {
+          "ten": "Có thể có điểm hoại tử bề mặt búi trĩ",
+          "nhom": "tieu-hoa"
+        },
+        {
+          "ten": "Có điểm loét chảy dịch vàng hôi",
+          "nhom": "tieu-hoa"
+        },
+        {
+          "ten": "Đại tiện táo",
+          "nhom": "tieu-hoa"
+        },
+        {
+          "ten": "Lưỡi bệu nhớt",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Rêu vàng",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Mạch hoạt sác",
+          "nhom": "mach"
+        }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Thanh nhiệt lợi thấp, hoạt huyết chỉ thống.",
+      "bai_thuoc": [
+        {
+          "ten": "Hòe hoa tán",
+          "loai": "co_phuong",
+          "trang": 149,
+          "thanh_phan": [
+            {
+              "ten": "Hòe hoa sao vàng",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Trắc bá diệp sao cháy",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Kinh giới sao đen",
+              "lieu_g": 16
+            },
+            {
+              "ten": "Chỉ xác sao",
+              "lieu_g": 10
+            }
+          ],
+          "cach_dung": "Tán bột mịn, trộn đều, mỗi lần uống 8g với nước sôi để nguội hoặc nước cơm, ngày 2 lần. Có thể dùng làm thang, sắc uống ngày 1 thang chia 2 lần.",
+          "gia_giam": [],
+          "giong_the": null
+        },
+        {
+          "ten": null,
+          "loai": "nghiem_phuong",
+          "trang": 149,
+          "thanh_phan": [
+            {
+              "ten": "Hoàng bá",
+              "lieu_g": null,
+              "lieu_text": null
+            },
+            {
+              "ten": "Bồ công anh",
+              "lieu_g": null,
+              "lieu_text": null
+            },
+            {
+              "ten": "Sinh địa",
+              "lieu_g": null,
+              "lieu_text": null
+            },
+            {
+              "ten": "Hòe hoa",
+              "lieu_g": null,
+              "lieu_text": null
+            },
+            {
+              "ten": "Râu ngô",
+              "lieu_g": null,
+              "lieu_text": null
+            },
+            {
+              "ten": "Thương truật",
+              "lieu_g": null,
+              "lieu_text": null
+            },
+            {
+              "ten": "Cỏ ngọt",
+              "lieu_g": null,
+              "lieu_text": null
+            }
+          ],
+          "cach_dung": "Sắc 2 - 3 lít nước uống trong ngày. Công dụng: thanh nhiệt táo thấp, thanh nhiệt giải độc, lương huyết chỉ huyết, ích khí thăng đề.",
+          "gia_giam": [],
+          "giong_the": null
+        },
+        {
+          "ten": "Bột ngâm trĩ",
+          "loai": "dung_ngoai",
+          "trang": 149,
+          "thanh_phan": [
+            {
+              "ten": "Lá móng",
+              "lieu_g": null,
+              "lieu_text": "lượng bằng nhau"
+            },
+            {
+              "ten": "Binh lang",
+              "lieu_g": null,
+              "lieu_text": "lượng bằng nhau"
+            },
+            {
+              "ten": "Hoàng bá",
+              "lieu_g": null,
+              "lieu_text": "lượng bằng nhau"
+            },
+            {
+              "ten": "Phèn phi",
+              "lieu_g": null,
+              "lieu_text": "lượng bằng nhau"
+            }
+          ],
+          "cach_dung": "Lượng bằng nhau, tán bột ngâm hậu môn ngày 20 - 30g.",
+          "gia_giam": [],
+          "giong_the": null
+        },
+        {
+          "ten": null,
+          "loai": "dung_ngoai",
+          "trang": 149,
+          "thanh_phan": [
+            {
+              "ten": "Kha tử",
+              "lieu_g": null,
+              "lieu_text": "lượng bằng nhau"
+            },
+            {
+              "ten": "Phèn phi",
+              "lieu_g": null,
+              "lieu_text": "lượng bằng nhau"
+            }
+          ],
+          "cach_dung": "Lượng bằng nhau, tán bột, ngâm hậu môn ngày 30g.",
+          "gia_giam": [],
+          "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Khí huyết lưỡng hư",
+      "mo_ta": "Tương ứng trĩ hỗn hợp độ IV, trĩ lâu ngày gây thiếu máu.",
+      "trang": 150,
+      "trieu_chung": [
+        {
+          "ten": "Đại tiện ra máu lâu ngày",
+          "nhom": "tieu-hoa"
+        },
+        {
+          "ten": "Hoa mắt chóng mặt",
+          "nhom": "than-kinh"
+        },
+        {
+          "ten": "Ù tai",
+          "nhom": "dau-mat"
+        },
+        {
+          "ten": "Mặt trắng nhợt",
+          "nhom": "toan-than"
+        },
+        {
+          "ten": "Người mệt mỏi",
+          "nhom": "toan-than"
+        },
+        {
+          "ten": "Đoản hơi",
+          "nhom": "ho-hap"
+        },
+        {
+          "ten": "Rêu lưỡi trắng mỏng",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Mạch trầm tế",
+          "nhom": "mach"
+        }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Bổ khí huyết chỉ huyết, ích khí thăng đề.",
+      "bai_thuoc": [
+        {
+          "ten": "Bổ trung ích khí thang",
+          "loai": "co_phuong",
+          "trang": 150,
+          "thanh_phan": [
+            {
+              "ten": "Đảng sâm",
+              "lieu_g": 16
+            },
+            {
+              "ten": "Trần bì",
+              "lieu_g": 6
+            },
+            {
+              "ten": "Hoàng kỳ",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Đương quy",
+              "lieu_g": 10
+            },
+            {
+              "ten": "Bạch truật",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Thăng ma",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Cam thảo",
+              "lieu_g": 4
+            },
+            {
+              "ten": "Sài hồ",
+              "lieu_g": 12
+            }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang chia 2 lần.",
+          "gia_giam": [],
+          "giong_the": null
+        },
+        {
+          "ten": null,
+          "loai": "nghiem_phuong",
+          "trang": 150,
+          "thanh_phan": [
+            {
+              "ten": "Đảng sâm",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Hoài sơn",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Bạch thược",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Trần bì",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Hòe hoa",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Sinh địa",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Thục địa",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Đương quy",
+              "lieu_g": 12
+            }
+          ],
+          "cach_dung": "Mỗi vị 12g. Sắc uống trong ngày. Công dụng: thanh nhiệt giải độc, thanh nhiệt lương huyết, chỉ huyết.",
+          "gia_giam": [],
+          "giong_the": null
+        },
+        {
+          "ten": "Bột ngâm trĩ",
+          "loai": "dung_ngoai",
+          "trang": 150,
+          "thanh_phan": [
+            {
+              "ten": "Lá móng",
+              "lieu_g": null,
+              "lieu_text": "lượng bằng nhau"
+            },
+            {
+              "ten": "Binh lang",
+              "lieu_g": null,
+              "lieu_text": "lượng bằng nhau"
+            },
+            {
+              "ten": "Hoàng bá",
+              "lieu_g": null,
+              "lieu_text": "lượng bằng nhau"
+            },
+            {
+              "ten": "Phèn phi",
+              "lieu_g": null,
+              "lieu_text": "lượng bằng nhau"
+            }
+          ],
+          "cach_dung": "Lượng bằng nhau, tán bột ngâm hậu môn ngày 20 - 30g.",
+          "gia_giam": [],
+          "giong_the": null
+        },
+        {
+          "ten": null,
+          "loai": "dung_ngoai",
+          "trang": 150,
+          "thanh_phan": [
+            {
+              "ten": "Kha tử",
+              "lieu_g": null,
+              "lieu_text": "lượng bằng nhau"
+            },
+            {
+              "ten": "Phèn phi",
+              "lieu_g": null,
+              "lieu_text": "lượng bằng nhau"
+            }
+          ],
+          "cach_dung": "Lượng bằng nhau, tán bột, ngâm hậu môn ngày 30g.",
+          "gia_giam": [],
+          "giong_the": null
+        }
+      ]
+    }
+  ],
+  "ghi_chu_trich": [
+    "Tr.151: dấu hiệu cần can thiệp YHHĐ lấy từ câu 'Phẫu thuật cắt bỏ búi trĩ nội độ III, IV, trĩ ngoại lớn, trĩ tắc mạch, trĩ viêm nghẹt (theo chỉ định cụ thể của thày thuốc)'; mô tả độ III, IV lấy từ phân độ ở tr.146. Tr.151 cũng nêu thắt vòng cao su/tiêm xơ cho trĩ nội độ I, II chảy máu (không đưa vào dấu hiệu nguy hiểm).",
+    "Tr.147-150: phần trong ngoặc ở đề mục mỗi thể (tương ứng trĩ nội độ 1, 2 / trĩ tắc mạch / trĩ viêm, loét / trĩ hỗn hợp độ IV...) đưa vào mo_ta.",
+    "Tr.147, 148, 149: loai_tru 'Tiết nhiều dịch' (chữ của thể Thấp nhiệt) dựa trên 'không chảy dịch'; 'Chảy mủ' dựa trên 'không chảy mủ' (không thể nào trong bệnh có chảy mủ).",
+    "Tr.147 và 149: Hòe hoa tán in hai lần với liều và tên vị khác nhau — thể Nhiệt độc: Kinh giới tuệ sao đen 12g, Chỉ xác sao 12g, uống 8-10g/lần; thể Thấp nhiệt: Kinh giới sao đen 16g, Chỉ xác sao 10g, uống 8g/lần ngày 2 lần. Giữ đúng từng chỗ.",
+    "Tr.148, 149: nghiệm phương thể Huyết ứ (9 vị) và thể Thấp nhiệt (7 vị) KHÔNG ghi liều → lieu_g = null, lieu_text = null.",
+    "Tr.147-150: thuốc dùng ngoài 'Bột ngâm trĩ' (Lá móng, Binh lang, Hoàng bá, Phèn phi) và bài Kha tử + Phèn phi in lặp lại y hệt ở cả 4 thể; mỗi vị ghi lieu_text 'lượng bằng nhau'; liều dùng ngày (20 - 30g / 30g) giữ trong cach_dung. Bài thứ hai không có tên → ten = null.",
+    "Tr.147, 148, 149, 150: nghiệm phương ghi nguồn '(Thuốc Nam châm cứu)', không có tên bài → ten = null.",
+    "Tr.150: nghiệm phương thể Khí huyết lưỡng hư ghi công dụng 'thanh nhiệt giải độc, thanh nhiệt lương huyết, chỉ huyết' (giống thể Nhiệt độc, không khớp pháp bổ khí huyết) — giữ nguyên chữ in, có thể là lỗi chép.",
+    "Tr.150: chẩn đoán bệnh danh in 'Hạ trĩ thể khí huyết hư' trong khi đề mục là 'Thể khí huyết lưỡng hư' — dùng tên đề mục.",
+    "Tr.148: dòng gia giảm in 'Gia giảm: táo bón gia Ma nhân 12g, Đại hoàng 04g' (không có dấu chấm cuối) — chép nguyên văn."
+  ]
+}

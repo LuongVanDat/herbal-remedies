@@ -136,7 +136,6 @@ export function validate(raw: RawData): { loi: VanDe[]; canhBao: VanDe[] } {
 
   for (const { file, data } of raw.viThuoc) {
     if (data.lieu_dung && !data.lieu_dung.nguon) L('thieu-nguon', file, 'lieu_dung.nguon', 'Liều dùng thiếu nguồn')
-    if (!data.lieu_dung) C('chua-co-lieu', file, 'lieu_dung', `"${data.id}" chưa có liều chuẩn`)
     if ((data.doc_tinh.muc === 'co' || data.doc_tinh.muc === 'rat_doc') && !data.doc_tinh.canh_bao?.trim())
       L('thieu-canh-bao', file, 'doc_tinh.canh_bao', `Vị có độc tính "${data.doc_tinh.muc}" phải có cảnh báo`)
     data.thay_the.forEach((t, i) => {
@@ -146,6 +145,10 @@ export function validate(raw: RawData): { loi: VanDe[]; canhBao: VanDe[] } {
     })
   }
 
+  const chuaCoLieu = raw.viThuoc.filter((v) => !v.data.lieu_dung).map((v) => v.data.id)
+  if (chuaCoLieu.length)
+    C('chua-co-lieu', raw.viThuoc[0].file.replace(/[^/]*$/, ''), 'lieu_dung',
+      `${chuaCoLieu.length} vị chưa có liều chuẩn (vd: ${chuaCoLieu.slice(0, 3).join(', ')})`)
   // Danh mục vị có thể lớn hơn số vị được dùng (nhập cả danh mục) → gộp một dòng cho dễ đọc.
   const viKhongDung = raw.viThuoc.filter((v) => !viDuocDung.has(v.data.id)).map((v) => v.data.id)
   if (viKhongDung.length)

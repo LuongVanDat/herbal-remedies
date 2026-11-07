@@ -1,0 +1,36 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: liet-day-than-kinh-mat-nghiem-phuong
+ten: Nghiệm phương — Bệnh dây thần kinh mặt, thể Phong hàn ở kinh lạc
+loai: nghiem_phuong
+thanh_phan:
+  - vi: que-chi
+    lieu_g: 6
+    vai_tro: null
+  - vi: co-xuoc
+    lieu_g: 12
+    vai_tro: null
+  - vi: thuong-nhi-tu
+    ten_trong_bai: Ké đầu ngựa
+    lieu_g: 12
+    vai_tro: null
+  - vi: huong-phu
+    lieu_g: 6
+    vai_tro: null
+  - vi: ke-huyet-dang
+    lieu_g: 12
+    vai_tro: null
+  - vi: tran-bi
+    lieu_g: 6
+    vai_tro: null
+  - vi: bach-chi
+    lieu_g: 10
+    vai_tro: null
+  - vi: kinh-gioi
+    lieu_g: 10
+    vai_tro: null
+cach_dung: Sắc uống ngày 1 thang, chia 2 lần.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 60
+  trang_thai: chua_doi_chieu

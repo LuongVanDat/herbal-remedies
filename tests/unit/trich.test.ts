@@ -47,3 +47,11 @@ test('boPhanDung dịch từ tên khoa học vị thuốc', () => {
   expect(boPhanDung('Semen Coicis')).toBe('Hạt')
   expect(boPhanDung('Poria')).toBeUndefined()
 })
+
+test('xacNhanLieu: chấp nhận dạng "A, B, C mỗi vị 30g" (cùng câu)', () => {
+  const trang = '- Nghiệm phương: Râu mèo, Kim tiền thảo, vỏ rễ cây dâu,\n rau má mỗi vị 30g, nếu dùng tươi liều gấp 3. Bài khác: Cam thảo 04g.'
+  expect(xacNhanLieu(trang, 'Râu mèo', 30)).toBe(true)
+  expect(xacNhanLieu(trang, 'vỏ rễ cây dâu', 30)).toBe(true)
+  expect(xacNhanLieu(trang, 'Râu mèo', 20)).toBe(false)
+  expect(xacNhanLieu(trang, 'Cam thảo', 30)).toBe(false)
+})

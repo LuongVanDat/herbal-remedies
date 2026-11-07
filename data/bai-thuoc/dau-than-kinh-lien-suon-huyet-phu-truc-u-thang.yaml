@@ -1,0 +1,44 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: dau-than-kinh-lien-suon-huyet-phu-truc-u-thang
+ten: Huyết phủ trục ứ thang
+loai: co_phuong
+thanh_phan:
+  - vi: duong-quy
+    lieu_g: 12
+    vai_tro: null
+  - vi: sinh-dia
+    lieu_g: 12
+    vai_tro: null
+  - vi: dao-nhan
+    lieu_g: 6
+    vai_tro: null
+  - vi: hong-hoa
+    lieu_g: 6
+    vai_tro: null
+  - vi: sai-ho
+    lieu_g: 10
+    vai_tro: null
+  - vi: xuyen-khung
+    lieu_g: 12
+    vai_tro: null
+  - vi: nguu-tat
+    lieu_g: 12
+    vai_tro: null
+  - vi: xich-thuoc
+    lieu_g: 10
+    vai_tro: null
+  - vi: cat-canh
+    lieu_g: 6
+    vai_tro: null
+  - vi: chi-xac
+    lieu_g: 8
+    vai_tro: null
+  - vi: cam-thao
+    lieu_g: 6
+    vai_tro: null
+cach_dung: Văn bản không ghi cách dùng.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 69
+  trang_thai: chua_doi_chieu

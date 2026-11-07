@@ -1,0 +1,38 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: may-day-ngan-kieu-tan
+ten: Ngân kiều tán
+loai: co_phuong
+thanh_phan:
+  - vi: kim-ngan-hoa
+    lieu_g: 16
+    vai_tro: null
+  - vi: bac-ha
+    lieu_g: 8
+    vai_tro: null
+  - vi: lien-kieu
+    lieu_g: 16
+    vai_tro: null
+  - vi: dam-dau-xi
+    lieu_g: 12
+    vai_tro: null
+  - vi: kinh-gioi
+    lieu_g: 12
+    vai_tro: null
+  - vi: dam-truc-diep
+    lieu_g: 12
+    vai_tro: null
+  - vi: cat-canh
+    lieu_g: 12
+    vai_tro: null
+  - vi: cam-thao
+    lieu_g: 6
+    vai_tro: null
+  - vi: nguu-bang-tu
+    lieu_g: 12
+    vai_tro: null
+cach_dung: Sắc uống ngày 1 thang, chia 2 lần.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 137
+  trang_thai: chua_doi_chieu

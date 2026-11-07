@@ -1,0 +1,29 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: viem-da-day-ta-trang-nghiem-phuong-hoa-uat-can-khi-pham-vi
+ten: Nghiệm phương — Viêm dạ dày và tá tràng, thể Hỏa uất (can khí phạm vị)
+loai: nghiem_phuong
+thanh_phan:
+  - vi: la-khoi
+    lieu_g: 500
+    vai_tro: null
+  - vi: bo-cong-anh
+    ten_trong_bai: Bồ công anh nam
+    lieu_g: 250
+    vai_tro: null
+  - vi: chut-chit
+    ten_trong_bai: Rễ chút chít
+    lieu_g: 100
+    vai_tro: null
+  - vi: nhan-tran
+    lieu_g: 100
+    vai_tro: null
+  - vi: kho-sam
+    ten_trong_bai: Lá khổ sâm
+    lieu_g: 50
+    vai_tro: null
+cach_dung: Các vị sấy khô tán bột mịn, ngày uống 24 – 32g, hãm nước sôi lấy nước trong uống.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 114
+  trang_thai: chua_doi_chieu

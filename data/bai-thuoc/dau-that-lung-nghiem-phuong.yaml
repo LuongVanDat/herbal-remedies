@@ -1,0 +1,39 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: dau-that-lung-nghiem-phuong
+ten: Nghiệm phương — Đau cột sống thắt lưng, thể Hàn thấp
+loai: nghiem_phuong
+thanh_phan:
+  - vi: la-lot
+    lieu_g: 20
+    vai_tro: null
+  - vi: sai-dat
+    lieu_g: 10
+    vai_tro: null
+  - vi: thien-nien-kien
+    lieu_g: 20
+    vai_tro: null
+  - vi: tho-phuc-linh
+    lieu_g: 20
+    vai_tro: null
+  - vi: trinh-nu
+    ten_trong_bai: Rễ cây xấu hổ
+    lieu_g: 16
+    vai_tro: null
+  - vi: ha-thu-o
+    lieu_g: 20
+    vai_tro: null
+  - vi: que-chi
+    lieu_g: 20
+    vai_tro: null
+  - vi: co-xuoc
+    lieu_g: 20
+    vai_tro: null
+  - vi: sinh-dia
+    lieu_g: 10
+    vai_tro: null
+cach_dung: Sắc uống mỗi ngày 01 thang, chia 3 lần trong ngày, uống khi thuốc còn ấm.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 8
+  trang_thai: chua_doi_chieu

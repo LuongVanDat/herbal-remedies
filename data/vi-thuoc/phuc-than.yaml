@@ -1,0 +1,17 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: phuc-than
+ten: Phục thần
+ten_khac: []
+ten_khoa_hoc: Poria
+ten_cay: Poria cocos (Schw.) Wolf. - Polyporaceae
+nguon_goc: nhap_khau
+lieu_dung: null
+doc_tinh:
+  muc: chua_ro
+  canh_bao: null
+pho_bien: null
+thay_the: []
+nguon:
+  ma: qd-5013
+  trang: 161
+  trang_thai: chua_doi_chieu

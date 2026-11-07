@@ -1,0 +1,105 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: bi-dai-co-nang
+ten: Bí đái cơ năng (Long bế)
+ten_khac:
+  - Long bế
+  - Lung bế
+  - bí tiểu
+dau_hieu_nguy_hiem:
+  - id: nh-bi-dai-co-nang-1
+    ten: Đã châm mà không kết quả (vẫn không tiểu được) — chuyển đặt sonde tiểu, nếu thất bại thì điều trị ngoại khoa
+the_benh:
+  - id: bang-quang-thap-nhiet
+    ten: Bàng quang thấp nhiệt
+    trieu_chung:
+      chinh:
+        - tieu-luong-it-nho-giot
+        - nuoc-tieu-vang
+        - tieu-nong-rat
+        - bung-duoi-day
+        - mieng-dang-va-kho
+        - khong-muon-uong-nuoc
+        - dai-tien-kho
+        - reu-luoi-vang-va-nhot
+      phu:
+        - khong-tieu-tien-duoc
+        - chat-luoi-do
+        - mach-sac
+    loai_tru:
+      - thich-uong-nuoc
+    phap_tri: Thanh nhiệt trừ thấp lợi thủy.
+    bai_thuoc:
+      - bi-dai-co-nang-bat-chinh-tan
+      - bi-dai-co-nang-nghiem-phuong
+    nguon:
+      ma: qd-5013
+      trang: 141
+      trang_thai: chua_doi_chieu
+  - id: phe-nhiet
+    ten: Phế nhiệt
+    trieu_chung:
+      chinh:
+        - tieu-tien-nho-giot-khong-de-dang
+        - tia-nho-khong-thong
+        - hong-kho
+        - phien-khat
+        - thich-uong-nuoc
+        - tho-ngan-gap
+        - reu-luoi-vang-mong
+      phu:
+        - khong-tieu-tien-duoc
+        - mach-sac
+    loai_tru: []
+    phap_tri: Thanh phế, lợi thủy.
+    bai_thuoc:
+      - bi-dai-co-nang-thanh-phe-am
+      - bi-dai-co-nang-nghiem-phuong-phe-nhiet
+    nguon:
+      ma: qd-5013
+      trang: 142
+      trang_thai: chua_doi_chieu
+  - id: khi-tre-huyet-u
+    ten: Khí trệ huyết ứ
+    trieu_chung:
+      chinh:
+        - sau-khi-tinh-chi-uat-han-hoac-sau-phau-thuat
+        - tieu-tien-dot-ngot-khong-thong-hoac-thong-ma
+        - bung-day-truong-hoac-dau
+        - de-bi-xuc-dong
+        - buon-phien
+        - de-cau-gian
+        - reu-luoi-vang
+        - mach-huyen
+      phu:
+        - chat-luoi-do
+    loai_tru: []
+    phap_tri: Sơ can lý khí (hoặc hành khí hoạt huyết), thông lợi tiểu tiện.
+    bai_thuoc:
+      - bi-dai-co-nang-sai-ho-so-can-thang-hop-tram-huong-giai-khi-tan-giam-tram-huong
+      - bi-dai-co-nang-nghiem-phuong-khi-tre-huyet-u
+    nguon:
+      ma: qd-5013
+      trang: 143
+      trang_thai: chua_doi_chieu
+  - id: than-khi-hu
+    ten: Thận khí hư
+    trieu_chung:
+      chinh:
+        - thuong-gap-o-nguoi-cao-tuoi
+        - tieu-it
+        - tieu-kho
+        - dau-lung-moi-goi
+        - chan-khong-am
+        - chat-luoi-beu
+        - reu-luoi-trang
+        - mach-tram-nhuoc
+      phu: []
+    loai_tru: []
+    phap_tri: Bổ thận khí lợi thủy.
+    bai_thuoc:
+      - bi-dai-co-nang-te-sinh-than-khi-hoan
+      - bi-dai-co-nang-nghiem-phuong-than-khi-hu
+    nguon:
+      ma: qd-5013
+      trang: 144
+      trang_thai: chua_doi_chieu

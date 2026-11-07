@@ -1,0 +1,39 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: dau-than-kinh-toa-y-di-nhan-thang-hop-voi-nhi-dieu-tan
+ten: Ý dĩ nhân thang hợp với Nhị diệu tán
+loai: co_phuong
+thanh_phan:
+  - vi: y-di
+    ten_trong_bai: Ý dĩ nhân
+    lieu_g: 12
+    vai_tro: null
+  - vi: que-chi
+    lieu_g: 6
+    vai_tro: null
+  - vi: cam-thao
+    lieu_g: 6
+    vai_tro: null
+  - vi: thuoc-duoc
+    lieu_g: 6
+    vai_tro: null
+  - vi: ma-hoang
+    lieu_g: 6
+    vai_tro: null
+  - vi: hoang-ba
+    lieu_g: 12
+    vai_tro: null
+  - vi: bach-truat
+    lieu_g: 12
+    vai_tro: null
+  - vi: thuong-truat
+    lieu_g: 12
+    vai_tro: null
+  - vi: duong-quy
+    lieu_g: 12
+    vai_tro: null
+cach_dung: Sắc uống ngày 1 thang, chia 2 lần, liệu trình 10 - 15 thang.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 76
+  trang_thai: chua_doi_chieu

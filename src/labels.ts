@@ -13,7 +13,7 @@ export const coDoc = (v: ViThuoc) => v.doc_tinh.muc === 'co' || v.doc_tinh.muc =
 
 export const LOAI_BAI: Record<NonNullable<BaiThuoc['loai']>, string> = {
   co_phuong: 'Cổ phương', nghiem_phuong: 'Nghiệm phương', tan_phuong: 'Tân phương', thuoc_nam: 'Thuốc Nam',
-  dung_ngoai: 'Dùng ngoài',
+  dung_ngoai: 'Dùng ngoài', doi_phap_lap_phuong: 'Đối pháp lập phương',
 }
 export const NGUON_GOC: Record<NonNullable<ViThuoc['nguon_goc']>, string> = {
   trong_nuoc: 'Nuôi trồng, khai thác trong nước',

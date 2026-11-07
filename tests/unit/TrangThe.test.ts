@@ -107,3 +107,19 @@ test('vị độc tính chưa rõ: không gắn nhãn trong bảng, có ghi chú
   expect(queChi).not.toHaveTextContent('⚠')
   expect(screen.getAllByText(/Vị không có nhãn độc chưa chắc an toàn/).length).toBeGreaterThan(0)
 })
+
+test('bài không có vai trò: ẩn cột Vai trò', () => {
+  const d = appFixture()
+  d.baiThuoc['ma-hoang-thang'].thanh_phan.forEach((t) => (t.vai_tro = null))
+  renderVoiData(TrangThe, { benhId: 'cam-mao', theId: 'phong-han' }, d)
+  expect(within(bang('Ma hoàng thang')).queryByRole('columnheader', { name: 'Vai trò' })).toBeNull()
+})
+
+test('mọi vị đều chưa có liều chuẩn: một ghi chú dưới bảng thay vì lặp từng dòng', () => {
+  const d = appFixture()
+  for (const v of Object.values(d.viThuoc)) v.lieu_dung = null
+  renderVoiData(TrangThe, { benhId: 'cam-mao', theId: 'phong-han' }, d)
+  const b = bang('Ma hoàng thang')
+  expect(within(b).queryByText('Chưa có liều chuẩn')).toBeNull()
+  expect(screen.getAllByText(/Các vị trong bài chưa có liều chuẩn để đối chiếu/).length).toBeGreaterThan(0)
+})

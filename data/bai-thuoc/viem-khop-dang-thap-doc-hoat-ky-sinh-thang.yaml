@@ -1,0 +1,59 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: viem-khop-dang-thap-doc-hoat-ky-sinh-thang
+ten: Độc hoạt ký sinh thang
+loai: co_phuong
+thanh_phan:
+  - vi: doc-hoat
+    lieu_g: 10
+    vai_tro: null
+  - vi: phong-phong
+    lieu_g: 12
+    vai_tro: null
+  - vi: tang-ky-sinh
+    lieu_g: 12
+    vai_tro: null
+  - vi: te-tan
+    lieu_g: 4
+    vai_tro: null
+  - vi: tan-giao
+    lieu_g: 12
+    vai_tro: null
+  - vi: duong-quy
+    ten_trong_bai: Đương qui
+    lieu_g: 12
+    vai_tro: null
+  - vi: bach-linh
+    ten_trong_bai: Phục linh
+    lieu_g: 12
+    vai_tro: null
+  - vi: que-chi
+    lieu_g: 4
+    vai_tro: null
+  - vi: bach-thuoc
+    lieu_g: 12
+    vai_tro: null
+  - vi: xuyen-khung
+    lieu_g: 12
+    vai_tro: null
+  - vi: thuc-dia
+    lieu_g: 12
+    vai_tro: null
+  - vi: cam-thao
+    ten_trong_bai: Chích cam thảo
+    lieu_g: 6
+    vai_tro: null
+  - vi: do-trong
+    lieu_g: 12
+    vai_tro: null
+  - vi: nguu-tat
+    lieu_g: 12
+    vai_tro: null
+  - vi: dang-sam
+    lieu_g: 12
+    vai_tro: null
+cach_dung: Ngày sắc uống 1 thang, chia 3 lần.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 34
+  trang_thai: chua_doi_chieu

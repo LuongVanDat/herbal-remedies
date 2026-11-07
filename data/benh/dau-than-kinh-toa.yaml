@@ -1,0 +1,107 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: dau-than-kinh-toa
+ten: Đau thần kinh tọa (Yêu cước thống)
+ten_khac:
+  - Yêu cước thống
+  - Tọa cốt phong
+  - Tọa điến phong
+  - Yêu cước đông thống
+  - đau thần kinh hông to
+dau_hieu_nguy_hiem:
+  - id: nh-dau-than-kinh-toa-1
+    ten: Có biến chứng liên quan đến vận động, cảm giác (cần can thiệp ngoại khoa)
+  - id: nh-dau-than-kinh-toa-2
+    ten: Đau nhiều, các thuốc giảm đau ít tác dụng
+the_benh:
+  - id: phong-han-thap
+    ten: Phong hàn thấp
+    mo_ta: Thường gặp trong những trường hợp đau thần kinh tọa do lạnh.
+    trieu_chung:
+      chinh:
+        - sau-khi-bi-nhiem-lanh-dau-tu-that-lung-hoac-tu
+        - dau-co-diem-khu-tru
+        - dau-tang-khi-troi-lanh
+        - chuom-am-de-chiu
+        - so-gio
+        - so-lanh
+        - dai-tien-co-the-binh-thuong-hoac-nat
+        - tieu-tien-trong
+        - chat-luoi-nhot
+        - reu-luoi-trang-mong
+        - mach-phu-hoac-phu-khan
+      phu: []
+    loai_tru:
+      - co-the-teo-co
+    phap_tri: Khu phong, tán hàn, trừ thấp, ôn thông kinh lạc.
+    bai_thuoc:
+      - dau-than-kinh-toa-can-khuong-thuong-truat-linh-phu-thang-gia-giam
+      - dau-than-kinh-toa-nghiem-phuong
+    nguon:
+      ma: qd-5013
+      trang: 73
+      trang_thai: chua_doi_chieu
+  - id: phong-han-thap-ket-hop-can-than-hu
+    ten: Phong hàn thấp kết hợp can thận hư
+    mo_ta: Thường gặp trong những trường hợp đau thần kinh tọa do thoái hóa cột sống.
+    trieu_chung:
+      chinh:
+        - dau-vung-that-lung-lan-xuong-mong-chan-doc-theo
+        - dau-co-cam-giac-te-bi-nang-ne
+        - co-the-teo-co
+        - benh-keo-dai-de-tai-phat
+        - an-kem
+        - ngu-it
+        - chat-luoi-nhot-beu
+        - reu-luoi-trang-day-va-nhot
+        - mach-nhu-hoan-hoac-tram-nhuoc
+      phu: []
+    loai_tru: []
+    phap_tri: Khu phong, tán hàn, trừ thấp, bổ can thận (kiện tỳ nếu có teo cơ).
+    bai_thuoc:
+      - dau-than-kinh-toa-doc-hoat-tang-ky-sinh-thang
+      - dau-than-kinh-toa-nghiem-phuong-phong-han-thap-ket-hop-can-than-hu
+    nguon:
+      ma: qd-5013
+      trang: 74
+      trang_thai: chua_doi_chieu
+  - id: thap-nhiet
+    ten: Thấp nhiệt
+    mo_ta: Thường gặp trong những trường hợp đau thần kinh tọa do viêm nhiễm.
+    trieu_chung:
+      chinh:
+        - dau-vung-that-lung-lan-xuong-mong-chan-doc-theo-2
+        - dau-co-cam-nong-rat-nhu-kim-cham
+        - chan-dau-nong-hon-chan-ben-lanh
+        - chat-luoi-hong-hoac-do
+        - reu-luoi-vang
+        - mach-hoat-sac
+      phu: []
+    loai_tru: []
+    phap_tri: Thanh nhiệt trừ thấp, hành khí hoạt huyết.
+    bai_thuoc:
+      - dau-than-kinh-toa-y-di-nhan-thang-hop-voi-nhi-dieu-tan
+      - dau-than-kinh-toa-nghiem-phuong-thap-nhiet
+    nguon:
+      ma: qd-5013
+      trang: 75
+      trang_thai: chua_doi_chieu
+  - id: huyet-u
+    ten: Huyết ứ
+    mo_ta: Thường gặp trong những trường hợp đau thần kinh tọa do chấn thương hoặc do thoát vị đĩa đệm.
+    trieu_chung:
+      chinh:
+        - dau-dot-ngot-du-doi-tai-mot-diem
+        - dau-lan-xuong-chan
+        - han-che-van-dong-nhieu
+        - chat-luoi-tim-co-diem-u-huyet
+        - mach-sap
+      phu: []
+    loai_tru: []
+    phap_tri: Hoạt huyết khứ ứ, thông kinh hoạt lạc.
+    bai_thuoc:
+      - dau-than-kinh-toa-than-thong-truc-u-thang
+      - dau-than-kinh-toa-nghiem-phuong-huyet-u
+    nguon:
+      ma: qd-5013
+      trang: 76
+      trang_thai: chua_doi_chieu

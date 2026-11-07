@@ -1,0 +1,34 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: gout-y-di-nhan-thang
+ten: Ý dĩ nhân thang
+loai: co_phuong
+thanh_phan:
+  - vi: ma-hoang
+    lieu_g: 6
+    vai_tro: null
+  - vi: duong-quy
+    ten_trong_bai: Đương qui
+    lieu_g: 15
+    vai_tro: null
+  - vi: bach-truat
+    lieu_g: 15
+    vai_tro: null
+  - vi: y-di
+    ten_trong_bai: Ý dĩ nhân
+    lieu_g: 30
+    vai_tro: null
+  - vi: que-chi
+    lieu_g: 10
+    vai_tro: null
+  - vi: bach-thuoc
+    lieu_g: 15
+    vai_tro: null
+  - vi: cam-thao
+    lieu_g: 6
+    vai_tro: null
+cach_dung: Văn bản không ghi cách dùng.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 24
+  trang_thai: chua_doi_chieu

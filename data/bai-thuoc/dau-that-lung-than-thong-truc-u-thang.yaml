@@ -1,0 +1,49 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: dau-that-lung-than-thong-truc-u-thang
+ten: Thân thống trục ứ thang
+loai: co_phuong
+thanh_phan:
+  - vi: duong-quy
+    ten_trong_bai: Đương qui
+    lieu_g: 12
+    vai_tro: null
+  - vi: xuyen-khung
+    lieu_g: 12
+    vai_tro: null
+  - vi: dao-nhan
+    lieu_g: 6
+    vai_tro: null
+  - vi: hong-hoa
+    lieu_g: 6
+    vai_tro: null
+  - vi: mot-duoc
+    lieu_g: 8
+    vai_tro: null
+  - vi: cam-thao
+    ten_trong_bai: Chích thảo
+    lieu_g: 6
+    vai_tro: null
+  - vi: huong-phu
+    lieu_g: 12
+    vai_tro: null
+  - vi: khuong-hoat
+    lieu_g: 12
+    vai_tro: null
+  - vi: tan-giao
+    lieu_g: 12
+    vai_tro: null
+  - vi: dia-long
+    lieu_g: 6
+    vai_tro: null
+  - vi: nguu-tat
+    lieu_g: 12
+    vai_tro: null
+  - vi: ngu-linh-chi
+    lieu_g: 6
+    vai_tro: null
+cach_dung: Sắc uống mỗi ngày 01 thang, chia 2 lần.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 10
+  trang_thai: chua_doi_chieu

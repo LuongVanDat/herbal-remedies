@@ -1,0 +1,157 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: dau-that-lung
+ten: Đau cột sống thắt lưng (Yêu thống)
+ten_khac:
+  - Yêu thống
+  - đau lưng
+  - đau thắt lưng
+dau_hieu_nguy_hiem:
+  - id: nh-dau-that-lung-1
+    ten: Sốt, dấu hiệu nhiễm trùng hoặc gầy sút nhanh
+  - id: nh-dau-that-lung-2
+    ten: Đau ngày càng tăng, không đáp ứng với các thuốc giảm đau thông thường
+  - id: nh-dau-that-lung-3
+    ten: Rối loạn cơ tròn, teo cơ, rối loạn cảm giác
+the_benh:
+  - id: han-thap
+    ten: Hàn thấp
+    mo_ta: Thường gặp trong những trường hợp đau thắt lưng do lạnh.
+    trieu_chung:
+      chinh:
+        - dau-nhieu-vung-that-lung
+        - dau-tang-khi-troi-lanh-am
+        - co-canh-cot-song-co-cung
+        - an-dau
+        - reu-luoi-trang-mong
+        - mach-phu-khan
+      phu:
+        - so-lanh
+    loai_tru:
+      - sung-nong-do-hoac-cam-giac-nong-but-rut-vung
+    phap_tri: Tán hàn, trừ thấp, ôn thông kinh lạc.
+    bai_thuoc:
+      - dau-that-lung-can-khuong-thuong-truat-thang
+      - dau-that-lung-nghiem-phuong
+      - dau-that-lung-ngai-cuu-sao-muoi-chuom
+    nguon:
+      ma: qd-5013
+      trang: 8
+      trang_thai: chua_doi_chieu
+  - id: thap-nhiet
+    ten: Thấp nhiệt
+    mo_ta: Thường gặp trong những trường hợp đau thắt lưng do nhiễm khuẩn vùng cột sống.
+    trieu_chung:
+      chinh:
+        - vung-that-lung-dau
+        - sung-nong-do-hoac-cam-giac-nong-but-rut-vung
+        - co-the-sot
+        - chat-luoi-do
+        - reu-luoi-vang-day
+        - mach-nhu-sac
+      phu: []
+    loai_tru: []
+    phap_tri: Thanh nhiệt trừ thấp.
+    bai_thuoc:
+      - dau-that-lung-tu-dieu-tan
+      - dau-that-lung-nghiem-phuong-thap-nhiet
+    nguon:
+      ma: qd-5013
+      trang: 9
+      trang_thai: chua_doi_chieu
+  - id: huyet-u
+    ten: Huyết ứ
+    mo_ta: Thường gặp trong những trường hợp đau thắt lưng do căng giãn dây chằng, thoát vị đĩa đệm cột sống thắt lưng, khối u vùng cột sống thắt lưng.
+    trieu_chung:
+      chinh:
+        - dau-lung-xuat-hien-sau-khi-vac-nang-lech-nguoi
+        - dau-du-doi-o-mot-cho
+        - cu-an
+        - van-dong-bi-han-che
+        - thay-doi-tu-the-thi-dau-tang
+        - chat-luoi-tim-co-diem-u-huyet
+        - mach-sap
+      phu: []
+    loai_tru: []
+    phap_tri: Hoạt huyết hóa ứ, thư cân hoạt lạc.
+    bai_thuoc:
+      - dau-that-lung-than-thong-truc-u-thang
+      - dau-that-lung-nghiem-phuong-huyet-u
+      - dau-that-lung-ngai-cuu-sao-muoi-chuom
+    nguon:
+      ma: qd-5013
+      trang: 10
+      trang_thai: chua_doi_chieu
+  - id: can-than-hu-thien-duong-hu
+    ten: Can thận hư (thiên dương hư)
+    mo_ta: Thường gặp trong những trường hợp đau thắt lưng do thoái hóa cột sống thắt lưng, loãng xương, gặp ở người cao tuổi.
+    trieu_chung:
+      chinh:
+        - bung-duoi-lanh-dau
+      phu:
+        - dau-am-i
+        - chan-goi-yeu
+        - lao-dong-dau-nhieu-nghi-ngoi-dau-giam-it
+        - sac-mat-nhot
+        - chan-tay-lanh
+        - sac-luoi-nhot
+        - mach-tram-te
+    loai_tru: []
+    phap_tri: Bổ can thận, khu phong trừ thấp, thông kinh hoạt lạc.
+    bai_thuoc:
+      - dau-that-lung-doc-hoat-ky-sinh-thang
+      - dau-that-lung-nghiem-phuong-can-than-hu-thien-duong-hu
+      - dau-that-lung-ngai-cuu-sao-muoi-chuom
+    nguon:
+      ma: qd-5013
+      trang: 11
+      trang_thai: chua_doi_chieu
+  - id: can-than-hu-thien-am-hu
+    ten: Can thận hư (thiên âm hư)
+    mo_ta: Thường gặp trong những trường hợp đau thắt lưng do thoái hóa cột sống thắt lưng, loãng xương, gặp ở người cao tuổi.
+    trieu_chung:
+      chinh:
+        - mieng-hong-kho
+        - sac-mat-do
+        - long-ban-tay-ban-chan-nong
+        - luoi-do
+        - mach-te-sac
+      phu:
+        - dau-am-i
+        - chan-goi-yeu
+        - lao-dong-dau-nhieu-nghi-ngoi-dau-giam-it
+    loai_tru: []
+    phap_tri: Bổ can thận, khu phong trừ thấp, thông kinh hoạt lạc.
+    bai_thuoc:
+      - dau-that-lung-doc-hoat-ky-sinh-thang
+      - dau-that-lung-nghiem-phuong-can-than-hu-thien-duong-hu
+      - dau-that-lung-ngai-cuu-sao-muoi-chuom
+    nguon:
+      ma: qd-5013
+      trang: 11
+      trang_thai: chua_doi_chieu
+  - id: than-duong-hu
+    ten: Thận dương hư
+    trieu_chung:
+      chinh:
+        - bung-duoi-lanh
+        - tieu-dem
+        - dai-tien-phan-nat
+      phu:
+        - dau-am-i
+        - chan-goi-yeu
+        - lao-dong-dau-nhieu-nghi-ngoi-dau-giam-it
+        - sac-mat-nhot
+        - so-lanh
+        - chan-tay-lanh
+        - sac-luoi-nhot
+        - mach-tram-te
+    loai_tru: []
+    phap_tri: Ôn bổ thận dương.
+    bai_thuoc:
+      - dau-that-lung-than-khi-hoan
+      - dau-that-lung-nghiem-phuong-than-duong-hu
+      - dau-that-lung-ngai-cuu-sao-muoi-chuom
+    nguon:
+      ma: qd-5013
+      trang: 12
+      trang_thai: chua_doi_chieu

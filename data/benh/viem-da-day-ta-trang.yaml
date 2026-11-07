@@ -1,0 +1,137 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: viem-da-day-ta-trang
+ten: Viêm dạ dày và tá tràng (Vị quản thống)
+ten_khac:
+  - Vị quản thống
+  - viêm dạ dày tá tràng
+dau_hieu_nguy_hiem:
+  - id: nh-viem-da-day-ta-trang-1
+    ten: Nghi ngờ chảy máu dạ dày (nôn ra máu, đi ngoài phân đen) — cần nội soi dạ dày cấp cứu
+the_benh:
+  - id: khi-tre-can-khi-pham-vi
+    ten: Khí trệ (can khí phạm vị)
+    trieu_chung:
+      chinh:
+        - dau-bung-vung-thuong-vi-thanh-con
+        - dau-lan-ra-man-suon
+        - co-khi-dau-lan-ra-sau-lung
+        - bung-day-chuong-nhieu
+        - an-dau-cu-an
+        - hay-o-chua
+        - o-hoi
+        - khi-o-hoi-duoc-thi-do-dau
+        - chat-luoi-hoi-do
+        - reu-luoi-trang-hoac-hoi-vang-mong
+        - mach-huyen
+      phu: []
+    loai_tru: []
+    phap_tri: Sơ can lý khí.
+    bai_thuoc:
+      - viem-da-day-ta-trang-sai-ho-so-can-thang
+      - viem-da-day-ta-trang-nghiem-phuong
+      - viem-da-day-ta-trang-cao-da-cam
+    nguon:
+      ma: qd-5013
+      trang: 112
+      trang_thai: chua_doi_chieu
+  - id: hoa-uat-can-khi-pham-vi
+    ten: Hỏa uất (can khí phạm vị)
+    trieu_chung:
+      chinh:
+        - dau-thuong-vi-nhieu
+        - dau-nong-rat
+        - o-chua-nhieu
+        - mieng-kho-dang
+        - chat-luoi-do
+        - mach-huyen-sac
+      phu:
+        - cu-an
+        - reu-luoi-vang
+    loai_tru: []
+    phap_tri: Sơ can tiết nhiệt.
+    bai_thuoc:
+      - viem-da-day-ta-trang-hoa-can-tien-hop-voi-ta-kim-hoan
+      - viem-da-day-ta-trang-nghiem-phuong-hoa-uat-can-khi-pham-vi
+      - viem-da-day-ta-trang-sai-ho-so-can-thang-gia-giam-hoa-uat-can-khi-pham-vi
+    nguon:
+      ma: qd-5013
+      trang: 113
+      trang_thai: chua_doi_chieu
+  - id: huyet-u-thuc-chung
+    ten: Huyết ứ (thực chứng)
+    mo_ta: Bệnh thể cấp.
+    trieu_chung:
+      chinh:
+        - non-ra-mau
+        - di-ngoai-phan-den
+        - moi-do-luoi-do
+        - mach-huyen-sac-huu-luc
+      phu:
+        - dau-du-doi-o-mot-vi-tri-nhat-dinh-vung-thuong-vi
+        - cu-an
+        - reu-luoi-vang
+    loai_tru: []
+    phap_tri: Thông lạc hoạt huyết hay lương huyết chỉ huyết.
+    bai_thuoc:
+      - viem-da-day-ta-trang-that-tieu-tan
+      - viem-da-day-ta-trang-nghiem-phuong-huyet-u-thuc-chung
+    nguon:
+      ma: qd-5013
+      trang: 114
+      trang_thai: chua_doi_chieu
+  - id: huyet-u-hu-chung
+    ten: Huyết ứ (hư chứng)
+    mo_ta: Bệnh thể hoãn.
+    trieu_chung:
+      chinh:
+        - chay-mau-nhieu
+        - sac-mat-nhot-nhat
+        - nguoi-met-moi
+        - moi-nhot
+        - chan-tay-lanh
+        - ra-mo-hoi
+        - chat-luoi-beu-co-u-huyet
+        - reu-luoi-nhuan
+        - mach-hu-dai-hoac-te-sap
+      phu:
+        - dau-du-doi-o-mot-vi-tri-nhat-dinh-vung-thuong-vi
+        - cu-an
+    loai_tru: []
+    phap_tri: Bổ huyết chỉ huyết.
+    bai_thuoc:
+      - viem-da-day-ta-trang-hoang-tho-thang-gia-giam
+      - viem-da-day-ta-trang-tu-quan-tu-thang-gia-vi
+      - viem-da-day-ta-trang-dieu-doanh-liem-can-am
+      - viem-da-day-ta-trang-nghiem-phuong-huyet-u-hu-chung
+    nguon:
+      ma: qd-5013
+      trang: 114
+      trang_thai: chua_doi_chieu
+  - id: ty-vi-hu-han
+    ten: Tỳ vị hư hàn
+    trieu_chung:
+      chinh:
+        - dau-thuong-vi-am-i
+        - dau-lien-mien
+        - non-nhieu-non-ra-nuoc-trong
+        - gap-lanh-dau-tang
+        - khi-dau-thich-xoa-bop-chuom-nong
+        - so-lanh
+        - tay-chan-lanh
+        - an-kem
+        - thich-an-do-am-nong
+        - bung-day-thuong-xuyen
+        - dai-tien-long-nat
+        - chat-luoi-nhot-beu
+        - reu-luoi-trang
+        - mach-tram-nhuoc
+      phu: []
+    loai_tru: []
+    phap_tri: Ôn trung kiện tỳ.
+    bai_thuoc:
+      - viem-da-day-ta-trang-hoang-ky-kien-trung-thang
+      - viem-da-day-ta-trang-nghiem-phuong-ty-vi-hu-han
+    nguon:
+      ma: qd-5013
+      trang: 116
+      trang_thai: chua_doi_chieu

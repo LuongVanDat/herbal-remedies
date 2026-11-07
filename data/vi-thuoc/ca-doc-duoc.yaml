@@ -1,0 +1,18 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: ca-doc-duoc
+ten: Cà độc dược
+ten_khac: []
+ten_khoa_hoc: Flos et Folium Daturae metelis
+ten_cay: Datura metel L. - Solanaceae
+bo_phan_dung: Hoa và lá
+nguon_goc: trong_nuoc
+lieu_dung: null
+doc_tinh:
+  muc: co
+  canh_bao: Thuộc Danh mục dược liệu độc làm thuốc (TT 13/2024/TT-BYT, Phụ lục I, STT 3). Chỉ dùng theo chỉ định của thầy thuốc.
+pho_bien: null
+thay_the: []
+nguon:
+  ma: qd-5013
+  trang: 153
+  trang_thai: chua_doi_chieu

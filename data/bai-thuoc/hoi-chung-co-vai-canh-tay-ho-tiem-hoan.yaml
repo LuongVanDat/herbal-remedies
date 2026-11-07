@@ -1,0 +1,35 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: hoi-chung-co-vai-canh-tay-ho-tiem-hoan
+ten: Hổ tiềm hoàn
+loai: co_phuong
+thanh_phan:
+  - vi: thuc-dia
+    lieu_g: 12
+    vai_tro: null
+  - vi: quy-ban
+    lieu_g: 12
+    vai_tro: null
+  - vi: bach-thuoc
+    lieu_g: 10
+    vai_tro: null
+  - vi: toa-duong
+    lieu_g: 12
+    vai_tro: null
+  - vi: tri-mau
+    lieu_g: 8
+    vai_tro: null
+  - vi: hoang-ba
+    lieu_g: 10
+    vai_tro: null
+  - vi: tran-bi
+    lieu_g: 6
+    vai_tro: null
+  - vi: can-khuong
+    lieu_g: 4
+    vai_tro: null
+cach_dung: Sắc uống ngày 1 thang, chia 2 lần.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 41
+  trang_thai: chua_doi_chieu

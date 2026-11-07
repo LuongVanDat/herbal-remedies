@@ -1,0 +1,156 @@
+{
+  "so": 12,
+  "id": "bai-nao-tre-em",
+  "ten": "Bại não trẻ em (Ngũ trì)",
+  "ten_khac": ["Ngũ trì", "bại não"],
+  "trang_dau": 87,
+  "trang_cuoi": 95,
+  "dau_hieu_nguy_hiem": [
+    { "ten": "Trẻ đẻ ra không khóc ngay, tím tái hoặc trắng bệch (phải cấp cứu)", "trang": 88 }
+  ],
+  "the_benh": [
+    {
+      "ten": "Can thận bất túc",
+      "mo_ta": "Thường gặp trong bại não thể co cứng, thể phối hợp, thể thất điều.",
+      "trang": 89,
+      "trieu_chung": [
+        { "ten": "Gân xương mềm yếu", "nhom": "toan-than" },
+        { "ten": "Phát dục chậm", "nhom": "phu-nu-tre-em" },
+        { "ten": "Chậm ngồi, đứng, đi, mọc răng", "nhom": "phu-nu-tre-em" },
+        { "ten": "Chân tay cử động chậm chạp", "nhom": "vi-tri-dau" },
+        { "ten": "Khi đứng chân co rút, bước không thẳng", "nhom": "vi-tri-dau" },
+        { "ten": "Mặt, mắt co kéo", "nhom": "dau-mat" },
+        { "ten": "Nói ngọng, không rõ tiếng", "nhom": "than-kinh" },
+        { "ten": "Thóp lâu liền", "nhom": "phu-nu-tre-em" },
+        { "ten": "Cổ lưng mềm", "nhom": "vi-tri-dau" },
+        { "ten": "Đêm ngủ không yên", "nhom": "than-kinh" },
+        { "ten": "Dễ lên cơn co giật", "nhom": "than-kinh" },
+        { "ten": "Lưỡi nhợt", "nhom": "luoi" },
+        { "ten": "Ít rêu", "nhom": "luoi" },
+        { "ten": "Mạch trầm tế", "nhom": "mach" },
+        { "ten": "Chỉ văn nhợt", "nhom": "khac" }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Bổ thận ích tủy, dưỡng can cường cân.",
+      "bai_thuoc": [
+        {
+          "ten": "Lục vị địa hoàng hoàn", "loai": "co_phuong", "trang": 89,
+          "thanh_phan": [
+            { "ten": "Thục địa", "lieu_g": 16 }, { "ten": "Bạch linh", "lieu_g": 8 },
+            { "ten": "Hoài sơn", "lieu_g": 8 }, { "ten": "Đan bì", "lieu_g": 6 },
+            { "ten": "Sơn thù", "lieu_g": 8 }, { "ten": "Trạch tả", "lieu_g": 6 }
+          ],
+          "cach_dung": "Luyện mật làm hoàn ngày uống 8 - 12g/lần x 2 - 3 lần/ngày với nước sôi để nguội hoặc nước muối nhạt. Hoặc làm thang có thể điều chỉnh liều cho phù hợp, sắc uống ngày 1 thang, chia lần 2 lần.",
+          "gia_giam": [
+            "Răng mọc chậm gia Hà thủ ô 12g, Long cốt 12g, Mẫu lệ 16g.",
+            "Chậm biết đi gia Ngưu tất 10g, Đỗ trọng 12g, Tang ký sinh 12g.",
+            "Cổ gáy mềm yếu gia Kỷ tử 8g, Thỏ ty tử 10g, Ba kích 10g.",
+            "Đêm ngủ không yên, dễ kích thích gia Đan sâm 10g, Viễn chí 4g."
+          ],
+          "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Tâm tỳ hư",
+      "mo_ta": "Tương đương bại não thể liệt nhẽo, thể thất điều.",
+      "trang": 92,
+      "trieu_chung": [
+        { "ten": "Chậm nói", "nhom": "phu-nu-tre-em" },
+        { "ten": "Nói ngọng", "nhom": "than-kinh" },
+        { "ten": "Tinh thần đần độn", "nhom": "than-kinh" },
+        { "ten": "Tứ chi mềm yếu", "nhom": "vi-tri-dau" },
+        { "ten": "Cử động chậm chạp, khó khăn", "nhom": "vi-tri-dau" },
+        { "ten": "Bước đi không thẳng", "nhom": "vi-tri-dau" },
+        { "ten": "Cơ nhục nhẽo", "nhom": "toan-than" },
+        { "ten": "Tóc mọc chậm, vàng, khô thưa", "nhom": "phu-nu-tre-em" },
+        { "ten": "Miệng chảy dãi", "nhom": "dau-mat" },
+        { "ten": "Nhai bú vô lực", "nhom": "tieu-hoa" },
+        { "ten": "Nuốt thức ăn khó khăn", "nhom": "tieu-hoa" },
+        { "ten": "Biếng ăn", "nhom": "tieu-hoa" },
+        { "ten": "Lưỡi nhợt bệu", "nhom": "luoi" },
+        { "ten": "Ít rêu", "nhom": "luoi" },
+        { "ten": "Mạch tế hoãn", "nhom": "mach" },
+        { "ten": "Chỉ văn nhạt", "nhom": "khac" }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Kiện tỳ dưỡng tâm, bổ ích khí huyết.",
+      "bai_thuoc": [
+        {
+          "ten": "Điều nguyên tán gia vị", "loai": "co_phuong", "trang": 92,
+          "thanh_phan": [
+            { "ten": "Phục linh", "lieu_g": 8 }, { "ten": "Nhân sâm", "lieu_g": 6 },
+            { "ten": "Bạch thược", "lieu_g": 8 }, { "ten": "Phục thần", "lieu_g": 8 },
+            { "ten": "Bạch truật", "lieu_g": 12 }, { "ten": "Thạch xương bồ", "lieu_g": 8 },
+            { "ten": "Hoài sơn", "lieu_g": 12 }, { "ten": "Xuyên khung", "lieu_g": 6 },
+            { "ten": "Cam thảo", "lieu_g": 6 }, { "ten": "Thục địa", "lieu_g": 10 },
+            { "ten": "Đương quy", "lieu_g": 10 }, { "ten": "Hoàng kỳ", "lieu_g": 12 }
+          ],
+          "cach_dung": "Tán bột, ngày uống 4 – 6g, chia sáng chiều. Có thể dùng dạng thang sắc uống, điều chỉnh liều lượng tuỳ từng trường hợp cụ thể.",
+          "gia_giam": [
+            "Nếu trẻ chậm nói, tinh thần đần độn gia Viễn chí 4g, Uất kim 4g.",
+            "Trẻ tóc mọc chậm, khó dài gia Hà thủ ô 8g, Nhục thung dung 10g, Tang thầm 12g.",
+            "Trẻ tứ chi mềm yếu gia Quế chi 4g.",
+            "Trẻ miệng chảy dãi gia Ích trí nhân 8g."
+          ],
+          "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Đàm ứ trở trệ",
+      "mo_ta": "Hay gặp ở trẻ bại não do di chứng viêm não-màng não.",
+      "trang": 93,
+      "trieu_chung": [
+        { "ten": "Thất ngôn", "nhom": "than-kinh" },
+        { "ten": "Nghe kém", "nhom": "dau-mat" },
+        { "ten": "Tinh thần mờ tối", "nhom": "than-kinh" },
+        { "ten": "Phản ứng chậm chạp", "nhom": "than-kinh" },
+        { "ten": "Cử động không tự chủ", "nhom": "vi-tri-dau" },
+        { "ten": "Nuốt thở khó khăn", "nhom": "ho-hap" },
+        { "ten": "Họng có tiếng đờm khò khè", "nhom": "ho-hap" },
+        { "ten": "Cứng khớp", "nhom": "vi-tri-dau" },
+        { "ten": "Cơ nhục mềm nhẽo", "nhom": "toan-than" },
+        { "ten": "Có thể có cơn động kinh", "nhom": "than-kinh" },
+        { "ten": "Chất lưỡi bệu có điểm ứ huyết", "nhom": "luoi" },
+        { "ten": "Rêu nhớt", "nhom": "luoi" },
+        { "ten": "Mạch trầm sáp hoặc hoạt", "nhom": "mach" },
+        { "ten": "Chỉ văn tối trệ", "nhom": "khac" }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Trừ đàm khai khiếu, hoạt huyết thông lạc.",
+      "bai_thuoc": [
+        {
+          "ten": "Thông khiếu hoạt huyết thang kết hợp Nhị trần thang gia giảm", "loai": "co_phuong", "trang": 93,
+          "thanh_phan": [
+            { "ten": "Xích thược", "lieu_g": 12 }, { "ten": "Hồng hoa", "lieu_g": 8 },
+            { "ten": "Xuyên khung", "lieu_g": 6 }, { "ten": "Sinh khương", "lieu_g": 4 },
+            { "ten": "Đào nhân", "lieu_g": 8 },
+            { "ten": "Thông bạch", "lieu_g": null, "lieu_text": "03 củ" },
+            { "ten": "Đan sâm", "lieu_g": 10 }, { "ten": "Bán hạ chế", "lieu_g": 8 },
+            { "ten": "Bạch linh", "lieu_g": 10 }, { "ten": "Trần bì", "lieu_g": 6 },
+            { "ten": "Cam thảo", "lieu_g": 6 }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.",
+          "gia_giam": [
+            "Gia Viễn chí 6g, Thạch xương bồ 06g để tăng sức khai khiếu; Uất kim 6 - 8g để tăng tác dụng hoạt huyết thông lạc.",
+            "Tâm can hỏa vượng, kinh giật kêu khóc, gia Hoàng liên 10g, Long đởm thảo 10g.",
+            "Đại tiện táo gia Đại hoàng 2g để thông phủ.",
+            "Nhiệt cực sinh phong gây co giật, gia Quy bản 16g, Thiên ma 12g, Mẫu lệ 12g."
+          ],
+          "giong_the": null
+        }
+      ]
+    }
+  ],
+  "ghi_chu_trich": [
+    "Tr.88: dấu hiệu nguy hiểm duy nhất văn bản nói rõ cần cấp cứu là trẻ đẻ ra không khóc ngay, tím tái hoặc trắng bệch (mục nguyên nhân). Phần IV (tr.94) có thuốc chống động kinh và tiêm thuốc giãn cơ cho nhóm cơ co cứng quá nhiều, nhưng không ghi là dấu hiệu cần chuyển YHHĐ nên không đưa vào.",
+    "Tr.89/92/93: 'chỉ văn' (nhợt / nhạt / tối trệ) được tách khỏi mạch thành triệu chứng riêng, nhóm 'khac'.",
+    "Tr.89: cách dùng Lục vị địa hoàng hoàn in 'chia lần 2 lần' — lỗi in (thừa chữ 'lần'), giữ nguyên.",
+    "Tr.89: gia giảm Lục vị in dưới tiêu đề 'Gia giảm: Nếu người bệnh:'; mỗi dòng chép nguyên văn, không lặp lại 'Nếu người bệnh'.",
+    "Tr.92: cổ phương 'Điều nguyên tán gia vị' in sau dòng 'Đối pháp lập phương' (thứ tự đảo so với các thể khác).",
+    "Tr.93: tên bài in là 'Bài “Thông khiếu hoạt huyết thang” kết hợp “Nhị trần thang” gia giảm' — bỏ chữ 'Bài' và ngoặc kép. Thông bạch 03 củ (lieu_g = null). Câu gia giảm 'Uất kim 6 - 8g' là khoảng liều.",
+    "Tr.93: ba dòng gia giảm in dưới tiêu đề 'Nếu người bệnh có:'; mỗi dòng chép nguyên văn, không lặp lại tiêu đề.",
+    "Tr.87–88: phần I liệt kê 5 chậm của Ngũ trì (chậm mọc tóc, mọc răng, chậm biết đi, chậm nói, chậm khôn) và 3 thể YHCT — khớp với 3 thể ở phần III."
+  ]
+}

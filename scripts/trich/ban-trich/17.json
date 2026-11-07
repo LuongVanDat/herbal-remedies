@@ -1,0 +1,793 @@
+{
+  "so": 17,
+  "id": "copd",
+  "ten": "Bệnh phổi tắc nghẽn mạn tính (COPD) (Khái suyễn)",
+  "ten_khac": [
+    "Khái suyễn",
+    "Khái thấu",
+    "Đàm ẩm",
+    "COPD",
+    "BPTNMT"
+  ],
+  "trang_dau": 125,
+  "trang_cuoi": 134,
+  "dau_hieu_nguy_hiem": [],
+  "the_benh": [
+    {
+      "ten": "Phong nhiệt",
+      "mo_ta": null,
+      "trang": 127,
+      "trieu_chung": [
+        {
+          "ten": "Ho nhiều",
+          "nhom": "ho-hap"
+        },
+        {
+          "ten": "Tiếng ho nặng",
+          "nhom": "ho-hap"
+        },
+        {
+          "ten": "Khạc đờm đặc, vàng",
+          "nhom": "ho-hap"
+        },
+        {
+          "ten": "Miệng khát",
+          "nhom": "tieu-hoa"
+        },
+        {
+          "ten": "Họng đau",
+          "nhom": "dau-mat"
+        },
+        {
+          "ten": "Nước mũi vàng đục",
+          "nhom": "dau-mat"
+        },
+        {
+          "ten": "Toàn thân đau mỏi",
+          "nhom": "vi-tri-dau"
+        },
+        {
+          "ten": "Sốt cao",
+          "nhom": "han-nhiet"
+        },
+        {
+          "ten": "Ra mồ hôi",
+          "nhom": "mo-hoi"
+        },
+        {
+          "ten": "Nhức đầu",
+          "nhom": "dau-mat"
+        },
+        {
+          "ten": "Sợ gió",
+          "nhom": "han-nhiet"
+        },
+        {
+          "ten": "Rêu lưỡi vàng mỏng",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Mạch phù sác",
+          "nhom": "mach"
+        }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Sơ phong thanh nhiệt, tuyên thông phế khí.",
+      "bai_thuoc": [
+        {
+          "ten": "Tang cúc ẩm",
+          "loai": "co_phuong",
+          "trang": 127,
+          "thanh_phan": [
+            {
+              "ten": "Tang diệp",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Cúc hoa",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Liên kiều",
+              "lieu_g": 16
+            },
+            {
+              "ten": "Bạc hà",
+              "lieu_g": 6
+            },
+            {
+              "ten": "Cát cánh",
+              "lieu_g": 10
+            },
+            {
+              "ten": "Cam thảo",
+              "lieu_g": 6
+            },
+            {
+              "ten": "Lô căn",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Hạnh nhân",
+              "lieu_g": 12
+            }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.",
+          "gia_giam": [],
+          "giong_the": null
+        },
+        {
+          "ten": "Ma hạnh thạch cam thang",
+          "loai": "co_phuong",
+          "trang": 128,
+          "thanh_phan": [
+            {
+              "ten": "Ma hoàng",
+              "lieu_g": 4
+            },
+            {
+              "ten": "Hạnh nhân",
+              "lieu_g": 6
+            },
+            {
+              "ten": "Thạch cao",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Cam thảo",
+              "lieu_g": 6
+            }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.",
+          "gia_giam": [],
+          "giong_the": null
+        },
+        {
+          "ten": null,
+          "loai": "thuoc_nam",
+          "trang": 128,
+          "thanh_phan": [
+            {
+              "ten": "Lá dâu",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Rau má",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Bạc hà",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Cúc hoa",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Lá hẹ",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Rễ cỏ tranh (sao vàng)",
+              "lieu_g": 8
+            }
+          ],
+          "cach_dung": "Sắc uống ngày 01 thang chia 2 lần.",
+          "gia_giam": [],
+          "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Phong hàn",
+      "mo_ta": null,
+      "trang": 128,
+      "trieu_chung": [
+        {
+          "ten": "Ho",
+          "nhom": "ho-hap"
+        },
+        {
+          "ten": "Đờm trong loãng, sắc trắng, dễ khạc",
+          "nhom": "ho-hap"
+        },
+        {
+          "ten": "Tắc mũi",
+          "nhom": "dau-mat"
+        },
+        {
+          "ten": "Chảy nước mũi trong",
+          "nhom": "dau-mat"
+        },
+        {
+          "ten": "Sốt",
+          "nhom": "han-nhiet"
+        },
+        {
+          "ten": "Sợ lạnh",
+          "nhom": "han-nhiet"
+        },
+        {
+          "ten": "Đau đầu",
+          "nhom": "dau-mat"
+        },
+        {
+          "ten": "Cảm giác mỏi người",
+          "nhom": "toan-than"
+        },
+        {
+          "ten": "Khản tiếng",
+          "nhom": "dau-mat"
+        },
+        {
+          "ten": "Rêu lưỡi trắng mỏng",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Mạch phù",
+          "nhom": "mach"
+        }
+      ],
+      "loai_tru": [
+        {
+          "ten": "Ra mồ hôi",
+          "dan_chung": "không ra mồ hôi"
+        }
+      ],
+      "phap_tri": "Sơ tán phong hàn, tuyên phế hóa đàm.",
+      "bai_thuoc": [
+        {
+          "ten": "Hạnh tô tán",
+          "loai": "co_phuong",
+          "trang": 128,
+          "thanh_phan": [
+            {
+              "ten": "Hạnh nhân",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Tô diệp",
+              "lieu_g": 10
+            },
+            {
+              "ten": "Trần bì",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Chỉ xác",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Tiền hồ",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Cát cánh",
+              "lieu_g": 10
+            },
+            {
+              "ten": "Bán hạ chế",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Phục linh",
+              "lieu_g": 16
+            },
+            {
+              "ten": "Sinh khương",
+              "lieu_g": null,
+              "lieu_text": "03 lát"
+            },
+            {
+              "ten": "Cam thảo",
+              "lieu_g": 4
+            },
+            {
+              "ten": "Đại táo",
+              "lieu_g": 12
+            }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.",
+          "gia_giam": [],
+          "giong_the": null
+        },
+        {
+          "ten": null,
+          "loai": "thuoc_nam",
+          "trang": 129,
+          "thanh_phan": [
+            {
+              "ten": "Tô diệp",
+              "lieu_g": 20
+            },
+            {
+              "ten": "Lá xương sông",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Sinh khương",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Lá hẹ",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Kinh giới",
+              "lieu_g": 8
+            }
+          ],
+          "cach_dung": "Sắc uống ngày 01 thang, chia 2 lần.",
+          "gia_giam": [],
+          "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Khí táo",
+      "mo_ta": null,
+      "trang": 129,
+      "trieu_chung": [
+        {
+          "ten": "Ho khan",
+          "nhom": "ho-hap"
+        },
+        {
+          "ten": "Ít đờm",
+          "nhom": "ho-hap"
+        },
+        {
+          "ten": "Đôi khi ho có lẫn ít đờm, trong có tia máu",
+          "nhom": "ho-hap"
+        },
+        {
+          "ten": "Họng khô",
+          "nhom": "dau-mat"
+        },
+        {
+          "ten": "Mũi khô",
+          "nhom": "dau-mat"
+        },
+        {
+          "ten": "Phát sốt",
+          "nhom": "han-nhiet"
+        },
+        {
+          "ten": "Sợ gió",
+          "nhom": "han-nhiet"
+        },
+        {
+          "ten": "Đau họng",
+          "nhom": "dau-mat"
+        },
+        {
+          "ten": "Đầu lưỡi đỏ",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Lưỡi khô",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Rêu lưỡi vàng",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Mạch hoạt sác",
+          "nhom": "mach"
+        }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Nhuận táo dưỡng phế. Nếu ôn táo thì kiêm thêm: Sơ phong thanh nhiệt. Nếu lương táo thì kiêm thêm: Sơ tán phong hàn.",
+      "bai_thuoc": [
+        {
+          "ten": "Tang hạnh thang",
+          "loai": "co_phuong",
+          "trang": 129,
+          "thanh_phan": [
+            {
+              "ten": "Tang diệp",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Thổ bối mẫu",
+              "lieu_g": 4
+            },
+            {
+              "ten": "Hạnh nhân",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Sa sâm",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Chi tử",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Đạm đậu xị",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Lê bì",
+              "lieu_g": 6
+            }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.",
+          "gia_giam": [],
+          "giong_the": null
+        },
+        {
+          "ten": null,
+          "loai": "thuoc_nam",
+          "trang": 130,
+          "thanh_phan": [
+            {
+              "ten": "Rau má",
+              "lieu_g": 20
+            },
+            {
+              "ten": "Tang bạch bì (sao mật)",
+              "lieu_g": 16
+            },
+            {
+              "ten": "Lá chanh",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Trúc diệp",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Cam thảo dây",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Quả dành dành (sao vàng)",
+              "lieu_g": 8
+            }
+          ],
+          "cach_dung": "Sắc uống ngày 01 thang, chia 2 lần.",
+          "gia_giam": [],
+          "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Đàm thấp",
+      "mo_ta": null,
+      "trang": 130,
+      "trieu_chung": [
+        {
+          "ten": "Ho",
+          "nhom": "ho-hap"
+        },
+        {
+          "ten": "Khạc đờm nhiều",
+          "nhom": "ho-hap"
+        },
+        {
+          "ten": "Đờm trắng, dính loãng hoặc thành cục",
+          "nhom": "ho-hap"
+        },
+        {
+          "ten": "Ngực bụng có cảm giác đầy tức",
+          "nhom": "tieu-hoa"
+        },
+        {
+          "ten": "Ăn kém",
+          "nhom": "tieu-hoa"
+        },
+        {
+          "ten": "Tinh thần mỏi mệt",
+          "nhom": "toan-than"
+        },
+        {
+          "ten": "Rêu lưỡi trắng nhờn",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Mạch nhu hoạt",
+          "nhom": "mach"
+        }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Bổ phế, kiện tỳ, táo thấp hóa đàm, chỉ khái.",
+      "bai_thuoc": [
+        {
+          "ten": "Lục quân tử thang hợp Bình vị tán",
+          "loai": "co_phuong",
+          "trang": 130,
+          "thanh_phan": [
+            {
+              "ten": "Đảng sâm",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Bạch truật",
+              "lieu_g": 16
+            },
+            {
+              "ten": "Phục linh",
+              "lieu_g": 16
+            },
+            {
+              "ten": "Cam thảo",
+              "lieu_g": 4
+            },
+            {
+              "ten": "Trần bì",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Bán hạ chế",
+              "lieu_g": 10
+            },
+            {
+              "ten": "Thương truật",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Hậu phác",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Sinh khương",
+              "lieu_g": 6
+            },
+            {
+              "ten": "Đại táo",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Cam thảo",
+              "lieu_g": 12
+            }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.",
+          "gia_giam": [],
+          "giong_the": null
+        },
+        {
+          "ten": "Nhị trần thang",
+          "loai": "co_phuong",
+          "trang": 130,
+          "thanh_phan": [
+            {
+              "ten": "Trần bì",
+              "lieu_g": 10
+            },
+            {
+              "ten": "Phục linh",
+              "lieu_g": 10
+            },
+            {
+              "ten": "Bán hạ chế",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Cam thảo",
+              "lieu_g": 12
+            }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.",
+          "gia_giam": [],
+          "giong_the": null
+        },
+        {
+          "ten": null,
+          "loai": "thuoc_nam",
+          "trang": 131,
+          "thanh_phan": [
+            {
+              "ten": "Trần bì (sao)",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Gừng tươi",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Bán hạ chế",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Hậu phác nam",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Bạch giới tử",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Cam thảo nam",
+              "lieu_g": 12
+            },
+            {
+              "ten": "La bạc tử",
+              "lieu_g": 12
+            }
+          ],
+          "cach_dung": "Sắc uống ngày 01 thang, chia 2 lần.",
+          "gia_giam": [],
+          "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Đàm thấp (tỳ thận dương hư)",
+      "mo_ta": null,
+      "trang": 130,
+      "trieu_chung": [
+        {
+          "ten": "Ho",
+          "nhom": "ho-hap"
+        },
+        {
+          "ten": "Đờm nhiều",
+          "nhom": "ho-hap"
+        },
+        {
+          "ten": "Ngực sườn đầy tức",
+          "nhom": "vi-tri-dau"
+        },
+        {
+          "ten": "Miệng khát mà không muốn uống",
+          "nhom": "tieu-hoa"
+        },
+        {
+          "ten": "Uống nước bị nôn",
+          "nhom": "tieu-hoa"
+        },
+        {
+          "ten": "Lưng và tay chân lạnh",
+          "nhom": "han-nhiet"
+        },
+        {
+          "ten": "Hoa mắt, chóng mặt",
+          "nhom": "than-kinh"
+        },
+        {
+          "ten": "Thở ngắn",
+          "nhom": "ho-hap"
+        },
+        {
+          "ten": "Hồi hộp",
+          "nhom": "than-kinh"
+        },
+        {
+          "ten": "Lưỡi nhợt",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Rêu lưỡi trắng trơn",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Mạch huyền hoạt",
+          "nhom": "mach"
+        }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Ôn dương lợi thấp, trừ đàm.",
+      "bai_thuoc": [
+        {
+          "ten": "Linh quế truật cam thang",
+          "loai": "co_phuong",
+          "trang": 131,
+          "thanh_phan": [
+            {
+              "ten": "Bạch truật",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Phục linh",
+              "lieu_g": 16
+            },
+            {
+              "ten": "Cam thảo",
+              "lieu_g": 4
+            },
+            {
+              "ten": "Quế chi",
+              "lieu_g": 12
+            }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.",
+          "gia_giam": [],
+          "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Thủy ẩm (hàn ẩm)",
+      "mo_ta": "Thường hay gặp ở người bệnh viêm phế quản mạn tính kèm theo giãn phế nang ở người cao tuổi, suy giảm chức năng hô hấp rõ, bệnh tâm phế mạn.",
+      "trang": 131,
+      "trieu_chung": [
+        {
+          "ten": "Ho kéo dài, hay tái phát",
+          "nhom": "ho-hap"
+        },
+        {
+          "ten": "Khó thở",
+          "nhom": "ho-hap"
+        },
+        {
+          "ten": "Khi trời lạnh thì ho tăng lên",
+          "nhom": "ho-hap"
+        },
+        {
+          "ten": "Khạc ra nhiều đờm loãng trắng",
+          "nhom": "ho-hap"
+        },
+        {
+          "ten": "Khi vận động các triệu chứng trên tăng lên",
+          "nhom": "vi-tri-dau"
+        },
+        {
+          "ten": "Khó thở, nhiều khi nằm phải gối đầu cao",
+          "nhom": "ho-hap"
+        }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Ôn bổ phế thận, hoá đàm.",
+      "bai_thuoc": [
+        {
+          "ten": "Tiểu thanh long thang",
+          "loai": "co_phuong",
+          "trang": 131,
+          "thanh_phan": [
+            {
+              "ten": "Ma hoàng",
+              "lieu_g": 6
+            },
+            {
+              "ten": "Nhục quế",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Tế tân",
+              "lieu_g": 4
+            },
+            {
+              "ten": "Can khương",
+              "lieu_g": 6
+            },
+            {
+              "ten": "Bán hạ chế",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Ngũ vị tử",
+              "lieu_g": 6
+            },
+            {
+              "ten": "Bạch thược",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Cam thảo",
+              "lieu_g": 6
+            }
+          ],
+          "cach_dung": "Tất cả làm thang sắc uống ngày 01 thang chia 2 lần.",
+          "gia_giam": [],
+          "giong_the": null
+        }
+      ]
+    }
+  ],
+  "ghi_chu_trich": [
+    "Tr.127: đề mục phần thể lâm sàng in là 'V. CÁC THỂ LÂM SÀNG VÀ ĐIỀU TRỊ' (sau mục II, không có mục III); đã trích như phần III.",
+    "Tr.127: văn bản nói thể không phải đợt cấp 'thường được chia làm hai thể phế tỳ hư và phế thận hư', nhưng các thể in thực tế là 'Đàm thấp' và 'Thủy ẩm (hàn ẩm)'; giữ tên thể như đề mục.",
+    "Không có dấu hiệu văn bản nói rõ cần khám/can thiệp YHHĐ: tr.125 chỉ mô tả giai đoạn muộn suy hô hấp mạn (tím môi, tím đầu chi, thở nhanh, co kéo cơ hô hấp phụ, biểu hiện suy tim phải); tr.132 nói đợt cấp mức độ nhẹ (thể phong nhiệt, phong hàn, khí táo) 'có thể kết hợp với YHHĐ' (thuốc giãn phế quản) và 'nếu bệnh nhân có nhiễm trùng thì cần kết hợp điều trị kháng sinh' — đều không phải dấu hiệu tự nhận biết rõ, nên để dau_hieu_nguy_hiem rỗng.",
+    "Tr.127-128: bài Tang cúc ẩm trải 2 trang (Tang diệp, Cúc hoa ở tr.127; 6 vị còn lại ở tr.128).",
+    "Tr.128-129: bài Hạnh tô tán trải 2 trang (6 vị ở tr.128; Bán hạ chế, Phục linh, Sinh khương, Cam thảo, Đại táo ở tr.129). Sinh khương ghi '03 lát'.",
+    "Tr.129: thể Khí táo — pháp có nhánh ôn táo/lương táo nhưng không tách triệu chứng hay bài thuốc riêng nên giữ một thể.",
+    "Tr.130: bài kết hợp Lục quân tử thang và Bình vị tán (không có tên riêng; đặt tên 'Lục quân tử thang hợp Bình vị tán') liệt kê Cam thảo hai lần: 04g và 12g — giữ cả hai như in. Liều Đại táo in là '12g̉' (có dấu móc thừa trên chữ g, cả trong PDF), hiểu là 12g.",
+    "Tr.130-131: nhánh 'Nếu tỳ thận dương hư...' trong thể Đàm thấp có triệu chứng, pháp ('ôn dương lợi thấp, trừ đàm') và bài (Linh quế truật cam thang) riêng → tách thể 'Đàm thấp (tỳ thận dương hư)' chỉ với triệu chứng nhánh (nhánh tự mô tả đầy đủ); trang thể = 130 (bắt đầu nhánh), bài ở tr.131. Bài thuốc Nam (tr.131) in sau nhánh này nhưng ở cấp '- Hoặc dùng bài thuốc Nam' của thể Đàm thấp nên chỉ gán cho thể Đàm thấp.",
+    "Tr.131: thể Thủy ẩm (hàn ẩm) không ghi lưỡi, mạch.",
+    "Tr.131-132: bài Tiểu thanh long thang trải 2 trang (6 vị ở tr.131; Bạch thược, Cam thảo ở tr.132). Bài in 'Nhục quế' (không phải Quế chi) — giữ nguyên chữ in."
+  ]
+}

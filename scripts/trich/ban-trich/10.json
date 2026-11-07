@@ -1,0 +1,190 @@
+{
+  "so": 10,
+  "id": "dau-than-kinh-toa",
+  "ten": "Đau thần kinh tọa (Yêu cước thống)",
+  "ten_khac": ["Yêu cước thống", "Tọa cốt phong", "Tọa điến phong", "Yêu cước đông thống", "đau thần kinh hông to"],
+  "trang_dau": 72,
+  "trang_cuoi": 78,
+  "dau_hieu_nguy_hiem": [
+    { "ten": "Có biến chứng liên quan đến vận động, cảm giác (cần can thiệp ngoại khoa)", "trang": 77 },
+    { "ten": "Đau nhiều, các thuốc giảm đau ít tác dụng", "trang": 77 }
+  ],
+  "the_benh": [
+    {
+      "ten": "Phong hàn thấp",
+      "mo_ta": "Thường gặp trong những trường hợp đau thần kinh tọa do lạnh.",
+      "trang": 73,
+      "trieu_chung": [
+        { "ten": "Sau khi bị nhiễm lạnh, đau từ thắt lưng hoặc từ mông xuống chân", "nhom": "vi-tri-dau" },
+        { "ten": "Đau có điểm khu trú", "nhom": "vi-tri-dau" },
+        { "ten": "Đau tăng khi trời lạnh", "nhom": "vi-tri-dau" },
+        { "ten": "Chườm ấm dễ chịu", "nhom": "vi-tri-dau" },
+        { "ten": "Sợ gió", "nhom": "han-nhiet" },
+        { "ten": "Sợ lạnh", "nhom": "han-nhiet" },
+        { "ten": "Đại tiện có thể bình thường hoặc nát", "nhom": "tieu-hoa" },
+        { "ten": "Tiểu tiện trong", "nhom": "tieu-tien" },
+        { "ten": "Chất lưỡi nhợt", "nhom": "luoi" },
+        { "ten": "Rêu lưỡi trắng mỏng", "nhom": "luoi" },
+        { "ten": "Mạch phù hoặc phù khẩn", "nhom": "mach" }
+      ],
+      "loai_tru": [{ "ten": "Có thể teo cơ", "dan_chung": "chưa có teo cơ" }],
+      "phap_tri": "Khu phong, tán hàn, trừ thấp, ôn thông kinh lạc.",
+      "bai_thuoc": [
+        {
+          "ten": "Can khương thương truật linh phụ thang gia giảm", "loai": "co_phuong", "trang": 73,
+          "thanh_phan": [
+            { "ten": "Can khương", "lieu_g": 8 }, { "ten": "Quế chi", "lieu_g": 8 },
+            { "ten": "Thương truật", "lieu_g": 8 }, { "ten": "Ý dĩ", "lieu_g": 8 },
+            { "ten": "Cam thảo", "lieu_g": 6 }, { "ten": "Bạch linh", "lieu_g": 12 },
+            { "ten": "Xuyên khung", "lieu_g": 16 }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.", "gia_giam": [], "giong_the": null
+        },
+        {
+          "ten": null, "loai": "nghiem_phuong", "trang": 73,
+          "thanh_phan": [
+            { "ten": "Độc hoạt", "lieu_g": 10 }, { "ten": "Phòng phong", "lieu_g": 8 },
+            { "ten": "Uy linh tiên", "lieu_g": 12 }, { "ten": "Tang ký sinh", "lieu_g": 12 },
+            { "ten": "Tế tân", "lieu_g": 4 }, { "ten": "Quế chi", "lieu_g": 6 },
+            { "ten": "Trần bì", "lieu_g": 8 }, { "ten": "Chỉ xác", "lieu_g": 8 },
+            { "ten": "Đan sâm", "lieu_g": 12 }, { "ten": "Rễ cỏ xước", "lieu_g": 12 },
+            { "ten": "Xuyên khung", "lieu_g": 12 }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.", "gia_giam": [], "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Phong hàn thấp kết hợp can thận hư",
+      "mo_ta": "Thường gặp trong những trường hợp đau thần kinh tọa do thoái hóa cột sống.",
+      "trang": 74,
+      "trieu_chung": [
+        { "ten": "Đau vùng thắt lưng lan xuống mông, chân dọc theo đường đi của dây thần kinh tọa", "nhom": "vi-tri-dau" },
+        { "ten": "Đau có cảm giác tê bì, nặng nề", "nhom": "vi-tri-dau" },
+        { "ten": "Có thể teo cơ", "nhom": "vi-tri-dau" },
+        { "ten": "Bệnh kéo dài, dễ tái phát", "nhom": "khac" },
+        { "ten": "Ăn kém", "nhom": "tieu-hoa" },
+        { "ten": "Ngủ ít", "nhom": "than-kinh" },
+        { "ten": "Chất lưỡi nhợt bệu", "nhom": "luoi" },
+        { "ten": "Rêu lưỡi trắng dầy và nhớt", "nhom": "luoi" },
+        { "ten": "Mạch nhu hoãn hoặc trầm nhược", "nhom": "mach" }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Khu phong, tán hàn, trừ thấp, bổ can thận (kiện tỳ nếu có teo cơ).",
+      "bai_thuoc": [
+        {
+          "ten": "Độc hoạt tang ký sinh thang", "loai": "co_phuong", "trang": 75,
+          "thanh_phan": [
+            { "ten": "Độc hoạt", "lieu_g": 10 }, { "ten": "Phòng phong", "lieu_g": 12 },
+            { "ten": "Tang ký sinh", "lieu_g": 12 }, { "ten": "Tế tân", "lieu_g": 4 },
+            { "ten": "Tần giao", "lieu_g": 12 }, { "ten": "Đương quy", "lieu_g": 12 },
+            { "ten": "Phục linh", "lieu_g": 12 }, { "ten": "Quế chi", "lieu_g": 4 },
+            { "ten": "Bạch thược", "lieu_g": 12 }, { "ten": "Xuyên khung", "lieu_g": 8 },
+            { "ten": "Thục địa", "lieu_g": 12 }, { "ten": "Chích cam thảo", "lieu_g": 6 },
+            { "ten": "Đỗ trọng", "lieu_g": 12 }, { "ten": "Ngưu tất", "lieu_g": 12 },
+            { "ten": "Đảng sâm", "lieu_g": 12 }
+          ],
+          "cach_dung": "Ngày sắc uống 1 thang, chia 3 lần, liệu trình 10 - 15 thang.", "gia_giam": [], "giong_the": null
+        },
+        {
+          "ten": null, "loai": "nghiem_phuong", "trang": 75,
+          "thanh_phan": [
+            { "ten": "Thục địa", "lieu_g": 12 }, { "ten": "Ý dĩ", "lieu_g": 12 },
+            { "ten": "Cẩu tích", "lieu_g": 12 }, { "ten": "Bạch truật", "lieu_g": 12 },
+            { "ten": "Tục đoạn", "lieu_g": 12 }, { "ten": "Củ mài", "lieu_g": 12 },
+            { "ten": "Tang ký sinh", "lieu_g": 12 }, { "ten": "Tỳ giải", "lieu_g": 12 },
+            { "ten": "Rễ cỏ xước", "lieu_g": 12 }, { "ten": "Hà thủ ô đỏ", "lieu_g": 12 },
+            { "ten": "Đảng sâm", "lieu_g": 12 }
+          ],
+          "cach_dung": "Ngày sắc uống 1 thang, chia 3 lần, liệu trình 10 - 15 thang.", "gia_giam": [], "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Thấp nhiệt",
+      "mo_ta": "Thường gặp trong những trường hợp đau thần kinh tọa do viêm nhiễm.",
+      "trang": 75,
+      "trieu_chung": [
+        { "ten": "Đau vùng thắt lưng lan xuống mông, chân dọc theo đường đi của dây thần kinh hông to", "nhom": "vi-tri-dau" },
+        { "ten": "Đau có cảm nóng rát như kim châm", "nhom": "vi-tri-dau" },
+        { "ten": "Chân đau nóng hơn chân bên lành", "nhom": "vi-tri-dau" },
+        { "ten": "Chất lưỡi hồng hoặc đỏ", "nhom": "luoi" },
+        { "ten": "Rêu lưỡi vàng", "nhom": "luoi" },
+        { "ten": "Mạch hoạt sác", "nhom": "mach" }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Thanh nhiệt trừ thấp, hành khí hoạt huyết.",
+      "bai_thuoc": [
+        {
+          "ten": "Ý dĩ nhân thang hợp với Nhị diệu tán", "loai": "co_phuong", "trang": 76,
+          "thanh_phan": [
+            { "ten": "Ý dĩ nhân", "lieu_g": 12 }, { "ten": "Quế chi", "lieu_g": 6 },
+            { "ten": "Cam thảo", "lieu_g": 6 }, { "ten": "Thược dược", "lieu_g": 6 },
+            { "ten": "Ma hoàng", "lieu_g": 6 }, { "ten": "Hoàng bá", "lieu_g": 12 },
+            { "ten": "Bạch truật", "lieu_g": 12 }, { "ten": "Thương truật", "lieu_g": 12 },
+            { "ten": "Đương quy", "lieu_g": 12 }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần, liệu trình 10 - 15 thang.", "gia_giam": [], "giong_the": null
+        },
+        {
+          "ten": null, "loai": "nghiem_phuong", "trang": 76,
+          "thanh_phan": [
+            { "ten": "Núc nác", "lieu_g": 12 }, { "ten": "Thương truật", "lieu_g": 8 },
+            { "ten": "Thổ phục linh", "lieu_g": 12 }, { "ten": "Ý dĩ", "lieu_g": 16 },
+            { "ten": "Tần giao", "lieu_g": 12 }, { "ten": "Huyết giác", "lieu_g": 16 },
+            { "ten": "Kê huyết đằng", "lieu_g": 12 }, { "ten": "Đan sâm", "lieu_g": 12 },
+            { "ten": "Hương phụ", "lieu_g": 12 }, { "ten": "Vỏ quýt", "lieu_g": 12 }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.", "gia_giam": [], "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Huyết ứ",
+      "mo_ta": "Thường gặp trong những trường hợp đau thần kinh tọa do chấn thương hoặc do thoát vị đĩa đệm.",
+      "trang": 76,
+      "trieu_chung": [
+        { "ten": "Đau đột ngột, dữ dội tại một điểm", "nhom": "vi-tri-dau" },
+        { "ten": "Đau lan xuống chân", "nhom": "vi-tri-dau" },
+        { "ten": "Hạn chế vận động nhiều", "nhom": "vi-tri-dau" },
+        { "ten": "Chất lưỡi tím, có điểm ứ huyết", "nhom": "luoi" },
+        { "ten": "Mạch sáp", "nhom": "mach" }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Hoạt huyết khứ ứ, thông kinh hoạt lạc.",
+      "bai_thuoc": [
+        {
+          "ten": "Thân thống trục ứ thang", "loai": "co_phuong", "trang": 76,
+          "thanh_phan": [
+            { "ten": "Đương quy", "lieu_g": 12 }, { "ten": "Đào nhân", "lieu_g": 6 },
+            { "ten": "Hồng hoa", "lieu_g": 6 }, { "ten": "Nhũ hương", "lieu_g": 8 },
+            { "ten": "Chích thảo", "lieu_g": 4 }, { "ten": "Hương phụ chế", "lieu_g": 12 },
+            { "ten": "Khương hoạt", "lieu_g": 12 }, { "ten": "Tần giao", "lieu_g": 12 },
+            { "ten": "Địa long", "lieu_g": 6 }, { "ten": "Ngưu tất", "lieu_g": 12 },
+            { "ten": "Ngũ linh chi (tôi giấm)", "lieu_g": 12 }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.", "gia_giam": [], "giong_the": null
+        },
+        {
+          "ten": null, "loai": "nghiem_phuong", "trang": 77,
+          "thanh_phan": [
+            { "ten": "Ngải cứu", "lieu_g": 12 }, { "ten": "Trần bì", "lieu_g": 8 },
+            { "ten": "Tô mộc", "lieu_g": 12 }, { "ten": "Kinh giới", "lieu_g": 12 },
+            { "ten": "Nghệ vàng", "lieu_g": 10 }, { "ten": "Uất kim", "lieu_g": 10 },
+            { "ten": "Rễ cỏ xước", "lieu_g": 12 }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.", "gia_giam": [], "giong_the": null
+        }
+      ]
+    }
+  ],
+  "ghi_chu_trich": [
+    "Tr.72: tên khác 'Tọa cốt phong', 'Tọa điến phong', 'Yêu cước đông thống' lấy từ phần I; 'đau thần kinh hông to' lấy từ triệu chứng thể thấp nhiệt (tr.75).",
+    "Tr.74–75: triệu chứng thể Phong hàn thấp kết hợp can thận hư bắt đầu ở tr.74, phần lưỡi/mạch và hai bài thuốc ở tr.75.",
+    "Tr.75: thể Thấp nhiệt in 'đau có cảm nóng rát như kim châm' — có thể thiếu chữ 'giác' (cảm giác); giữ nguyên chữ in.",
+    "Tr.76–77: bài Thân thống trục ứ thang trải 2 trang (8 vị ở tr.76; Địa long, Ngưu tất, Ngũ linh chi (tôi giấm) và cách dùng ở tr.77).",
+    "Tr.73: tên bài cổ phương thể Phong hàn thấp là 'Can khương thương truật linh phụ thang gia giảm' nhưng thành phần in ra giống hệt Can khương thương truật thang (7 vị, không có Phụ tử) — chép đúng như in.",
+    "Tr.77: dấu hiệu nguy hiểm lấy từ phần IV (can thiệp ngoại khoa khi có biến chứng vận động, cảm giác; đau nhiều thuốc giảm đau ít tác dụng → tiêm Corticosteroid ngoài màng cứng). Văn bản còn nêu 'nguyên nhân ác tính' nhưng không mô tả dấu hiệu người bệnh tự nhận biết.",
+    "Tr.73/74: loai_tru thể Phong hàn thấp ('chưa có teo cơ') đối chiếu với triệu chứng 'Có thể teo cơ' của thể Phong hàn thấp kết hợp can thận hư."
+  ]
+}

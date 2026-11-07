@@ -1,0 +1,54 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: liet-day-than-kinh-mat-dai-tan-giao-thang
+ten: Đại tần giao thang
+loai: co_phuong
+thanh_phan:
+  - vi: khuong-hoat
+    lieu_g: 8
+    vai_tro: null
+  - vi: bach-thuoc
+    lieu_g: 8
+    vai_tro: null
+  - vi: doc-hoat
+    lieu_g: 8
+    vai_tro: null
+  - vi: xuyen-khung
+    lieu_g: 8
+    vai_tro: null
+  - vi: tan-giao
+    lieu_g: 8
+    vai_tro: null
+  - vi: dang-sam
+    lieu_g: 12
+    vai_tro: null
+  - vi: bach-chi
+    lieu_g: 8
+    vai_tro: null
+  - vi: bach-linh
+    lieu_g: 8
+    vai_tro: null
+  - vi: cam-thao
+    lieu_g: 6
+    vai_tro: null
+  - vi: nguu-tat
+    lieu_g: 12
+    vai_tro: null
+  - vi: bach-truat
+    lieu_g: 12
+    vai_tro: null
+  - vi: thuc-dia
+    lieu_g: 12
+    vai_tro: null
+  - vi: duong-quy
+    ten_trong_bai: Đương qui
+    lieu_g: 8
+    vai_tro: null
+  - vi: hoang-cam
+    lieu_g: 8
+    vai_tro: null
+cach_dung: Sắc uống ngày 1 thang, chia 2 lần.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 60
+  trang_thai: chua_doi_chieu

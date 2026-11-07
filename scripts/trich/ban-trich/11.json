@@ -1,0 +1,170 @@
+{
+  "so": 11,
+  "id": "di-chung-nhoi-mau-nao",
+  "ten": "Di chứng nhồi máu não (Bán thân bất toại)",
+  "ten_khac": ["Bán thân bất toại", "di chứng tai biến mạch máu não"],
+  "trang_dau": 79,
+  "trang_cuoi": 86,
+  "dau_hieu_nguy_hiem": [
+    { "ten": "Đang trong giai đoạn cấp, dấu hiệu sinh tồn chưa ổn định (chỉ bắt đầu điều trị YHCT khi đã qua giai đoạn cấp, dấu hiệu sinh tồn ổn định)", "trang": 79 }
+  ],
+  "the_benh": [
+    {
+      "ten": "Can thận âm hư",
+      "mo_ta": "Thường gặp ở người có thể trạng gầy, người cao tuổi, tăng huyết áp và có xơ vữa mạch.",
+      "trang": 80,
+      "trieu_chung": [
+        { "ten": "Bán thân bất toại (yếu, liệt nửa người)", "nhom": "than-kinh" },
+        { "ten": "Chân tay cứng đờ, co quắp", "nhom": "vi-tri-dau" },
+        { "ten": "Nói ngọng", "nhom": "than-kinh" },
+        { "ten": "Miệng méo", "nhom": "dau-mat" },
+        { "ten": "Đau đầu", "nhom": "dau-mat" },
+        { "ten": "Hoa mắt chóng mặt", "nhom": "than-kinh" },
+        { "ten": "Ù tai", "nhom": "dau-mat" },
+        { "ten": "Chất lưỡi đỏ", "nhom": "luoi" },
+        { "ten": "Không rêu hoặc rêu vàng khô", "nhom": "luoi" },
+        { "ten": "Mạch huyền sác", "nhom": "mach" }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Tư âm tiềm dương, trấn hỏa tức phong.",
+      "bai_thuoc": [
+        {
+          "ten": "Lục vị địa hoàng hoàn (Tiểu nhi dược chứng trực quyết)", "loai": "co_phuong", "trang": 80,
+          "thanh_phan": [
+            { "ten": "Thục địa", "lieu_g": 12 }, { "ten": "Trạch tả", "lieu_g": 8 },
+            { "ten": "Hoài sơn", "lieu_g": 12 }, { "ten": "Phục linh", "lieu_g": 8 },
+            { "ten": "Sơn thù", "lieu_g": 12 }, { "ten": "Mẫu lệ", "lieu_g": 10 },
+            { "ten": "Đan bì", "lieu_g": 8 }, { "ten": "Miết giáp", "lieu_g": 10 }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.", "gia_giam": [], "giong_the": null
+        },
+        {
+          "ten": "Đại định phong châu (Ôn bệnh điều biện)", "loai": "co_phuong", "trang": 80,
+          "thanh_phan": [
+            { "ten": "Mạch môn", "lieu_g": 10 }, { "ten": "Bạch thược", "lieu_g": 10 },
+            { "ten": "A giao", "lieu_g": 8 }, { "ten": "Ngũ vị tử", "lieu_g": 8 },
+            { "ten": "Sinh mẫu lệ", "lieu_g": 10 }, { "ten": "Sinh miết giáp", "lieu_g": 10 },
+            { "ten": "Sinh quy bản", "lieu_g": 10 }, { "ten": "Can địa hoàng", "lieu_g": 8 },
+            { "ten": "Kê tử hoàng", "lieu_g": null, "lieu_text": "2 quả" },
+            { "ten": "Chích cam thảo", "lieu_g": 6 }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần. Chú ý sau khi sắc xong cho Kê tử hoàng vào bát thuốc và uống nóng.", "gia_giam": [], "giong_the": null
+        },
+        {
+          "ten": null, "loai": "nghiem_phuong", "trang": 80,
+          "thanh_phan": [
+            { "ten": "Long cốt", "lieu_g": 12 }, { "ten": "Mẫu lệ", "lieu_g": 12 },
+            { "ten": "Quy bản", "lieu_g": 12 }, { "ten": "Miết giáp", "lieu_g": 12 },
+            { "ten": "Bạch thược", "lieu_g": 12 }, { "ten": "Huyền sâm", "lieu_g": 12 },
+            { "ten": "Thiên môn", "lieu_g": 12 }, { "ten": "Ngưu tất", "lieu_g": 12 },
+            { "ten": "Câu đằng", "lieu_g": 12 }, { "ten": "Cam thảo", "lieu_g": 6 }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.", "gia_giam": [], "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Phong đàm",
+      "mo_ta": "Thường gặp ở những người tăng huyết áp, béo phì, cholesterol máu cao.",
+      "trang": 82,
+      "trieu_chung": [
+        { "ten": "Bán thân bất toại (liệt nửa người)", "nhom": "than-kinh" },
+        { "ten": "Chân tay tê dại", "nhom": "than-kinh" },
+        { "ten": "Nặng nề, khó cử động", "nhom": "vi-tri-dau" },
+        { "ten": "Miệng méo", "nhom": "dau-mat" },
+        { "ten": "Nói ngọng", "nhom": "than-kinh" },
+        { "ten": "Nặng đầu", "nhom": "dau-mat" },
+        { "ten": "Hoa mắt chóng mặt", "nhom": "than-kinh" },
+        { "ten": "Lưỡi bệu, dính nhớt", "nhom": "luoi" },
+        { "ten": "Rêu trắng dày", "nhom": "luoi" },
+        { "ten": "Mạch huyền hoạt hoặc phù hoạt", "nhom": "mach" }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Kiện tỳ, trừ đàm thông lạc.",
+      "bai_thuoc": [
+        {
+          "ten": "Đạo đàm thang (Tế sinh phương)", "loai": "co_phuong", "trang": 82,
+          "thanh_phan": [
+            { "ten": "Bán hạ chế", "lieu_g": 12 }, { "ten": "Đảng sâm", "lieu_g": 12 },
+            { "ten": "Trần bì", "lieu_g": 8 }, { "ten": "Trúc nhự", "lieu_g": 4 },
+            { "ten": "Phục linh", "lieu_g": 12 }, { "ten": "Xương bồ", "lieu_g": 12 },
+            { "ten": "Cam thảo", "lieu_g": 6 }, { "ten": "Đại táo", "lieu_g": 12 },
+            { "ten": "Đởm nam tinh", "lieu_g": 12 },
+            { "ten": "Sinh khương", "lieu_g": null, "lieu_text": "3 lát" }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang chia 2 lần.", "gia_giam": [], "giong_the": null
+        },
+        {
+          "ten": "Bán hạ bạch truật thiên ma thang (Y học tâm ngộ)", "loai": "co_phuong", "trang": 82,
+          "thanh_phan": [
+            { "ten": "Bán hạ chế", "lieu_g": 12 }, { "ten": "Trần bì", "lieu_g": 6 },
+            { "ten": "Thiên ma", "lieu_g": 12 }, { "ten": "Cam thảo", "lieu_g": 6 },
+            { "ten": "Bạch truật", "lieu_g": 12 }, { "ten": "Bạch linh", "lieu_g": 12 }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang chia 2 lần.", "gia_giam": [], "giong_the": null
+        },
+        {
+          "ten": null, "loai": "nghiem_phuong", "trang": 83,
+          "thanh_phan": [
+            { "ten": "Bán hạ chế", "lieu_g": 12 }, { "ten": "Trần bì", "lieu_g": 6 },
+            { "ten": "Phục linh", "lieu_g": 12 }, { "ten": "Bạch truật", "lieu_g": 12 },
+            { "ten": "Khương hoạt", "lieu_g": 12 }, { "ten": "Thạch xương bồ", "lieu_g": 12 },
+            { "ten": "Thiên ma", "lieu_g": 12 }, { "ten": "Cam thảo", "lieu_g": 6 }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang chia 2 lần.", "gia_giam": [], "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Khí hư huyết ứ",
+      "mo_ta": "Thường gặp ở người bệnh có bệnh lý tim mạch, xơ vữa động mạch.",
+      "trang": 84,
+      "trieu_chung": [
+        { "ten": "Bán thân bất toại (yếu, liệt nửa người)", "nhom": "than-kinh" },
+        { "ten": "Chân tay mình mẩy mềm vô lực", "nhom": "toan-than" },
+        { "ten": "Tê bì", "nhom": "than-kinh" },
+        { "ten": "Nói ngọng", "nhom": "than-kinh" },
+        { "ten": "Nói khó", "nhom": "than-kinh" },
+        { "ten": "Miệng méo", "nhom": "dau-mat" },
+        { "ten": "Sắc mặt không tươi nhuận", "nhom": "toan-than" },
+        { "ten": "Lưỡi tím có điểm ứ huyết", "nhom": "luoi" },
+        { "ten": "Mạch tế sáp hoặc hư nhược", "nhom": "mach" }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Ích khí hoạt huyết thông lạc.",
+      "bai_thuoc": [
+        {
+          "ten": "Bổ dương hoàn ngũ thang", "loai": "co_phuong", "trang": 84,
+          "thanh_phan": [
+            { "ten": "Quy vĩ", "lieu_g": 12 }, { "ten": "Hồng hoa", "lieu_g": 8 },
+            { "ten": "Sinh hoàng kỳ", "lieu_g": 20 }, { "ten": "Xuyên khung", "lieu_g": 10 },
+            { "ten": "Địa long", "lieu_g": 6 }, { "ten": "Xích thược", "lieu_g": 12 },
+            { "ten": "Đào nhân", "lieu_g": 8 }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang chia 2 lần.", "gia_giam": [], "giong_the": null
+        },
+        {
+          "ten": null, "loai": "nghiem_phuong", "trang": 84,
+          "thanh_phan": [
+            { "ten": "Đảng sâm", "lieu_g": 12 }, { "ten": "Xuyên khung", "lieu_g": 10 },
+            { "ten": "Sinh hoàng kỳ", "lieu_g": 12 }, { "ten": "Xích thược", "lieu_g": 12 },
+            { "ten": "Đương quy", "lieu_g": 12 }, { "ten": "Đan sâm", "lieu_g": 12 },
+            { "ten": "Bạch truật", "lieu_g": 12 }, { "ten": "Ngưu tất", "lieu_g": 12 }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang chia 2 lần.", "gia_giam": [], "giong_the": null
+        }
+      ]
+    }
+  ],
+  "ghi_chu_trich": [
+    "Tr.79: 'di chứng tai biến mạch máu não' là cách gọi văn bản dùng ở phần I (bao trùm di chứng nhồi máu não).",
+    "Tr.80: bài 'Lục vị địa hoàng hoàn (Tiểu nhi dược chứng trực quyết)' in 8 vị, gồm cả Mẫu lệ 10g và Miết giáp 10g (khác Lục vị 6 vị ở bài Bại não tr.89) — chép đúng như in.",
+    "Tr.80: Đại định phong châu có 'Kê tử hoàng 2 quả' (lieu_g = null).",
+    "Tr.82: Đạo đàm thang có 'Sinh khương 3 lát' (lieu_g = null). Tên hai bài cổ phương in trong ngoặc kép, bỏ ngoặc kép khi chép.",
+    "Tr.82–83: nghiệm phương thể Phong đàm in ở đầu tr.83 (mục triệu chứng ở tr.82).",
+    "Tr.82: triệu chứng 'chân tay tê dại, nặng nề, khó cử động' tách thành 'Chân tay tê dại' và 'Nặng nề, khó cử động'.",
+    "Tr.83–84: tiêu đề thể Khí hư huyết ứ và câu mô tả ở cuối tr.83; mục Triệu chứng ở tr.84.",
+    "Tr.84: tên bài in là 'Bổ dương hoàn ngũ thang' (trong ngoặc kép) — giữ nguyên chữ in.",
+    "Tr.79/85: văn bản không nêu dấu hiệu nguy hiểm cụ thể nào khác; phần IV chỉ nêu kiểm soát yếu tố nguy cơ (tăng huyết áp, đái tháo đường, rối loạn lipid máu, bệnh tim mạch)."
+  ]
+}

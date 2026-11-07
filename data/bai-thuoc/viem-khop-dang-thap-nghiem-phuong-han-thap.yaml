@@ -1,0 +1,37 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: viem-khop-dang-thap-nghiem-phuong-han-thap
+ten: Nghiệm phương — Viêm khớp dạng thấp, thể Hàn thấp
+loai: nghiem_phuong
+thanh_phan:
+  - vi: que-chi
+    lieu_g: 8
+    vai_tro: null
+  - vi: te-tan
+    lieu_g: 4
+    vai_tro: null
+  - vi: tho-phuc-linh
+    lieu_g: 12
+    vai_tro: null
+  - vi: thien-nien-kien
+    lieu_g: 10
+    vai_tro: null
+  - vi: uy-linh-tien
+    lieu_g: 12
+    vai_tro: null
+  - vi: tang-chi
+    ten_trong_bai: Cành dâu
+    lieu_g: 16
+    vai_tro: null
+  - vi: xuyen-khung
+    lieu_g: 12
+    vai_tro: null
+  - vi: co-xuoc
+    ten_trong_bai: Rễ cỏ xước
+    lieu_g: 12
+    vai_tro: null
+cach_dung: Sắc uống ngày 1 thang, chia 2 lần.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 32
+  trang_thai: chua_doi_chieu

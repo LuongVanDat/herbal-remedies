@@ -1,0 +1,647 @@
+{
+  "so": 5,
+  "id": "hoi-chung-co-vai-canh-tay",
+  "ten": "Hội chứng cổ vai cánh tay (Chứng tý)",
+  "ten_khac": [
+    "Chứng tý",
+    "hội chứng vai cánh tay",
+    "bệnh lý rễ tủy cổ"
+  ],
+  "trang_dau": 37,
+  "trang_cuoi": 43,
+  "dau_hieu_nguy_hiem": [
+    {
+      "ten": "Đau nhiều, điều trị nội khoa ít có kết quả hoặc không có hiệu quả",
+      "trang": 43
+    },
+    {
+      "ten": "Có tổn thương thần kinh nặng và tiến triển, có chèn ép tủy cổ",
+      "trang": 43
+    }
+  ],
+  "the_benh": [
+    {
+      "ten": "Phong hàn",
+      "mo_ta": null,
+      "trang": 37,
+      "trieu_chung": [
+        {
+          "ten": "Đau nhức vùng đầu, cổ, vai và ngực lưng",
+          "nhom": "vi-tri-dau"
+        },
+        {
+          "ten": "Có điểm đau cố định ở cổ",
+          "nhom": "vi-tri-dau"
+        },
+        {
+          "ten": "Có thể sờ thấy co cơ ở cổ vai gáy",
+          "nhom": "vi-tri-dau"
+        },
+        {
+          "ten": "Cứng cổ",
+          "nhom": "vi-tri-dau"
+        },
+        {
+          "ten": "Hạn chế vận động",
+          "nhom": "vi-tri-dau"
+        },
+        {
+          "ten": "Đau, tê, nhức tứ chi",
+          "nhom": "vi-tri-dau"
+        },
+        {
+          "ten": "Có thể có cảm giác nặng và yếu hai chi trên",
+          "nhom": "vi-tri-dau"
+        },
+        {
+          "ten": "Đau nặng đầu",
+          "nhom": "dau-mat"
+        },
+        {
+          "ten": "Thích ấm",
+          "nhom": "han-nhiet"
+        },
+        {
+          "ten": "Sợ lạnh",
+          "nhom": "han-nhiet"
+        },
+        {
+          "ten": "Lưỡi nhợt",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Rêu trắng mỏng",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Mạch phù hoãn hoặc sáp",
+          "nhom": "mach"
+        }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Trừ phong tán hàn, thông kinh hoạt lạc.",
+      "bai_thuoc": [
+        {
+          "ten": "Quế chi gia Cát căn thang",
+          "loai": "co_phuong",
+          "trang": 38,
+          "thanh_phan": [
+            {
+              "ten": "Quế chi",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Thược dược",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Đại táo",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Sinh khương",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Cam thảo",
+              "lieu_g": 4
+            },
+            {
+              "ten": "Cát căn",
+              "lieu_g": 12
+            }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần, uống ấm.",
+          "gia_giam": [],
+          "giong_the": null
+        },
+        {
+          "ten": null,
+          "loai": "nghiem_phuong",
+          "trang": 38,
+          "thanh_phan": [
+            {
+              "ten": "Quế chi",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Tang chi",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Khương hoàng",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Cát căn",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Kê huyết đằng",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Thiên niên kiện",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Bạch chỉ",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Sinh khương",
+              "lieu_g": 4
+            }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần, uống ấm.",
+          "gia_giam": [],
+          "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Phong thấp nhiệt tý",
+      "mo_ta": null,
+      "trang": 39,
+      "trieu_chung": [
+        {
+          "ten": "Vùng cổ gáy sưng, nóng, đỏ",
+          "nhom": "vi-tri-dau"
+        },
+        {
+          "ten": "Đau nhức vùng đầu, cổ, vai và ngực lưng",
+          "nhom": "vi-tri-dau"
+        },
+        {
+          "ten": "Đau đầu",
+          "nhom": "dau-mat"
+        },
+        {
+          "ten": "Chóng mặt",
+          "nhom": "than-kinh"
+        },
+        {
+          "ten": "Sốt cao",
+          "nhom": "han-nhiet"
+        },
+        {
+          "ten": "Khát nước",
+          "nhom": "tieu-hoa"
+        },
+        {
+          "ten": "Nước tiểu đỏ",
+          "nhom": "tieu-tien"
+        },
+        {
+          "ten": "Đại tiện táo",
+          "nhom": "tieu-hoa"
+        },
+        {
+          "ten": "Chất lưỡi đỏ",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Rêu lưỡi vàng",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Mạch hoạt sác",
+          "nhom": "mach"
+        }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Thanh nhiệt giải độc, khu phong, trừ thấp, thông lạc.",
+      "bai_thuoc": [
+        {
+          "ten": "Bạch hổ gia quế chi thang",
+          "loai": "co_phuong",
+          "trang": 39,
+          "thanh_phan": [
+            {
+              "ten": "Thạch cao",
+              "lieu_g": 40
+            },
+            {
+              "ten": "Cam thảo",
+              "lieu_g": 4
+            },
+            {
+              "ten": "Tri mẫu",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Quế chi",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Ngạnh mễ",
+              "lieu_g": 20
+            }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.",
+          "gia_giam": [],
+          "giong_the": null
+        },
+        {
+          "ten": "Quế chi thược dược tri mẫu thang",
+          "loai": "co_phuong",
+          "trang": 39,
+          "thanh_phan": [
+            {
+              "ten": "Quế chi",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Bạch thược",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Tri mẫu",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Bạch truật",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Cam thảo",
+              "lieu_g": 6
+            },
+            {
+              "ten": "Ma hoàng",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Phòng phong",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Sinh khương",
+              "lieu_g": 6
+            },
+            {
+              "ten": "Phụ tử chế",
+              "lieu_g": 2
+            }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.",
+          "gia_giam": [],
+          "giong_the": null
+        },
+        {
+          "ten": null,
+          "loai": "nghiem_phuong",
+          "trang": 39,
+          "thanh_phan": [
+            {
+              "ten": "Ý dĩ",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Khương hoạt",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Kim ngân hoa",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Hoàng bá",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Hy thiêm thảo",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Khương hoàng",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Tần giao",
+              "lieu_g": 10
+            },
+            {
+              "ten": "Liên kiểu",
+              "lieu_g": 12
+            }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.",
+          "gia_giam": [],
+          "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Huyết ứ",
+      "mo_ta": "Thể huyết ứ thường ít xuất hiện đơn thuần mà kết hợp với các thể lâm sàng khác của chứng Tý vùng vai gáy.",
+      "trang": 40,
+      "trieu_chung": [
+        {
+          "ten": "Đau nhức, tê vùng đầu, cổ, vai và ngực lưng",
+          "nhom": "vi-tri-dau"
+        },
+        {
+          "ten": "Tê, đau nhói cố định",
+          "nhom": "vi-tri-dau"
+        },
+        {
+          "ten": "Đau tăng về đêm, ban ngày đỡ đau",
+          "nhom": "vi-tri-dau"
+        },
+        {
+          "ten": "Đau cự án",
+          "nhom": "vi-tri-dau"
+        },
+        {
+          "ten": "Co cứng cơ tại chỗ",
+          "nhom": "vi-tri-dau"
+        },
+        {
+          "ten": "Kích thích khó chịu",
+          "nhom": "than-kinh"
+        },
+        {
+          "ten": "Miệng khô",
+          "nhom": "dau-mat"
+        },
+        {
+          "ten": "Lưỡi tím",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Có thể có điểm ứ huyết",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Mạch huyền hoặc sáp",
+          "nhom": "mach"
+        }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Hoạt huyết hóa ứ, thông kinh hoạt lạc chỉ thống.",
+      "bai_thuoc": [
+        {
+          "ten": "Đào hồng ẩm",
+          "loai": "co_phuong",
+          "trang": 40,
+          "thanh_phan": [
+            {
+              "ten": "Đào nhân",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Xuyên khung",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Đương qui",
+              "lieu_g": 10
+            },
+            {
+              "ten": "Uy linh tiên",
+              "lieu_g": 12
+            }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.",
+          "gia_giam": [],
+          "giong_the": null
+        },
+        {
+          "ten": null,
+          "loai": "nghiem_phuong",
+          "trang": 40,
+          "thanh_phan": [
+            {
+              "ten": "Tô mộc",
+              "lieu_g": 10
+            },
+            {
+              "ten": "Khương hoàng",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Đào nhân",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Hồng hoa",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Cát căn",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Xích thược",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Trần bì",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Cam thảo",
+              "lieu_g": 4
+            }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.",
+          "gia_giam": [],
+          "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Can thận hư",
+      "mo_ta": null,
+      "trang": 41,
+      "trieu_chung": [
+        {
+          "ten": "Đau nhức vai gáy và ngực lưng",
+          "nhom": "vi-tri-dau"
+        },
+        {
+          "ten": "Đau căng đầu",
+          "nhom": "dau-mat"
+        },
+        {
+          "ten": "Tê bì tay",
+          "nhom": "than-kinh"
+        },
+        {
+          "ten": "Đau mỏi lưng gối",
+          "nhom": "vi-tri-dau"
+        },
+        {
+          "ten": "Hoa mắt chóng mặt",
+          "nhom": "than-kinh"
+        },
+        {
+          "ten": "Nhìn mờ",
+          "nhom": "dau-mat"
+        },
+        {
+          "ten": "Triều nhiệt",
+          "nhom": "han-nhiet"
+        },
+        {
+          "ten": "Ra mồ hôi trộm",
+          "nhom": "mo-hoi"
+        },
+        {
+          "ten": "Miệng họng khô",
+          "nhom": "dau-mat"
+        },
+        {
+          "ten": "Lưỡi đỏ ít rêu",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Mạch tế sác",
+          "nhom": "mach"
+        }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Tư dưỡng can thận, hoạt huyết thông kinh lạc.",
+      "bai_thuoc": [
+        {
+          "ten": "Quyên tý thang",
+          "loai": "co_phuong",
+          "trang": 41,
+          "thanh_phan": [
+            {
+              "ten": "Khương hoạt",
+              "lieu_g": 9
+            },
+            {
+              "ten": "Phòng phong",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Xích thược",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Đương qui",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Sinh hoàng kỳ",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Tang chi",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Khương hoàng",
+              "lieu_g": 10
+            },
+            {
+              "ten": "Cam thảo",
+              "lieu_g": 4
+            },
+            {
+              "ten": "Đại táo",
+              "lieu_g": 12
+            }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.",
+          "gia_giam": [],
+          "giong_the": null
+        },
+        {
+          "ten": "Hổ tiềm hoàn",
+          "loai": "co_phuong",
+          "trang": 41,
+          "thanh_phan": [
+            {
+              "ten": "Thục địa",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Quy bản",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Bạch thược",
+              "lieu_g": 10
+            },
+            {
+              "ten": "Tỏa dương",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Tri mẫu",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Hoàng bá",
+              "lieu_g": 10
+            },
+            {
+              "ten": "Trần bì",
+              "lieu_g": 6
+            },
+            {
+              "ten": "Can khương",
+              "lieu_g": 4
+            }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.",
+          "gia_giam": [],
+          "giong_the": null
+        },
+        {
+          "ten": null,
+          "loai": "nghiem_phuong",
+          "trang": 41,
+          "thanh_phan": [
+            {
+              "ten": "Thục địa",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Đương quy",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Tục đoạn",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Đỗ trọng",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Bạch thược",
+              "lieu_g": 10
+            },
+            {
+              "ten": "Tang chi",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Quế chi",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Uy linh tiên",
+              "lieu_g": 12
+            }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.",
+          "gia_giam": [],
+          "giong_the": null
+        }
+      ]
+    }
+  ],
+  "ghi_chu_trich": [
+    "Tr.38: tên vị 'Cát căn' trong bài Quế chi gia Cát căn thang được trích ra chữ 'Cát cǎn' (ký tự ǎ U+01CE, lỗi mã hóa phông) — ghi là 'Cát căn'.",
+    "Tr.40: câu 'Thể huyết ứ thường ít xuất hiện đơn thuần mà kết hợp với các thể lâm sàng khác...' nằm sau đoạn Triệu chứng (không ngay sau tên thể) — vẫn đưa vào mo_ta.",
+    "Tr.39 và tr.41: bài 'Quế chi thược dược tri mẫu thang' và 'Hổ tiềm hoàn' được nêu bằng 'Hoặc dùng bài' ngay sau mục Cổ phương — xếp loại co_phuong. 'Hổ tiềm hoàn' văn bản ghi cách dùng sắc uống thang.",
+    "Tr.38: thể 2 tên 'Phong thấp nhiệt tý' đặt tên ở cuối tr.38, triệu chứng ở tr.39.",
+    "Dấu hiệu nguy hiểm lấy từ chỉ định điều trị ngoại khoa phần IV (tr.43); 'chèn ép tủy cổ' cần chẩn đoán của bác sĩ."
+  ]
+}

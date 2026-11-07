@@ -1,0 +1,18 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: thu-cung
+ten: Thủ cung
+ten_khac:
+  - Thạch sùng
+ten_khoa_hoc: Scorpio Hemidactyli
+ten_cay: Hemidactylus frenatus Schlegel- Gekkonidae
+nguon_goc: trong_nuoc
+lieu_dung: null
+doc_tinh:
+  muc: chua_ro
+  canh_bao: null
+pho_bien: null
+thay_the: []
+nguon:
+  ma: qd-5013
+  trang: 163
+  trang_thai: chua_doi_chieu

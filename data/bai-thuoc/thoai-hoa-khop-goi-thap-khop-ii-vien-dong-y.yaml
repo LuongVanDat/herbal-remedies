@@ -1,0 +1,37 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: thoai-hoa-khop-goi-thap-khop-ii-vien-dong-y
+ten: Thấp khớp II (Viện Đông y)
+loai: nghiem_phuong
+thanh_phan:
+  - vi: trinh-nu
+    ten_trong_bai: Rễ xấu hổ
+    lieu_g: 16
+    vai_tro: null
+  - vi: day-dau-xuong
+    lieu_g: 12
+    vai_tro: null
+  - vi: vuong-ton
+    ten_trong_bai: Dây gắm
+    lieu_g: 12
+    vai_tro: null
+  - vi: tho-phuc-linh
+    lieu_g: 12
+    vai_tro: null
+  - vi: thien-nien-kien
+    lieu_g: 12
+    vai_tro: null
+  - vi: ke-huyet-dang
+    lieu_g: 12
+    vai_tro: null
+  - vi: nguu-tat
+    lieu_g: 12
+    vai_tro: null
+  - vi: hy-thiem
+    lieu_g: 12
+    vai_tro: null
+cach_dung: Nấu thành cao lỏng, uống 50ml/ngày, chia 2 lần.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 16
+  trang_thai: chua_doi_chieu

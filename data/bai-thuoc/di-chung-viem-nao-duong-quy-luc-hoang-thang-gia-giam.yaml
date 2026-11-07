@@ -1,0 +1,32 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: di-chung-viem-nao-duong-quy-luc-hoang-thang-gia-giam
+ten: Đương quy lục hoàng thang gia giảm
+loai: co_phuong
+thanh_phan:
+  - vi: duong-quy
+    lieu_g: 6
+    vai_tro: null
+  - vi: hoang-ba
+    lieu_g: 6
+    vai_tro: null
+  - vi: sinh-dia
+    lieu_g: 6
+    vai_tro: null
+  - vi: hoang-cam
+    lieu_g: 6
+    vai_tro: null
+  - vi: thuc-dia
+    lieu_g: 6
+    vai_tro: null
+  - vi: hoang-ky
+    lieu_g: 12
+    vai_tro: null
+  - vi: hoang-lien
+    lieu_g: 6
+    vai_tro: null
+cach_dung: Sáu vị đầu liều lượng như nhau, riêng Hoàng kỳ nhiều gấp đôi. Sắc uống ngày 1 thang, chia 2 lần. Bài này dùng khi còn dư nhiệt, chủ trị các trường hợp vừa qua khỏi giai đoạn viêm não cấp tính, còn nhiều rối loạn thần kinh thực vật như sốt nhẹ kéo dài, những trường hợp âm hư hoả vượng đạo hãn nhiều.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 98
+  trang_thai: chua_doi_chieu

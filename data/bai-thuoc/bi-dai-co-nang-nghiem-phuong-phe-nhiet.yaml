@@ -1,0 +1,33 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: bi-dai-co-nang-nghiem-phuong-phe-nhiet
+ten: Nghiệm phương — Bí đái cơ năng, thể Phế nhiệt
+loai: nghiem_phuong
+thanh_phan:
+  - vi: rau-meo
+    lieu_g: 30
+    vai_tro: null
+  - vi: kim-tien-thao
+    lieu_g: 30
+    vai_tro: null
+  - vi: tang-bach-bi
+    ten_trong_bai: vỏ rễ cây dâu
+    lieu_g: 30
+    vai_tro: null
+  - vi: rau-ma
+    ten_trong_bai: rau má
+    lieu_g: 30
+    vai_tro: null
+  - vi: truc-diep
+    ten_trong_bai: lá tre
+    lieu_g: 30
+    vai_tro: null
+  - vi: vo-buoi
+    ten_trong_bai: vỏ bưởi
+    lieu_g: 30
+    vai_tro: null
+cach_dung: "Mỗi vị 30g, nếu dùng tươi liều gấp 3 sắc 2 - 3 lít nước uống. Công dụng: thanh phế, thông tiểu."
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 142
+  trang_thai: chua_doi_chieu

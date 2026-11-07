@@ -1,0 +1,100 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: suy-dinh-duong-tre-em
+ten: Suy dinh dưỡng thể marasmus (Cam tích)
+ten_khac:
+  - Cam tích
+  - Cam chứng
+  - suy dinh dưỡng
+dau_hieu_nguy_hiem:
+  - id: nh-suy-dinh-duong-tre-em-1
+    ten: Suy dinh dưỡng nặng có biến chứng (cần chuyển cơ sở YHHĐ)
+  - id: nh-suy-dinh-duong-tre-em-2
+    ten: Trẻ mất hết mỡ dưới da ở mặt, mông, chi, gầy đét, mặt hốc hác, mắt trũng, da khô, nhăn nheo
+  - id: nh-suy-dinh-duong-tre-em-3
+    ten: Khô mắt, sợ ánh sáng, quáng gà (thiếu vitamin A)
+  - id: nh-suy-dinh-duong-tre-em-4
+    ten: Nhiễm trùng, hạ thân nhiệt, rối loạn nước - điện giải
+the_benh:
+  - id: cam-khi-ty-hu
+    ten: Cam khí (Tỳ hư)
+    trieu_chung:
+      chinh:
+        - nguoi-gay-go
+        - sac-mat-vang-ai-kem-tuoi-nhuan
+        - an-uong-it-hoac-an-nhieu-de-doi
+        - de-tuc-gian
+        - dai-tien-nat-hoac-bi
+        - reu-mong-trang-hoac-vang-nhat
+        - mach-te
+        - chi-van-nhot
+      phu:
+        - long-toc-thua
+        - tinh-than-met-moi
+        - chat-luoi-nhot
+    loai_tru: []
+    phap_tri: Hòa tỳ kiện vận.
+    bai_thuoc:
+      - suy-dinh-duong-tre-em-sam-linh-bach-truat-tan
+      - suy-dinh-duong-tre-em-tu-sinh-kien-ty-hoan-gia-giam
+      - suy-dinh-duong-tre-em-nghiem-phuong
+    nguon:
+      ma: qd-5013
+      trang: 105
+      trang_thai: chua_doi_chieu
+  - id: cam-tich
+    ten: Cam tích
+    trieu_chung:
+      chinh:
+        - nguoi-gay
+        - bung-chuong-to-noi-gan-xanh
+        - sac-mat-vang-toi
+        - tinh-than-hay-phien-nao
+        - de-kich-dong
+        - ngu-khong-yen
+        - co-cac-hanh-dong-khac-thuong
+        - an-uong-it-hoac-nhieu
+        - dai-tien-nhieu
+        - reu-mong-ban
+        - mach-te-sac
+      phu:
+        - long-toc-thua
+        - chat-luoi-nhot
+    loai_tru: []
+    phap_tri: Tiêu tích lý tỳ.
+    bai_thuoc:
+      - suy-dinh-duong-tre-em-phi-nhi-hoan-gia-giam
+    nguon:
+      ma: qd-5013
+      trang: 107
+      trang_thai: chua_doi_chieu
+  - id: can-cam-khi-huyet-hu
+    ten: Can cam (Khí huyết hư)
+    trieu_chung:
+      chinh:
+        - nguoi-tieu-gay
+        - ve-mat-cu-gia
+        - da-kho
+        - co-teo
+        - da-boc-xuong
+        - mat-mo-hoac-co-mang
+        - tieng-khoc-nho-yeu
+        - long-toc-kho
+        - bung-lom-long-thuyen
+        - ngui-khong-muon-an
+        - dai-tien-nat-hoac-phan-khuon-be
+        - co-luc-ha-than-nhiet
+        - mieng-kho
+        - chat-luoi-hong
+        - reu-luoi-mong
+        - mach-tram-te
+      phu:
+        - tinh-than-met-moi
+    loai_tru: []
+    phap_tri: Bổ ích khí huyết.
+    bai_thuoc:
+      - suy-dinh-duong-tre-em-bat-tran-thang-gia-giam
+      - suy-dinh-duong-tre-em-bot-cam-coc
+    nguon:
+      ma: qd-5013
+      trang: 108
+      trang_thai: chua_doi_chieu

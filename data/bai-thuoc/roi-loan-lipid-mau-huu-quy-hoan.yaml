@@ -1,0 +1,43 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: roi-loan-lipid-mau-huu-quy-hoan
+ten: Hữu quy hoàn
+loai: co_phuong
+thanh_phan:
+  - vi: thuc-dia
+    lieu_g: 32
+    vai_tro: null
+  - vi: do-trong
+    lieu_g: 160
+    vai_tro: null
+  - vi: hoai-son
+    lieu_g: 160
+    vai_tro: null
+  - vi: cau-ky-tu
+    ten_trong_bai: Kỷ tử
+    lieu_g: 160
+    vai_tro: null
+  - vi: son-thu
+    lieu_g: 160
+    vai_tro: null
+  - vi: tho-ty-tu
+    lieu_g: 160
+    vai_tro: null
+  - vi: phu-tu-che
+    lieu_g: 80
+    vai_tro: null
+  - vi: loc-giac-giao
+    lieu_g: 160
+    vai_tro: null
+  - vi: que-nhuc
+    ten_trong_bai: Nhục quế
+    lieu_g: 120
+    vai_tro: null
+  - vi: duong-quy
+    lieu_g: 120
+    vai_tro: null
+cach_dung: Tất cả tán bột mịn, luyện mật làm hoàn, ngày uống 4-8g. Hoặc có thể làm thang sắc với liều thích hợp, sắc uống ngày 1 thang, chia 2 lần.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 53
+  trang_thai: chua_doi_chieu

@@ -1,0 +1,40 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: hoi-chung-co-vai-canh-tay-quyen-ty-thang
+ten: Quyên tý thang
+loai: co_phuong
+thanh_phan:
+  - vi: khuong-hoat
+    lieu_g: 9
+    vai_tro: null
+  - vi: phong-phong
+    lieu_g: 8
+    vai_tro: null
+  - vi: xich-thuoc
+    lieu_g: 8
+    vai_tro: null
+  - vi: duong-quy
+    ten_trong_bai: Đương qui
+    lieu_g: 12
+    vai_tro: null
+  - vi: hoang-ky
+    ten_trong_bai: Sinh hoàng kỳ
+    lieu_g: 12
+    vai_tro: null
+  - vi: tang-chi
+    lieu_g: 12
+    vai_tro: null
+  - vi: khuong-hoang
+    lieu_g: 10
+    vai_tro: null
+  - vi: cam-thao
+    lieu_g: 4
+    vai_tro: null
+  - vi: dai-tao
+    lieu_g: 12
+    vai_tro: null
+cach_dung: Sắc uống ngày 1 thang, chia 2 lần.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 41
+  trang_thai: chua_doi_chieu

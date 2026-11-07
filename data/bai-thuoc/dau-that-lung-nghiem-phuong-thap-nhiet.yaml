@@ -1,0 +1,29 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: dau-that-lung-nghiem-phuong-thap-nhiet
+ten: Nghiệm phương — Đau cột sống thắt lưng, thể Thấp nhiệt
+loai: nghiem_phuong
+thanh_phan:
+  - vi: bach-truat
+    ten_trong_bai: Bạch truật (sao cám)
+    lieu_g: 20
+    vai_tro: null
+  - vi: hy-thiem
+    ten_trong_bai: Hy thiêm thảo
+    lieu_g: 20
+    vai_tro: null
+  - vi: y-di
+    lieu_g: 20
+    vai_tro: null
+  - vi: ty-giai
+    lieu_g: 40
+    vai_tro: null
+  - vi: cam-thao-dat
+    ten_trong_bai: Cam thảo nam
+    lieu_g: 10
+    vai_tro: null
+cach_dung: Sắc uống mỗi ngày 01 thang, chia 2 lần.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 10
+  trang_thai: chua_doi_chieu

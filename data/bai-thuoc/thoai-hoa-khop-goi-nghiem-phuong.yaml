@@ -1,0 +1,32 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: thoai-hoa-khop-goi-nghiem-phuong
+ten: Nghiệm phương — Thoái hóa khớp gối, thể Phong thấp nhiệt kèm can thận hư
+loai: nghiem_phuong
+thanh_phan:
+  - vi: hy-thiem
+    lieu_g: 50
+    vai_tro: null
+  - vi: la-lot
+    ten_trong_bai: Rễ lá lốt
+    lieu_g: 20
+    vai_tro: null
+  - vi: nguu-tat
+    lieu_g: 20
+    vai_tro: null
+  - vi: tho-phuc-linh
+    lieu_g: 20
+    vai_tro: null
+  - vi: hoai-son
+    lieu_g: null
+    lieu_text: làm áo (lượng vừa đủ)
+    vai_tro: null
+  - vi: chi-tu
+    lieu_g: null
+    lieu_text: nhuộm bột áo (lượng vừa đủ)
+    vai_tro: null
+cach_dung: Làm hoàn, bột Hoài sơn làm áo, bột áo nhuộm bằng nước Chi tử. Uống 50g/ngày.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 19
+  trang_thai: chua_doi_chieu

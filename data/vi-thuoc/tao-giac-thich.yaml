@@ -1,0 +1,17 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: tao-giac-thich
+ten: Tạo giác thích
+ten_khac: []
+ten_khoa_hoc: Spina Gledischiae australis
+ten_cay: Gledischia australis Hemsl. - Caealpiniaceae
+nguon_goc: ca_hai
+lieu_dung: null
+doc_tinh:
+  muc: chua_ro
+  canh_bao: null
+pho_bien: null
+thay_the: []
+nguon:
+  ma: qd-5013
+  trang: 162
+  trang_thai: chua_doi_chieu

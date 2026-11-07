@@ -1,0 +1,19 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: viem-da-day-ta-trang-that-tieu-tan
+ten: Thất tiếu tán
+loai: co_phuong
+thanh_phan:
+  - vi: ngu-linh-chi
+    lieu_g: null
+    lieu_text: lượng bằng nhau
+    vai_tro: null
+  - vi: bo-hoang
+    lieu_g: null
+    lieu_text: lượng bằng nhau
+    vai_tro: null
+cach_dung: Hai vị thuốc tán bột mịn, trộn đều. Mỗi ngày uống 8 - 12g, chia 2 lần.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 114
+  trang_thai: chua_doi_chieu

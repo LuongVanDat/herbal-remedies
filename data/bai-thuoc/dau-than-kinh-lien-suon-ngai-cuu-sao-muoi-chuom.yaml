@@ -1,0 +1,15 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: dau-than-kinh-lien-suon-ngai-cuu-sao-muoi-chuom
+ten: Ngải cứu sao muối chườm
+loai: dung_ngoai
+thanh_phan:
+  - vi: ngai-cuu
+    ten_trong_bai: Ngải cứu tươi
+    lieu_g: 100
+    vai_tro: null
+cach_dung: Ngải cứu tươi 100g sao với muối chườm, tại chỗ đau.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 65
+  trang_thai: chua_doi_chieu

@@ -1,0 +1,34 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: viem-da-day-ta-trang-nghiem-phuong-huyet-u-thuc-chung
+ten: Nghiệm phương — Viêm dạ dày và tá tràng, thể Huyết ứ (thực chứng)
+loai: nghiem_phuong
+thanh_phan:
+  - vi: sinh-dia
+    lieu_g: 40
+    vai_tro: null
+  - vi: cam-thao
+    lieu_g: 6
+    vai_tro: null
+  - vi: hoang-cam
+    lieu_g: 12
+    vai_tro: null
+  - vi: bo-hoang
+    ten_trong_bai: Bồ hoàng sống
+    lieu_g: 12
+    vai_tro: null
+  - vi: trac-bach-diep
+    lieu_g: 16
+    vai_tro: null
+  - vi: chi-tu
+    lieu_g: 8
+    vai_tro: null
+  - vi: a-giao
+    ten_trong_bai: A giao (nướng)
+    lieu_g: 8
+    vai_tro: null
+cach_dung: Tất cả làm thang sắc uống cùng A giao (nướng) 8g, ngày 1 thang chia 2 lần. Riêng vị thuốc A giao hòa vào nước sắc để uống, không cho vào sắc cùng.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 114
+  trang_thai: chua_doi_chieu

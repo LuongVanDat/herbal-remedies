@@ -66,6 +66,7 @@ test('mặc định: loai_tru, ten_khac, dau_hieu_nguy_hiem = []; vuot_lieu_ly_d
 test('mở rộng cho dữ liệu QĐ 5013: tên trong bài, liều dạng chữ, loại bài, mô tả thể', () => {
   const b = doc('bai-thuoc/ma-hoang-thang.yaml')
   b.loai = 'co_phuong'
+  expect(BaiThuocSchema.safeParse({ ...b, loai: 'doi_phap_lap_phuong' }).success).toBe(true)
   b.thanh_phan.push({ vi: 'cam-thao', ten_trong_bai: 'Chích thảo', lieu_g: 6, vai_tro: null })
   b.thanh_phan.push({ vi: 'que-chi', lieu_g: null, lieu_text: 'vừa đủ', vai_tro: null })
   const r = BaiThuocSchema.parse(b)
@@ -92,4 +93,10 @@ test('vị thuốc: độc tính chưa rõ, phổ biến chưa có, nguồn gố
   const r = ViThuocSchema.parse(v)
   expect(r).toMatchObject({ doc_tinh: { muc: 'chua_ro' }, pho_bien: null, nguon_goc: 'ca_hai' })
   expect(ViThuocSchema.safeParse({ ...v, nguon_goc: 'khac' }).success).toBe(false)
+})
+
+test('vị ngoài danh mục: không bắt buộc tên khoa học', () => {
+  const v = doc('vi-thuoc/que-chi.yaml')
+  delete v.ten_khoa_hoc
+  expect(ViThuocSchema.safeParse(v).success).toBe(true)
 })

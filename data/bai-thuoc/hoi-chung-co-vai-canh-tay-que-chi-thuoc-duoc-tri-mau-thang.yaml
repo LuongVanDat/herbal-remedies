@@ -1,0 +1,38 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: hoi-chung-co-vai-canh-tay-que-chi-thuoc-duoc-tri-mau-thang
+ten: Quế chi thược dược tri mẫu thang
+loai: co_phuong
+thanh_phan:
+  - vi: que-chi
+    lieu_g: 8
+    vai_tro: null
+  - vi: bach-thuoc
+    lieu_g: 12
+    vai_tro: null
+  - vi: tri-mau
+    lieu_g: 12
+    vai_tro: null
+  - vi: bach-truat
+    lieu_g: 12
+    vai_tro: null
+  - vi: cam-thao
+    lieu_g: 6
+    vai_tro: null
+  - vi: ma-hoang
+    lieu_g: 8
+    vai_tro: null
+  - vi: phong-phong
+    lieu_g: 12
+    vai_tro: null
+  - vi: sinh-khuong
+    lieu_g: 6
+    vai_tro: null
+  - vi: phu-tu-che
+    lieu_g: 2
+    vai_tro: null
+cach_dung: Sắc uống ngày 1 thang, chia 2 lần.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 39
+  trang_thai: chua_doi_chieu

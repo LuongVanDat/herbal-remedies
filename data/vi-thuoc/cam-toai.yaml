@@ -1,0 +1,18 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: cam-toai
+ten: Cam toại
+ten_khac: []
+ten_khoa_hoc: Radix Euphorbiae kansui
+ten_cay: Euphorbia kansui Liouined. - Euphorbiaceae
+bo_phan_dung: Rễ
+nguon_goc: nhap_khau
+lieu_dung: null
+doc_tinh:
+  muc: co
+  canh_bao: Thuộc Danh mục dược liệu độc làm thuốc (TT 13/2024/TT-BYT, Phụ lục I, STT 4). Chỉ dùng theo chỉ định của thầy thuốc.
+pho_bien: null
+thay_the: []
+nguon:
+  ma: qd-5013
+  trang: 153
+  trang_thai: chua_doi_chieu

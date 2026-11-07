@@ -1,0 +1,37 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: dau-that-lung-nghiem-phuong-can-than-hu-thien-duong-hu
+ten: Nghiệm phương — Đau cột sống thắt lưng, thể Can thận hư (thiên dương hư)
+loai: nghiem_phuong
+thanh_phan:
+  - vi: do-trong
+    lieu_g: 12
+    vai_tro: null
+  - vi: co-xuoc
+    ten_trong_bai: Rễ cỏ xước
+    lieu_g: 12
+    vai_tro: null
+  - vi: cau-tich
+    lieu_g: 12
+    vai_tro: null
+  - vi: cot-toai-bo
+    ten_trong_bai: Cốt toái
+    lieu_g: 12
+    vai_tro: null
+  - vi: day-dau-xuong
+    lieu_g: 12
+    vai_tro: null
+  - vi: hoai-son
+    lieu_g: 12
+    vai_tro: null
+  - vi: ty-giai
+    lieu_g: 12
+    vai_tro: null
+  - vi: tho-ty-tu
+    lieu_g: 12
+    vai_tro: null
+cach_dung: Sắc uống mỗi ngày 01 thang, chia 2 lần.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 12
+  trang_thai: chua_doi_chieu

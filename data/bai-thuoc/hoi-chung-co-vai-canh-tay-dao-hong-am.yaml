@@ -1,0 +1,24 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: hoi-chung-co-vai-canh-tay-dao-hong-am
+ten: Đào hồng ẩm
+loai: co_phuong
+thanh_phan:
+  - vi: dao-nhan
+    lieu_g: 8
+    vai_tro: null
+  - vi: xuyen-khung
+    lieu_g: 8
+    vai_tro: null
+  - vi: duong-quy
+    ten_trong_bai: Đương qui
+    lieu_g: 10
+    vai_tro: null
+  - vi: uy-linh-tien
+    lieu_g: 12
+    vai_tro: null
+cach_dung: Sắc uống ngày 1 thang, chia 2 lần.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 40
+  trang_thai: chua_doi_chieu

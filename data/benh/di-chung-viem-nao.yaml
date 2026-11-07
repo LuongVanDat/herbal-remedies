@@ -1,0 +1,91 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: di-chung-viem-nao
+ten: Di chứng viêm não do virus (Ôn bệnh)
+ten_khac:
+  - Ôn bệnh
+  - di chứng viêm não
+dau_hieu_nguy_hiem: []
+the_benh:
+  - id: am-hu-thien-ve-am-hu
+    ten: Âm hư (thiên về âm hư)
+    trieu_chung:
+      chinh:
+        - dem-nong-sang-mat
+        - het-sot-hoac-chi-con-sot-nhe-ma-khong-co-mo-hoi
+        - nguoi-gay
+        - long-ban-chan-tay-nong-do
+        - tinh-than-mo-toi
+        - thuong-nam-yen-it-cu-dong
+        - nhan-biet-kem
+        - dai-tien-tao
+        - nuoc-tieu-vang
+        - mieng-hong-kho
+        - moi-luoi-do
+        - it-reu-hoac-khong-reu
+        - mach-te-sac
+      phu: []
+    loai_tru: []
+    phap_tri: Dưỡng âm thanh nhiệt.
+    bai_thuoc:
+      - di-chung-viem-nao-thanh-hao-miet-giap-thang-gia-giam
+      - di-chung-viem-nao-duong-quy-luc-hoang-thang-gia-giam
+      - di-chung-viem-nao-luc-vi-dia-hoang-thang
+      - di-chung-viem-nao-tri-ba-dia-hoang-thang
+      - di-chung-viem-nao-dao-dam-thang-gia-giam
+    nguon:
+      ma: qd-5013
+      trang: 97
+      trang_thai: chua_doi_chieu
+  - id: am-hu-thien-ve-am-huyet-hu-sinh-phong
+    ten: Âm hư (thiên về âm huyết hư sinh phong)
+    trieu_chung:
+      chinh:
+        - quay-khoc
+        - la-het
+        - vat-va
+        - phien-nhiet
+        - mat-ngu
+        - chan-tay-co-cung-xoan-van
+        - co-giat-hoac-run-giat
+      phu:
+        - dem-nong-sang-mat
+        - het-sot-hoac-chi-con-sot-nhe-ma-khong-co-mo-hoi
+        - nguoi-gay
+        - long-ban-chan-tay-nong-do
+        - tinh-than-mo-toi
+        - thuong-nam-yen-it-cu-dong
+        - nhan-biet-kem
+        - dai-tien-tao
+        - nuoc-tieu-vang
+        - mieng-hong-kho
+        - moi-luoi-do
+        - it-reu-hoac-khong-reu
+        - mach-te-sac
+    loai_tru: []
+    phap_tri: Tư dưỡng âm huyết, chỉ kinh phong.
+    bai_thuoc:
+      - di-chung-viem-nao-luc-vi-quy-thuoc
+    nguon:
+      ma: qd-5013
+      trang: 97
+      trang_thai: chua_doi_chieu
+  - id: khi-am-luong-hu-khi-huyet-hu
+    ten: Khí âm lưỡng hư (khí huyết hư)
+    trieu_chung:
+      chinh:
+        - tinh-than-dan-don
+        - khong-noi-that-van-ngon
+        - chan-tay-co-cung-hoac-liet
+        - khong-ngoi-khong-dung-khong-di-duoc
+        - sac-mat-luc-trang-luc-do
+        - chat-luoi-nhot-hoac-tim
+        - mach-te-nhuoc
+      phu: []
+    loai_tru: []
+    phap_tri: Bổ khí hoạt huyết, trừ đàm thông lạc, khai khiếu tỉnh thần.
+    bai_thuoc:
+      - di-chung-viem-nao-bat-tran-thang-gia-giam
+    nguon:
+      ma: qd-5013
+      trang: 100
+      trang_thai: chua_doi_chieu

@@ -1,0 +1,52 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: gout-cao-kim-hoang-tan-ngoai-khoa-chinh-tong
+ten: Cao Kim hoàng tán (Ngoại khoa chính tông)
+loai: dung_ngoai
+thanh_phan:
+  - vi: dai-hoang
+    lieu_g: null
+    lieu_text: 2,5kg
+    vai_tro: null
+  - vi: hoang-ba
+    lieu_g: null
+    lieu_text: 2,5kg
+    vai_tro: null
+  - vi: khuong-hoang
+    lieu_g: null
+    lieu_text: 2,5kg
+    vai_tro: null
+  - vi: bach-chi
+    lieu_g: null
+    lieu_text: 2,5kg
+    vai_tro: null
+  - vi: thien-nam-tinh
+    ten_trong_bai: Nam tinh
+    lieu_g: null
+    lieu_text: 1kg
+    vai_tro: null
+  - vi: tran-bi
+    lieu_g: null
+    lieu_text: 1kg
+    vai_tro: null
+  - vi: thuong-truat
+    lieu_g: null
+    lieu_text: 1kg
+    vai_tro: null
+  - vi: hau-phac
+    lieu_g: null
+    lieu_text: 1kg
+    vai_tro: null
+  - vi: cam-thao
+    lieu_g: null
+    lieu_text: 1kg
+    vai_tro: null
+  - vi: thien-hoa-phan
+    lieu_g: null
+    lieu_text: 5kg
+    vai_tro: null
+cach_dung: Tất cả nghiền bột trộn với Vaselin thành cao, đắp vùng khớp sưng đau 1-2 lần/ngày, 7 ngày/liệu trình.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 23
+  trang_thai: chua_doi_chieu

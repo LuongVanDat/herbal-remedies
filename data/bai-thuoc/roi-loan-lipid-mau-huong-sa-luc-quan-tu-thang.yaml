@@ -1,0 +1,38 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: roi-loan-lipid-mau-huong-sa-luc-quan-tu-thang
+ten: Hương sa lục quân tử thang
+loai: co_phuong
+thanh_phan:
+  - vi: dang-sam
+    lieu_g: 12
+    vai_tro: null
+  - vi: cam-thao
+    ten_trong_bai: Chích cam thảo
+    lieu_g: 4
+    vai_tro: null
+  - vi: bach-linh
+    ten_trong_bai: Phục linh
+    lieu_g: 12
+    vai_tro: null
+  - vi: tran-bi
+    lieu_g: 8
+    vai_tro: null
+  - vi: bach-truat
+    lieu_g: 12
+    vai_tro: null
+  - vi: ban-ha
+    ten_trong_bai: Bán hạ chế
+    lieu_g: 8
+    vai_tro: null
+  - vi: moc-huong
+    lieu_g: 6
+    vai_tro: null
+  - vi: sa-nhan
+    lieu_g: 6
+    vai_tro: null
+cach_dung: Sắc uống mỗi ngày 01 thang, chia 2 lần.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 53
+  trang_thai: chua_doi_chieu

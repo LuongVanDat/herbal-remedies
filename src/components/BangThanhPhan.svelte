@@ -6,12 +6,14 @@
 
   let { bai }: { bai: BaiThuoc } = $props()
   const data = layData()
+  const coVaiTro = $derived(bai.thanh_phan.some((t) => t.vai_tro))
+  const khongViNaoCoLieu = $derived(bai.thanh_phan.every((t) => !data.viThuoc[t.vi]?.lieu_dung))
   const GOC_NGAN = { trong_nuoc: 'Trong nước', nhap_khau: 'Nhập khẩu', ca_hai: 'Trong & ngoài nước' } as const
 </script>
 
 <div class="bang-cuon">
   <table aria-label="Thành phần {bai.ten}">
-    <thead><tr><th>Vị</th><th>Liều</th><th>Vai trò</th><th>Phổ biến / nguồn gốc</th><th>Lưu ý</th></tr></thead>
+    <thead><tr><th>Vị</th><th>Liều</th>{#if coVaiTro}<th>Vai trò</th>{/if}<th>Phổ biến / nguồn gốc</th><th>Lưu ý</th></tr></thead>
     <tbody>
       {#each bai.thanh_phan as tp, i (i)}
         {@const v = data.viThuoc[tp.vi]}
@@ -21,7 +23,7 @@
             {#if tp.ten_trong_bai && v && tp.ten_trong_bai !== v.ten}<div class="mo nho">vị: {v.ten}</div>{/if}
           </td>
           <td class="so">{tp.lieu_g !== null ? `${tp.lieu_g}g` : tp.lieu_text}</td>
-          <td>{tp.vai_tro ? VAI_TRO[tp.vai_tro] : '—'}</td>
+          {#if coVaiTro}<td>{tp.vai_tro ? VAI_TRO[tp.vai_tro] : '—'}</td>{/if}
           <td>
             {#if v?.pho_bien}<span class="pb {v.pho_bien.muc}">{PHO_BIEN[v.pho_bien.muc]}</span>
             {:else if v?.nguon_goc}<span class="mo nho">{GOC_NGAN[v.nguon_goc]}</span>
@@ -33,7 +35,7 @@
                 <strong>⚠ {DOC_TINH[v.doc_tinh.muc]}</strong>{#if v.doc_tinh.canh_bao?.trim()}: {v.doc_tinh.canh_bao}{/if}
               </div>
             {/if}
-            {#if v && !v.lieu_dung}
+            {#if v && !v.lieu_dung && !khongViNaoCoLieu}
               <div class="mo">Chưa có liều chuẩn</div>
             {/if}
             {#if tp.vuot_lieu_ly_do && v?.lieu_dung}
@@ -45,6 +47,9 @@
     </tbody>
   </table>
 </div>
+{#if khongViNaoCoLieu}
+  <p class="mo nho ghi-chu">Các vị trong bài chưa có liều chuẩn để đối chiếu — liều trên là liều ghi trong bài của văn bản nguồn.</p>
+{/if}
 <p class="mo nho ghi-chu">
   Nhãn ⚠ chỉ gắn cho vị có dữ liệu độc tính (vd thuộc danh mục dược liệu độc của Bộ Y tế). Vị không có nhãn độc chưa
   chắc an toàn — xem trang từng vị.

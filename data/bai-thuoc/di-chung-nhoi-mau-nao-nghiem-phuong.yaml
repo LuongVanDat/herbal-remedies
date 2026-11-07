@@ -1,0 +1,42 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: di-chung-nhoi-mau-nao-nghiem-phuong
+ten: Nghiệm phương — Di chứng nhồi máu não, thể Can thận âm hư
+loai: nghiem_phuong
+thanh_phan:
+  - vi: long-cot
+    lieu_g: 12
+    vai_tro: null
+  - vi: mau-le
+    lieu_g: 12
+    vai_tro: null
+  - vi: quy-ban
+    lieu_g: 12
+    vai_tro: null
+  - vi: miet-giap
+    lieu_g: 12
+    vai_tro: null
+  - vi: bach-thuoc
+    lieu_g: 12
+    vai_tro: null
+  - vi: huyen-sam
+    lieu_g: 12
+    vai_tro: null
+  - vi: thien-mon-dong
+    ten_trong_bai: Thiên môn
+    lieu_g: 12
+    vai_tro: null
+  - vi: nguu-tat
+    lieu_g: 12
+    vai_tro: null
+  - vi: cau-dang
+    lieu_g: 12
+    vai_tro: null
+  - vi: cam-thao
+    lieu_g: 6
+    vai_tro: null
+cach_dung: Sắc uống ngày 1 thang, chia 2 lần.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 80
+  trang_thai: chua_doi_chieu

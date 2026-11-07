@@ -1,0 +1,311 @@
+{
+  "so": 4,
+  "id": "viem-khop-dang-thap",
+  "ten": "Viêm khớp dạng thấp (Chứng tý)",
+  "ten_khac": ["Chứng tý", "VKDT"],
+  "trang_dau": 29,
+  "trang_cuoi": 36,
+  "dau_hieu_nguy_hiem": [],
+  "the_benh": [
+    {
+      "ten": "Phong thấp",
+      "mo_ta": null,
+      "trang": 30,
+      "trieu_chung": [
+        { "ten": "Các khớp và cơ nhục đau mỏi", "nhom": "vi-tri-dau" },
+        { "ten": "Co duỗi khó khăn", "nhom": "vi-tri-dau" },
+        { "ten": "Cảm giác nặng nề", "nhom": "vi-tri-dau" },
+        { "ten": "Đau có tính chất di chuyển", "nhom": "vi-tri-dau" },
+        { "ten": "Thường xảy ra ở các khớp nhỏ và nhỡ", "nhom": "vi-tri-dau" },
+        { "ten": "Trong đợt bệnh tiến triển các khớp sưng đau", "nhom": "vi-tri-dau" },
+        { "ten": "Bì phù có cảm giác tê bì", "nhom": "than-kinh" },
+        { "ten": "Thời kỳ đầu có biểu hiện sợ gió", "nhom": "han-nhiet" },
+        { "ten": "Thời kỳ đầu phát sốt", "nhom": "han-nhiet" },
+        { "ten": "Chất lưỡi nhợt", "nhom": "luoi" },
+        { "ten": "Rêu lưỡi mỏng trắng hay nhớt dính", "nhom": "luoi" },
+        { "ten": "Mạch phù hoãn hoặc nhu hoãn", "nhom": "mach" }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Khu phong, trừ thấp, thông lạc, chỉ thống.",
+      "bai_thuoc": [
+        {
+          "ten": "Quyên tý thang", "loai": "co_phuong", "trang": 31,
+          "thanh_phan": [
+            { "ten": "Tang chi", "lieu_g": 30 }, { "ten": "Tần giao", "lieu_g": 12 },
+            { "ten": "Độc hoạt", "lieu_g": 8 }, { "ten": "Khương hoạt", "lieu_g": 8 },
+            { "ten": "Đương quy", "lieu_g": 12 }, { "ten": "Hải phong đằng", "lieu_g": 30 },
+            { "ten": "Mộc hương", "lieu_g": 6 }, { "ten": "Quế chi", "lieu_g": 8 },
+            { "ten": "Xuyên khung", "lieu_g": 12 }, { "ten": "Nhũ hương", "lieu_g": 6 },
+            { "ten": "Chích cam thảo", "lieu_g": 6 }
+          ],
+          "cach_dung": "Sắc uống ngày 01 thang chia 2 lần.", "gia_giam": [], "giong_the": null
+        },
+        {
+          "ten": null, "loai": "nghiem_phuong", "trang": 31,
+          "thanh_phan": [
+            { "ten": "Ké đầu ngựa", "lieu_g": 16 }, { "ten": "Tỳ giải", "lieu_g": 12 },
+            { "ten": "Khương hoạt", "lieu_g": 12 }, { "ten": "Ý dĩ", "lieu_g": 12 },
+            { "ten": "Thổ phục linh", "lieu_g": 16 }, { "ten": "Uy linh tiên", "lieu_g": 12 },
+            { "ten": "Hy thiêm", "lieu_g": 16 }, { "ten": "Quế chi", "lieu_g": 8 },
+            { "ten": "Đương qui", "lieu_g": 12 }, { "ten": "Cam thảo nam", "lieu_g": 12 }
+          ],
+          "cach_dung": "Sắc uống ngày 01 thang chia 2 lần.", "gia_giam": [], "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Hàn thấp",
+      "mo_ta": null,
+      "trang": 32,
+      "trieu_chung": [
+        { "ten": "Các khớp ở chi trên và chi dưới có cảm giác đau, lạnh và nặng nề", "nhom": "vi-tri-dau" },
+        { "ten": "Tính chất đau thường cố định, ít di chuyển", "nhom": "vi-tri-dau" },
+        { "ten": "Ngày đau nhẹ, về đêm đau nặng", "nhom": "vi-tri-dau" },
+        { "ten": "Thời tiết lạnh, ẩm đau tăng lên", "nhom": "vi-tri-dau" },
+        { "ten": "Chườm nóng đỡ đau", "nhom": "vi-tri-dau" },
+        { "ten": "Chỗ đau ít sưng nề", "nhom": "vi-tri-dau" },
+        { "ten": "Co duỗi khó khăn", "nhom": "vi-tri-dau" },
+        { "ten": "Chất lưỡi nhợt", "nhom": "luoi" },
+        { "ten": "Rêu lưỡi trắng nhớt", "nhom": "luoi" },
+        { "ten": "Mạch huyền khẩn hay huyền hoãn", "nhom": "mach" }
+      ],
+      "loai_tru": [
+        { "ten": "Các khớp sưng, nóng, đỏ, đau", "dan_chung": "Tại khớp tổn thương thường không nóng đỏ" }
+      ],
+      "phap_tri": "Ôn kinh, tán hàn, trừ thấp, thông lạc.",
+      "bai_thuoc": [
+        {
+          "ten": "Can khương thương truật thang", "loai": "co_phuong", "trang": 32,
+          "thanh_phan": [
+            { "ten": "Can khương", "lieu_g": 8 }, { "ten": "Quế chi", "lieu_g": 8 },
+            { "ten": "Thương truật", "lieu_g": 8 }, { "ten": "Ý dĩ", "lieu_g": 8 },
+            { "ten": "Cam thảo", "lieu_g": 6 }, { "ten": "Bạch linh", "lieu_g": 12 },
+            { "ten": "Xuyên khung", "lieu_g": 16 }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.", "gia_giam": [], "giong_the": null
+        },
+        {
+          "ten": null, "loai": "nghiem_phuong", "trang": 32,
+          "thanh_phan": [
+            { "ten": "Quế chi", "lieu_g": 8 }, { "ten": "Tế tân", "lieu_g": 4 },
+            { "ten": "Thổ phục linh", "lieu_g": 12 }, { "ten": "Thiên niên kiện", "lieu_g": 10 },
+            { "ten": "Uy linh tiên", "lieu_g": 12 }, { "ten": "Cành dâu", "lieu_g": 16 },
+            { "ten": "Xuyên khung", "lieu_g": 12 }, { "ten": "Rễ cỏ xước", "lieu_g": 12 }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.", "gia_giam": [], "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Phong thấp nhiệt (khớp sưng nóng đỏ đau nhiều, sốt cao)",
+      "mo_ta": "Đợt tiến triển của VKDT.",
+      "trang": 33,
+      "trieu_chung": [
+        { "ten": "Các khớp sưng, nóng, đỏ, đau", "nhom": "vi-tri-dau" },
+        { "ten": "Xuất hiện đối xứng", "nhom": "vi-tri-dau" },
+        { "ten": "Cự án", "nhom": "vi-tri-dau" },
+        { "ten": "Co duỗi khó khăn", "nhom": "vi-tri-dau" },
+        { "ten": "Vận động, đi lại khó", "nhom": "vi-tri-dau" },
+        { "ten": "Phát sốt", "nhom": "han-nhiet" },
+        { "ten": "Thích uống nước mát", "nhom": "tieu-hoa" },
+        { "ten": "Chườm lạnh các khớp có cảm giác dễ chịu", "nhom": "vi-tri-dau" },
+        { "ten": "Sắc mặt đỏ", "nhom": "toan-than" },
+        { "ten": "Nước tiểu đỏ", "nhom": "tieu-tien" },
+        { "ten": "Đại tiện táo", "nhom": "tieu-hoa" },
+        { "ten": "Chất lưỡi đỏ", "nhom": "luoi" },
+        { "ten": "Rêu lưỡi vàng", "nhom": "luoi" },
+        { "ten": "Mạch hoạt sác", "nhom": "mach" },
+        { "ten": "Các khớp sưng nóng đỏ đau nhiều", "nhom": "vi-tri-dau" },
+        { "ten": "Sốt cao", "nhom": "han-nhiet" }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Khu phong, thanh nhiệt giải độc, hóa thấp.",
+      "bai_thuoc": [
+        {
+          "ten": "Bạch hổ quế chi thang", "loai": "co_phuong", "trang": 33,
+          "thanh_phan": [
+            { "ten": "Thạch cao sống", "lieu_g": 30 }, { "ten": "Quế chi", "lieu_g": 6 },
+            { "ten": "Tri mẫu", "lieu_g": 12 }, { "ten": "Cam thảo", "lieu_g": 4 },
+            { "ten": "Ngạnh mễ", "lieu_g": 12 }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần, uống 5-7 thang.", "gia_giam": [], "giong_the": null
+        },
+        {
+          "ten": null, "loai": "nghiem_phuong", "trang": 33,
+          "thanh_phan": [
+            { "ten": "Thổ phục linh", "lieu_g": 16 }, { "ten": "Rễ cỏ xước", "lieu_g": 12 },
+            { "ten": "Hy thiêm", "lieu_g": 16 }, { "ten": "Kê huyết đằng", "lieu_g": 12 },
+            { "ten": "Rễ cà gai leo", "lieu_g": 10 }, { "ten": "Lá huyết dụ", "lieu_g": 10 },
+            { "ten": "Sinh địa", "lieu_g": 12 }, { "ten": "Cam thảo nam", "lieu_g": 10 }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.", "gia_giam": [], "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Phong thấp nhiệt (khớp sưng đau ít)",
+      "mo_ta": "Đợt tiến triển của VKDT.",
+      "trang": 33,
+      "trieu_chung": [
+        { "ten": "Các khớp sưng, nóng, đỏ, đau", "nhom": "vi-tri-dau" },
+        { "ten": "Xuất hiện đối xứng", "nhom": "vi-tri-dau" },
+        { "ten": "Cự án", "nhom": "vi-tri-dau" },
+        { "ten": "Co duỗi khó khăn", "nhom": "vi-tri-dau" },
+        { "ten": "Vận động, đi lại khó", "nhom": "vi-tri-dau" },
+        { "ten": "Phát sốt", "nhom": "han-nhiet" },
+        { "ten": "Thích uống nước mát", "nhom": "tieu-hoa" },
+        { "ten": "Chườm lạnh các khớp có cảm giác dễ chịu", "nhom": "vi-tri-dau" },
+        { "ten": "Sắc mặt đỏ", "nhom": "toan-than" },
+        { "ten": "Nước tiểu đỏ", "nhom": "tieu-tien" },
+        { "ten": "Đại tiện táo", "nhom": "tieu-hoa" },
+        { "ten": "Chất lưỡi đỏ", "nhom": "luoi" },
+        { "ten": "Rêu lưỡi vàng", "nhom": "luoi" },
+        { "ten": "Mạch hoạt sác", "nhom": "mach" },
+        { "ten": "Các khớp sưng đau ít", "nhom": "vi-tri-dau" }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Khu phong, thanh nhiệt giải độc, hóa thấp.",
+      "bai_thuoc": [
+        {
+          "ten": "Quế chi thược dược tri mẫu thang", "loai": "co_phuong", "trang": 33,
+          "thanh_phan": [
+            { "ten": "Quế chi", "lieu_g": 8 }, { "ten": "Ma hoàng", "lieu_g": 8 },
+            { "ten": "Bạch thược", "lieu_g": 12 }, { "ten": "Phòng phong", "lieu_g": 12 },
+            { "ten": "Tri mẫu", "lieu_g": 12 }, { "ten": "Phụ tử chế", "lieu_g": 6 },
+            { "ten": "Bạch truật", "lieu_g": 12 }, { "ten": "Sinh khương", "lieu_g": 12 },
+            { "ten": "Cam thảo", "lieu_g": 6 }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.", "gia_giam": [], "giong_the": null
+        },
+        {
+          "ten": null, "loai": "nghiem_phuong", "trang": 33,
+          "thanh_phan": [
+            { "ten": "Thổ phục linh", "lieu_g": 16 }, { "ten": "Rễ cỏ xước", "lieu_g": 12 },
+            { "ten": "Hy thiêm", "lieu_g": 16 }, { "ten": "Kê huyết đằng", "lieu_g": 12 },
+            { "ten": "Rễ cà gai leo", "lieu_g": 10 }, { "ten": "Lá huyết dụ", "lieu_g": 10 },
+            { "ten": "Sinh địa", "lieu_g": 12 }, { "ten": "Cam thảo nam", "lieu_g": 10 }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.", "gia_giam": [], "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Phong thấp nhiệt (sốt nhẹ, khớp sưng đau kéo dài)",
+      "mo_ta": "Đợt tiến triển của VKDT.",
+      "trang": 33,
+      "trieu_chung": [
+        { "ten": "Các khớp sưng, nóng, đỏ, đau", "nhom": "vi-tri-dau" },
+        { "ten": "Xuất hiện đối xứng", "nhom": "vi-tri-dau" },
+        { "ten": "Cự án", "nhom": "vi-tri-dau" },
+        { "ten": "Co duỗi khó khăn", "nhom": "vi-tri-dau" },
+        { "ten": "Vận động, đi lại khó", "nhom": "vi-tri-dau" },
+        { "ten": "Thích uống nước mát", "nhom": "tieu-hoa" },
+        { "ten": "Chườm lạnh các khớp có cảm giác dễ chịu", "nhom": "vi-tri-dau" },
+        { "ten": "Sắc mặt đỏ", "nhom": "toan-than" },
+        { "ten": "Nước tiểu đỏ", "nhom": "tieu-tien" },
+        { "ten": "Đại tiện táo", "nhom": "tieu-hoa" },
+        { "ten": "Chất lưỡi đỏ", "nhom": "luoi" },
+        { "ten": "Rêu lưỡi vàng", "nhom": "luoi" },
+        { "ten": "Sốt nhẹ", "nhom": "han-nhiet" },
+        { "ten": "Các khớp sưng đau kéo dài", "nhom": "vi-tri-dau" },
+        { "ten": "Mạch tế sác", "nhom": "mach" }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Khu phong, thanh nhiệt giải độc, hóa thấp.",
+      "bai_thuoc": [
+        {
+          "ten": "Quế chi thược dược tri mẫu thang", "loai": "co_phuong", "trang": 33,
+          "thanh_phan": [
+            { "ten": "Quế chi", "lieu_g": 8 }, { "ten": "Ma hoàng", "lieu_g": 8 },
+            { "ten": "Bạch thược", "lieu_g": 12 }, { "ten": "Phòng phong", "lieu_g": 12 },
+            { "ten": "Tri mẫu", "lieu_g": 12 }, { "ten": "Phụ tử chế", "lieu_g": 6 },
+            { "ten": "Bạch truật", "lieu_g": 12 }, { "ten": "Sinh khương", "lieu_g": 12 },
+            { "ten": "Cam thảo", "lieu_g": 6 }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.",
+          "gia_giam": ["Dùng bài Quế chi thược dược tri mẫu thang bỏ Quế chi gia Huyền sâm, Sinh địa, Địa cốt bì, Sa sâm, Miết giáp, Thạch hộc."],
+          "giong_the": null
+        },
+        {
+          "ten": null, "loai": "nghiem_phuong", "trang": 33,
+          "thanh_phan": [
+            { "ten": "Thổ phục linh", "lieu_g": 16 }, { "ten": "Rễ cỏ xước", "lieu_g": 12 },
+            { "ten": "Hy thiêm", "lieu_g": 16 }, { "ten": "Kê huyết đằng", "lieu_g": 12 },
+            { "ten": "Rễ cà gai leo", "lieu_g": 10 }, { "ten": "Lá huyết dụ", "lieu_g": 10 },
+            { "ten": "Sinh địa", "lieu_g": 12 }, { "ten": "Cam thảo nam", "lieu_g": 10 }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.", "gia_giam": [], "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Can thận hư",
+      "mo_ta": "VKDT kéo dài có teo cơ, dính khớp.",
+      "trang": 33,
+      "trieu_chung": [
+        { "ten": "Mắc bệnh lâu ngày", "nhom": "khac" },
+        { "ten": "Cơ nhục và các khớp đau mỏi", "nhom": "vi-tri-dau" },
+        { "ten": "Chỗ đau cố định không di chuyển", "nhom": "vi-tri-dau" },
+        { "ten": "Các khớp sưng nề", "nhom": "vi-tri-dau" },
+        { "ten": "Teo cơ", "nhom": "vi-tri-dau" },
+        { "ten": "Cứng khớp", "nhom": "vi-tri-dau" },
+        { "ten": "Biến dạng khớp", "nhom": "vi-tri-dau" },
+        { "ten": "Tay và chân có cảm giác tê bì và nặng nề", "nhom": "than-kinh" },
+        { "ten": "Sắc mặt sạm đen và có thể sưng nề", "nhom": "toan-than" },
+        { "ten": "Ngực đầy tức", "nhom": "khac" },
+        { "ten": "Chất lưỡi tím sẫm", "nhom": "luoi" },
+        { "ten": "Rêu lưỡi trắng nhớt", "nhom": "luoi" },
+        { "ten": "Mạch huyền sác", "nhom": "mach" }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Khu phong, thanh nhiệt, trừ thấp, hóa đàm thông lạc, bổ can thận, kiện tỳ.",
+      "bai_thuoc": [
+        {
+          "ten": null, "loai": "co_phuong", "trang": 34,
+          "thanh_phan": [], "cach_dung": null,
+          "gia_giam": ["Trường hợp các khớp vẫn sưng, nóng, đỏ đau thì dùng các bài thuốc như thể Phong thấp nhiệt trên gia các vị thuốc trừ đàm, hoạt huyết: Nam tinh chế, Bạch giới tử sao, Bạch cương tàm, Đào nhân, Hồng hoa..."],
+          "giong_the": "Phong thấp nhiệt (khớp sưng nóng đỏ đau nhiều, sốt cao)"
+        },
+        {
+          "ten": "Độc hoạt ký sinh thang", "loai": "co_phuong", "trang": 34,
+          "thanh_phan": [
+            { "ten": "Độc hoạt", "lieu_g": 10 }, { "ten": "Phòng phong", "lieu_g": 12 },
+            { "ten": "Tang ký sinh", "lieu_g": 12 }, { "ten": "Tế tân", "lieu_g": 4 },
+            { "ten": "Tần giao", "lieu_g": 12 }, { "ten": "Đương qui", "lieu_g": 12 },
+            { "ten": "Phục linh", "lieu_g": 12 }, { "ten": "Quế chi", "lieu_g": 4 },
+            { "ten": "Bạch thược", "lieu_g": 12 }, { "ten": "Xuyên khung", "lieu_g": 12 },
+            { "ten": "Thục địa", "lieu_g": 12 }, { "ten": "Chích cam thảo", "lieu_g": 6 },
+            { "ten": "Đỗ trọng", "lieu_g": 12 }, { "ten": "Ngưu tất", "lieu_g": 12 },
+            { "ten": "Đảng sâm", "lieu_g": 12 }
+          ],
+          "cach_dung": "Ngày sắc uống 1 thang, chia 3 lần.", "gia_giam": [], "giong_the": null
+        },
+        {
+          "ten": null, "loai": "nghiem_phuong", "trang": 34,
+          "thanh_phan": [
+            { "ten": "Phòng phong", "lieu_g": 12 }, { "ten": "Tần giao", "lieu_g": 12 },
+            { "ten": "Tri mẫu", "lieu_g": 12 }, { "ten": "Thổ phục linh", "lieu_g": 16 },
+            { "ten": "Thổ phục linh", "lieu_g": 12 }, { "ten": "Bạch cương tàm", "lieu_g": 12 },
+            { "ten": "Ý dĩ", "lieu_g": 16 }, { "ten": "Xích thược", "lieu_g": 12 },
+            { "ten": "Rễ cỏ xước", "lieu_g": 12 }, { "ten": "Đương qui", "lieu_g": 12 },
+            { "ten": "Xuyên khung", "lieu_g": 12 }, { "ten": "Cốt toái bổ", "lieu_g": 12 },
+            { "ten": "Tục đoạn", "lieu_g": 12 }, { "ten": "Tang ký sinh", "lieu_g": 12 }
+          ],
+          "cach_dung": null, "gia_giam": [], "giong_the": null
+        }
+      ]
+    }
+  ],
+  "ghi_chu_trich": [
+    "Tr.29-35: văn bản không nêu rõ dấu hiệu nào cần khám/can thiệp YHHĐ mà người bệnh tự nhận biết được (tr.29 chỉ mô tả 'Trong đợt cấp tính thường sưng đau nhiều khớp, sốt, có thể có các biểu hiện nội tạng'; phần IV nói 'thể nặng, kháng trị' cần thuốc sinh học — dựa trên xét nghiệm/đáp ứng) → dau_hieu_nguy_hiem để trống.",
+    "Tr.30: tên bệnh trong đề mục in '(CHỨNG TÝ)', ghi là 'Chứng tý'.",
+    "Tr.30: thể phong thấp có triệu chứng 'bì phù có cảm giác tê bì' — có thể là lỗi in của 'bì phu' (da, như tr.30 viết 'bì phu (da)'); giữ nguyên chữ in.",
+    "Tr.30-31: thể phong thấp — triệu chứng ở tr.30, bài thuốc ở tr.31. Tên bài in 'Quyên tý thang' — giữ nguyên.",
+    "Tr.32: thể hàn thấp ghi 'Tại khớp tổn thương thường không nóng đỏ' → loai_tru 'Các khớp sưng, nóng, đỏ, đau' (chữ của triệu chứng thể phong thấp nhiệt).",
+    "Tr.32-33: tên thể 'Phong thấp nhiệt: Đợt tiến triển của VKDT.' in ở cuối tr.32, triệu chứng ở tr.33.",
+    "Tr.33: thể phong thấp nhiệt có 3 trường hợp với bài riêng (sưng nóng đỏ đau nhiều + sốt cao → Bạch hổ quế chi thang; sưng đau ít → Quế chi thược dược tri mẫu thang; sốt nhẹ, sưng đau kéo dài, chất lưỡi đỏ, mạch tế sác → Quế chi thược dược tri mẫu thang bỏ Quế chi gia Huyền sâm, Sinh địa, Địa cốt bì, Sa sâm, Miết giáp, Thạch hộc) → tách 3 thể; nghiệm phương dùng chung, chép vào cả 3. Ở nhánh thứ 3, 'Mạch tế sác' thay cho 'Mạch hoạt sác' và 'Sốt nhẹ' thay cho 'Phát sốt' của phần triệu chứng chung.",
+    "Tr.33: bài gia giảm của nhánh thứ 3 được ghi bằng thành phần gốc Quế chi thược dược tri mẫu thang + gia_giam nguyên văn; các vị gia thêm không có liều; cách dùng lấy theo bài gốc.",
+    "Tr.33-34: thể can thận hư — tên thể và triệu chứng ở tr.33, bài thuốc ở tr.34. Câu 'Trường hợp các khớp vẫn sưng, nóng, đỏ đau thì dùng các bài thuốc như thể Phong thấp nhiệt trên gia…' được ghi thành một mục bai_thuoc có giong_the trỏ tới nhánh đầu của thể phong thấp nhiệt; văn bản chỉ nói 'thể Phong thấp nhiệt' (không chỉ rõ nhánh); danh sách vị gia thêm kết thúc bằng '...' và không có liều.",
+    "Tr.34: nghiệm phương thể can thận hư in 'Thổ phục linh' hai lần (16g và 12g) — giữ nguyên cả hai dòng; bài này không ghi cách dùng (cach_dung null)."
+  ]
+}

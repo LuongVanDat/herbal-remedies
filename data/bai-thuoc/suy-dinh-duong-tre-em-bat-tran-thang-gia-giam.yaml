@@ -1,0 +1,52 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: suy-dinh-duong-tre-em-bat-tran-thang-gia-giam
+ten: Bát trân thang gia giảm
+loai: co_phuong
+thanh_phan:
+  - vi: dang-sam
+    lieu_g: 16
+    vai_tro: null
+  - vi: hoang-ky
+    lieu_g: 16
+    vai_tro: null
+  - vi: bach-linh
+    ten_trong_bai: Phục linh
+    lieu_g: 8
+    vai_tro: null
+  - vi: cam-thao
+    lieu_g: 6
+    vai_tro: null
+  - vi: duong-quy
+    lieu_g: 8
+    vai_tro: null
+  - vi: bach-thuoc
+    lieu_g: 8
+    vai_tro: null
+  - vi: tran-bi
+    lieu_g: 6
+    vai_tro: null
+  - vi: bach-bien-dau
+    lieu_g: 12
+    vai_tro: null
+  - vi: bach-truat
+    lieu_g: 12
+    vai_tro: null
+  - vi: thuc-dia
+    lieu_g: 12
+    vai_tro: null
+  - vi: xuyen-khung
+    lieu_g: 6
+    vai_tro: null
+  - vi: sa-nhan
+    lieu_g: 4
+    vai_tro: null
+cach_dung: Văn bản không ghi cách dùng.
+gia_giam:
+  - Chân tay lạnh, đại tiện nát bỏ Thục địa, Đương qui; thêm Nhục quế 2g, Bào khương 2g.
+  - Đêm ngủ không yên thêm Ngũ vị tử 6g, Dạ giao đằng12g.
+  - Mặt tối, chất lưỡi nhạt bỏ Bạch thược, gia Bào khương 2g.
+  - Chất lưỡi đỏ khô, rêu lưỡi sáng gia Ô mai 4g, Thạch hộc 6g.
+nguon:
+  ma: qd-5013
+  trang: 108
+  trang_thai: chua_doi_chieu

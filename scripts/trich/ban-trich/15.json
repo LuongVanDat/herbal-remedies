@@ -1,0 +1,271 @@
+{
+  "so": 15,
+  "id": "viem-da-day-ta-trang",
+  "ten": "Viêm dạ dày và tá tràng (Vị quản thống)",
+  "ten_khac": ["Vị quản thống", "viêm dạ dày tá tràng"],
+  "trang_dau": 111,
+  "trang_cuoi": 118,
+  "dau_hieu_nguy_hiem": [
+    { "ten": "Nghi ngờ chảy máu dạ dày (nôn ra máu, đi ngoài phân đen) — cần nội soi dạ dày cấp cứu", "trang": 118 }
+  ],
+  "the_benh": [
+    {
+      "ten": "Khí trệ (can khí phạm vị)",
+      "mo_ta": null,
+      "trang": 112,
+      "trieu_chung": [
+        { "ten": "Đau bụng vùng thượng vị thành cơn", "nhom": "vi-tri-dau" },
+        { "ten": "Đau lan ra mạn sườn", "nhom": "vi-tri-dau" },
+        { "ten": "Có khi đau lan ra sau lưng", "nhom": "vi-tri-dau" },
+        { "ten": "Bụng đầy chướng nhiều", "nhom": "tieu-hoa" },
+        { "ten": "Ấn đau (cự án)", "nhom": "vi-tri-dau" },
+        { "ten": "Hay ợ chua", "nhom": "tieu-hoa" },
+        { "ten": "Ợ hơi", "nhom": "tieu-hoa" },
+        { "ten": "Khi ợ hơi được thì đỡ đau", "nhom": "vi-tri-dau" },
+        { "ten": "Chất lưỡi hơi đỏ", "nhom": "luoi" },
+        { "ten": "Rêu lưỡi trắng hoặc hơi vàng mỏng", "nhom": "luoi" },
+        { "ten": "Mạch huyền", "nhom": "mach" }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Sơ can lý khí.",
+      "bai_thuoc": [
+        {
+          "ten": "Sài hồ sơ can thang", "loai": "co_phuong", "trang": 112,
+          "thanh_phan": [
+            { "ten": "Sài hồ", "lieu_g": 12 }, { "ten": "Xuyên khung", "lieu_g": 8 },
+            { "ten": "Chỉ xác", "lieu_g": 8 }, { "ten": "Hương phụ", "lieu_g": 8 },
+            { "ten": "Bạch thược", "lieu_g": 12 }, { "ten": "Trần bì", "lieu_g": 8 },
+            { "ten": "Cam thảo", "lieu_g": 6 }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.", "gia_giam": [], "giong_the": null
+        },
+        {
+          "ten": null, "loai": "nghiem_phuong", "trang": 112,
+          "thanh_phan": [
+            { "ten": "Lá khôi", "lieu_g": 20 }, { "ten": "Bồ công anh", "lieu_g": 20 },
+            { "ten": "Khổ sâm cho lá", "lieu_g": 16 }, { "ten": "Hương phụ", "lieu_g": 8 },
+            { "ten": "Hậu phác", "lieu_g": 8 }, { "ten": "Uất kim", "lieu_g": 8 },
+            { "ten": "Cam thảo nam", "lieu_g": 16 }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.", "gia_giam": [], "giong_the": null
+        },
+        {
+          "ten": "Cao Dạ cẩm", "loai": "nghiem_phuong", "trang": 112,
+          "thanh_phan": [
+            { "ten": "Dạ cẩm", "lieu_g": 300 }, { "ten": "Đường", "lieu_g": 900 }
+          ],
+          "cach_dung": "Chế thành cao hoặc siro, mỗi ngày uống lượng tương đương 20g Dạ cẩm.", "gia_giam": [], "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Hỏa uất (can khí phạm vị)",
+      "mo_ta": null,
+      "trang": 113,
+      "trieu_chung": [
+        { "ten": "Đau thượng vị nhiều", "nhom": "vi-tri-dau" },
+        { "ten": "Đau nóng rát", "nhom": "vi-tri-dau" },
+        { "ten": "Cự án", "nhom": "vi-tri-dau" },
+        { "ten": "Ợ chua nhiều", "nhom": "tieu-hoa" },
+        { "ten": "Miệng khô đắng", "nhom": "dau-mat" },
+        { "ten": "Chất lưỡi đỏ", "nhom": "luoi" },
+        { "ten": "Rêu lưỡi vàng", "nhom": "luoi" },
+        { "ten": "Mạch huyền sác", "nhom": "mach" }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Sơ can tiết nhiệt.",
+      "bai_thuoc": [
+        {
+          "ten": "Sài hồ sơ can thang", "loai": "co_phuong", "trang": 113,
+          "thanh_phan": [],
+          "cach_dung": null,
+          "gia_giam": ["Sài hồ sơ can thang gia thêm Xuyên luyện tử 6g, Ô tặc cốt 16g."],
+          "giong_the": "Khí trệ (can khí phạm vị)"
+        },
+        {
+          "ten": "Hóa can tiễn hợp với Tả kim hoàn", "loai": "co_phuong", "trang": 113,
+          "thanh_phan": [
+            { "ten": "Thanh bì", "lieu_g": 8 }, { "ten": "Trần bì", "lieu_g": 6 },
+            { "ten": "Bạch thược", "lieu_g": 12 }, { "ten": "Đan bì", "lieu_g": 8 },
+            { "ten": "Chi tử", "lieu_g": 8 }, { "ten": "Trạch tả", "lieu_g": 8 },
+            { "ten": "Thổ bối mẫu", "lieu_g": 6 }, { "ten": "Hoàng liên", "lieu_g": 8 },
+            { "ten": "Ngô thù du", "lieu_g": 2 }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.", "gia_giam": [], "giong_the": null
+        },
+        {
+          "ten": null, "loai": "nghiem_phuong", "trang": 114,
+          "thanh_phan": [
+            { "ten": "Lá khôi", "lieu_g": 500 }, { "ten": "Bồ công anh nam", "lieu_g": 250 },
+            { "ten": "Rễ chút chít", "lieu_g": 100 }, { "ten": "Nhân trần", "lieu_g": 100 },
+            { "ten": "Lá khổ sâm", "lieu_g": 50 }
+          ],
+          "cach_dung": "Các vị sấy khô tán bột mịn, ngày uống 24 – 32g, hãm nước sôi lấy nước trong uống.", "gia_giam": [], "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Huyết ứ (thực chứng)",
+      "mo_ta": "Bệnh thể cấp.",
+      "trang": 114,
+      "trieu_chung": [
+        { "ten": "Đau dữ dội ở một vị trí nhất định vùng thượng vị", "nhom": "vi-tri-dau" },
+        { "ten": "Cự án", "nhom": "vi-tri-dau" },
+        { "ten": "Nôn ra máu", "nhom": "tieu-hoa" },
+        { "ten": "Đi ngoài phân đen", "nhom": "tieu-hoa" },
+        { "ten": "Môi đỏ lưỡi đỏ", "nhom": "luoi" },
+        { "ten": "Rêu lưỡi vàng", "nhom": "luoi" },
+        { "ten": "Mạch huyền sác hữu lực", "nhom": "mach" }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Thông lạc hoạt huyết hay lương huyết chỉ huyết.",
+      "bai_thuoc": [
+        {
+          "ten": "Thất tiếu tán", "loai": "co_phuong", "trang": 114,
+          "thanh_phan": [
+            { "ten": "Ngũ linh chi", "lieu_g": null, "lieu_text": "lượng bằng nhau" },
+            { "ten": "Bồ hoàng", "lieu_g": null, "lieu_text": "lượng bằng nhau" }
+          ],
+          "cach_dung": "Hai vị thuốc tán bột mịn, trộn đều. Mỗi ngày uống 8 - 12g, chia 2 lần.", "gia_giam": [], "giong_the": null
+        },
+        {
+          "ten": null, "loai": "nghiem_phuong", "trang": 114,
+          "thanh_phan": [
+            { "ten": "Sinh địa", "lieu_g": 40 }, { "ten": "Cam thảo", "lieu_g": 6 },
+            { "ten": "Hoàng cầm", "lieu_g": 12 }, { "ten": "Bồ hoàng sống", "lieu_g": 12 },
+            { "ten": "Trắc bách diệp", "lieu_g": 16 }, { "ten": "Chi tử", "lieu_g": 8 },
+            { "ten": "A giao (nướng)", "lieu_g": 8 }
+          ],
+          "cach_dung": "Tất cả làm thang sắc uống cùng A giao (nướng) 8g, ngày 1 thang chia 2 lần. Riêng vị thuốc A giao hòa vào nước sắc để uống, không cho vào sắc cùng.",
+          "gia_giam": [], "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Huyết ứ (hư chứng)",
+      "mo_ta": "Bệnh thể hoãn.",
+      "trang": 114,
+      "trieu_chung": [
+        { "ten": "Đau dữ dội ở một vị trí nhất định vùng thượng vị", "nhom": "vi-tri-dau" },
+        { "ten": "Cự án", "nhom": "vi-tri-dau" },
+        { "ten": "Chảy máu nhiều", "nhom": "khac" },
+        { "ten": "Sắc mặt nhợt nhạt", "nhom": "toan-than" },
+        { "ten": "Người mệt mỏi", "nhom": "toan-than" },
+        { "ten": "Môi nhợt", "nhom": "dau-mat" },
+        { "ten": "Chân tay lạnh", "nhom": "han-nhiet" },
+        { "ten": "Ra mồ hôi", "nhom": "mo-hoi" },
+        { "ten": "Chất lưỡi bệu có ứ huyết", "nhom": "luoi" },
+        { "ten": "Rêu lưỡi nhuận", "nhom": "luoi" },
+        { "ten": "Mạch hư đại hoặc tế sáp", "nhom": "mach" }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Bổ huyết chỉ huyết.",
+      "bai_thuoc": [
+        {
+          "ten": "Hoàng thổ thang gia giảm", "loai": "co_phuong", "trang": 115,
+          "thanh_phan": [
+            { "ten": "Đất lòng bếp (Hoàng thổ)", "lieu_g": 10 }, { "ten": "Địa hoàng", "lieu_g": 12 },
+            { "ten": "A giao", "lieu_g": 12 }, { "ten": "Cam thảo", "lieu_g": 12 },
+            { "ten": "Phụ tử chế", "lieu_g": 12 }, { "ten": "Hoàng cầm", "lieu_g": 12 },
+            { "ten": "Bạch truật", "lieu_g": 12 }, { "ten": "Đảng sâm", "lieu_g": 12 }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần. Riêng vị thuốc A giao hòa vào nước sắc để uống, không cho vào sắc cùng.",
+          "gia_giam": [], "giong_the": null
+        },
+        {
+          "ten": "Tứ quân tử thang gia vị", "loai": "co_phuong", "trang": 115,
+          "thanh_phan": [
+            { "ten": "Đảng sâm", "lieu_g": 16 }, { "ten": "Hoàng kỳ", "lieu_g": 12 },
+            { "ten": "Bạch truật", "lieu_g": 12 }, { "ten": "A giao", "lieu_g": 8 },
+            { "ten": "Bạch linh", "lieu_g": 12 }, { "ten": "Cam thảo", "lieu_g": 6 }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần. Riêng vị thuốc A giao hòa vào nước sắc để uống, không cho vào sắc cùng.",
+          "gia_giam": [], "giong_the": null
+        },
+        {
+          "ten": "Điều doanh liễm can ẩm", "loai": "co_phuong", "trang": 115,
+          "thanh_phan": [
+            { "ten": "A giao (nướng)", "lieu_g": 8 }, { "ten": "Bạch thược", "lieu_g": 12 },
+            { "ten": "Câu kỷ tử", "lieu_g": 12 }, { "ten": "Đương qui", "lieu_g": 12 },
+            { "ten": "Mộc hương", "lieu_g": 6 }, { "ten": "Ngũ vị tử", "lieu_g": 6 },
+            { "ten": "Phục linh", "lieu_g": 12 }, { "ten": "Táo nhân", "lieu_g": 8 },
+            { "ten": "Trần bì", "lieu_g": 6 }, { "ten": "Xuyên khung", "lieu_g": 10 },
+            { "ten": "Đại táo", "lieu_g": 12 }, { "ten": "Sinh khương", "lieu_g": 6 }
+          ],
+          "cach_dung": "Nếu sau khi cầm máu người bệnh sắc mặt nhợt nhạt, hoa mắt chóng mặt, chất lưỡi nhợt. Mạch hư tế, có thể dùng bài Điều doanh liễm can ẩm. Sắc uống ngày 1 thang, chia 2 lần. Riêng vị thuốc A giao hòa vào nước sắc để uống, không cho vào sắc cùng.",
+          "gia_giam": [], "giong_the": null
+        },
+        {
+          "ten": null, "loai": "nghiem_phuong", "trang": 115,
+          "thanh_phan": [
+            { "ten": "Đảng sâm", "lieu_g": 16 }, { "ten": "Kê huyết đằng", "lieu_g": 12 },
+            { "ten": "Hoài sơn", "lieu_g": 12 }, { "ten": "Rau má", "lieu_g": 12 },
+            { "ten": "Ý dĩ", "lieu_g": 12 }, { "ten": "Cam thảo dây", "lieu_g": 12 },
+            { "ten": "Hà thủ ô", "lieu_g": 12 }, { "ten": "Đỗ đen sao", "lieu_g": 12 },
+            { "ten": "Huyết dụ", "lieu_g": 12 }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.", "gia_giam": [], "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Tỳ vị hư hàn",
+      "mo_ta": null,
+      "trang": 116,
+      "trieu_chung": [
+        { "ten": "Đau thượng vị âm ỉ", "nhom": "vi-tri-dau" },
+        { "ten": "Đau liên miên", "nhom": "vi-tri-dau" },
+        { "ten": "Nôn nhiều nôn ra nước trong", "nhom": "tieu-hoa" },
+        { "ten": "Gặp lạnh đau tăng", "nhom": "vi-tri-dau" },
+        { "ten": "Khi đau thích xoa bóp, chườm nóng", "nhom": "vi-tri-dau" },
+        { "ten": "Sợ lạnh", "nhom": "han-nhiet" },
+        { "ten": "Tay chân lạnh", "nhom": "han-nhiet" },
+        { "ten": "Ăn kém", "nhom": "tieu-hoa" },
+        { "ten": "Thích ăn đồ ấm nóng", "nhom": "tieu-hoa" },
+        { "ten": "Bụng đầy thường xuyên", "nhom": "tieu-hoa" },
+        { "ten": "Đại tiện lỏng nát", "nhom": "tieu-hoa" },
+        { "ten": "Chất lưỡi nhợt bệu", "nhom": "luoi" },
+        { "ten": "Rêu lưỡi trắng", "nhom": "luoi" },
+        { "ten": "Mạch trầm nhược", "nhom": "mach" }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Ôn trung kiện tỳ.",
+      "bai_thuoc": [
+        {
+          "ten": "Hoàng kỳ kiến trung thang", "loai": "co_phuong", "trang": 116,
+          "thanh_phan": [
+            { "ten": "Hoàng kỳ", "lieu_g": 16 }, { "ten": "Sinh khương", "lieu_g": 6 },
+            { "ten": "Cam thảo", "lieu_g": 6 }, { "ten": "Bạch thược", "lieu_g": 8 },
+            { "ten": "Hương phụ", "lieu_g": 8 }, { "ten": "Quế chi", "lieu_g": 8 },
+            { "ten": "Đại táo", "lieu_g": 12 }, { "ten": "Mạch nha", "lieu_g": 30 }
+          ],
+          "cach_dung": "Tất cả các vị thuốc trừ Mạch nha sắc lấy nước bỏ bã, hòa với Mạch nha uống khi còn ấm, ngày 1 thang chia 2 lần.",
+          "gia_giam": [], "giong_the": null
+        },
+        {
+          "ten": null, "loai": "nghiem_phuong", "trang": 116,
+          "thanh_phan": [
+            { "ten": "Bố chính sâm", "lieu_g": 12 }, { "ten": "Bán hạ chế", "lieu_g": 6 },
+            { "ten": "Lá khôi", "lieu_g": 20 }, { "ten": "Sa nhân", "lieu_g": 10 },
+            { "ten": "Gừng", "lieu_g": 4 }, { "ten": "Trần bì", "lieu_g": 6 },
+            { "ten": "Vỏ rụt (Nam mộc hương)", "lieu_g": 10 }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.", "gia_giam": [], "giong_the": null
+        }
+      ]
+    }
+  ],
+  "ghi_chu_trich": [
+    "Tr.112: văn bản chia 2 thể chính (can khí phạm vị, tỳ vị hư hàn); can khí phạm vị chia 3 thể nhỏ khí trệ, hỏa uất, huyết ứ — đặt tên thể kèm '(can khí phạm vị)'.",
+    "Tr.112: triệu chứng thể khí trệ in 'hay ợ chua, ợ hợi' — lỗi in, ghi 'Ợ hơi' (câu sau dùng 'khi ợ hơi được thì đỡ đau').",
+    "Tr.112: số mục 'Điều trị không dùng thuốc' in '1.4.1.2' (đúng ra 1.1.4.2); đề mục phần YHHĐ in 'VI.' (tr.117) — lỗi đánh số, không ảnh hưởng dữ liệu.",
+    "Tr.113: hỏa uất có bài 'Sài hồ sơ can thang gia thêm Xuyên luyện tử 6g, Ô tặc cốt 16g' — ghi giong_the = thể Khí trệ, phần gia thêm để trong gia_giam.",
+    "Tr.113–114: Hóa can tiễn hợp với Tả kim hoàn bắt đầu tr.113 (Thanh bì, Trần bì), 7 vị còn lại ở tr.114.",
+    "Tr.114: thể huyết ứ chia 2 trường hợp thực chứng / hư chứng với pháp và bài riêng — tách 2 thể, cùng triệu chứng chung 'Đau dữ dội ở một vị trí nhất định vùng thượng vị, cự án'; mo_ta lấy từ chú thích trong ngoặc '(bệnh thể cấp)' / '(bệnh thể hoãn)'.",
+    "Tr.114: Thất tiếu tán ghi 'Ngũ linh chi, Bồ hoàng lượng bằng nhau' — không có liều gam từng vị.",
+    "Tr.114–115: nghiệm phương thể huyết ứ thực chứng: tiêu đề ở tr.114, toàn bộ vị và liều ở tr.115. A giao (nướng) 8g nằm trong câu cách dùng, được đưa vào thanh_phan.",
+    "Tr.115: Điều doanh liễm can ẩm dùng cho trường hợp sau khi cầm máu (chỉ định chép vào cach_dung).",
+    "Tr.112: nghiệm phương thể khí trệ có vị 'Khổ sâm cho lá' — chép nguyên chữ in.",
+    "Tr.118: dấu hiệu nguy hiểm từ câu 'Khi có triệu chứng của VDDTT nghi ngờ chảy máu cần dừng thuốc giảm đau chống viêm và chỉ định nội soi dạ dày cấp cứu'; ví dụ 'nôn ra máu, đi ngoài phân đen' lấy từ triệu chứng thể huyết ứ (tr.114)."
+  ]
+}

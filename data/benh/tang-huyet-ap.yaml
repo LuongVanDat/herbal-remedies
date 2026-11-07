@@ -1,0 +1,127 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: tang-huyet-ap
+ten: Tăng huyết áp vô căn (Huyễn vựng)
+ten_khac:
+  - Huyễn vựng
+  - đầu thống
+  - thất miên
+  - tăng huyết áp
+dau_hieu_nguy_hiem:
+  - id: nh-tang-huyet-ap-1
+    ten: Huyết áp tâm thu ≥ 140 mmHg và/hoặc huyết áp tâm trương ≥ 90 mmHg
+  - id: nh-tang-huyet-ap-2
+    ten: Phải kết hợp với YHHĐ, không nên sử dụng YHCT đơn thuần
+the_benh:
+  - id: can-duong-thuong-cang
+    ten: Can dương thượng cang
+    trieu_chung:
+      chinh:
+        - choang-vang
+        - mat-do
+        - hay-tuc-gian
+        - it-ngu
+        - ngu-hay-me
+        - mieng-dang
+        - mach-huyen-sac-hoac-huyen-hoat
+      phu:
+        - hoa-mat
+        - dau-dau
+        - chat-luoi-do
+        - reu-luoi-vang
+    loai_tru: []
+    phap_tri: Bình can tức phong (Bình can tiềm dương).
+    bai_thuoc:
+      - tang-huyet-ap-thien-ma-cau-dang-am
+      - tang-huyet-ap-long-dom-ta-can-thang
+      - tang-huyet-ap-nghiem-phuong
+    nguon:
+      ma: qd-5013
+      trang: 45
+      trang_thai: chua_doi_chieu
+  - id: can-than-am-hu
+    ten: Can thận âm hư
+    trieu_chung:
+      chinh:
+        - vang-dau
+        - hay-quen
+        - lung-goi-dau-yeu
+        - mat-ngu
+        - nam-gioi-co-the-di-tinh
+        - long-ban-tay-ban-chan-nong
+        - mach-huyen-te
+      phu:
+        - met-moi
+        - u-tai
+        - chat-luoi-do
+        - reu-luoi-vang
+    loai_tru: []
+    phap_tri: Tư bổ can thận.
+    bai_thuoc:
+      - tang-huyet-ap-luc-vi-dia-hoang-thang
+      - tang-huyet-ap-tri-ba-dia-hoang-thang
+      - tang-huyet-ap-ky-cuc-dia-hoang-thang
+      - tang-huyet-ap-luc-vi-quy-thuoc-thang
+      - tang-huyet-ap-vien-than-am-hu
+    nguon:
+      ma: qd-5013
+      trang: 46
+      trang_thai: chua_doi_chieu
+  - id: am-duong-luong-hu
+    ten: Âm dương lưỡng hư
+    mo_ta: Thường gặp ở người cao tuổi hoặc phụ nữ sau khi hết kinh.
+    trieu_chung:
+      chinh:
+        - sac-mat-trang
+        - ngu-it
+        - hoi-hop
+        - lung-dau-goi-moi
+        - dai-tien-long
+        - so-lanh
+        - chan-tay-lanh
+        - tieu-dem-nhieu-lan
+        - di-tinh-liet-duong-neu-o-nam
+        - chat-luoi-hong-nhat
+        - reu-luoi-trang
+        - mach-huyen-te-hoac-tram-te
+      phu:
+        - met-moi
+        - dau-dau
+        - chong-mat
+        - u-tai
+    loai_tru: []
+    phap_tri: Bổ thận dưỡng âm.
+    bai_thuoc:
+      - tang-huyet-ap-huu-quy-hoan
+      - tang-huyet-ap-vien-than-duong-hu
+    nguon:
+      ma: qd-5013
+      trang: 47
+      trang_thai: chua_doi_chieu
+  - id: dam-thap
+    ten: Đàm thấp
+    mo_ta: Thường gặp ở người béo phì, người hay ăn đồ béo ngọt.
+    trieu_chung:
+      chinh:
+        - nang-dau
+        - nguc-tuc
+        - bung-day
+        - buon-non
+        - an-it
+        - ngu-li-bi
+        - chat-luoi-nhot-beu
+        - reu-luoi-trang-anh-vang
+        - mach-nhu-hoat
+      phu:
+        - dau-dau
+        - hoa-mat
+        - chong-mat
+        - met-moi
+    loai_tru: []
+    phap_tri: Kiện tỳ, trừ thấp, hóa đàm.
+    bai_thuoc:
+      - tang-huyet-ap-ban-ha-bach-truat-thien-ma-thang
+      - tang-huyet-ap-nghiem-phuong-dam-thap
+    nguon:
+      ma: qd-5013
+      trang: 48
+      trang_thai: chua_doi_chieu

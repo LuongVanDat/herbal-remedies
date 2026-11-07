@@ -1,0 +1,117 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: viem-gan-virus-man
+ten: Viêm gan virus mạn (Hiếp thống)
+ten_khac:
+  - Hiếp thống
+  - viêm gan mạn
+  - viêm gan vi rút B mạn tính
+dau_hieu_nguy_hiem: []
+the_benh:
+  - id: khi-ngung
+    ten: Khí ngưng
+    trieu_chung:
+      chinh:
+        - dau-tuc-nang-o-vung-ha-suon-phai
+        - moi-khi-tinh-than-bi-kich-dong-tuc-gian-thi-cam
+        - an-uong-kem
+        - nguoi-met-moi
+        - khi-gang-suc-thi-nuoc-tieu-vang
+        - chat-luoi-binh-thuong
+        - reu-luoi-trang-mong
+        - mach-huyen
+      phu:
+        - mieng-dang
+    loai_tru: []
+    phap_tri: Sơ can lý khí.
+    bai_thuoc:
+      - viem-gan-virus-man-sai-ho-so-can-thang
+      - viem-gan-virus-man-nghiem-phuong
+      - viem-gan-virus-man-siro-nhan-tran
+      - viem-gan-virus-man-nghiem-phuong-khi-ngung
+      - viem-gan-virus-man-nghiem-phuong-khi-ngung-2
+    nguon:
+      ma: qd-5013
+      trang: 120
+      trang_thai: chua_doi_chieu
+  - id: huyet-u
+    ten: Huyết ứ
+    trieu_chung:
+      chinh:
+        - vung-ha-suon-phai-co-cam-giac-dau-nhu-kim-cham
+        - cho-dau-thuong-co-dinh-khong-di-chuyen
+        - ve-dem-thuong-dau-tang-len
+        - doi-khi-co-the-so-thay-mot-khoi-ran-o-vung-ha
+        - chat-luoi-tim-sam
+        - mach-tram-sap
+      phu: []
+    loai_tru: []
+    phap_tri: Hoạt huyết khứ ứ.
+    bai_thuoc:
+      - viem-gan-virus-man-huyet-phu-truc-u-thang
+      - viem-gan-virus-man-nghiem-phuong
+      - viem-gan-virus-man-siro-nhan-tran
+      - viem-gan-virus-man-nghiem-phuong-khi-ngung
+      - viem-gan-virus-man-nghiem-phuong-khi-ngung-2
+    nguon:
+      ma: qd-5013
+      trang: 121
+      trang_thai: chua_doi_chieu
+  - id: can-dom-thap-nhiet
+    ten: Can đởm thấp nhiệt
+    trieu_chung:
+      chinh:
+        - dau-tuc-vung-mang-suon-phai
+        - nguc-co-cam-giac-day-tuc
+        - khong-muon-an
+        - doi-khi-co-cam-giac-non-buon-non
+        - cung-mac-mat-vang
+        - da-vang
+        - co-the-kem-theo-sot
+        - reu-luoi-vang-nhot
+        - mach-huyen-sac
+      phu:
+        - mieng-dang
+        - an-kem
+        - dai-tien-tao
+        - nuoc-tieu-vang
+        - chat-luoi-do
+    loai_tru: []
+    phap_tri: Thanh nhiệt lợi thấp thoái hoàng.
+    bai_thuoc:
+      - viem-gan-virus-man-nhan-tran-ngu-linh-tan
+      - viem-gan-virus-man-nghiem-phuong
+      - viem-gan-virus-man-siro-nhan-tran
+      - viem-gan-virus-man-nghiem-phuong-khi-ngung
+      - viem-gan-virus-man-nghiem-phuong-khi-ngung-2
+    nguon:
+      ma: qd-5013
+      trang: 122
+      trang_thai: chua_doi_chieu
+  - id: am-hu-noi-nhiet
+    ten: Âm hư nội nhiệt
+    trieu_chung:
+      chinh:
+        - dau-tuc-vung-ha-suon-phai
+        - moi-khi-lao-luc-met-moi-nhung-trieu-chung-nay
+        - mieng-kho
+        - hong-kho
+        - dang-mieng
+        - reu-luoi-hoi-vang
+        - mach-huyen-te
+      phu:
+        - an-kem
+        - nuoc-tieu-vang
+        - dai-tien-tao
+        - chat-luoi-do
+    loai_tru: []
+    phap_tri: Tư âm dưỡng can.
+    bai_thuoc:
+      - viem-gan-virus-man-nhat-quan-tien
+      - viem-gan-virus-man-nghiem-phuong
+      - viem-gan-virus-man-siro-nhan-tran
+      - viem-gan-virus-man-nghiem-phuong-khi-ngung
+      - viem-gan-virus-man-nghiem-phuong-khi-ngung-2
+    nguon:
+      ma: qd-5013
+      trang: 122
+      trang_thai: chua_doi_chieu

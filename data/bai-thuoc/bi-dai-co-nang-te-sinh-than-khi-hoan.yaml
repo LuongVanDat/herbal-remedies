@@ -1,0 +1,42 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: bi-dai-co-nang-te-sinh-than-khi-hoan
+ten: Tế sinh thận khí hoàn
+loai: co_phuong
+thanh_phan:
+  - vi: thuc-dia
+    lieu_g: 32
+    vai_tro: null
+  - vi: mau-don-bi
+    ten_trong_bai: Đơn bì
+    lieu_g: 12
+    vai_tro: null
+  - vi: son-thu
+    lieu_g: 16
+    vai_tro: null
+  - vi: phu-tu-che
+    lieu_g: 6
+    vai_tro: null
+  - vi: bach-linh
+    lieu_g: 12
+    vai_tro: null
+  - vi: que-chi
+    lieu_g: 14
+    vai_tro: null
+  - vi: hoai-son
+    lieu_g: 16
+    vai_tro: null
+  - vi: nguu-tat
+    lieu_g: 12
+    vai_tro: null
+  - vi: trach-ta
+    lieu_g: 12
+    vai_tro: null
+  - vi: xa-tien-tu
+    lieu_g: 12
+    vai_tro: null
+cach_dung: Sắc uống ngày 1 thang, chia 2 lần.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 144
+  trang_thai: chua_doi_chieu

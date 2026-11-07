@@ -1,0 +1,74 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: may-day
+ten: Mày đay (Ẩn chẩn)
+ten_khac:
+  - Ẩn chẩn
+  - Phong chẩn khối
+dau_hieu_nguy_hiem: []
+the_benh:
+  - id: phong-han
+    ten: Phong hàn
+    trieu_chung:
+      chinh:
+        - san-phu-mau-trang
+        - gap-gio-lanh-thi-nang-len
+        - chuom-am-thay-do
+        - luoi-nhot
+        - mach-phu-khan
+      phu:
+        - reu-trang-mong
+    loai_tru:
+      - khat
+    phap_tri: Sơ phong tán hàn, điều hòa dinh vệ.
+    bai_thuoc:
+      - may-day-que-chi-thang
+      - may-day-nghiem-phuong
+    nguon:
+      ma: qd-5013
+      trang: 136
+      trang_thai: chua_doi_chieu
+  - id: phong-nhiet
+    ten: Phong nhiệt
+    trieu_chung:
+      chinh:
+        - san-phu-mau-do-tuoi
+        - ngua-du-doi
+        - nguoi-nong
+        - phat-sot
+        - so-nong
+        - hau-hong-sung-dau
+        - gap-nong-benh-nang-them
+        - reu-luoi-vang-mong
+        - mach-phu-sac
+      phu: []
+    loai_tru: []
+    phap_tri: Sơ phong thanh nhiệt.
+    bai_thuoc:
+      - may-day-ngan-kieu-tan
+      - may-day-nghiem-phuong-phong-nhiet
+    nguon:
+      ma: qd-5013
+      trang: 137
+      trang_thai: chua_doi_chieu
+  - id: huyet-hu-phong-tao
+    ten: Huyết hư phong táo
+    trieu_chung:
+      chinh:
+        - benh-tai-di-tai-lai
+        - ton-thuong-co-mau-trang
+        - sau-trua-hoac-ve-dem-thi-nang-len
+        - met-moi
+        - sac-mat-khong-tuoi-nhuan
+        - luoi-hong-nhat
+        - mach-te-nhuoc
+      phu:
+        - reu-trang-mong
+    loai_tru: []
+    phap_tri: Tư âm nhuận huyết, giải độc.
+    bai_thuoc:
+      - may-day-tieu-phong-tan
+      - may-day-nghiem-phuong-huyet-hu-phong-tao
+    nguon:
+      ma: qd-5013
+      trang: 137
+      trang_thai: chua_doi_chieu

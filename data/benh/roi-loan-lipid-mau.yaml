@@ -1,0 +1,163 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: roi-loan-lipid-mau
+ten: Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác (Chứng đàm)
+ten_khac:
+  - Chứng đàm
+  - Đàm thấp
+  - rối loạn lipid máu
+  - RLLM
+dau_hieu_nguy_hiem:
+  - id: nh-roi-loan-lipid-mau-1
+    ten: "Xét nghiệm máu: Cholesterol toàn phần ≥ 5,2 mmol/l, LDL – C ≥ 3,4 mmol/l, Triglycerid ≥ 1,7 mmol/l hoặc HDL – C < 1,0 mmol/l"
+the_benh:
+  - id: ty-hu-dam-thap
+    ten: Tỳ hư đàm thấp
+    trieu_chung:
+      chinh:
+        - nguoi-thuong-beo-beu
+        - nang-ne
+        - met-moi
+        - an-kem-khong-muon-an
+        - bung-day
+        - mach-tram-hoat
+      phu:
+        - dai-tien-phan-nat
+        - reu-luoi-trang-day-nhot
+        - luoi-beu-co-vet-han-rang
+    loai_tru: []
+    phap_tri: Kiện tỳ, hóa đàm, trừ thấp.
+    bai_thuoc:
+      - roi-loan-lipid-mau-ban-ha-bach-truat-thien-ma-thang
+      - roi-loan-lipid-mau-huong-sa-luc-quan-tu-thang
+    nguon:
+      ma: qd-5013
+      trang: 52
+      trang_thai: chua_doi_chieu
+  - id: ty-than-duong-hu
+    ten: Tỳ thận dương hư
+    mo_ta: Thường gặp ở người cao tuổi.
+    trieu_chung:
+      chinh:
+        - nguoi-cam-giac-nang-ne
+        - day-chuong-bung
+        - thua-can-beo-phi
+        - nguoi-lanh
+        - chan-tay-lanh
+        - so-lanh
+        - sac-mat-nhot
+        - lung-goi-dau-moi
+        - dai-tien-nat
+        - tieu-trong-dai
+        - mach-tram-nhuoc
+      phu:
+        - reu-luoi-trang-day-nhot
+        - luoi-beu-co-vet-han-rang
+    loai_tru: []
+    phap_tri: Ôn bổ tỳ thận.
+    bai_thuoc:
+      - roi-loan-lipid-mau-huu-quy-hoan
+    nguon:
+      ma: qd-5013
+      trang: 53
+      trang_thai: chua_doi_chieu
+  - id: can-than-am-hu
+    ten: Can thận âm hư
+    trieu_chung:
+      chinh:
+        - vang-dau
+        - hay-quen
+        - mat-ngu
+        - u-tai
+        - mieng-hong-kho
+        - lung-dau-goi-moi-2
+        - toc-bac
+        - rang-rung
+        - tieu-dem
+        - reu-luoi-vang-day
+        - mach-te-sac
+      phu:
+        - chong-mat
+    loai_tru: []
+    phap_tri: Tư bổ can thận.
+    bai_thuoc:
+      - roi-loan-lipid-mau-ky-cuc-dia-hoang-thang
+    nguon:
+      ma: qd-5013
+      trang: 54
+      trang_thai: chua_doi_chieu
+  - id: can-uat-ty-hu
+    ten: Can uất tỳ hư
+    trieu_chung:
+      chinh:
+        - dau-2-ben-mang-suon-tung-con-vi-tri-khong-co
+        - dau-dau
+        - tinh-than-ue-oai
+        - an-kem
+        - tinh-khi-that-thuong
+        - hay-tho-dai
+        - dai-tien-long
+        - o-phu-nu-co-the-gap-roi-loan-kinh-nguyet
+        - bau-vu-cang-truong-va-dau
+        - chat-luoi-beu
+        - reu-luoi-mong-trang-nhot
+        - mach-huyen
+      phu:
+        - chong-mat
+    loai_tru: []
+    phap_tri: Sơ can giải uất, kiện tỳ trừ đàm.
+    bai_thuoc:
+      - roi-loan-lipid-mau-tieu-dao-tan
+    nguon:
+      ma: qd-5013
+      trang: 54
+      trang_thai: chua_doi_chieu
+  - id: thap-nhiet-noi-ket
+    ten: Thấp nhiệt nội kết
+    trieu_chung:
+      chinh:
+        - dau-nang-dau
+        - cam-giac-tuc-nguc
+        - phien-nhiet
+        - day-bung
+        - buon-non
+        - met-moi-toan-than
+        - tay-chan-nang-ne
+        - dang-mieng
+        - kho-mieng
+        - nguoi-beo-beu
+        - cam-giac-nong-hau-mon
+        - nuoc-tieu-vang
+        - chat-luoi-do
+        - reu-luoi-vang-nhot
+        - mach-hoat-sac
+      phu:
+        - chong-mat
+        - dai-tien-phan-nat
+    loai_tru: []
+    phap_tri: Thanh nhiệt lợi thấp.
+    bai_thuoc:
+      - roi-loan-lipid-mau-tu-linh-tan-hop-luc-nhat-tan
+    nguon:
+      ma: qd-5013
+      trang: 55
+      trang_thai: chua_doi_chieu
+  - id: khi-tre-huyet-u
+    ten: Khí trệ huyết ứ
+    trieu_chung:
+      chinh:
+        - dau-nhoi-vung-nguc-co-the-lan-ra-sau-vung-lung
+        - dau-vung-thuong-vi
+        - dau-nhuc-mat
+        - chat-luoi-tim
+        - co-the-co-diem-u-huyet
+        - mach-huyen-sap
+      phu:
+        - chong-mat
+    loai_tru: []
+    phap_tri: Hoạt huyết hóa ứ.
+    bai_thuoc:
+      - roi-loan-lipid-mau-huyet-phu-truc-u-thang
+    nguon:
+      ma: qd-5013
+      trang: 56
+      trang_thai: chua_doi_chieu

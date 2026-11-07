@@ -1,0 +1,52 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: bai-nao-tre-em-dieu-nguyen-tan-gia-vi
+ten: Điều nguyên tán gia vị
+loai: co_phuong
+thanh_phan:
+  - vi: bach-linh
+    ten_trong_bai: Phục linh
+    lieu_g: 8
+    vai_tro: null
+  - vi: nhan-sam
+    lieu_g: 6
+    vai_tro: null
+  - vi: bach-thuoc
+    lieu_g: 8
+    vai_tro: null
+  - vi: phuc-than
+    lieu_g: 8
+    vai_tro: null
+  - vi: bach-truat
+    lieu_g: 12
+    vai_tro: null
+  - vi: thach-xuong-bo
+    lieu_g: 8
+    vai_tro: null
+  - vi: hoai-son
+    lieu_g: 12
+    vai_tro: null
+  - vi: xuyen-khung
+    lieu_g: 6
+    vai_tro: null
+  - vi: cam-thao
+    lieu_g: 6
+    vai_tro: null
+  - vi: thuc-dia
+    lieu_g: 10
+    vai_tro: null
+  - vi: duong-quy
+    lieu_g: 10
+    vai_tro: null
+  - vi: hoang-ky
+    lieu_g: 12
+    vai_tro: null
+cach_dung: Tán bột, ngày uống 4 – 6g, chia sáng chiều. Có thể dùng dạng thang sắc uống, điều chỉnh liều lượng tuỳ từng trường hợp cụ thể.
+gia_giam:
+  - Nếu trẻ chậm nói, tinh thần đần độn gia Viễn chí 4g, Uất kim 4g.
+  - Trẻ tóc mọc chậm, khó dài gia Hà thủ ô 8g, Nhục thung dung 10g, Tang thầm 12g.
+  - Trẻ tứ chi mềm yếu gia Quế chi 4g.
+  - Trẻ miệng chảy dãi gia Ích trí nhân 8g.
+nguon:
+  ma: qd-5013
+  trang: 92
+  trang_thai: chua_doi_chieu

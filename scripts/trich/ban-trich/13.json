@@ -1,0 +1,178 @@
+{
+  "so": 13,
+  "id": "di-chung-viem-nao",
+  "ten": "Di chứng viêm não do virus (Ôn bệnh)",
+  "ten_khac": ["Ôn bệnh", "di chứng viêm não"],
+  "trang_dau": 96,
+  "trang_cuoi": 103,
+  "dau_hieu_nguy_hiem": [],
+  "the_benh": [
+    {
+      "ten": "Âm hư (thiên về âm hư)",
+      "mo_ta": null,
+      "trang": 97,
+      "trieu_chung": [
+        { "ten": "Đêm nóng, sáng mát", "nhom": "han-nhiet" },
+        { "ten": "Hết sốt hoặc chỉ còn sốt nhẹ mà không có mồ hôi", "nhom": "han-nhiet" },
+        { "ten": "Người gầy", "nhom": "toan-than" },
+        { "ten": "Lòng bàn chân tay nóng đỏ", "nhom": "han-nhiet" },
+        { "ten": "Tinh thần mờ tối", "nhom": "than-kinh" },
+        { "ten": "Thường nằm yên ít cử động", "nhom": "than-kinh" },
+        { "ten": "Nhận biết kém", "nhom": "than-kinh" },
+        { "ten": "Đại tiện táo", "nhom": "tieu-hoa" },
+        { "ten": "Nước tiểu vàng", "nhom": "tieu-tien" },
+        { "ten": "Miệng họng khô", "nhom": "dau-mat" },
+        { "ten": "Môi lưỡi đỏ", "nhom": "luoi" },
+        { "ten": "Ít rêu hoặc không rêu", "nhom": "luoi" },
+        { "ten": "Mạch tế sác", "nhom": "mach" }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Dưỡng âm thanh nhiệt.",
+      "bai_thuoc": [
+        {
+          "ten": "Thanh hao miết giáp thang gia giảm", "loai": "co_phuong", "trang": 97,
+          "thanh_phan": [
+            { "ten": "Thanh cao", "lieu_g": 8 }, { "ten": "Tri mẫu", "lieu_g": 6 },
+            { "ten": "Miết giáp", "lieu_g": 16 }, { "ten": "Đan bì", "lieu_g": 8 },
+            { "ten": "Sinh địa", "lieu_g": 12 }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.", "gia_giam": [], "giong_the": null
+        },
+        {
+          "ten": "Đương quy lục hoàng thang gia giảm", "loai": "co_phuong", "trang": 98,
+          "thanh_phan": [
+            { "ten": "Đương quy", "lieu_g": 6 }, { "ten": "Hoàng bá", "lieu_g": 6 },
+            { "ten": "Sinh địa", "lieu_g": 6 }, { "ten": "Hoàng cầm", "lieu_g": 6 },
+            { "ten": "Thục địa", "lieu_g": 6 }, { "ten": "Hoàng kỳ", "lieu_g": 12 },
+            { "ten": "Hoàng liên", "lieu_g": 6 }
+          ],
+          "cach_dung": "Sáu vị đầu liều lượng như nhau, riêng Hoàng kỳ nhiều gấp đôi. Sắc uống ngày 1 thang, chia 2 lần. Bài này dùng khi còn dư nhiệt, chủ trị các trường hợp vừa qua khỏi giai đoạn viêm não cấp tính, còn nhiều rối loạn thần kinh thực vật như sốt nhẹ kéo dài, những trường hợp âm hư hoả vượng đạo hãn nhiều.",
+          "gia_giam": [], "giong_the": null
+        },
+        {
+          "ten": "Lục vị địa hoàng thang", "loai": "co_phuong", "trang": 98,
+          "thanh_phan": [
+            { "ten": "Thục địa", "lieu_g": 16 }, { "ten": "Trạch tả", "lieu_g": 6 },
+            { "ten": "Hoài sơn", "lieu_g": 8 }, { "ten": "Bạch linh", "lieu_g": 6 },
+            { "ten": "Sơn thù", "lieu_g": 8 }, { "ten": "Đan bì", "lieu_g": 6 }
+          ],
+          "cach_dung": "Khi dư nhiệt đã bớt, trẻ chủ yếu chỉ còn dấu hiệu âm hư, có thể dùng bài: Lục vị địa hoàng thang. Sắc uống ngày 1 thang, chia 2 lần.",
+          "gia_giam": [], "giong_the": null
+        },
+        {
+          "ten": "Tri bá địa hoàng thang", "loai": "co_phuong", "trang": 98,
+          "thanh_phan": [
+            { "ten": "Thục địa", "lieu_g": 16 }, { "ten": "Đan bì", "lieu_g": 6 },
+            { "ten": "Hoài sơn", "lieu_g": 8 }, { "ten": "Bạch linh", "lieu_g": 6 },
+            { "ten": "Sơn thù", "lieu_g": 8 }, { "ten": "Trạch tả", "lieu_g": 6 },
+            { "ten": "Tri mẫu", "lieu_g": 8 }, { "ten": "Hoàng bá", "lieu_g": 8 }
+          ],
+          "cach_dung": "Dùng trong những trường hợp âm hư hoả vượng gây triều nhiệt, đạo hãn, mặt đỏ, miệng môi khô, tâm phiền, đại tiện bí, lưỡi đỏ. Mạch tế sác... Sắc uống ngày 1 thang, chia 2 lần.",
+          "gia_giam": [], "giong_the": null
+        },
+        {
+          "ten": "Đạo đàm thang gia giảm", "loai": "co_phuong", "trang": 98,
+          "thanh_phan": [
+            { "ten": "Bán hạ chế", "lieu_g": 8 }, { "ten": "Chỉ thực", "lieu_g": 8 },
+            { "ten": "Trần bì", "lieu_g": 8 }, { "ten": "Thiên nam tinh", "lieu_g": 6 },
+            { "ten": "Phục linh", "lieu_g": 8 }, { "ten": "Cam thảo", "lieu_g": 4 }
+          ],
+          "cach_dung": "Trường hợp bệnh nhi viêm não giai đoạn bán cấp, có loạn thần, nuốt thở khó khăn, miệng chảy dãi, họng có tiếng đờm khò khè, chất lưỡi nhợt, rêu cáu bẩn. Mạch hoạt trệ, dùng bài Đạo đàm thang gia giảm. Sắc uống ngày 1 thang, chia 2 lần.",
+          "gia_giam": [
+            "Thường gia Xương bồ 12g, Viễn chí 6g để tăng sức khai khiếu tỉnh thần, Uất kim 6g để thanh nhiệt khai khiếu."
+          ],
+          "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Âm hư (thiên về âm huyết hư sinh phong)",
+      "mo_ta": null,
+      "trang": 97,
+      "trieu_chung": [
+        { "ten": "Đêm nóng, sáng mát", "nhom": "han-nhiet" },
+        { "ten": "Hết sốt hoặc chỉ còn sốt nhẹ mà không có mồ hôi", "nhom": "han-nhiet" },
+        { "ten": "Người gầy", "nhom": "toan-than" },
+        { "ten": "Lòng bàn chân tay nóng đỏ", "nhom": "han-nhiet" },
+        { "ten": "Tinh thần mờ tối", "nhom": "than-kinh" },
+        { "ten": "Thường nằm yên ít cử động", "nhom": "than-kinh" },
+        { "ten": "Nhận biết kém", "nhom": "than-kinh" },
+        { "ten": "Đại tiện táo", "nhom": "tieu-hoa" },
+        { "ten": "Nước tiểu vàng", "nhom": "tieu-tien" },
+        { "ten": "Miệng họng khô", "nhom": "dau-mat" },
+        { "ten": "Môi lưỡi đỏ", "nhom": "luoi" },
+        { "ten": "Ít rêu hoặc không rêu", "nhom": "luoi" },
+        { "ten": "Mạch tế sác", "nhom": "mach" },
+        { "ten": "Quấy khóc", "nhom": "than-kinh" },
+        { "ten": "La hét", "nhom": "than-kinh" },
+        { "ten": "Vật vã", "nhom": "than-kinh" },
+        { "ten": "Phiền nhiệt", "nhom": "than-kinh" },
+        { "ten": "Mất ngủ", "nhom": "than-kinh" },
+        { "ten": "Chân tay co cứng, xoắn vặn", "nhom": "vi-tri-dau" },
+        { "ten": "Co giật hoặc run giật", "nhom": "than-kinh" }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Tư dưỡng âm huyết, chỉ kinh phong.",
+      "bai_thuoc": [
+        {
+          "ten": "Lục vị quy thược", "loai": "co_phuong", "trang": 98,
+          "thanh_phan": [
+            { "ten": "Thục địa", "lieu_g": 16 }, { "ten": "Trạch tả", "lieu_g": 6 },
+            { "ten": "Hoài sơn", "lieu_g": 8 }, { "ten": "Bạch linh", "lieu_g": 6 },
+            { "ten": "Sơn thù", "lieu_g": 8 }, { "ten": "Đan bì", "lieu_g": 6 },
+            { "ten": "Đương quy", "lieu_g": 8 }, { "ten": "Bạch thược", "lieu_g": 8 }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.",
+          "gia_giam": [
+            "Chân tay co cứng, xoắn vặn nhiều gia Mộc qua 8g để tăng sức thư cân giải cơ.",
+            "Múa vờn, múa giật nhiều gia Thiên ma 8g, Câu đằng 12g để tăng sức chỉ kinh phong.",
+            "Hoặc có thể dùng các bài thuốc bổ âm ở trên gia Quy bản 16g, Miết giáp 12g, Mẫu lệ 12g. Có thể gia Thiên ma, Câu đằng và các vị thuốc an thần như Viễn trí, Thảo quyết minh, Liên nhục..."
+          ],
+          "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Khí âm lưỡng hư (khí huyết hư)",
+      "mo_ta": null,
+      "trang": 100,
+      "trieu_chung": [
+        { "ten": "Tinh thần đần độn", "nhom": "than-kinh" },
+        { "ten": "Không nói (thất vận ngôn)", "nhom": "than-kinh" },
+        { "ten": "Chân tay co cứng hoặc liệt", "nhom": "vi-tri-dau" },
+        { "ten": "Không ngồi, không đứng, không đi được", "nhom": "vi-tri-dau" },
+        { "ten": "Sắc mặt lúc trắng lúc đỏ", "nhom": "toan-than" },
+        { "ten": "Chất lưỡi nhợt hoặc tím", "nhom": "luoi" },
+        { "ten": "Mạch tế nhược", "nhom": "mach" }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Bổ khí hoạt huyết, trừ đàm thông lạc, khai khiếu tỉnh thần.",
+      "bai_thuoc": [
+        {
+          "ten": "Bát trân thang gia giảm", "loai": "co_phuong", "trang": 100,
+          "thanh_phan": [
+            { "ten": "Đảng sâm", "lieu_g": 8 }, { "ten": "Hoàng kỳ", "lieu_g": 8 },
+            { "ten": "Phục linh", "lieu_g": 8 }, { "ten": "Thục địa", "lieu_g": 12 },
+            { "ten": "Đương quy", "lieu_g": 12 }, { "ten": "Bạch thược", "lieu_g": 8 },
+            { "ten": "Bạch truật", "lieu_g": 12 }, { "ten": "Cam thảo", "lieu_g": 4 }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.", "gia_giam": [], "giong_the": null
+        }
+      ]
+    }
+  ],
+  "ghi_chu_trich": [
+    "Tr.96–101: văn bản không nêu dấu hiệu nào cần chuyển khám/can thiệp YHHĐ mà người bệnh tự nhận biết được (phần IV chỉ là điều trị triệu chứng bằng thuốc tây) — để dau_hieu_nguy_hiem rỗng.",
+    "Tr.97: thể âm hư có hai nhánh (thiên về âm hư / thiên về âm huyết hư sinh phong) với pháp và bài riêng — tách thành 2 thể; nhánh sinh phong = triệu chứng chung + 'quấy khóc, la hét, vật vã, phiền nhiệt, mất ngủ, chân tay co cứng, xoắn vặn, co giật hoặc run giật'. Phần II (tr.97) mô tả nhánh này thêm 'chất lưỡi nhợt, mạch huyền tế' nhưng phần III không ghi — không đưa vào.",
+    "Tr.98: câu chỉ định riêng của Đương quy lục hoàng thang, Lục vị địa hoàng thang, Tri bá địa hoàng thang, Đạo đàm thang được chép nguyên văn vào cach_dung.",
+    "Tr.98: Đạo đàm thang gia giảm dành cho 'trường hợp bệnh nhi viêm não giai đoạn bán cấp' có triệu chứng riêng (chất lưỡi nhợt, rêu cáu bẩn, mạch hoạt trệ...) nhưng văn bản xếp trong mục 'thiên về âm hư' — giữ trong thể âm hư, chép chỉ định vào cach_dung.",
+    "Tr.98: Đương quy lục hoàng thang ghi 'Sáu vị đầu liều lượng như nhau, riêng Hoàng kỳ nhiều gấp đôi' — khớp với liều in (6 vị 06g, Hoàng kỳ 12g).",
+    "Tr.98–99: bài Lục vị quy thược bắt đầu tr.98, cách dùng và gia giảm ở tr.99.",
+    "Tr.97: bài Thanh hao miết giáp thang ghi tên vị là 'Thanh cao' (chép nguyên).",
+    "Tr.99: gia giảm ghi 'Viễn trí' (tr.98 ghi 'Viễn chí') — chép nguyên văn.",
+    "Tr.100: mạch thể khí âm lưỡng hư in 'Mạch tế nhược' (phần II tr.97 ghi 'Mạch tế sáp') — theo phần III.",
+    "Tr.100: Bát trân thang gia giảm in 8 vị (có Hoàng kỳ, không có Xuyên khung) — chép đúng như in.",
+    "Tr.100–101: thể khí âm lưỡng hư còn ghi: 'Có thể dùng các bài thuốc điều trị thể âm hư như: Lục vị địa hoàng thang, Bát vị tri bá, Đương quy lục hoàng thang, Thanh hao miết giáp thang gia các vị như: + Hoàng kỳ, Đảng sâm: bổ khí + Đương quy, Xích thược: dưỡng huyết hoạt huyết. + Bán hạ, Nam tinh, Trần bì: trừ đàm thông lạc + Quế chi, Tang chi, Tục đoạn: thông kinh lạc + Tang ký sinh, Lộc nhung: bổ thận, mạnh gân xương + Uất kim, Xương bồ, Viễn trí: trừ đàm, khai khiếu tỉnh thần.' — không có liều, không tạo bài riêng.",
+    "Tr.102: bài xông khói phòng bệnh (vỏ quýt, bồ kết...) thuộc phần phòng bệnh, không có lượng — bỏ qua."
+  ]
+}

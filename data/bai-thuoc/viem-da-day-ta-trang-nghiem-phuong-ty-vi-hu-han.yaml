@@ -1,0 +1,35 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: viem-da-day-ta-trang-nghiem-phuong-ty-vi-hu-han
+ten: Nghiệm phương — Viêm dạ dày và tá tràng, thể Tỳ vị hư hàn
+loai: nghiem_phuong
+thanh_phan:
+  - vi: bo-chinh-sam
+    lieu_g: 12
+    vai_tro: null
+  - vi: ban-ha
+    ten_trong_bai: Bán hạ chế
+    lieu_g: 6
+    vai_tro: null
+  - vi: la-khoi
+    lieu_g: 20
+    vai_tro: null
+  - vi: sa-nhan
+    lieu_g: 10
+    vai_tro: null
+  - vi: sinh-khuong
+    ten_trong_bai: Gừng
+    lieu_g: 4
+    vai_tro: null
+  - vi: tran-bi
+    lieu_g: 6
+    vai_tro: null
+  - vi: vo-rut
+    ten_trong_bai: Vỏ rụt (Nam mộc hương)
+    lieu_g: 10
+    vai_tro: null
+cach_dung: Sắc uống ngày 1 thang, chia 2 lần.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 116
+  trang_thai: chua_doi_chieu

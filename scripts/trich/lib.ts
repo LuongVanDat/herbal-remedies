@@ -49,7 +49,9 @@ export function xacNhanLieu(chuTrang: string, tenIn: string, lieuG: number): boo
     .map((w) => w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'))
     .join('\\s+')
   const so = String(lieuG).replace('.', '[.,]')
-  return new RegExp(`${ten}\\s*:?\\s*0*${so}\\s*g`).test(trang)
+  if (new RegExp(`${ten}\\s*:?\\s*0*${so}\\s*g`).test(trang)) return true
+  // "A, B, C mỗi vị 30g": tên và cụm "mỗi vị" trong cùng một câu (không qua dấu chấm)
+  return new RegExp(`${ten}[^.]{0,200}?moi vi\\s*0*${so}\\s*g`).test(trang)
 }
 
 const BO_PHAN: [RegExp, string][] = [

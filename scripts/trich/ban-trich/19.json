@@ -1,0 +1,519 @@
+{
+  "so": 19,
+  "id": "bi-dai-co-nang",
+  "ten": "Bí đái cơ năng (Long bế)",
+  "ten_khac": [
+    "Long bế",
+    "Lung bế",
+    "bí tiểu"
+  ],
+  "trang_dau": 140,
+  "trang_cuoi": 145,
+  "dau_hieu_nguy_hiem": [
+    {
+      "ten": "Đã châm mà không kết quả (vẫn không tiểu được) — chuyển đặt sonde tiểu, nếu thất bại thì điều trị ngoại khoa",
+      "trang": 145
+    }
+  ],
+  "the_benh": [
+    {
+      "ten": "Bàng quang thấp nhiệt",
+      "mo_ta": null,
+      "trang": 141,
+      "trieu_chung": [
+        {
+          "ten": "Tiểu lượng ít, nhỏ giọt",
+          "nhom": "tieu-tien"
+        },
+        {
+          "ten": "Nước tiểu vàng",
+          "nhom": "tieu-tien"
+        },
+        {
+          "ten": "Tiểu nóng rát",
+          "nhom": "tieu-tien"
+        },
+        {
+          "ten": "Không tiểu tiện được",
+          "nhom": "tieu-tien"
+        },
+        {
+          "ten": "Bụng dưới đầy",
+          "nhom": "tieu-hoa"
+        },
+        {
+          "ten": "Miệng đắng và khô",
+          "nhom": "dau-mat"
+        },
+        {
+          "ten": "Không muốn uống nước",
+          "nhom": "tieu-hoa"
+        },
+        {
+          "ten": "Đại tiện khó",
+          "nhom": "tieu-hoa"
+        },
+        {
+          "ten": "Rêu lưỡi vàng và nhớt",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Chất lưỡi đỏ",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Mạch sác",
+          "nhom": "mach"
+        }
+      ],
+      "loai_tru": [
+        {
+          "ten": "Thích uống nước",
+          "dan_chung": "không muốn uống nước"
+        }
+      ],
+      "phap_tri": "Thanh nhiệt trừ thấp lợi thủy.",
+      "bai_thuoc": [
+        {
+          "ten": "Bát chính tán",
+          "loai": "co_phuong",
+          "trang": 141,
+          "thanh_phan": [
+            {
+              "ten": "Mộc thông",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Xa tiền tử",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Cù mạch",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Biển súc",
+              "lieu_g": 10
+            },
+            {
+              "ten": "Hoạt thạch",
+              "lieu_g": 16
+            },
+            {
+              "ten": "Chi tử",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Đại hoàng",
+              "lieu_g": 6
+            },
+            {
+              "ten": "Cam thảo",
+              "lieu_g": 6
+            }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.",
+          "gia_giam": [
+            "Nếu tâm phiền, miệng lưỡi mọc mụn, đầu lưỡi đỏ đau gia: Hoàng liên 4g, Đạm trúc diệp 12g để thanh tâm giáng hỏa.",
+            "Nếu miệng đắng dính, rêu lưỡi vàng nhớt gia: Thương truật 8g, Hoàng bá 10g, Ý dĩ 12g để hóa thấp thanh nhiệt."
+          ],
+          "giong_the": null
+        },
+        {
+          "ten": null,
+          "loai": "nghiem_phuong",
+          "trang": 141,
+          "thanh_phan": [
+            {
+              "ten": "Mã đề",
+              "lieu_g": 30
+            },
+            {
+              "ten": "Râu ngô",
+              "lieu_g": 30
+            },
+            {
+              "ten": "Rễ cỏ tranh",
+              "lieu_g": 30
+            }
+          ],
+          "cach_dung": "Mỗi vị 30g, nếu dùng tươi liều gấp 3. Sắc 2 - 3 lít nước uống trong ngày. Công dụng: thanh nhiệt, lợi thấp, thông tiểu.",
+          "gia_giam": [],
+          "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Phế nhiệt",
+      "mo_ta": null,
+      "trang": 142,
+      "trieu_chung": [
+        {
+          "ten": "Tiểu tiện nhỏ giọt, không dễ dàng",
+          "nhom": "tieu-tien"
+        },
+        {
+          "ten": "Tia nhỏ không thông",
+          "nhom": "tieu-tien"
+        },
+        {
+          "ten": "Không tiểu tiện được",
+          "nhom": "tieu-tien"
+        },
+        {
+          "ten": "Họng khô",
+          "nhom": "dau-mat"
+        },
+        {
+          "ten": "Phiền khát",
+          "nhom": "tieu-hoa"
+        },
+        {
+          "ten": "Thích uống nước",
+          "nhom": "tieu-hoa"
+        },
+        {
+          "ten": "Thở ngắn gấp",
+          "nhom": "ho-hap"
+        },
+        {
+          "ten": "Rêu lưỡi vàng mỏng",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Mạch sác",
+          "nhom": "mach"
+        }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Thanh phế, lợi thủy.",
+      "bai_thuoc": [
+        {
+          "ten": "Thanh phế ẩm",
+          "loai": "co_phuong",
+          "trang": 142,
+          "thanh_phan": [
+            {
+              "ten": "Sa sâm",
+              "lieu_g": 16
+            },
+            {
+              "ten": "Hoàng cầm",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Tang bạch bì",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Mạch môn",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Bạch mao căn",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Lô căn",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Chi tử",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Mộc thông",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Phục linh",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Xa tiền tử",
+              "lieu_g": 8
+            }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.",
+          "gia_giam": [
+            "Nếu người bệnh tâm phiền, đầu lưỡi đỏ gia: Hoàng liên 4g, Đạm trúc diệp 12g.",
+            "Nếu đại tiện khô kết không thông gia: Đại hoàng 4g để tả hạ thông tiện."
+          ],
+          "giong_the": null
+        },
+        {
+          "ten": null,
+          "loai": "nghiem_phuong",
+          "trang": 142,
+          "thanh_phan": [
+            {
+              "ten": "Râu mèo",
+              "lieu_g": 30
+            },
+            {
+              "ten": "Kim tiền thảo",
+              "lieu_g": 30
+            },
+            {
+              "ten": "vỏ rễ cây dâu",
+              "lieu_g": 30
+            },
+            {
+              "ten": "rau má",
+              "lieu_g": 30
+            },
+            {
+              "ten": "lá tre",
+              "lieu_g": 30
+            },
+            {
+              "ten": "vỏ bưởi",
+              "lieu_g": 30
+            }
+          ],
+          "cach_dung": "Mỗi vị 30g, nếu dùng tươi liều gấp 3 sắc 2 - 3 lít nước uống. Công dụng: thanh phế, thông tiểu.",
+          "gia_giam": [],
+          "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Khí trệ huyết ứ",
+      "mo_ta": null,
+      "trang": 143,
+      "trieu_chung": [
+        {
+          "ten": "Sau khi tình chí uất hận hoặc sau phẫu thuật, giang môn bị đau quá",
+          "nhom": "khac"
+        },
+        {
+          "ten": "Tiểu tiện đột ngột không thông hoặc thông mà không dễ dàng",
+          "nhom": "tieu-tien"
+        },
+        {
+          "ten": "Bụng đầy trướng hoặc đau",
+          "nhom": "tieu-hoa"
+        },
+        {
+          "ten": "Dễ bị xúc động",
+          "nhom": "than-kinh"
+        },
+        {
+          "ten": "Buồn phiền",
+          "nhom": "than-kinh"
+        },
+        {
+          "ten": "Dễ cáu giận",
+          "nhom": "than-kinh"
+        },
+        {
+          "ten": "Rêu lưỡi vàng",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Chất lưỡi đỏ",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Mạch huyền",
+          "nhom": "mach"
+        }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Sơ can lý khí (hoặc hành khí hoạt huyết), thông lợi tiểu tiện.",
+      "bai_thuoc": [
+        {
+          "ten": "Sài hồ sơ can thang hợp Trầm hương giải khí tán (giảm Trầm hương)",
+          "loai": "co_phuong",
+          "trang": 143,
+          "thanh_phan": [
+            {
+              "ten": "Sài hồ",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Thanh bì",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Hương phụ",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Ô dược",
+              "lieu_g": 10
+            },
+            {
+              "ten": "Hoạt thạch",
+              "lieu_g": 10
+            },
+            {
+              "ten": "Vương bất lưu hành",
+              "lieu_g": 10
+            },
+            {
+              "ten": "Đương quy",
+              "lieu_g": 8
+            }
+          ],
+          "cach_dung": "Sắc uống ngày 01 thang, chia 2 lần.",
+          "gia_giam": [],
+          "giong_the": null
+        },
+        {
+          "ten": null,
+          "loai": "nghiem_phuong",
+          "trang": 143,
+          "thanh_phan": [
+            {
+              "ten": "Râu mèo",
+              "lieu_g": 30
+            },
+            {
+              "ten": "Kim tiền thảo",
+              "lieu_g": 30
+            },
+            {
+              "ten": "rau đắng đất",
+              "lieu_g": 30
+            },
+            {
+              "ten": "rau dừa nước",
+              "lieu_g": 30
+            },
+            {
+              "ten": "vỏ cam",
+              "lieu_g": 30
+            }
+          ],
+          "cach_dung": "Mỗi vị 30g, nếu dùng tươi liều gấp 3 sắc 2 - 3 lít nước uống. Công dụng: khai uất, lý khí, thông tiểu.",
+          "gia_giam": [],
+          "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Thận khí hư",
+      "mo_ta": null,
+      "trang": 144,
+      "trieu_chung": [
+        {
+          "ten": "Thường gặp ở người cao tuổi",
+          "nhom": "khac"
+        },
+        {
+          "ten": "Tiểu ít",
+          "nhom": "tieu-tien"
+        },
+        {
+          "ten": "Tiểu khó",
+          "nhom": "tieu-tien"
+        },
+        {
+          "ten": "Đau lưng mỏi gối",
+          "nhom": "vi-tri-dau"
+        },
+        {
+          "ten": "Chân không ấm",
+          "nhom": "han-nhiet"
+        },
+        {
+          "ten": "Chất lưỡi bệu",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Rêu lưỡi trắng",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Mạch trầm nhược",
+          "nhom": "mach"
+        }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Bổ thận khí lợi thủy.",
+      "bai_thuoc": [
+        {
+          "ten": "Tế sinh thận khí hoàn",
+          "loai": "co_phuong",
+          "trang": 144,
+          "thanh_phan": [
+            {
+              "ten": "Thục địa",
+              "lieu_g": 32
+            },
+            {
+              "ten": "Đơn bì",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Sơn thù",
+              "lieu_g": 16
+            },
+            {
+              "ten": "Phụ tử chế",
+              "lieu_g": 6
+            },
+            {
+              "ten": "Bạch linh",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Quế chi",
+              "lieu_g": 14
+            },
+            {
+              "ten": "Hoài sơn",
+              "lieu_g": 16
+            },
+            {
+              "ten": "Ngưu tất",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Trạch tả",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Xa tiền tử",
+              "lieu_g": 12
+            }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.",
+          "gia_giam": [],
+          "giong_the": null
+        },
+        {
+          "ten": null,
+          "loai": "nghiem_phuong",
+          "trang": 144,
+          "thanh_phan": [
+            {
+              "ten": "Thông bạch",
+              "lieu_g": 30
+            },
+            {
+              "ten": "gừng",
+              "lieu_g": 12
+            }
+          ],
+          "cach_dung": "Sắc từ 2 đến 3 lít nước uống. Công dụng: thông dương, ích khí, tán kết, lợi niệu... trị chứng bí tiểu, tiểu đục, tiểu dắt, dương khí hư chân tay lạnh.",
+          "gia_giam": [
+            "Nếu đau lưng gia ngũ gia bì, đỗ trọng 20g."
+          ],
+          "giong_the": null
+        }
+      ]
+    }
+  ],
+  "ghi_chu_trich": [
+    "Tr.145: dấu hiệu cần can thiệp YHHĐ chỉ có câu 'Nếu châm không kết quả thì chuyển phương pháp: Đặt sonde tiểu; Điều trị ngoại khoa mở thông bàng quang (nếu đặt sonde tiểu thất bại)'. Cụm '(vẫn không tiểu được)' trong dau_hieu_nguy_hiem là diễn đạt lại cho người bệnh, văn bản chỉ ghi 'châm không kết quả'.",
+    "Tr.141, 142, 143, 144: các nghiệm phương ghi nguồn '(Thuốc Nam - “Nam Y nghiệm phương”)', không có tên bài → ten = null. Liều 'mỗi vị 30g' đã gán 30g cho từng vị; ghi chú 'nếu dùng tươi liều gấp 3' giữ trong cach_dung.",
+    "Tr.142, 143, 144: tên vị trong nghiệm phương in chữ thường ('vỏ rễ cây dâu', 'rau má', 'lá tre', 'vỏ bưởi', 'rau đắng đất', 'rau dừa nước', 'vỏ cam', 'gừng') — giữ nguyên chữ in.",
+    "Tr.143: bài cổ phương là 'Sài hồ sơ can thang' hợp 'Trầm hương giải khí tán', giảm vị Trầm hương — không có tên riêng; đặt ten theo câu in. Chỉ 7 vị được liệt kê.",
+    "Tr.144: gia giảm 'Nếu đau lưng gia ngũ gia bì, đỗ trọng 20g' — mơ hồ: không rõ 20g là liều của riêng Đỗ trọng hay mỗi vị; Ngũ gia bì không có liều riêng.",
+    "Tr.144: bài Tế sinh thận khí hoàn in 'Quế chi 14g' — giữ nguyên.",
+    "Tr.144: 'Thường gặp ở người cao tuổi' nằm trong câu Triệu chứng của thể Thận khí hư nên giữ làm một mục triệu chứng (nhóm 'khac') thay vì mo_ta.",
+    "Tr.141: thể Bàng quang thấp nhiệt — 'hoặc không tiểu tiện được' ghi thành 'Không tiểu tiện được'; loai_tru 'Thích uống nước' (đối chiếu thể Phế nhiệt) dựa trên chữ 'không muốn uống nước'."
+  ]
+}

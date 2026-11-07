@@ -1,0 +1,17 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: thuoc-duoc
+ten: Thược dược
+ten_khac: []
+ten_khoa_hoc: Radix Paeoniae lactiflorae
+ten_cay: "Bạch thược (STT 23): Paeonia lactiflora Pall. - Ranunculaceae; Xích thược (STT 381): Paeonia lactiflora Pall - Ranunculaceae"
+bo_phan_dung: Rễ
+lieu_dung: null
+doc_tinh:
+  muc: chua_ro
+  canh_bao: null
+pho_bien: null
+thay_the: []
+nguon:
+  ma: qd-5013
+  trang: 152
+  trang_thai: chua_doi_chieu

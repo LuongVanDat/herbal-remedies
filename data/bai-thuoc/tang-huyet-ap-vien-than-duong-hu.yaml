@@ -1,0 +1,34 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: tang-huyet-ap-vien-than-duong-hu
+ten: Viên thận dương hư
+loai: nghiem_phuong
+thanh_phan:
+  - vi: thuc-dia
+    lieu_g: 160
+    vai_tro: null
+  - vi: sung-huou
+    lieu_g: 20
+    vai_tro: null
+  - vi: hoai-son
+    lieu_g: 160
+    vai_tro: null
+  - vi: ba-kich
+    lieu_g: 80
+    vai_tro: null
+  - vi: tieu-hoi
+    lieu_g: 60
+    vai_tro: null
+  - vi: phu-tu-che
+    ten_trong_bai: Hắc phụ tử
+    lieu_g: 16
+    vai_tro: null
+  - vi: que-nhuc
+    ten_trong_bai: Nhục quế
+    lieu_g: 30
+    vai_tro: null
+cach_dung: Làm viên hoàn cứng, mỗi ngày uống 20g.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 48
+  trang_thai: chua_doi_chieu

@@ -1,0 +1,37 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: tang-huyet-ap-ban-ha-bach-truat-thien-ma-thang
+ten: Bán hạ bạch truật thiên ma thang
+loai: co_phuong
+thanh_phan:
+  - vi: ban-ha
+    ten_trong_bai: Bán hạ chế
+    lieu_g: 12
+    vai_tro: null
+  - vi: bach-truat
+    lieu_g: 16
+    vai_tro: null
+  - vi: thien-ma
+    lieu_g: 12
+    vai_tro: null
+  - vi: cam-thao
+    lieu_g: 4
+    vai_tro: null
+  - vi: tran-bi
+    lieu_g: 8
+    vai_tro: null
+  - vi: bach-linh
+    lieu_g: 16
+    vai_tro: null
+  - vi: sinh-khuong
+    lieu_g: null
+    lieu_text: 1 lát
+    vai_tro: null
+  - vi: dai-tao
+    lieu_g: 12
+    vai_tro: null
+cach_dung: Sắc uống ngày 1 thang, chia 2 lần.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 48
+  trang_thai: chua_doi_chieu

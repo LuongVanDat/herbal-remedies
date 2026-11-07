@@ -1,0 +1,768 @@
+{
+  "so": 6,
+  "id": "tang-huyet-ap",
+  "ten": "Tăng huyết áp vô căn (Huyễn vựng)",
+  "ten_khac": [
+    "Huyễn vựng",
+    "đầu thống",
+    "thất miên",
+    "tăng huyết áp"
+  ],
+  "trang_dau": 44,
+  "trang_cuoi": 50,
+  "dau_hieu_nguy_hiem": [
+    {
+      "ten": "Huyết áp tâm thu ≥ 140 mmHg và/hoặc huyết áp tâm trương ≥ 90 mmHg",
+      "trang": 44
+    },
+    {
+      "ten": "Phải kết hợp với YHHĐ, không nên sử dụng YHCT đơn thuần",
+      "trang": 45
+    }
+  ],
+  "the_benh": [
+    {
+      "ten": "Can dương thượng cang",
+      "mo_ta": null,
+      "trang": 45,
+      "trieu_chung": [
+        {
+          "ten": "Hoa mắt",
+          "nhom": "than-kinh"
+        },
+        {
+          "ten": "Choáng váng",
+          "nhom": "than-kinh"
+        },
+        {
+          "ten": "Đau đầu",
+          "nhom": "dau-mat"
+        },
+        {
+          "ten": "Mặt đỏ",
+          "nhom": "toan-than"
+        },
+        {
+          "ten": "Hay tức giận",
+          "nhom": "than-kinh"
+        },
+        {
+          "ten": "Ít ngủ",
+          "nhom": "than-kinh"
+        },
+        {
+          "ten": "Ngủ hay mê",
+          "nhom": "than-kinh"
+        },
+        {
+          "ten": "Miệng đắng",
+          "nhom": "dau-mat"
+        },
+        {
+          "ten": "Chất lưỡi đỏ",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Rêu lưỡi vàng",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Mạch huyền sác hoặc huyền hoạt",
+          "nhom": "mach"
+        }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Bình can tức phong (Bình can tiềm dương).",
+      "bai_thuoc": [
+        {
+          "ten": "Thiên ma câu đằng ẩm",
+          "loai": "co_phuong",
+          "trang": 45,
+          "thanh_phan": [
+            {
+              "ten": "Thiên ma",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Câu đằng",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Ngưu tất",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Thạch quyết minh",
+              "lieu_g": 20
+            },
+            {
+              "ten": "Đỗ trọng",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Tang ký sinh",
+              "lieu_g": 16
+            },
+            {
+              "ten": "Chi tử",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Hoàng cầm",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Ích mẫu",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Dạ giao đằng",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Phục thần",
+              "lieu_g": 12
+            }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.",
+          "gia_giam": [],
+          "giong_the": null
+        },
+        {
+          "ten": "Long đởm tả can thang",
+          "loai": "co_phuong",
+          "trang": 45,
+          "thanh_phan": [
+            {
+              "ten": "Long đởm thảo",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Sinh địa",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Hoàng cầm",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Sài hồ",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Chi tử",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Sa tiền",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Trạch tả",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Cam thảo",
+              "lieu_g": 4
+            },
+            {
+              "ten": "Đương quy",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Mộc thông",
+              "lieu_g": 12
+            }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.",
+          "gia_giam": [],
+          "giong_the": null
+        },
+        {
+          "ten": null,
+          "loai": "nghiem_phuong",
+          "trang": 45,
+          "thanh_phan": [
+            {
+              "ten": "Hương phụ",
+              "lieu_g": null,
+              "lieu_text": "1 lạng"
+            },
+            {
+              "ten": "Cúc hoa",
+              "lieu_g": null,
+              "lieu_text": "1 lạng"
+            },
+            {
+              "ten": "Kinh giới",
+              "lieu_g": null,
+              "lieu_text": "1 lạng"
+            },
+            {
+              "ten": "Bạc hà",
+              "lieu_g": null,
+              "lieu_text": "3 đồng cân"
+            }
+          ],
+          "cach_dung": "Tán mịn, mỗi lần uống 10g sắc với nước chè và hành làm thang, uống trước khi ăn.",
+          "gia_giam": [],
+          "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Can thận âm hư",
+      "mo_ta": null,
+      "trang": 46,
+      "trieu_chung": [
+        {
+          "ten": "Mệt mỏi",
+          "nhom": "toan-than"
+        },
+        {
+          "ten": "Váng đầu",
+          "nhom": "than-kinh"
+        },
+        {
+          "ten": "Hay quên",
+          "nhom": "than-kinh"
+        },
+        {
+          "ten": "Lưng gối đau yếu",
+          "nhom": "vi-tri-dau"
+        },
+        {
+          "ten": "Ù tai",
+          "nhom": "dau-mat"
+        },
+        {
+          "ten": "Mất ngủ",
+          "nhom": "than-kinh"
+        },
+        {
+          "ten": "Nam giới có thể di tinh",
+          "nhom": "khac"
+        },
+        {
+          "ten": "Lòng bàn tay bàn chân nóng",
+          "nhom": "han-nhiet"
+        },
+        {
+          "ten": "Chất lưỡi đỏ",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Rêu lưỡi vàng",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Mạch huyền tế",
+          "nhom": "mach"
+        }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Tư bổ can thận.",
+      "bai_thuoc": [
+        {
+          "ten": "Lục vị địa hoàng thang",
+          "loai": "co_phuong",
+          "trang": 46,
+          "thanh_phan": [
+            {
+              "ten": "Thục địa",
+              "lieu_g": 16
+            },
+            {
+              "ten": "Sơn thù",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Hoài sơn",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Bạch linh",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Đan bì",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Trạch tả",
+              "lieu_g": 8
+            }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.",
+          "gia_giam": [],
+          "giong_the": null
+        },
+        {
+          "ten": "Tri bá địa hoàng thang",
+          "loai": "co_phuong",
+          "trang": 46,
+          "thanh_phan": [
+            {
+              "ten": "Tri mẫu",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Hoàng bá",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Thục địa",
+              "lieu_g": 16
+            },
+            {
+              "ten": "Sơn thù",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Hoài sơn",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Bạch linh",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Đan bì",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Trạch tả",
+              "lieu_g": 8
+            }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.",
+          "gia_giam": [],
+          "giong_the": null
+        },
+        {
+          "ten": "Kỷ cúc địa hoàng thang",
+          "loai": "co_phuong",
+          "trang": 46,
+          "thanh_phan": [
+            {
+              "ten": "Thục địa",
+              "lieu_g": 16
+            },
+            {
+              "ten": "Sơn thù",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Hoài sơn",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Bạch linh",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Đan bì",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Trạch tả",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Kỷ tử",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Cúc hoa",
+              "lieu_g": 12
+            }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.",
+          "gia_giam": [],
+          "giong_the": null
+        },
+        {
+          "ten": "Lục vị quy thược thang",
+          "loai": "co_phuong",
+          "trang": 47,
+          "thanh_phan": [
+            {
+              "ten": "Thục địa",
+              "lieu_g": 16
+            },
+            {
+              "ten": "Sơn thù",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Hoài sơn",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Bạch linh",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Đan bì",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Trạch tả",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Đương qui",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Bạch thược",
+              "lieu_g": 12
+            }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.",
+          "gia_giam": [],
+          "giong_the": null
+        },
+        {
+          "ten": "Viên thận âm hư",
+          "loai": "nghiem_phuong",
+          "trang": 47,
+          "thanh_phan": [
+            {
+              "ten": "Thục địa",
+              "lieu_g": 200
+            },
+            {
+              "ten": "Lộc giác giao",
+              "lieu_g": 150
+            },
+            {
+              "ten": "Quy bản",
+              "lieu_g": 200
+            },
+            {
+              "ten": "Củ mài",
+              "lieu_g": 150
+            },
+            {
+              "ten": "Thỏ ty tử",
+              "lieu_g": 80
+            },
+            {
+              "ten": "Thạch hộc",
+              "lieu_g": 80
+            },
+            {
+              "ten": "Tỳ giải",
+              "lieu_g": 100
+            },
+            {
+              "ten": "Mật ong",
+              "lieu_g": null,
+              "lieu_text": "vừa đủ"
+            }
+          ],
+          "cach_dung": "Làm viên hoàn cứng, mỗi ngày uống 20g.",
+          "gia_giam": [],
+          "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Âm dương lưỡng hư",
+      "mo_ta": "Thường gặp ở người cao tuổi hoặc phụ nữ sau khi hết kinh.",
+      "trang": 47,
+      "trieu_chung": [
+        {
+          "ten": "Mệt mỏi",
+          "nhom": "toan-than"
+        },
+        {
+          "ten": "Sắc mặt trắng",
+          "nhom": "toan-than"
+        },
+        {
+          "ten": "Đau đầu",
+          "nhom": "dau-mat"
+        },
+        {
+          "ten": "Chóng mặt",
+          "nhom": "than-kinh"
+        },
+        {
+          "ten": "Ngủ ít",
+          "nhom": "than-kinh"
+        },
+        {
+          "ten": "Hồi hộp",
+          "nhom": "than-kinh"
+        },
+        {
+          "ten": "Ù tai",
+          "nhom": "dau-mat"
+        },
+        {
+          "ten": "Lưng đau, gối mỏi",
+          "nhom": "vi-tri-dau"
+        },
+        {
+          "ten": "Đại tiện lỏng",
+          "nhom": "tieu-hoa"
+        },
+        {
+          "ten": "Sợ lạnh",
+          "nhom": "han-nhiet"
+        },
+        {
+          "ten": "Chân tay lạnh",
+          "nhom": "han-nhiet"
+        },
+        {
+          "ten": "Tiểu đêm nhiều lần",
+          "nhom": "tieu-tien"
+        },
+        {
+          "ten": "Di tinh, liệt dương (nếu ở nam)",
+          "nhom": "khac"
+        },
+        {
+          "ten": "Chất lưỡi hồng nhạt",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Rêu lưỡi trắng",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Mạch huyền tế hoặc trầm tế",
+          "nhom": "mach"
+        }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Bổ thận dưỡng âm.",
+      "bai_thuoc": [
+        {
+          "ten": "Hữu quy hoàn",
+          "loai": "co_phuong",
+          "trang": 47,
+          "thanh_phan": [
+            {
+              "ten": "Thục địa",
+              "lieu_g": 16
+            },
+            {
+              "ten": "Sơn thù",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Hoài sơn",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Kỷ tử",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Thỏ ty tử",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Hắc phụ tử",
+              "lieu_g": 4
+            },
+            {
+              "ten": "Đương qui",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Nhục quế",
+              "lieu_g": 4
+            },
+            {
+              "ten": "Đỗ trọng",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Lộc giác giao",
+              "lieu_g": 16
+            }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.",
+          "gia_giam": [],
+          "giong_the": null
+        },
+        {
+          "ten": "Viên thận dương hư",
+          "loai": "nghiem_phuong",
+          "trang": 48,
+          "thanh_phan": [
+            {
+              "ten": "Thục địa",
+              "lieu_g": 160
+            },
+            {
+              "ten": "Sừng hươu",
+              "lieu_g": 20
+            },
+            {
+              "ten": "Hoài sơn",
+              "lieu_g": 160
+            },
+            {
+              "ten": "Ba kích",
+              "lieu_g": 80
+            },
+            {
+              "ten": "Tiểu hồi",
+              "lieu_g": 60
+            },
+            {
+              "ten": "Hắc phụ tử",
+              "lieu_g": 16
+            },
+            {
+              "ten": "Nhục quế",
+              "lieu_g": 30
+            }
+          ],
+          "cach_dung": "Làm viên hoàn cứng, mỗi ngày uống 20g.",
+          "gia_giam": [],
+          "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Đàm thấp",
+      "mo_ta": "Thường gặp ở người béo phì, người hay ăn đồ béo ngọt.",
+      "trang": 48,
+      "trieu_chung": [
+        {
+          "ten": "Đau đầu",
+          "nhom": "dau-mat"
+        },
+        {
+          "ten": "Nặng đầu",
+          "nhom": "dau-mat"
+        },
+        {
+          "ten": "Hoa mắt",
+          "nhom": "than-kinh"
+        },
+        {
+          "ten": "Chóng mặt",
+          "nhom": "than-kinh"
+        },
+        {
+          "ten": "Ngực tức",
+          "nhom": "khac"
+        },
+        {
+          "ten": "Bụng đầy",
+          "nhom": "tieu-hoa"
+        },
+        {
+          "ten": "Buồn nôn",
+          "nhom": "tieu-hoa"
+        },
+        {
+          "ten": "Ăn ít",
+          "nhom": "tieu-hoa"
+        },
+        {
+          "ten": "Mệt mỏi",
+          "nhom": "toan-than"
+        },
+        {
+          "ten": "Ngủ li bì",
+          "nhom": "than-kinh"
+        },
+        {
+          "ten": "Chất lưỡi nhợt bệu",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Rêu lưỡi trắng, ánh vàng",
+          "nhom": "luoi"
+        },
+        {
+          "ten": "Mạch nhu hoạt",
+          "nhom": "mach"
+        }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Kiện tỳ, trừ thấp, hóa đàm.",
+      "bai_thuoc": [
+        {
+          "ten": "Bán hạ bạch truật thiên ma thang",
+          "loai": "co_phuong",
+          "trang": 48,
+          "thanh_phan": [
+            {
+              "ten": "Bán hạ chế",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Bạch truật",
+              "lieu_g": 16
+            },
+            {
+              "ten": "Thiên ma",
+              "lieu_g": 12
+            },
+            {
+              "ten": "Cam thảo",
+              "lieu_g": 4
+            },
+            {
+              "ten": "Trần bì",
+              "lieu_g": 8
+            },
+            {
+              "ten": "Bạch linh",
+              "lieu_g": 16
+            },
+            {
+              "ten": "Sinh khương",
+              "lieu_g": null,
+              "lieu_text": "1 lát"
+            },
+            {
+              "ten": "Đại táo",
+              "lieu_g": 12
+            }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.",
+          "gia_giam": [],
+          "giong_the": null
+        },
+        {
+          "ten": null,
+          "loai": "nghiem_phuong",
+          "trang": 48,
+          "thanh_phan": [
+            {
+              "ten": "Can khương",
+              "lieu_g": 10
+            },
+            {
+              "ten": "Cam thảo",
+              "lieu_g": 4
+            }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.",
+          "gia_giam": [],
+          "giong_the": null
+        }
+      ]
+    }
+  ],
+  "ghi_chu_trich": [
+    "Tr.45–46: nghiệm phương thể can dương thượng cang ghi nguồn '(Nam dược thần hiệu – Chóng mặt)', liều theo đơn vị cổ (lạng, đồng cân) nên lieu_g = null; bài trải 2 trang (vị ở tr.45, cách dùng ở tr.46).",
+    "Tr.48–49: nghiệm phương thể đàm thấp ghi nguồn '(Nam dược thần hiệu – Chóng mặt)'; tiêu đề ở cuối tr.48, các vị (Can khương 10g, Cam thảo 04g) ở đầu tr.49 — bài trải 2 trang; đã đối chiếu PDF, chỉ có 2 vị.",
+    "Tr.47–48: bài Hữu quy hoàn (thể âm dương lưỡng hư) trải 2 trang: 6 vị ở tr.47, 4 vị (Đương qui, Nhục quế, Đỗ trọng, Lộc giác giao) ở tr.48.",
+    "Tr.47: 'Viên thận âm hư (Thuốc nam châm cứu)' và tr.48 'Viên thận dương hư (Thuốc nam châm cứu)' — lấy 'Viên thận âm hư'/'Viên thận dương hư' làm tên bài; '(Thuốc nam châm cứu)' là nguồn.",
+    "Tr.47: thể âm dương lưỡng hư ghi pháp 'Bổ thận dưỡng âm.' — chép nguyên văn.",
+    "Tr.47 và tr.49: mục xoa bóp ghi 'Như thể can dương vượng' — tức thể can dương thượng cang (ngoài phạm vi trích, chỉ ghi nhận cách gọi khác tên thể).",
+    "Tr.45: thể can dương thượng cang 'Ngủ hay mê' chép nguyên văn (có thể ý 'hay mơ' như phần II tr.44)."
+  ]
+}

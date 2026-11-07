@@ -1,0 +1,47 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: copd-hanh-to-tan
+ten: Hạnh tô tán
+loai: co_phuong
+thanh_phan:
+  - vi: hanh-nhan
+    lieu_g: 12
+    vai_tro: null
+  - vi: to-diep
+    lieu_g: 10
+    vai_tro: null
+  - vi: tran-bi
+    lieu_g: 8
+    vai_tro: null
+  - vi: chi-xac
+    lieu_g: 8
+    vai_tro: null
+  - vi: tien-ho
+    lieu_g: 12
+    vai_tro: null
+  - vi: cat-canh
+    lieu_g: 10
+    vai_tro: null
+  - vi: ban-ha
+    ten_trong_bai: Bán hạ chế
+    lieu_g: 8
+    vai_tro: null
+  - vi: bach-linh
+    ten_trong_bai: Phục linh
+    lieu_g: 16
+    vai_tro: null
+  - vi: sinh-khuong
+    lieu_g: null
+    lieu_text: 03 lát
+    vai_tro: null
+  - vi: cam-thao
+    lieu_g: 4
+    vai_tro: null
+  - vi: dai-tao
+    lieu_g: 12
+    vai_tro: null
+cach_dung: Sắc uống ngày 1 thang, chia 2 lần.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 128
+  trang_thai: chua_doi_chieu

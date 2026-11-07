@@ -1,0 +1,34 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: may-day-nghiem-phuong-huyet-hu-phong-tao
+ten: Nghiệm phương — Mày đay, thể Huyết hư phong táo
+loai: nghiem_phuong
+thanh_phan:
+  - vi: sinh-dia
+    lieu_g: 12
+    vai_tro: null
+  - vi: ha-thu-o
+    lieu_g: 12
+    vai_tro: null
+  - vi: huyet-du
+    ten_trong_bai: Huyết dụ (lá)
+    lieu_g: 12
+    vai_tro: null
+  - vi: kinh-gioi
+    lieu_g: 12
+    vai_tro: null
+  - vi: bach-thuoc
+    lieu_g: 12
+    vai_tro: null
+  - vi: thuong-nhi-tu
+    ten_trong_bai: Ké đầu ngựa
+    lieu_g: 12
+    vai_tro: null
+  - vi: cam-thao
+    lieu_g: 6
+    vai_tro: null
+cach_dung: Sắc uống ngày 1 thang, chia 2 lần.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 138
+  trang_thai: chua_doi_chieu

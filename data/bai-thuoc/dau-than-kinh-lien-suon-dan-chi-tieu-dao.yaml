@@ -1,0 +1,43 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: dau-than-kinh-lien-suon-dan-chi-tieu-dao
+ten: Đan chi tiêu dao
+loai: co_phuong
+thanh_phan:
+  - vi: mau-don-bi
+    ten_trong_bai: Đan bì
+    lieu_g: 12
+    vai_tro: null
+  - vi: chi-tu
+    lieu_g: 12
+    vai_tro: null
+  - vi: sai-ho
+    lieu_g: 10
+    vai_tro: null
+  - vi: bach-thuoc
+    lieu_g: 12
+    vai_tro: null
+  - vi: duong-quy
+    lieu_g: 12
+    vai_tro: null
+  - vi: bach-linh
+    ten_trong_bai: Phục linh
+    lieu_g: 12
+    vai_tro: null
+  - vi: bach-truat
+    lieu_g: 12
+    vai_tro: null
+  - vi: bac-ha
+    lieu_g: 4
+    vai_tro: null
+  - vi: sinh-khuong
+    lieu_g: 4
+    vai_tro: null
+  - vi: cam-thao
+    lieu_g: 6
+    vai_tro: null
+cach_dung: Sắc uống ngày 1 thang, chia 2 lần.
+gia_giam: []
+nguon:
+  ma: qd-5013
+  trang: 67
+  trang_thai: chua_doi_chieu

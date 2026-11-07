@@ -1,0 +1,97 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: bai-nao-tre-em
+ten: Bại não trẻ em (Ngũ trì)
+ten_khac:
+  - Ngũ trì
+  - bại não
+dau_hieu_nguy_hiem:
+  - id: nh-bai-nao-tre-em-1
+    ten: Trẻ đẻ ra không khóc ngay, tím tái hoặc trắng bệch (phải cấp cứu)
+the_benh:
+  - id: can-than-bat-tuc
+    ten: Can thận bất túc
+    mo_ta: Thường gặp trong bại não thể co cứng, thể phối hợp, thể thất điều.
+    trieu_chung:
+      chinh:
+        - gan-xuong-mem-yeu
+        - phat-duc-cham
+        - cham-ngoi-dung-di-moc-rang
+        - chan-tay-cu-dong-cham-chap
+        - khi-dung-chan-co-rut-buoc-khong-thang
+        - mat-mat-co-keo
+        - noi-ngong-khong-ro-tieng
+        - thop-lau-lien
+        - co-lung-mem
+        - dem-ngu-khong-yen
+        - de-len-con-co-giat
+        - luoi-nhot
+        - mach-tram-te
+        - chi-van-nhot
+      phu:
+        - it-reu
+    loai_tru: []
+    phap_tri: Bổ thận ích tủy, dưỡng can cường cân.
+    bai_thuoc:
+      - bai-nao-tre-em-luc-vi-dia-hoang-hoan
+    nguon:
+      ma: qd-5013
+      trang: 89
+      trang_thai: chua_doi_chieu
+  - id: tam-ty-hu
+    ten: Tâm tỳ hư
+    mo_ta: Tương đương bại não thể liệt nhẽo, thể thất điều.
+    trieu_chung:
+      chinh:
+        - cham-noi
+        - noi-ngong
+        - tinh-than-dan-don
+        - tu-chi-mem-yeu
+        - cu-dong-cham-chap-kho-khan
+        - buoc-di-khong-thang
+        - co-nhuc-nheo
+        - toc-moc-cham-vang-kho-thua
+        - mieng-chay-dai
+        - nhai-bu-vo-luc
+        - nuot-thuc-an-kho-khan
+        - bieng-an
+        - luoi-nhot-beu
+        - mach-te-hoan
+        - chi-van-nhat
+      phu:
+        - it-reu
+    loai_tru: []
+    phap_tri: Kiện tỳ dưỡng tâm, bổ ích khí huyết.
+    bai_thuoc:
+      - bai-nao-tre-em-dieu-nguyen-tan-gia-vi
+    nguon:
+      ma: qd-5013
+      trang: 92
+      trang_thai: chua_doi_chieu
+  - id: dam-u-tro-tre
+    ten: Đàm ứ trở trệ
+    mo_ta: Hay gặp ở trẻ bại não do di chứng viêm não-màng não.
+    trieu_chung:
+      chinh:
+        - that-ngon
+        - nghe-kem
+        - tinh-than-mo-toi
+        - phan-ung-cham-chap
+        - cu-dong-khong-tu-chu
+        - nuot-tho-kho-khan
+        - hong-co-tieng-dom-kho-khe
+        - cung-khop
+        - co-nhuc-mem-nheo
+        - co-the-co-con-dong-kinh
+        - chat-luoi-beu-co-diem-u-huyet
+        - reu-nhot
+        - mach-tram-sap-hoac-hoat
+        - chi-van-toi-tre
+      phu: []
+    loai_tru: []
+    phap_tri: Trừ đàm khai khiếu, hoạt huyết thông lạc.
+    bai_thuoc:
+      - bai-nao-tre-em-thong-khieu-hoat-huyet-thang-ket-hop-nhi-tran-thang-gia-giam
+    nguon:
+      ma: qd-5013
+      trang: 93
+      trang_thai: chua_doi_chieu

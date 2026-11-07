@@ -1,0 +1,17 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: xuong-bo
+ten: Xương bồ
+ten_khac: []
+ten_khoa_hoc: Rhizoma Acori graminei
+ten_cay: "Thạch xương bồ (STT 307): Acorus gramineus Soland. - Araceae; Thủy xương bồ (STT 331): Acorus calamus L. - Araceae"
+bo_phan_dung: Thân rễ
+lieu_dung: null
+doc_tinh:
+  muc: chua_ro
+  canh_bao: null
+pho_bien: null
+thay_the: []
+nguon:
+  ma: qd-5013
+  trang: 162
+  trang_thai: chua_doi_chieu

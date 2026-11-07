@@ -17,7 +17,7 @@
   <KhongTimThay />
 {:else}
   <h1>{v.ten}</h1>
-  <p class="mo"><em>{v.ten_khoa_hoc}</em>{#if v.ten_khac.length} · Tên khác: {v.ten_khac.join(', ')}{/if}
+  <p class="mo">{#if v.ten_khoa_hoc}<em>{v.ten_khoa_hoc}</em>{:else}Không có trong danh mục vị thuốc của tài liệu nguồn{/if}{#if v.ten_khac.length} · Tên khác: {v.ten_khac.join(', ')}{/if}
     <NhanNguon nguon={v.nguon} /></p>
 
   {#if coDoc(v)}

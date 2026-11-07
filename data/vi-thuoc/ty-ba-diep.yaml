@@ -1,0 +1,18 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: ty-ba-diep
+ten: Tỳ bà diệp
+ten_khac: []
+ten_khoa_hoc: Folium Eriobotryae japonicae
+ten_cay: Eriobotrya japonica (Thunb.) Lindl. - Rosaceae
+bo_phan_dung: Lá
+nguon_goc: ca_hai
+lieu_dung: null
+doc_tinh:
+  muc: chua_ro
+  canh_bao: null
+pho_bien: null
+thay_the: []
+nguon:
+  ma: qd-5013
+  trang: 164
+  trang_thai: chua_doi_chieu

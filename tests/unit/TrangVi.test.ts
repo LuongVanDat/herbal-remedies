@@ -76,3 +76,11 @@ test('TrangVi: độc tính chưa rõ, phổ biến chưa có dữ liệu, ngu�
   expect(screen.getByText(/Cinnamomum cassia/)).toBeInTheDocument()
   expect(screen.queryByText('Bộ phận dùng')).toBeNull()
 })
+
+test('TrangVi: vị không có tên khoa học vẫn hiển thị', () => {
+  const d = appFixture()
+  d.viThuoc['que-chi'].ten_khoa_hoc = undefined
+  renderVoiData(TrangVi, { id: 'que-chi' }, d)
+  expect(screen.getByRole('heading', { level: 1 })).toHaveTextContent('Quế chi')
+  expect(screen.getByText(/Không có trong danh mục vị thuốc/)).toBeInTheDocument()
+})

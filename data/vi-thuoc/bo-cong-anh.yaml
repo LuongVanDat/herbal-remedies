@@ -1,0 +1,18 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: bo-cong-anh
+ten: Bồ công anh
+ten_khac: []
+ten_khoa_hoc: Herba Lactucae indicae
+ten_cay: Lactuca indica L. - Asteraceae
+bo_phan_dung: Toàn cây hoặc phần trên mặt đất
+nguon_goc: trong_nuoc
+lieu_dung: null
+doc_tinh:
+  muc: chua_ro
+  canh_bao: null
+pho_bien: null
+thay_the: []
+nguon:
+  ma: qd-5013
+  trang: 153
+  trang_thai: chua_doi_chieu

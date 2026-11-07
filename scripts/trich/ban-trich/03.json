@@ -1,0 +1,296 @@
+{
+  "so": 3,
+  "id": "gout",
+  "ten": "Gout (Thống phong)",
+  "ten_khac": ["Thống phong", "Lịch tiết phong", "Bạch hổ phong", "Bạch hổ lịch tiết"],
+  "trang_dau": 21,
+  "trang_cuoi": 28,
+  "dau_hieu_nguy_hiem": [
+    { "ten": "Hạt tophi bị vỡ, dò dịch hoặc ảnh hưởng nhiều đến chức năng vận động của khớp", "trang": 27 }
+  ],
+  "the_benh": [
+    {
+      "ten": "Phong thấp nhiệt",
+      "mo_ta": null,
+      "trang": 22,
+      "trieu_chung": [
+        { "ten": "Sưng, nóng, đỏ, đau một hoặc nhiều khớp (đặc biệt là khớp bàn ngón chân cái)", "nhom": "vi-tri-dau" },
+        { "ten": "Đau cự án", "nhom": "vi-tri-dau" },
+        { "ten": "Khởi phát thường cấp tính", "nhom": "vi-tri-dau" },
+        { "ten": "Phát sốt", "nhom": "han-nhiet" },
+        { "ten": "Sợ gió", "nhom": "han-nhiet" },
+        { "ten": "Miệng khô khát", "nhom": "tieu-hoa" },
+        { "ten": "Phiền táo bứt rứt không yên", "nhom": "than-kinh" },
+        { "ten": "Tiểu vàng số lượng ít", "nhom": "tieu-tien" },
+        { "ten": "Lưỡi đỏ", "nhom": "luoi" },
+        { "ten": "Rêu vàng bẩn", "nhom": "luoi" },
+        { "ten": "Mạch hoạt sác", "nhom": "mach" }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Thanh nhiệt lợi thấp, tiêu thũng chỉ thống.",
+      "bai_thuoc": [
+        {
+          "ten": "Tuyên tý thang hợp Tam diệu thang", "loai": "co_phuong", "trang": 22,
+          "thanh_phan": [
+            { "ten": "Thương truật", "lieu_g": 8 }, { "ten": "Hoàng bá", "lieu_g": 15 },
+            { "ten": "Ngưu tất", "lieu_g": 15 }, { "ten": "Tỳ giải", "lieu_g": 12 },
+            { "ten": "Hoạt thạch", "lieu_g": 30 }, { "ten": "Ý dĩ", "lieu_g": 20 },
+            { "ten": "Hạnh nhân", "lieu_g": 12 }, { "ten": "Hy thiêm thảo", "lieu_g": 15 },
+            { "ten": "Xích tiểu đậu", "lieu_g": 15 }, { "ten": "Liên kiều", "lieu_g": 12 },
+            { "ten": "Chi tử", "lieu_g": 12 }
+          ],
+          "cach_dung": null, "gia_giam": [], "giong_the": null
+        },
+        {
+          "ten": "Bạch hổ quế chi thang", "loai": "co_phuong", "trang": 22,
+          "thanh_phan": [
+            { "ten": "Sinh thạch cao", "lieu_g": 30 }, { "ten": "Ngạnh mễ", "lieu_g": 10 },
+            { "ten": "Tri mẫu", "lieu_g": 10 }, { "ten": "Cam thảo", "lieu_g": 6 },
+            { "ten": "Quế chi", "lieu_g": 6 }
+          ],
+          "cach_dung": null, "gia_giam": [], "giong_the": null
+        },
+        {
+          "ten": "Tứ diệu thang", "loai": "co_phuong", "trang": 22,
+          "thanh_phan": [
+            { "ten": "Thương truật", "lieu_g": 8 }, { "ten": "Hoàng bá", "lieu_g": 10 },
+            { "ten": "Ngưu tất", "lieu_g": 12 }, { "ten": "Sinh ý dĩ", "lieu_g": 18 }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.", "gia_giam": [], "giong_the": null
+        },
+        {
+          "ten": "Cao Kim hoàng tán (Ngoại khoa chính tông)", "loai": "dung_ngoai", "trang": 23,
+          "thanh_phan": [
+            { "ten": "Đại hoàng", "lieu_g": null, "lieu_text": "2,5kg" },
+            { "ten": "Hoàng bá", "lieu_g": null, "lieu_text": "2,5kg" },
+            { "ten": "Khương hoàng", "lieu_g": null, "lieu_text": "2,5kg" },
+            { "ten": "Bạch chỉ", "lieu_g": null, "lieu_text": "2,5kg" },
+            { "ten": "Nam tinh", "lieu_g": null, "lieu_text": "1kg" },
+            { "ten": "Trần bì", "lieu_g": null, "lieu_text": "1kg" },
+            { "ten": "Thương truật", "lieu_g": null, "lieu_text": "1kg" },
+            { "ten": "Hậu phác", "lieu_g": null, "lieu_text": "1kg" },
+            { "ten": "Cam thảo", "lieu_g": null, "lieu_text": "1kg" },
+            { "ten": "Thiên hoa phấn", "lieu_g": null, "lieu_text": "5kg" }
+          ],
+          "cach_dung": "Tất cả nghiền bột trộn với Vaselin thành cao, đắp vùng khớp sưng đau 1-2 lần/ngày, 7 ngày/liệu trình.", "gia_giam": [], "giong_the": null
+        },
+        {
+          "ten": null, "loai": "dung_ngoai", "trang": 23,
+          "thanh_phan": [
+            { "ten": "Hạt mã tiền", "lieu_g": 20 }, { "ten": "Sinh Bán hạ", "lieu_g": 20 },
+            { "ten": "Ngải diệp", "lieu_g": 20 }, { "ten": "Hồng hoa", "lieu_g": 15 },
+            { "ten": "Vương bất lưu hành", "lieu_g": 40 }, { "ten": "Đại hoàng", "lieu_g": 30 },
+            { "ten": "Hành tươi cả rễ", "lieu_g": null, "lieu_text": "3 củ" }
+          ],
+          "cach_dung": "Đun lấy 2 lít nước xông ngâm vùng khớp đau ngày 1-2 lần, 7 ngày/liệu trình (Trung y đương đại chẩn trị bệnh phong thấp).", "gia_giam": [], "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Phong hàn thấp (phong tà thiên thịnh)",
+      "mo_ta": null,
+      "trang": 24,
+      "trieu_chung": [
+        { "ten": "Sưng nề", "nhom": "vi-tri-dau" },
+        { "ten": "Hạn chế vận động khớp", "nhom": "vi-tri-dau" },
+        { "ten": "Có thể có hạt lắng đọng cạnh khớp", "nhom": "vi-tri-dau" },
+        { "ten": "Đau khớp có tính chất lưu chuyển", "nhom": "vi-tri-dau" },
+        { "ten": "Sợ gió", "nhom": "han-nhiet" },
+        { "ten": "Phát sốt", "nhom": "han-nhiet" },
+        { "ten": "Rêu lưỡi mỏng trắng hoặc trắng nhớt", "nhom": "luoi" },
+        { "ten": "Mạch huyền khẩn hoặc nhu hoãn", "nhom": "mach" }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Khu phong tán hàn trừ thấp, thông lạc chỉ thống.",
+      "bai_thuoc": [
+        {
+          "ten": "Ý dĩ nhân thang", "loai": "co_phuong", "trang": 24,
+          "thanh_phan": [
+            { "ten": "Ma hoàng", "lieu_g": 6 }, { "ten": "Đương qui", "lieu_g": 15 },
+            { "ten": "Bạch truật", "lieu_g": 15 }, { "ten": "Ý dĩ nhân", "lieu_g": 30 },
+            { "ten": "Quế chi", "lieu_g": 10 }, { "ten": "Bạch thược", "lieu_g": 15 },
+            { "ten": "Cam thảo", "lieu_g": 6 }
+          ],
+          "cach_dung": null, "gia_giam": [], "giong_the": null
+        },
+        {
+          "ten": null, "loai": "dung_ngoai", "trang": 25,
+          "thanh_phan": [
+            { "ten": "Hạt mã tiền", "lieu_g": 20 }, { "ten": "Sinh Bán hạ", "lieu_g": 20 },
+            { "ten": "Ngải diệp", "lieu_g": 20 }, { "ten": "Hồng hoa", "lieu_g": 15 },
+            { "ten": "Vương bất lưu hành", "lieu_g": 40 }, { "ten": "Đại hoàng", "lieu_g": 30 },
+            { "ten": "Hành tươi cả râu", "lieu_g": null, "lieu_text": "3 củ" }
+          ],
+          "cach_dung": "Đun lấy 2 lít nước xông ngâm vùng khớp đau ngày 1-2 lần, 7 ngày/liệu trình (Trung y đương đại chẩn trị bệnh phong thấp).", "gia_giam": [], "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Phong hàn thấp (hàn tà thiên thịnh)",
+      "mo_ta": null,
+      "trang": 24,
+      "trieu_chung": [
+        { "ten": "Sưng nề", "nhom": "vi-tri-dau" },
+        { "ten": "Hạn chế vận động khớp", "nhom": "vi-tri-dau" },
+        { "ten": "Có thể có hạt lắng đọng cạnh khớp", "nhom": "vi-tri-dau" },
+        { "ten": "Đau dữ dội các khớp", "nhom": "vi-tri-dau" },
+        { "ten": "Vị trí đau cố định", "nhom": "vi-tri-dau" },
+        { "ten": "Gặp lạnh đau tăng", "nhom": "vi-tri-dau" },
+        { "ten": "Chườm nóng dễ chịu", "nhom": "vi-tri-dau" },
+        { "ten": "Rêu lưỡi mỏng trắng hoặc trắng nhớt", "nhom": "luoi" },
+        { "ten": "Mạch huyền khẩn hoặc nhu hoãn", "nhom": "mach" }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Khu phong tán hàn trừ thấp, thông lạc chỉ thống.",
+      "bai_thuoc": [
+        {
+          "ten": "Ô đầu thang", "loai": "co_phuong", "trang": 24,
+          "thanh_phan": [
+            { "ten": "Phụ tử chế", "lieu_g": 5 }, { "ten": "Ma hoàng", "lieu_g": 6 },
+            { "ten": "Bạch thược", "lieu_g": 15 }, { "ten": "Hoàng kỳ", "lieu_g": 15 },
+            { "ten": "Cam thảo", "lieu_g": 5 }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.", "gia_giam": [], "giong_the": null
+        },
+        {
+          "ten": null, "loai": "dung_ngoai", "trang": 25,
+          "thanh_phan": [
+            { "ten": "Hạt mã tiền", "lieu_g": 20 }, { "ten": "Sinh Bán hạ", "lieu_g": 20 },
+            { "ten": "Ngải diệp", "lieu_g": 20 }, { "ten": "Hồng hoa", "lieu_g": 15 },
+            { "ten": "Vương bất lưu hành", "lieu_g": 40 }, { "ten": "Đại hoàng", "lieu_g": 30 },
+            { "ten": "Hành tươi cả râu", "lieu_g": null, "lieu_text": "3 củ" }
+          ],
+          "cach_dung": "Đun lấy 2 lít nước xông ngâm vùng khớp đau ngày 1-2 lần, 7 ngày/liệu trình (Trung y đương đại chẩn trị bệnh phong thấp).", "gia_giam": [], "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Phong hàn thấp (thấp tà thiên thịnh)",
+      "mo_ta": null,
+      "trang": 24,
+      "trieu_chung": [
+        { "ten": "Sưng nề", "nhom": "vi-tri-dau" },
+        { "ten": "Hạn chế vận động khớp", "nhom": "vi-tri-dau" },
+        { "ten": "Có thể có hạt lắng đọng cạnh khớp", "nhom": "vi-tri-dau" },
+        { "ten": "Cảm giác đau bứt rứt nặng nề tại các khớp", "nhom": "vi-tri-dau" },
+        { "ten": "Vị trí đau thường cố định", "nhom": "vi-tri-dau" },
+        { "ten": "Cảm giác tê bì khó chịu trong cơ và ngoài da", "nhom": "than-kinh" },
+        { "ten": "Rêu lưỡi mỏng trắng hoặc trắng nhớt", "nhom": "luoi" },
+        { "ten": "Mạch huyền khẩn hoặc nhu hoãn", "nhom": "mach" }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Khu phong tán hàn trừ thấp, thông lạc chỉ thống.",
+      "bai_thuoc": [
+        {
+          "ten": null, "loai": "co_phuong", "trang": 24,
+          "thanh_phan": [], "cach_dung": null, "gia_giam": [],
+          "giong_the": "Phong hàn thấp (phong tà thiên thịnh)"
+        }
+      ]
+    },
+    {
+      "ten": "Đàm ứ trở trệ",
+      "mo_ta": null,
+      "trang": 25,
+      "trieu_chung": [
+        { "ten": "Các khớp sưng", "nhom": "vi-tri-dau" },
+        { "ten": "Nặng thì xung quanh khớp cũng sưng", "nhom": "vi-tri-dau" },
+        { "ten": "Tái đi tái lại nhiều lần, dai dẳng không dứt", "nhom": "vi-tri-dau" },
+        { "ten": "Đau nhức nhẹ", "nhom": "vi-tri-dau" },
+        { "ten": "Có các hạt cứng cạnh khớp", "nhom": "vi-tri-dau" },
+        { "ten": "Sắc da tím", "nhom": "da" },
+        { "ten": "Chất lưỡi bệu", "nhom": "luoi" },
+        { "ten": "Rêu trắng bẩn", "nhom": "luoi" },
+        { "ten": "Mạch huyền hoạt", "nhom": "mach" }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Hoạt huyết hoá ứ, hoá đàm tán kết.",
+      "bai_thuoc": [
+        {
+          "ten": "Đào nhân ẩm hợp Nhị trần thang", "loai": "co_phuong", "trang": 25,
+          "thanh_phan": [
+            { "ten": "Đào nhân", "lieu_g": 10 }, { "ten": "Hồng hoa", "lieu_g": 10 },
+            { "ten": "Đương qui", "lieu_g": 15 }, { "ten": "Xuyên khung", "lieu_g": 10 },
+            { "ten": "Phục linh", "lieu_g": 10 }, { "ten": "Trần bì", "lieu_g": 8 },
+            { "ten": "Cam thảo", "lieu_g": 6 }, { "ten": "Uy linh tiên", "lieu_g": 10 },
+            { "ten": "Bán hạ chế", "lieu_g": 8 }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.", "gia_giam": [], "giong_the": null
+        },
+        {
+          "ten": null, "loai": "dung_ngoai", "trang": 25,
+          "thanh_phan": [
+            { "ten": "Hạt mã tiền", "lieu_g": 20 }, { "ten": "Sinh Bán hạ", "lieu_g": 20 },
+            { "ten": "Ngải diệp", "lieu_g": 20 }, { "ten": "Hồng hoa", "lieu_g": 15 },
+            { "ten": "Vương bất lưu hành", "lieu_g": 40 }, { "ten": "Đại hoàng", "lieu_g": 30 },
+            { "ten": "Hành tươi cả râu", "lieu_g": null, "lieu_text": "3 củ" }
+          ],
+          "cach_dung": "Đun lấy 2 lít nước xông ngâm vùng khớp đau ngày 1-2 lần, 7 ngày/liệu trình (Trung y đương đại chẩn trị bệnh phong thấp).", "gia_giam": [], "giong_the": null
+        }
+      ]
+    },
+    {
+      "ten": "Can thận lưỡng hư",
+      "mo_ta": null,
+      "trang": 26,
+      "trieu_chung": [
+        { "ten": "Đau khớp tái đi tái lại, dai dẳng không dứt", "nhom": "vi-tri-dau" },
+        { "ten": "Lúc nặng lúc nhẹ", "nhom": "vi-tri-dau" },
+        { "ten": "Cảm giác đau nhức âm ỉ di chuyển giữa các khớp", "nhom": "vi-tri-dau" },
+        { "ten": "Sưng nề", "nhom": "vi-tri-dau" },
+        { "ten": "Hạn chế vận động khớp", "nhom": "vi-tri-dau" },
+        { "ten": "Thậm chí biến dạng khớp", "nhom": "vi-tri-dau" },
+        { "ten": "Đau lưng mỏi gối", "nhom": "vi-tri-dau" },
+        { "ten": "Người mệt mỏi", "nhom": "toan-than" },
+        { "ten": "Đau đầu", "nhom": "dau-mat" },
+        { "ten": "Hoa mắt", "nhom": "dau-mat" },
+        { "ten": "Chóng mặt", "nhom": "than-kinh" },
+        { "ten": "Tâm quý", "nhom": "khac" },
+        { "ten": "Khí đoản", "nhom": "ho-hap" },
+        { "ten": "Chất lưỡi nhợt", "nhom": "luoi" },
+        { "ten": "Rêu trắng", "nhom": "luoi" },
+        { "ten": "Mạch huyền trầm tế vô lực", "nhom": "mach" }
+      ],
+      "loai_tru": [],
+      "phap_tri": "Bổ can thận, trừ phong thấp, hoạt lạc chỉ thống.",
+      "bai_thuoc": [
+        {
+          "ten": "Độc hoạt ký sinh thang", "loai": "co_phuong", "trang": 26,
+          "thanh_phan": [
+            { "ten": "Đảng sâm", "lieu_g": 10 }, { "ten": "Phục linh", "lieu_g": 15 },
+            { "ten": "Đương qui", "lieu_g": 10 }, { "ten": "Bạch thược", "lieu_g": 15 },
+            { "ten": "Thục địa", "lieu_g": 15 }, { "ten": "Xuyên khung", "lieu_g": 10 },
+            { "ten": "Đỗ trọng", "lieu_g": 15 }, { "ten": "Ngưu tất", "lieu_g": 15 },
+            { "ten": "Quế chi", "lieu_g": 6 }, { "ten": "Tế tân", "lieu_g": 4 },
+            { "ten": "Độc hoạt", "lieu_g": 10 }, { "ten": "Tang ký sinh", "lieu_g": 30 },
+            { "ten": "Phòng phong", "lieu_g": 10 }, { "ten": "Tần giao", "lieu_g": 10 },
+            { "ten": "Cam thảo", "lieu_g": 6 }
+          ],
+          "cach_dung": "Sắc uống ngày 1 thang, chia 2 lần.", "gia_giam": [], "giong_the": null
+        },
+        {
+          "ten": null, "loai": "dung_ngoai", "trang": 26,
+          "thanh_phan": [
+            { "ten": "Hạt mã tiền", "lieu_g": 20 }, { "ten": "Sinh Bán hạ", "lieu_g": 20 },
+            { "ten": "Ngải diệp", "lieu_g": 20 }, { "ten": "Hồng hoa", "lieu_g": 15 },
+            { "ten": "Vương bất lưu hành", "lieu_g": 40 }, { "ten": "Đại hoàng", "lieu_g": 30 },
+            { "ten": "Hành tươi cả râu", "lieu_g": null, "lieu_text": "3 củ" }
+          ],
+          "cach_dung": "Đun lấy 2 lít nước xông ngâm vùng khớp đau ngày 1-2 lần, 7 ngày/liệu trình (Trung y đương đại chẩn trị bệnh phong thấp).", "gia_giam": [], "giong_the": null
+        }
+      ]
+    }
+  ],
+  "ghi_chu_trich": [
+    "Tr.22: đoạn trước thể 1 ghi 'Gout cấp tính thuộc thể phong thấp nhiệt…; giai đoạn mạn tính thường có đàm trọc và ứ huyết…' — nằm trước tên thể nên không đưa vào mo_ta.",
+    "Tr.22-23: thể phong thấp nhiệt có 3 bài cổ phương liền nhau (Tuyên tý thang hợp Tam diệu thang; Hoặc Bạch hổ quế chi thang; Hoặc Tứ diệu thang) nhưng câu 'Sắc uống ngày 1 thang, chia 2 lần.' chỉ in một lần sau Tứ diệu thang (tr.23) — chỉ gán cho Tứ diệu thang, 2 bài kia để cach_dung null.",
+    "Tr.22-23: Tứ diệu thang trải 2 trang (Thương truật, Hoàng bá ở tr.22; Ngưu tất, Sinh ý dĩ ở tr.23).",
+    "Tr.23: Cao Kim hoàng tán ghi liều bằng kg (2,5kg, 1kg, 5kg) — để lieu_g null, lieu_text nguyên văn.",
+    "Tr.23: bài xông ngâm ở thể phong thấp nhiệt in 'Hành tươi cả rễ 3 củ', còn ở các thể khác (tr.25, 26) in 'Hành tươi cả râu 3 củ' — giữ nguyên từng chỗ. Bài xông ngâm không có tên, ten = null.",
+    "Tr.24: thể phong hàn thấp tách triệu chứng theo 3 nhánh (phong tà / hàn tà / thấp tà thiên thịnh) → tách 3 thể. 'Nếu hàn tà thắng dùng bài Ô đầu thang' → Ô đầu thang gán cho nhánh hàn tà; Ý dĩ nhân thang gán cho nhánh phong tà, nhánh thấp tà dùng giong_the. Bài dùng ngoài (tr.25) dùng chung cho cả 3 nhánh.",
+    "Tr.24: nhánh phong tà in 'đau khớp có tính chất lưu chuyển hoặc sợ gió phát sốt...' (có dấu '...').",
+    "Tr.24: câu 'Sắc uống ngày 1 thang, chia 2 lần.' chỉ in sau Ô đầu thang; Ý dĩ nhân thang để cach_dung null.",
+    "Tr.25-26: bài dùng ngoài thể đàm ứ trở trệ trải 2 trang (vị ở tr.25, cách dùng ở tr.26).",
+    "Tr.27: dấu hiệu nguy hiểm lấy từ chỉ định 'Cắt hạt tophi khi hạt bị vỡ, dò dịch hoặc ảnh hưởng nhiều đến chức năng vận động của khớp' (phần IV)."
+  ]
+}

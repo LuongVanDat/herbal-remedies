@@ -1,0 +1,18 @@
+# Sinh tự động bởi scripts/trich/sinh-du-lieu.ts từ QĐ 5013/QĐ-BYT — sửa bản trích rồi chạy lại
+id: thien-ma
+ten: Thiên ma
+ten_khac: []
+ten_khoa_hoc: Rhizoma Gastrodiae elatae
+ten_cay: Gastrodia elata Bl. - Orchidaceae
+bo_phan_dung: Thân rễ
+nguon_goc: nhap_khau
+lieu_dung: null
+doc_tinh:
+  muc: chua_ro
+  canh_bao: null
+pho_bien: null
+thay_the: []
+nguon:
+  ma: qd-5013
+  trang: 163
+  trang_thai: chua_doi_chieu
