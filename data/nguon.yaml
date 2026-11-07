@@ -21,3 +21,10 @@ van_ban:
     so_hieu: 855/YDCT-QLD
     ngay: "2022"
     url: https://thuvienphapluat.vn/cong-van/The-thao-Y-te/Cong-van-855-YDCT-QLD-2022-cong-bo-danh-muc-theo-Nghi-dinh-29-2022-ND-CP-526577.aspx
+  - ma: tt-13-2024
+    ten: Danh mục dược liệu độc làm thuốc
+    ten_ngan: TT 13/2024
+    so_hieu: 13/2024/TT-BYT
+    ngay: "2024-08-26"
+    # Bản chính thức (thuvienphapluat.vn) chặn truy cập tự động; danh mục được chép từ bản trích dẫn nguyên văn dưới đây.
+    url: https://thuviennhadat.vn/phap-ly-nha-dat/danh-muc-duoc-lieu-doc-lam-thuoc-ap-dung-tu-ngay-10102024-601000.html

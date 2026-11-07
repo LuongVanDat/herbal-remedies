@@ -146,8 +146,11 @@ export function validate(raw: RawData): { loi: VanDe[]; canhBao: VanDe[] } {
     })
   }
 
-  for (const { file, data } of raw.viThuoc)
-    if (!viDuocDung.has(data.id)) C('khong-duoc-dung', file, 'id', `Vị "${data.id}" không được bài thuốc nào dùng`)
+  // Danh mục vị có thể lớn hơn số vị được dùng (nhập cả danh mục) → gộp một dòng cho dễ đọc.
+  const viKhongDung = raw.viThuoc.filter((v) => !viDuocDung.has(v.data.id)).map((v) => v.data.id)
+  if (viKhongDung.length)
+    C('khong-duoc-dung', raw.viThuoc[0].file.replace(/[^/]*$/, ''), 'id',
+      `${viKhongDung.length} vị thuốc chưa bài nào dùng (vd: ${viKhongDung.slice(0, 3).join(', ')})`)
   raw.trieuChung.data.nhom.forEach((n, i) =>
     n.trieu_chung.forEach((t, j) => {
       if (!tcDuocDung.has(t.id))

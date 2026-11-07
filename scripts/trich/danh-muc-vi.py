@@ -61,6 +61,10 @@ SUA = {
     115: ('Đương quy', ['Toàn quy', 'Quy đầu', 'Quy vỹ/quy râu']),
     160: ('Khiên ngưu', ['Hắc sửu', 'Bạch sửu']),
     196: ('Mã đề', []),
+    40: ('Bồ kết (quả)', []),
+    140: ('Hoàng nàn chế', []),
+    167: ('Kim ngân cuộng', []),
+    255: ('Phụ tử chế', []),
     340: ('Tô tử', ['Tía tô hạt']),
     367: ('Viễn chí', []),
 }

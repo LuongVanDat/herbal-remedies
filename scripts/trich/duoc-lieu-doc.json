@@ -1,0 +1,246 @@
+{
+ "_nguon": "Thông tư 13/2024/TT-BYT — Danh mục dược liệu độc làm thuốc (Phụ lục I thực vật, II động vật, III khoáng vật). Chép từ bản trích dẫn nguyên văn tại thuviennhadat.vn (bản chính thức trên thuvienphapluat.vn chặn truy cập tự động). Ý nghĩa ký hiệu (*) (**) chưa xác minh nên không dùng.",
+ "ds": [
+  {
+   "phu_luc": "I",
+   "stt": 1,
+   "ten": "Ba đậu",
+   "ten_khoa_hoc": "Fructus Crotonis",
+   "dm_stt": []
+  },
+  {
+   "phu_luc": "I",
+   "stt": 2,
+   "ten": "Bán hạ",
+   "ten_khoa_hoc": "Rhizoma Pinelliae",
+   "dm_stt": [
+    29
+   ]
+  },
+  {
+   "phu_luc": "I",
+   "stt": 3,
+   "ten": "Cà độc dược",
+   "ten_khoa_hoc": "Flos Daturae/Flos Daturae metelis",
+   "dm_stt": [
+    44
+   ]
+  },
+  {
+   "phu_luc": "I",
+   "stt": 4,
+   "ten": "Cam toại",
+   "ten_khoa_hoc": "Radix Kansui/Radix Euphorbiae kansui",
+   "dm_stt": [
+    48
+   ]
+  },
+  {
+   "phu_luc": "I",
+   "stt": 5,
+   "ten": "Chiêu liêu",
+   "ten_khoa_hoc": "Cortex Terminaliaen nigrovenulosae",
+   "dm_stt": []
+  },
+  {
+   "phu_luc": "I",
+   "stt": 6,
+   "ten": "Dừa cạn (lá)",
+   "ten_khoa_hoc": "Folium Catharanthi rosei",
+   "dm_stt": [
+    86
+   ]
+  },
+  {
+   "phu_luc": "I",
+   "stt": 7,
+   "ten": "Dừa cạn (rễ)",
+   "ten_khoa_hoc": "Radix Catharanthi rosei",
+   "dm_stt": [
+    86
+   ]
+  },
+  {
+   "phu_luc": "I",
+   "stt": 8,
+   "ten": "Kinh đại kích",
+   "ten_khoa_hoc": "Radix Euphorbiae pekinensis",
+   "dm_stt": []
+  },
+  {
+   "phu_luc": "I",
+   "stt": 9,
+   "ten": "Gấc (hạt)",
+   "ten_khoa_hoc": "Semen Momordicae cochinchinensis",
+   "dm_stt": []
+  },
+  {
+   "phu_luc": "I",
+   "stt": 10,
+   "ten": "Hoàng nàn",
+   "ten_khoa_hoc": "Cortex Strychni wallichianae",
+   "dm_stt": [
+    140
+   ]
+  },
+  {
+   "phu_luc": "I",
+   "stt": 11,
+   "ten": "Hương gia bì",
+   "ten_khoa_hoc": "Cortex Periplocae",
+   "dm_stt": [
+    146
+   ]
+  },
+  {
+   "phu_luc": "I",
+   "stt": 12,
+   "ten": "Ngoi",
+   "ten_khoa_hoc": "Folium Solani erianthi",
+   "dm_stt": []
+  },
+  {
+   "phu_luc": "I",
+   "stt": 13,
+   "ten": "Mã tiền",
+   "ten_khoa_hoc": "Semen Strychni",
+   "dm_stt": [
+    199
+   ]
+  },
+  {
+   "phu_luc": "I",
+   "stt": 14,
+   "ten": "Ô đầu",
+   "ten_khoa_hoc": "Radix Aconiti",
+   "dm_stt": []
+  },
+  {
+   "phu_luc": "I",
+   "stt": 15,
+   "ten": "Phụ tử",
+   "ten_khoa_hoc": "Radix Aconiti lateralis",
+   "dm_stt": [
+    255
+   ]
+  },
+  {
+   "phu_luc": "I",
+   "stt": 16,
+   "ten": "Quảng mộc thông",
+   "ten_khoa_hoc": "Caulis Aristolochiae",
+   "dm_stt": []
+  },
+  {
+   "phu_luc": "I",
+   "stt": 17,
+   "ten": "Quảng phòng kỷ",
+   "ten_khoa_hoc": "Radix Aristolochiae",
+   "dm_stt": []
+  },
+  {
+   "phu_luc": "I",
+   "stt": 18,
+   "ten": "Thiên nam tinh",
+   "ten_khoa_hoc": "Rhizoma Arisaematis",
+   "dm_stt": [
+    319
+   ]
+  },
+  {
+   "phu_luc": "I",
+   "stt": 19,
+   "ten": "Thiên tiên tử",
+   "ten_khoa_hoc": "Semen Hyoscyami",
+   "dm_stt": []
+  },
+  {
+   "phu_luc": "I",
+   "stt": 20,
+   "ten": "Thương lục",
+   "ten_khoa_hoc": "Radix Phytolaccae",
+   "dm_stt": [
+    328
+   ]
+  },
+  {
+   "phu_luc": "I",
+   "stt": 21,
+   "ten": "Trúc đào",
+   "ten_khoa_hoc": "Folium Nerii oleanderis",
+   "dm_stt": []
+  },
+  {
+   "phu_luc": "I",
+   "stt": 22,
+   "ten": "Xoan (Khổ luyện bì)",
+   "ten_khoa_hoc": "Cortex Meliae",
+   "dm_stt": []
+  },
+  {
+   "phu_luc": "II",
+   "stt": 1,
+   "ten": "Ban miêu",
+   "ten_khoa_hoc": "Mylabris",
+   "dm_stt": []
+  },
+  {
+   "phu_luc": "II",
+   "stt": 2,
+   "ten": "Ngô công",
+   "ten_khoa_hoc": "Scolopendra",
+   "dm_stt": [
+    224
+   ]
+  },
+  {
+   "phu_luc": "II",
+   "stt": 3,
+   "ten": "Thiềm tô",
+   "ten_khoa_hoc": "Venenum Bufonis",
+   "dm_stt": []
+  },
+  {
+   "phu_luc": "II",
+   "stt": 4,
+   "ten": "Toàn yết",
+   "ten_khoa_hoc": "Scorpio",
+   "dm_stt": [
+    343
+   ]
+  },
+  {
+   "phu_luc": "III",
+   "stt": 1,
+   "ten": "Khinh phấn",
+   "ten_khoa_hoc": "Calomelas",
+   "dm_stt": []
+  },
+  {
+   "phu_luc": "III",
+   "stt": 2,
+   "ten": "Hùng hoàng",
+   "ten_khoa_hoc": "Realgar",
+   "dm_stt": []
+  },
+  {
+   "phu_luc": "III",
+   "stt": 3,
+   "ten": "Lưu hoàng",
+   "ten_khoa_hoc": "Sulfur",
+   "dm_stt": [
+    195
+   ]
+  },
+  {
+   "phu_luc": "III",
+   "stt": 4,
+   "ten": "Thần sa",
+   "ten_khoa_hoc": "Cinnabaris",
+   "dm_stt": [
+    309
+   ]
+  }
+ ],
+ "_khop": "dm_stt = STT trong danh mục vị thuốc QĐ 5013 cùng dược liệu (khớp tay theo tên vị + tên cây). Xoan nhừ (Choerospondias) và Bán hạ nam (Typhonium) là cây khác nên không khớp."
+}

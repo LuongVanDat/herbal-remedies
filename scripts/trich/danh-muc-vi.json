@@ -1,0 +1,3568 @@
+[
+ {
+  "stt": 1,
+  "trang": 152,
+  "ten": "A giao",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Colla Corii Asini",
+  "ten_cay": "Equus asinus L. - Equidae"
+ },
+ {
+  "stt": 2,
+  "trang": 152,
+  "ten": "Actiso",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Cynarae scolymi",
+  "ten_cay": "Cynara scolymus L. - Asteraceae"
+ },
+ {
+  "stt": 3,
+  "trang": 152,
+  "ten": "Ba kích",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Radix Morindae officinalis",
+  "ten_cay": "Morinda officinalis How. - Rubiaceae"
+ },
+ {
+  "stt": 4,
+  "trang": 152,
+  "ten": "Bá tử nhân",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Semen Platycladi orientalis",
+  "ten_cay": "Platycladus orientalis (L.) Franco - Cupressaceae"
+ },
+ {
+  "stt": 5,
+  "trang": 152,
+  "ten": "Bạc hà",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Menthae",
+  "ten_cay": "Mentha arvensis L. - Lamiaceae"
+ },
+ {
+  "stt": 6,
+  "trang": 152,
+  "ten": "Bạc thau",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Argyreiae",
+  "ten_cay": "Argyreia acuta Lour. - Convolvulaceae"
+ },
+ {
+  "stt": 7,
+  "trang": 152,
+  "ten": "Bạch biển đậu",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Semen Lablab",
+  "ten_cay": "Lablab purpureus (L.) Sweet - Fabaceae"
+ },
+ {
+  "stt": 8,
+  "trang": 152,
+  "ten": "Bách bộ",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Radix Stemonae tuberosae",
+  "ten_cay": "Stemona tuberosa Lour. - Stemonaceae"
+ },
+ {
+  "stt": 9,
+  "trang": 152,
+  "ten": "Bạch cập",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Rhizoma Bletillae striatae",
+  "ten_cay": "Bletilla striata (Thunb.) Reichb. F. - Orchidaceae"
+ },
+ {
+  "stt": 10,
+  "trang": 152,
+  "ten": "Bạch chỉ",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Radix Angelicae dahuricae",
+  "ten_cay": "Angelica dahurica Benth. et Hook.f. - Apiaceae"
+ },
+ {
+  "stt": 11,
+  "trang": 152,
+  "ten": "Bạch cương tàm",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Bombyx Botryticatus",
+  "ten_cay": "Bombyx mori L. - Bombycidae"
+ },
+ {
+  "stt": 12,
+  "trang": 152,
+  "ten": "Bạch đậu khấu",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Fructus Amomi",
+  "ten_cay": "Amomum krervanh Pierre ex Gagnep. - Zingiberaceae"
+ },
+ {
+  "stt": 13,
+  "trang": 152,
+  "ten": "Bạch đồng nữ",
+  "ten_khac": [
+   "Mò mâm xôi",
+   "Mấn trắng"
+  ],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Herba Clerodendri chinensis",
+  "ten_cay": "Clerodendron chinense var.Simplex (Mold. S. L. Chen) -Verbenaceae Clerodendron paniculatum L. forma"
+ },
+ {
+  "stt": 14,
+  "trang": 152,
+  "ten": "Bạch giới tử",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Semen Sinapis albae",
+  "ten_cay": "albiflorum (Hemsl.) Sinapis alba L. - Brassicaceae"
+ },
+ {
+  "stt": 15,
+  "trang": 152,
+  "ten": "Bạch hoa xà",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Radix et Folium Plumbaginis",
+  "ten_cay": "Plumbago zeylanica L. - Plumbaginaceae"
+ },
+ {
+  "stt": 16,
+  "trang": 152,
+  "ten": "Bạch hoa xà thiệt thảo",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Herba Hedyotis diffusae",
+  "ten_cay": "Hedyotis diffusa Willd. - Rubiaceac"
+ },
+ {
+  "stt": 17,
+  "trang": 152,
+  "ten": "Bách hợp",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Bulbus Lilii",
+  "ten_cay": "Lilium brownii E.E. Brow, ex Mill. - Liliaceae"
+ },
+ {
+  "stt": 18,
+  "trang": 152,
+  "ten": "Bạch linh",
+  "ten_khac": [
+   "Phục linh"
+  ],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Poria",
+  "ten_cay": "Poria cocos (Schw.) Wolf - Polyporaceae"
+ },
+ {
+  "stt": 19,
+  "trang": 152,
+  "ten": "Bạch mao căn",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Rhizoma Imperatae cylindricae",
+  "ten_cay": "Imperata cylindrica p. Beauv. - Poaceae"
+ },
+ {
+  "stt": 20,
+  "trang": 152,
+  "ten": "Bạch phụ tử",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Rhizoma Typhonii gigantei",
+  "ten_cay": "Typhonium giganteum Engl. - Araceae"
+ },
+ {
+  "stt": 21,
+  "trang": 152,
+  "ten": "Bạch quả",
+  "ten_khac": [
+   "Ngân hạnh"
+  ],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Semen Ginkgo",
+  "ten_cay": "Ginkgo biloba L. - Ginkgoaceae"
+ },
+ {
+  "stt": 22,
+  "trang": 152,
+  "ten": "Bạch tật lê",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Fructus Tribuli terrestris",
+  "ten_cay": "Tribulus terrestris L. - Zygophyllaceae"
+ },
+ {
+  "stt": 23,
+  "trang": 152,
+  "ten": "Bạch thược",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Radix Paeoniae lactiflorae",
+  "ten_cay": "Paeonia lactiflora Pall. - Ranunculaceae"
+ },
+ {
+  "stt": 24,
+  "trang": 152,
+  "ten": "Bạch tiền",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Radix et Rhizoma Cynanchi",
+  "ten_cay": "Cynanchum stauntonii (D.) Schltr. ex Levl.- Asclepiadaceae"
+ },
+ {
+  "stt": 25,
+  "trang": 152,
+  "ten": "Bạch tiễn bì",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "radicis Cortex Dictamni",
+  "ten_cay": "Dictamnus dasycarpus Turcz. - Rutaceae"
+ },
+ {
+  "stt": 26,
+  "trang": 153,
+  "ten": "Bạch truật",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Rhizoma Alractylodis macrocephalae",
+  "ten_cay": "Atractylodes macrocephalaKoidz. - Asteraceae"
+ },
+ {
+  "stt": 27,
+  "trang": 153,
+  "ten": "Bán biên liên",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Herba Lobeliae chinensis",
+  "ten_cay": "Lobelia chinensis Lour. - Lobeliaceae"
+ },
+ {
+  "stt": 28,
+  "trang": 153,
+  "ten": "Bán chi liên",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Radix Scutellariae barbatae",
+  "ten_cay": "Scutellaria barbata D. Don. - Laminacae"
+ },
+ {
+  "stt": 29,
+  "trang": 153,
+  "ten": "Bán hạ bắc",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Rhizoma Pinelliae",
+  "ten_cay": "Pinellia ternata (Thunb.) Breit. - Araceae"
+ },
+ {
+  "stt": 30,
+  "trang": 153,
+  "ten": "Bán hạ nam",
+  "ten_khac": [
+   "Củ chóc"
+  ],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Rhizoma Typhonii trilobati",
+  "ten_cay": "Typhonium trilobatum (L.) Schott, - Araceae."
+ },
+ {
+  "stt": 31,
+  "trang": 153,
+  "ten": "Bản lam căn",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Herba Isatisis",
+  "ten_cay": "Isatis indigotica Fort. - Brassicaceae"
+ },
+ {
+  "stt": 32,
+  "trang": 153,
+  "ten": "Băng phiến",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Borneolum",
+  "ten_cay": "Borneolum"
+ },
+ {
+  "stt": 33,
+  "trang": 153,
+  "ten": "Biển súc",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Herba Poligoni avicularae",
+  "ten_cay": "Polygonum aviculare L. - Polygonaceae"
+ },
+ {
+  "stt": 34,
+  "trang": 153,
+  "ten": "Bình vôi",
+  "ten_khac": [
+   "Ngải tượng"
+  ],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Tuber Stephaniae",
+  "ten_cay": "Stephania spp. - Menispermaceae"
+ },
+ {
+  "stt": 35,
+  "trang": 153,
+  "ten": "Binh lang",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Semen Arecae Catechi",
+  "ten_cay": "Areca catechu L. - Arecaceae"
+ },
+ {
+  "stt": 36,
+  "trang": 153,
+  "ten": "Bồ công anh",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Lactucae indicae",
+  "ten_cay": "Lactuca indica L. - Asteraceae"
+ },
+ {
+  "stt": 37,
+  "trang": 153,
+  "ten": "Bồ hoàng",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Pollen Typhae",
+  "ten_cay": "Typha orientalis G. A. Stuart - Typhaceae"
+ },
+ {
+  "stt": 38,
+  "trang": 153,
+  "ten": "Bọ mắm",
+  "ten_khac": [
+   "Thuốc dòi"
+  ],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Pouzolziae zeylanicae",
+  "ten_cay": "Pouzolzia zeylanica (L.) Benn - Urticaceae"
+ },
+ {
+  "stt": 39,
+  "trang": 153,
+  "ten": "Bố chính sâm",
+  "ten_khac": [
+   "Sâm bố chính"
+  ],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Radix Abelmoschi sagittifolii",
+  "ten_cay": "Abelmoschus sagittifolus (Kurz.) Merr. - Malvaceae"
+ },
+ {
+  "stt": 40,
+  "trang": 153,
+  "ten": "Bồ kết (quả)",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Fructus Gleditsiae australis",
+  "ten_cay": "Gleditsia australis Hemsl. - Fabaceae"
+ },
+ {
+  "stt": 41,
+  "trang": 153,
+  "ten": "Bòng bong",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Lygodii",
+  "ten_cay": "Lygodium flexuosum (L.) Sw. - Lygodiaceae"
+ },
+ {
+  "stt": 42,
+  "trang": 153,
+  "ten": "Bưởi bung",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Radix et Folium Glycosmis",
+  "ten_cay": "Glycosmis citrifolia (Willd) Lindl. - Rutaceae"
+ },
+ {
+  "stt": 43,
+  "trang": 153,
+  "ten": "Bướm bạc",
+  "ten_khac": [
+   "Hồ điệp"
+  ],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Mussaendae pubenscentis",
+  "ten_cay": "Mussaenda pubescens Ait.f. - Rubiaceae"
+ },
+ {
+  "stt": 44,
+  "trang": 153,
+  "ten": "Cà độc dược",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Flos et Folium Daturae metelis",
+  "ten_cay": "Datura metel L. - Solanaceae"
+ },
+ {
+  "stt": 45,
+  "trang": 153,
+  "ten": "Cà gai leo",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Solani procumbensis",
+  "ten_cay": "Solanum procumbens Lour. - Solanaceae"
+ },
+ {
+  "stt": 46,
+  "trang": 153,
+  "ten": "Cam thảo",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Radix et Rhizoma Glycyrrhizae",
+  "ten_cay": "Glycyrrhiza spp. - Fabaceae"
+ },
+ {
+  "stt": 47,
+  "trang": 153,
+  "ten": "Cam thảo đất",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba et radix Scopariae",
+  "ten_cay": "Scoparia dulcis L. - Scrophulariaceae"
+ },
+ {
+  "stt": 48,
+  "trang": 153,
+  "ten": "Cam toại",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Radix Euphorbiae kansui",
+  "ten_cay": "Euphorbia kansui Liouined. - Euphorbiaceae"
+ },
+ {
+  "stt": 49,
+  "trang": 153,
+  "ten": "Can khương",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Rhizoma Zingiberis",
+  "ten_cay": "Zingiber officinale Rose. - Zingiberaceae"
+ },
+ {
+  "stt": 50,
+  "trang": 153,
+  "ten": "Cảo bản",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Rhizoma et Radix Ligustici chinensis",
+  "ten_cay": "Ligusticum sinense Oliv. - Apiaceae"
+ },
+ {
+  "stt": 51,
+  "trang": 153,
+  "ten": "Cáp giới",
+  "ten_khac": [
+   "Tắc kè"
+  ],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Gekko",
+  "ten_cay": "Gekko gekko Lin. - Gekkonidae"
+ },
+ {
+  "stt": 52,
+  "trang": 153,
+  "ten": "Cát căn",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Radix Puerariae thomsonii",
+  "ten_cay": "Pueraria thomsonii Benth. - Fabaceae"
+ },
+ {
+  "stt": 53,
+  "trang": 153,
+  "ten": "Cát cánh",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "grandiflori Radix Platycodi",
+  "ten_cay": "Campanulaceae Platycodon grandiflorum (Jacq.) A.DC. -"
+ },
+ {
+  "stt": 54,
+  "trang": 154,
+  "ten": "Cát sâm",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Radix Mellettiae speciosae",
+  "ten_cay": "Millettia speciosa Champ. - Fabaceae"
+ },
+ {
+  "stt": 55,
+  "trang": 154,
+  "ten": "Câu đằng",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Ramulus cum unco Uncariae",
+  "ten_cay": "Uncaria spp. - Rubiaceae"
+ },
+ {
+  "stt": 56,
+  "trang": 154,
+  "ten": "Câu kỷ tử",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Fructus Lycii",
+  "ten_cay": "Lycium barbarm.L - Solanaceae"
+ },
+ {
+  "stt": 57,
+  "trang": 154,
+  "ten": "Cẩu tích",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Rhizoma Cibotii",
+  "ten_cay": "Cibotium barometz (L.) J. Sm. - Dicksoniaceae"
+ },
+ {
+  "stt": 58,
+  "trang": 154,
+  "ten": "Chè dây",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Folium Ampelopsis",
+  "ten_cay": "Ampelopsis cantoniensis (Hook, et Arn.) Planch. - Vitaceae"
+ },
+ {
+  "stt": 59,
+  "trang": 154,
+  "ten": "Chè đắng",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Folium Ilexi kaushii",
+  "ten_cay": "Ilex kaushue S.Y.Hu; Syn. Ilex kudingcha C.J Tseng - Aquifoliaceae"
+ },
+ {
+  "stt": 60,
+  "trang": 154,
+  "ten": "Chè vằng",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Folium Jasmini subtriplinervis",
+  "ten_cay": "Jasminum subtriplinerve Blume., Oleaceae"
+ },
+ {
+  "stt": 61,
+  "trang": 154,
+  "ten": "Chỉ thiên",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Elephantopi scarberis",
+  "ten_cay": "Elephantopus scarber L. - Asteraceae"
+ },
+ {
+  "stt": 62,
+  "trang": 154,
+  "ten": "Chi tử",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Fructus Gardeniae",
+  "ten_cay": "Gardenia jasminoides Ellis. -Rubiaceae"
+ },
+ {
+  "stt": 63,
+  "trang": 154,
+  "ten": "Chỉ thực",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Fructus Aurantii immaturus",
+  "ten_cay": "Citrus aurantium L. - Rutaceae"
+ },
+ {
+  "stt": 64,
+  "trang": 154,
+  "ten": "Chỉ xác",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Fructus Aurantii",
+  "ten_cay": "Citrus aurantium L. - Rutaceae"
+ },
+ {
+  "stt": 65,
+  "trang": 154,
+  "ten": "Chút chít",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Radix et Folium Rumicis",
+  "ten_cay": "Rumex microcarpus Campd. - Polygonaceae"
+ },
+ {
+  "stt": 66,
+  "trang": 154,
+  "ten": "Cỏ ngọt",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Steviae",
+  "ten_cay": "Stevia rebaudiana (Bert.) Hemsl. - Asteraceae"
+ },
+ {
+  "stt": 67,
+  "trang": 154,
+  "ten": "Cỏ nhọ nồi",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Ecliptae",
+  "ten_cay": "Eclipta prostrata (L.) Asteraceae"
+ },
+ {
+  "stt": 68,
+  "trang": 154,
+  "ten": "Cỏ sữa nhỏ lá",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Euphorbiae thymifoliae",
+  "ten_cay": "Euphorbia thymifolia Burm. - Euphorbiaceae"
+ },
+ {
+  "stt": 69,
+  "trang": 154,
+  "ten": "Cỏ xước",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Radix Achyranthis asperae",
+  "ten_cay": "Achyranthes aspera L. - Amaranthaceae"
+ },
+ {
+  "stt": 70,
+  "trang": 154,
+  "ten": "Cốc tinh thảo",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Flos Eriocauli",
+  "ten_cay": "Eriocaulon sexangulare L. - Eriocaulaceae"
+ },
+ {
+  "stt": 71,
+  "trang": 154,
+  "ten": "Cối xay",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Abutili indici",
+  "ten_cay": "Abutilon indicum (L.) Sweet - Malvaceae"
+ },
+ {
+  "stt": 72,
+  "trang": 154,
+  "ten": "Côn bố",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Herba Laminariae",
+  "ten_cay": "Laminaria japonica Areschong. - Laminariaceae"
+ },
+ {
+  "stt": 73,
+  "trang": 154,
+  "ten": "Cốt khí củ",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Radix Polygoni cuspidati",
+  "ten_cay": "Polygonum cuspidatum Sieb. et zucc. - Polygonaceae"
+ },
+ {
+  "stt": 74,
+  "trang": 154,
+  "ten": "Cốt toái bổ",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Rhizoma Drynariae",
+  "ten_cay": "Drynaria fortunei (Mett.) J. Sm. - Polypodiaceae"
+ },
+ {
+  "stt": 75,
+  "trang": 154,
+  "ten": "Củ gai",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Radix Boehmeriae niveae",
+  "ten_cay": "Boehmeria nivea (L.) Gaud. - Urticaceae"
+ },
+ {
+  "stt": 76,
+  "trang": 154,
+  "ten": "Cù mạch",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Herba Dianthi",
+  "ten_cay": "Dianthus superbus L. - Caryophyllaceae"
+ },
+ {
+  "stt": 77,
+  "trang": 154,
+  "ten": "Cúc hoa",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Flos Chrysanthemi indici",
+  "ten_cay": "Chrysanthemum indicum L. - Asteraceae"
+ },
+ {
+  "stt": 78,
+  "trang": 154,
+  "ten": "Cúc tần",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Radix et folium Plucheae indicae",
+  "ten_cay": "Pluchea indica (L.) Less - Asteraceae"
+ },
+ {
+  "stt": 79,
+  "trang": 154,
+  "ten": "Dạ cẩm",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Hedyotidis capitellatae",
+  "ten_cay": "Hedyotis capitellata Wall, ex G.Don - Rubiaceae"
+ },
+ {
+  "stt": 80,
+  "trang": 154,
+  "ten": "Dâm dương hoắc",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Herba Epimedii",
+  "ten_cay": "Epimedium brevicornum Maxim. - Berberidaceae"
+ },
+ {
+  "stt": 81,
+  "trang": 154,
+  "ten": "Dây đau xương",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Caulis Tinosporae sinensis",
+  "ten_cay": "Tinospora sinensis (Lour.) Merr. - Menispermaceae"
+ },
+ {
+  "stt": 82,
+  "trang": 155,
+  "ten": "Dây tơ hồng",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Cuscutae",
+  "ten_cay": "Cuscuta sp. - Convolvulaceae"
+ },
+ {
+  "stt": 83,
+  "trang": 155,
+  "ten": "Dây thìa canh",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Gymnemae silvestris",
+  "ten_cay": "Gymnema sylvestre (Retz.) R. Br.ex Schutt. - Ascle piadaceae"
+ },
+ {
+  "stt": 84,
+  "trang": 155,
+  "ten": "Diếp cá",
+  "ten_khac": [
+   "Ngư tinh thảo"
+  ],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Houttuyniae cordatae",
+  "ten_cay": "Houttuynia cordata Thunb. - Saururaceae"
+ },
+ {
+  "stt": 85,
+  "trang": 155,
+  "ten": "Diệp hạ châu",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Phyllanthi amari",
+  "ten_cay": "Phyllanthus amarus Schum. et Thonn. - Euphorbiaceae"
+ },
+ {
+  "stt": 86,
+  "trang": 155,
+  "ten": "Dừa cạn",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Radix et Folium Catharanthi",
+  "ten_cay": "Catharanthus roseus (L.) G. Don. - Apocynaceae"
+ },
+ {
+  "stt": 87,
+  "trang": 155,
+  "ten": "Dứa dại",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Pandanii",
+  "ten_cay": "Pandanus tectorius So. - Pandanaceae."
+ },
+ {
+  "stt": 88,
+  "trang": 155,
+  "ten": "Đại bi",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Folium, ramulus et radix Camphora Blumeae",
+  "ten_cay": "Blumea balsamifera (L.) DC. - Asteraceae"
+ },
+ {
+  "stt": 89,
+  "trang": 155,
+  "ten": "Đại hồi",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Fructus Illicii veri",
+  "ten_cay": "lllicium verum Hook.f. - Illiciaceae"
+ },
+ {
+  "stt": 90,
+  "trang": 155,
+  "ten": "Đại phúc bì",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Pericarpium Arecae catechi",
+  "ten_cay": "Arecae catechu L. - Arecaceae"
+ },
+ {
+  "stt": 91,
+  "trang": 155,
+  "ten": "Đại táo",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Fructus Ziziphi jujubae",
+  "ten_cay": "Ziziphus jujuba Mill. var. inermis (Bge) Rehd. - Rhamnaceae"
+ },
+ {
+  "stt": 92,
+  "trang": 155,
+  "ten": "Đại toán",
+  "ten_khac": [
+   "Tỏi"
+  ],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Bulbus Allii",
+  "ten_cay": "Allium sativum L. - Alliaceae"
+ },
+ {
+  "stt": 93,
+  "trang": 155,
+  "ten": "Đại hoàng",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Rhizoma Rhei",
+  "ten_cay": "Rheum palmatum L, - Polygonaceae"
+ },
+ {
+  "stt": 94,
+  "trang": 155,
+  "ten": "Đạm đậu xị",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Semen Sojae praeparatum",
+  "ten_cay": "Sojae praeparatum L. - Fabaceae"
+ },
+ {
+  "stt": 95,
+  "trang": 155,
+  "ten": "Đạm trúc diệp",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Herba Lophatheri",
+  "ten_cay": "Lophatherum gracile Brongn. - Poaceae"
+ },
+ {
+  "stt": 96,
+  "trang": 155,
+  "ten": "Đan sâm",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Radix Salviae miltiorrhizae",
+  "ten_cay": "Salvia miltiorrhiza Bunge. - Lamiaceae"
+ },
+ {
+  "stt": 97,
+  "trang": 155,
+  "ten": "Đảng sâm bắc",
+  "ten_khac": [
+   "Tố hoa đảng sâm"
+  ],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Radix Codonopsis",
+  "ten_cay": "Codonopsis Pilosula (Franch.) - Campanulaceae"
+ },
+ {
+  "stt": 98,
+  "trang": 155,
+  "ten": "Đảng sâm bắc",
+  "ten_khac": [
+   "Xuyên đảng sâm"
+  ],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Radix Codonopsis",
+  "ten_cay": "Codonopsis tangshen Olive.- Campanulaceae"
+ },
+ {
+  "stt": 99,
+  "trang": 155,
+  "ten": "Đảng sâm Việt Nam",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Radix Codonopsis javanicae",
+  "ten_cay": "Codonopsis javanica (Blume.) Hook.F. - Campanulaceae"
+ },
+ {
+  "stt": 100,
+  "trang": 155,
+  "ten": "Đăng tâm thảo",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Medulla Junci effusi",
+  "ten_cay": "Juncus effusus L. - Juncaceae"
+ },
+ {
+  "stt": 101,
+  "trang": 155,
+  "ten": "Đào nhân",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Semen Pruni",
+  "ten_cay": "Prunus persica L. - Rosaceae"
+ },
+ {
+  "stt": 102,
+  "trang": 155,
+  "ten": "Đậu đen",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Semen Vignae cylindricae",
+  "ten_cay": "Vigna cylindrica Skeels - Fabaceae"
+ },
+ {
+  "stt": 103,
+  "trang": 155,
+  "ten": "Đậu quyển",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Semen Vignae cylindricae praeparata",
+  "ten_cay": "Vigna cylindrica (L.) Skeels - Fabaceae"
+ },
+ {
+  "stt": 104,
+  "trang": 155,
+  "ten": "Địa cốt bì",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Cortex Lycii chinensis radicis",
+  "ten_cay": "Lycium chinense Mill. - Solanaceae"
+ },
+ {
+  "stt": 105,
+  "trang": 155,
+  "ten": "Địa du",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Radix Sanguisorbae",
+  "ten_cay": "Sanguisorba officinalis L. - Rosaceae"
+ },
+ {
+  "stt": 106,
+  "trang": 155,
+  "ten": "Địa long",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Pheretima",
+  "ten_cay": "Pheretima sp. - Megascolecidae"
+ },
+ {
+  "stt": 107,
+  "trang": 155,
+  "ten": "Địa phu tử",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Fructus Kochiae",
+  "ten_cay": "Kochia scoparia (L.) Schrad. - Polygonaceae"
+ },
+ {
+  "stt": 108,
+  "trang": 155,
+  "ten": "Địa liền",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Rhizoma Kaempferiae galangae",
+  "ten_cay": "Kaempferia galanga L. - Zingiberaceae"
+ },
+ {
+  "stt": 109,
+  "trang": 155,
+  "ten": "Đinh hương",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Flos Syzygii aromatici",
+  "ten_cay": "Perry - Myrtaceae Syzygium aromaticum (L.) Merill et L.M."
+ },
+ {
+  "stt": 110,
+  "trang": 156,
+  "ten": "Đinh lăng",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Radix Polysciacis",
+  "ten_cay": "Polyscias fruticosa (L.) Harms - Araliaceae"
+ },
+ {
+  "stt": 111,
+  "trang": 156,
+  "ten": "Đình lịch tử",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "2",
+  "ten_cay": "Lepidium apetatum Willd. Crucipherae"
+ },
+ {
+  "stt": 112,
+  "trang": 156,
+  "ten": "Đỗ trọng",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Cortex Eucommiae",
+  "ten_cay": "Eucommia ulmoides Oliv. - Eucommiaceae"
+ },
+ {
+  "stt": 113,
+  "trang": 156,
+  "ten": "Độc hoạt",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Radix Angelicae pubescentis",
+  "ten_cay": "Angelica pubescens Maxim. - Apiaceae"
+ },
+ {
+  "stt": 114,
+  "trang": 156,
+  "ten": "Đơn lá đỏ",
+  "ten_khac": [
+   "Đơn mặt trời"
+  ],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Folium Excoecariae cochinchinensis",
+  "ten_cay": "Excoecaria cochinchinensisLour. - Euphorbiaceae"
+ },
+ {
+  "stt": 115,
+  "trang": 156,
+  "ten": "Đương quy",
+  "ten_khac": [
+   "Toàn quy",
+   "Quy đầu",
+   "Quy vỹ/quy râu"
+  ],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Radix Angelicae sinensis",
+  "ten_cay": "Angelica sinensis (Oliv.) Diels - Apiaceae"
+ },
+ {
+  "stt": 116,
+  "trang": 156,
+  "ten": "Giảo cổ lam",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Gynostemmae",
+  "ten_cay": "Gynostemma pentaphyllum (Thunb.) Makino - Cucurbitaceae"
+ },
+ {
+  "stt": 117,
+  "trang": 156,
+  "ten": "Gối hạc",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Radix Leeae rubrae",
+  "ten_cay": "Leea rubra Blume ex Spreng. - Leeaceae."
+ },
+ {
+  "stt": 118,
+  "trang": 156,
+  "ten": "Hà diệp",
+  "ten_khac": [
+   "lá sen"
+  ],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Folium Nelumbinis nuciferae",
+  "ten_cay": "Nelumbo nucifera Gaertn - Nelumbonaceae"
+ },
+ {
+  "stt": 119,
+  "trang": 156,
+  "ten": "Hạ khô thảo",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Spica Prunellae",
+  "ten_cay": "Prunella vulgaris L. - Lamiaceae"
+ },
+ {
+  "stt": 120,
+  "trang": 156,
+  "ten": "Hà thủ ô đỏ",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Radix Fallopiae multiflorae",
+  "ten_cay": "Fallopia multiflora (Thunb.) Haraldson - Polygonaceae"
+ },
+ {
+  "stt": 121,
+  "trang": 156,
+  "ten": "Hà thủ ô trắng",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Radix Streptocauli",
+  "ten_cay": "Streptocaulon juventas (Lour.) Merr. - Asclepiadaceae"
+ },
+ {
+  "stt": 122,
+  "trang": 156,
+  "ten": "Hải kim sa",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Spora Lygodii",
+  "ten_cay": "Lygodium japonium (Thunb.) Sw. - Schizaeaceae"
+ },
+ {
+  "stt": 123,
+  "trang": 156,
+  "ten": "Hải mã",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Hippocampus",
+  "ten_cay": "Hippocampus spp.Syngnathidae"
+ },
+ {
+  "stt": 124,
+  "trang": 156,
+  "ten": "Hải phong đằng",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Caulis Piperis futokadsurae",
+  "ten_cay": "Piper futokadsura Sieb et zucc - Piperaceae"
+ },
+ {
+  "stt": 125,
+  "trang": 156,
+  "ten": "Hải tảo",
+  "ten_khac": [
+   "Rong mơ"
+  ],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Sargassi",
+  "ten_cay": "Sargassum sp - Sargassaceae"
+ },
+ {
+  "stt": 126,
+  "trang": 156,
+  "ten": "Hạnh nhân",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Semen Armeniacae amarum",
+  "ten_cay": "Prunus armeniaca L. - Rosaceae"
+ },
+ {
+  "stt": 127,
+  "trang": 156,
+  "ten": "Hạt hẹ",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Semen Allii",
+  "ten_cay": "Allium tuberosum/ramosum - Alliaceae"
+ },
+ {
+  "stt": 128,
+  "trang": 156,
+  "ten": "Hạt bí ngô",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Semen Cucurbitae",
+  "ten_cay": "Cucurbita pepo L. - Cucurbitaceae"
+ },
+ {
+  "stt": 129,
+  "trang": 156,
+  "ten": "Hậu phác",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Cortex Magnoliae officinalis",
+  "ten_cay": "Magnolia officinalis Rehd.et Wils. var. biloba Rehd.et Wils. - Magnoliaceae"
+ },
+ {
+  "stt": 130,
+  "trang": 156,
+  "ten": "Hậu phác nam",
+  "ten_khac": [
+   "Quế rừng"
+  ],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Cortex Cinnamomi iners",
+  "ten_cay": "Cinnamomum iners Reinw.ex Blume - Lauraceae"
+ },
+ {
+  "stt": 131,
+  "trang": 156,
+  "ten": "Hoa đại",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Flos Plumeriae rubrae",
+  "ten_cay": "Plumeria rubra L.var. acutifolia(Poir.) Baliey - Apocynaceae"
+ },
+ {
+  "stt": 132,
+  "trang": 156,
+  "ten": "Hoắc hương",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Herba Pogostemonis",
+  "ten_cay": "Pogostemon cablin (Blanco) Benth. - Lamiaceae"
+ },
+ {
+  "stt": 133,
+  "trang": 156,
+  "ten": "Hoài sơn",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Tuber Dioscoreae persimilis",
+  "ten_cay": "Dioscorea persimilis Prain et Burkill - Dioscoreaceae"
+ },
+ {
+  "stt": 134,
+  "trang": 156,
+  "ten": "Hoàng bá",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Cortex Phellodendri",
+  "ten_cay": "Phellodendron chinenseSchneid. - Rutaceae"
+ },
+ {
+  "stt": 135,
+  "trang": 156,
+  "ten": "Hoàng bá nam",
+  "ten_khac": [
+   "Núc nác"
+  ],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Cortex Oroxyli indici",
+  "ten_cay": "Oroxylum indicum (L.) Kurz. - Bignontaceae"
+ },
+ {
+  "stt": 136,
+  "trang": 156,
+  "ten": "Hoàng cầm",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Radix Scutellariae",
+  "ten_cay": "Scutellaria baicalensis Georgi - Lamiaceae"
+ },
+ {
+  "stt": 137,
+  "trang": 157,
+  "ten": "Hoàng đằng",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Caulis et Radix Fibraureae",
+  "ten_cay": "Fibraurea tinctoria Lour. (Fibraurea recisa Pierre) - Menispemnaceae"
+ },
+ {
+  "stt": 138,
+  "trang": 157,
+  "ten": "Hoàng kỳ",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Radix Astragali membranacei",
+  "ten_cay": "Astragalus membranaceus(Fisch.) Bunge - Fabaceae"
+ },
+ {
+  "stt": 139,
+  "trang": 157,
+  "ten": "Hoàng liên",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Rhizoma Coptidis",
+  "ten_cay": "Coptis chinensis Franch. - Ranunculaceae"
+ },
+ {
+  "stt": 140,
+  "trang": 157,
+  "ten": "Hoàng nàn chế",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Cotex Strychni wallichianae",
+  "ten_cay": "Strychnos wallichiana Steud, ex. DC. - Loganiaceae"
+ },
+ {
+  "stt": 141,
+  "trang": 157,
+  "ten": "Hoàng tinh",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Rhizoma Polygonati",
+  "ten_cay": "Polygonatum kingianum Coll et Hemsl - Convallariaceae"
+ },
+ {
+  "stt": 142,
+  "trang": 157,
+  "ten": "Hoạt thạch",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Talcum",
+  "ten_cay": "Talcum"
+ },
+ {
+  "stt": 143,
+  "trang": 157,
+  "ten": "Hòe hoa",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Flos Styphnolobii japonici",
+  "ten_cay": "Styphnolobium japonicum (L.) Schott - Fabaceae"
+ },
+ {
+  "stt": 144,
+  "trang": 157,
+  "ten": "Hồng hoa",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Flos Carthami tinctorii",
+  "ten_cay": "Carthamus tinctorius L. - Asleraceae"
+ },
+ {
+  "stt": 145,
+  "trang": 157,
+  "ten": "Húng chanh",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Folium Plectranthi amboinici",
+  "ten_cay": "Plectranthus amboinicus (Lour.) Spreng - Larniaceae"
+ },
+ {
+  "stt": 146,
+  "trang": 157,
+  "ten": "Hương gia bì",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Cortex Periplocae radicis",
+  "ten_cay": "Periploca sepium Bge. - Asclepiaceae"
+ },
+ {
+  "stt": 147,
+  "trang": 157,
+  "ten": "Hương nhu",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Ocimi",
+  "ten_cay": "Ocimum spp. - Lamiaceae"
+ },
+ {
+  "stt": 148,
+  "trang": 157,
+  "ten": "Hương phụ",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Rhizotna Cyperi",
+  "ten_cay": "Cyperus rotundus L. - Cyperaceae"
+ },
+ {
+  "stt": 149,
+  "trang": 157,
+  "ten": "Huyền hồ",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Tuber Corydalis",
+  "ten_cay": "Corydalis yanhusuo (Y.H.Chou & Chun C. Hsu)W.T.Wang - Fumariaceae"
+ },
+ {
+  "stt": 150,
+  "trang": 157,
+  "ten": "Huyền sâm",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Radix Scrophulariae",
+  "ten_cay": "Scrophularia buergeriana Miq. - Scrophulariaceae"
+ },
+ {
+  "stt": 151,
+  "trang": 157,
+  "ten": "Huyết dụ",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Folium Cordylines",
+  "ten_cay": "Cordyline terminalis Kunth var. ferrea Bak.- Dracaenaceae"
+ },
+ {
+  "stt": 152,
+  "trang": 157,
+  "ten": "Huyết giác",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Lignum Dracaenae cambodianae",
+  "ten_cay": "Dracaena cambodiana Pierre ex Gagnep. - Dracaenaceae"
+ },
+ {
+  "stt": 153,
+  "trang": 157,
+  "ten": "Hy thiêm",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Siegesbeckiae",
+  "ten_cay": "Siegesbeckia orientalis L. - Asteraceae"
+ },
+ {
+  "stt": 154,
+  "trang": 157,
+  "ten": "Ích mẫu",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Leonuri japonici",
+  "ten_cay": "Leonurus japonicus Houtt. - Lamiaceae"
+ },
+ {
+  "stt": 155,
+  "trang": 157,
+  "ten": "Ích trí nhân",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Fructus Alpiniae oxyphyllae",
+  "ten_cay": "Alpinia oxyphylla Miq. - Zingiberaceae"
+ },
+ {
+  "stt": 156,
+  "trang": 157,
+  "ten": "Kê huyết đằng",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Caulis Spatholobi suberecti",
+  "ten_cay": "Spatholobus suberectus Dunn. - Fabaceae"
+ },
+ {
+  "stt": 157,
+  "trang": 157,
+  "ten": "Kê nội kim",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Endothelium Corneum Gigeriae Galli",
+  "ten_cay": "Gallus gallus domesticusBrisson - Phasianidae"
+ },
+ {
+  "stt": 158,
+  "trang": 157,
+  "ten": "Kha tử",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Fructus Terminaliae chebulae",
+  "ten_cay": "Terminalia chebula Retz. - Combretaceae"
+ },
+ {
+  "stt": 159,
+  "trang": 157,
+  "ten": "Khiếm thực",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Semen Euryales",
+  "ten_cay": "Euryale ferox Salisb. - Nymphaeaceae"
+ },
+ {
+  "stt": 160,
+  "trang": 157,
+  "ten": "Khiên ngưu",
+  "ten_khac": [
+   "Hắc sửu",
+   "Bạch sửu"
+  ],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Semen Ipomoeae",
+  "ten_cay": "Ipomoea purpurea (L.) Roth - Convolvulaceae"
+ },
+ {
+  "stt": 161,
+  "trang": 157,
+  "ten": "Khổ sâm",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Folium et Ramulus Crotonis tonkinensis",
+  "ten_cay": "Croton tonkinensis Gagnep. - Euphorbiaceae"
+ },
+ {
+  "stt": 162,
+  "trang": 157,
+  "ten": "Khổ qua",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Fructus Momordicae charantiae",
+  "ten_cay": "Momordica charantia L. - Curcubitaceae"
+ },
+ {
+  "stt": 163,
+  "trang": 157,
+  "ten": "Khoản đông hoa",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Flos Tussilaginis farfarae",
+  "ten_cay": "Tussilago farfara L. - Asteraceae"
+ },
+ {
+  "stt": 164,
+  "trang": 157,
+  "ten": "Khương hoàng",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Rhizoma Curcumae longae",
+  "ten_cay": "Curcuma longa L. - Zingiberaceae"
+ },
+ {
+  "stt": 165,
+  "trang": 158,
+  "ten": "Khương hoạt",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Rhizoma et Radix Notopterygii",
+  "ten_cay": "Notopterygium incisum Ting ex H. T. Chang - Apiaceae"
+ },
+ {
+  "stt": 166,
+  "trang": 158,
+  "ten": "Kim anh",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Fructus Rosae laevigatae",
+  "ten_cay": "Rosa laevigata Michx, - Rosaceae"
+ },
+ {
+  "stt": 167,
+  "trang": 158,
+  "ten": "Kim ngân cuộng",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Caulis cum folium Lonicerae",
+  "ten_cay": "Lonicera japonica Thunb; L. dasystyla Rehd; L. confusa DC; L. cambodiana Pierre ex Danguy - Caprifoliaceae"
+ },
+ {
+  "stt": 168,
+  "trang": 158,
+  "ten": "Kim ngân hoa",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Flos Lonicerae",
+  "ten_cay": "Lonicera japonica Thunb. - Caprifoliaceae"
+ },
+ {
+  "stt": 169,
+  "trang": 158,
+  "ten": "Kim tiền thảo",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Desmodii styracifolii",
+  "ten_cay": "Desmodium styracifolium (Osb.) Merr. - Fabaceae"
+ },
+ {
+  "stt": 170,
+  "trang": 158,
+  "ten": "Kinh giới",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Elsholtziae ciliatae",
+  "ten_cay": "Elsholtzia ciliata Thunb. - Lamiaceae"
+ },
+ {
+  "stt": 171,
+  "trang": 158,
+  "ten": "La bạc tử",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Semen Raphani sativi",
+  "ten_cay": "Raphanus sativus L. - Brassicaceae"
+ },
+ {
+  "stt": 172,
+  "trang": 158,
+  "ten": "La hán",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Fructus Momordicae grosvenorii",
+  "ten_cay": "Momordica grosvenoriumSwingle.- Cucurbitaceae"
+ },
+ {
+  "stt": 173,
+  "trang": 158,
+  "ten": "Lá khôi",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Folium Ardisiae",
+  "ten_cay": "Ardsia sylvestris Pitard. - Myrsinaceae"
+ },
+ {
+  "stt": 174,
+  "trang": 158,
+  "ten": "Lá lốt",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Piperis lolot",
+  "ten_cay": "Piper lolot C.DC. - Piperaceae"
+ },
+ {
+  "stt": 175,
+  "trang": 158,
+  "ten": "Lá móng",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Folium Lawsoniae",
+  "ten_cay": "Lawsonia inermis L. - Lythraceae"
+ },
+ {
+  "stt": 176,
+  "trang": 158,
+  "ten": "Lá mỏ quạ",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Folium Maclurae cochinchinensis",
+  "ten_cay": "Maclura cochinchinensis (Lour.) Corner -Moraceae"
+ },
+ {
+  "stt": 177,
+  "trang": 158,
+  "ten": "Lá muồng trâu",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Folium Cassiae alatae",
+  "ten_cay": "Cassia alata L.-Fabaceae"
+ },
+ {
+  "stt": 178,
+  "trang": 158,
+  "ten": "Lạc tiên",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Passiflorae foetidae",
+  "ten_cay": "Passiflora foetida L. - Passifloraceae"
+ },
+ {
+  "stt": 179,
+  "trang": 158,
+  "ten": "Lai phục tử",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Semen Raphani sativi",
+  "ten_cay": "Raphanus sativus L. Brassicaceae"
+ },
+ {
+  "stt": 180,
+  "trang": 158,
+  "ten": "Lệ chi hạch",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Semen Litchi",
+  "ten_cay": "Litchi chinensis Sonn. - Sapindaceae"
+ },
+ {
+  "stt": 181,
+  "trang": 158,
+  "ten": "Liên kiều",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Fructus Forsythiae suspensae",
+  "ten_cay": "Forsythia suspensa (Thunb.) Vahl. - Oleaceac"
+ },
+ {
+  "stt": 182,
+  "trang": 158,
+  "ten": "Liên nhục",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Semen Nelumbinis nuciferae",
+  "ten_cay": "Nelumbo nucifera Gaertn. - Nelumbonaceae"
+ },
+ {
+  "stt": 183,
+  "trang": 158,
+  "ten": "Liên tâm",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Embryo Nelumbinis nuciferae",
+  "ten_cay": "Nelumbo nucifera Gaertn. - Nelumbonaceae"
+ },
+ {
+  "stt": 184,
+  "trang": 158,
+  "ten": "Liên tu",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Stamen Nelumbinis",
+  "ten_cay": "Nelumbo nucifera Gaertn. - Nelumbonaceae"
+ },
+ {
+  "stt": 185,
+  "trang": 158,
+  "ten": "Linh chi",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Ganoderma",
+  "ten_cay": "Ganoderma lucidum (Leyss ex. Fr.) Karst. - Ganodermataceae"
+ },
+ {
+  "stt": 186,
+  "trang": 158,
+  "ten": "Lô cam thạch",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Calamina",
+  "ten_cay": "Calamina"
+ },
+ {
+  "stt": 187,
+  "trang": 158,
+  "ten": "Lô căn",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Rhizoma Phragmitis",
+  "ten_cay": "Phragmites communis Trin. - Poaceae"
+ },
+ {
+  "stt": 188,
+  "trang": 158,
+  "ten": "Lô hội",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Aloe",
+  "ten_cay": "Aloe vera L. - Asphodelaceae"
+ },
+ {
+  "stt": 189,
+  "trang": 158,
+  "ten": "Lộc nhung",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Cornu Cervi Pantotrichum",
+  "ten_cay": "Cervus nippon Temminck"
+ },
+ {
+  "stt": 190,
+  "trang": 158,
+  "ten": "Long cốt",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Os Draconis",
+  "ten_cay": "Os Draconis"
+ },
+ {
+  "stt": 191,
+  "trang": 158,
+  "ten": "Long đởm thảo",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Radix et rhizoma Gentianae",
+  "ten_cay": "Gentiana spp. - Gentianaceae"
+ },
+ {
+  "stt": 192,
+  "trang": 158,
+  "ten": "Long não",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Folium et lignum Cinnamomi camphorae",
+  "ten_cay": "Cinnamomum camphora (L) Presl. - Lauraceae"
+ },
+ {
+  "stt": 193,
+  "trang": 158,
+  "ten": "Long nhãn",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Arillus Longan",
+  "ten_cay": "Dimocarpus longan Lour. - Sapindaccae"
+ },
+ {
+  "stt": 194,
+  "trang": 158,
+  "ten": "Lục thần khúc",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Masa medicata fermentata",
+  "ten_cay": "Massa medicata fermentala"
+ },
+ {
+  "stt": 195,
+  "trang": 158,
+  "ten": "Lưu hoàng",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Sulfur",
+  "ten_cay": "Sulfur"
+ },
+ {
+  "stt": 196,
+  "trang": 159,
+  "ten": "Mã đề",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Folium Plantaginis",
+  "ten_cay": "Plantago major L. - Plantaginaceae"
+ },
+ {
+  "stt": 197,
+  "trang": 159,
+  "ten": "Ma hoàng",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Herba Ephedrae",
+  "ten_cay": "Ephedra sp. - Ephedraceae"
+ },
+ {
+  "stt": 198,
+  "trang": 159,
+  "ten": "Ma hoàng căn",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Rhizoma Ephedrae",
+  "ten_cay": "Ephedra sinica Staff. - Ephedraceae"
+ },
+ {
+  "stt": 199,
+  "trang": 159,
+  "ten": "Mã tiền",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Semen Strychni",
+  "ten_cay": "Strychnos nux-vomica L. - Loganiaceae"
+ },
+ {
+  "stt": 200,
+  "trang": 159,
+  "ten": "Mạch môn",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Radix Ophiopogonis japonici",
+  "ten_cay": "Ophiopogon japonicus (L.f.) Ker Gawl, - Asparagaceae"
+ },
+ {
+  "stt": 201,
+  "trang": 159,
+  "ten": "Mạch nha",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Fructus Hordei germinatus",
+  "ten_cay": "Hordeum vulgare L. - Poaceae"
+ },
+ {
+  "stt": 202,
+  "trang": 159,
+  "ten": "Mạn kinh tử",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Fructus Viticis trifoliae",
+  "ten_cay": "Vitex trifolia L. - Verbenaceae"
+ },
+ {
+  "stt": 203,
+  "trang": 159,
+  "ten": "Mẫu kinh",
+  "ten_khac": [
+   "Ngũ trảo lá có răng cưa"
+  ],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Folium Viticis negundo",
+  "ten_cay": "Vitex negundo L. - Verbenaceae"
+ },
+ {
+  "stt": 204,
+  "trang": 159,
+  "ten": "Mần trầu",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba eleusinis indicae",
+  "ten_cay": "Eleusine indica (L.) Gaertn.f - Poaceae"
+ },
+ {
+  "stt": 205,
+  "trang": 159,
+  "ten": "Mật mông hoa",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Flos Buddlejae officinalis",
+  "ten_cay": "Buddleja officinalis Maxim. - Loganiaceae"
+ },
+ {
+  "stt": 206,
+  "trang": 159,
+  "ten": "Mật ong",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Mel",
+  "ten_cay": "Mel"
+ },
+ {
+  "stt": 207,
+  "trang": 159,
+  "ten": "Mẫu đơn bì",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Cortex Paeoniae suffruticosae radicis",
+  "ten_cay": "Paeonia suffruticosa Andr. - Paeoniaceae"
+ },
+ {
+  "stt": 208,
+  "trang": 159,
+  "ten": "Mẫu lệ",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Concha Ostreae",
+  "ten_cay": "Ostrea gigas Thunberg. - Ostreidae"
+ },
+ {
+  "stt": 209,
+  "trang": 159,
+  "ten": "Mía dò",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Rhizoma Costi",
+  "ten_cay": "Costus specious (Koenig) Smith - Costaceae"
+ },
+ {
+  "stt": 210,
+  "trang": 159,
+  "ten": "Miết giáp",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Carapax Trionycis",
+  "ten_cay": "Trionyx sinensis Wiegmann - Trionychidae"
+ },
+ {
+  "stt": 211,
+  "trang": 159,
+  "ten": "Mơ tam thể",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Paederiae lanuginosae",
+  "ten_cay": "Paederia lanuginosa Wall. - Rubiaceae"
+ },
+ {
+  "stt": 212,
+  "trang": 159,
+  "ten": "Mỏ quạ",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Maclurae cochinchinensis",
+  "ten_cay": "Maclura cochinchinensis (Lour.) Corner -Moraceae"
+ },
+ {
+  "stt": 213,
+  "trang": 159,
+  "ten": "Mộc hương",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Radix Saussureae lappae",
+  "ten_cay": "Saussurea lappa Clarke. - Asteraceae"
+ },
+ {
+  "stt": 214,
+  "trang": 159,
+  "ten": "Mộc qua",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Fructus Chaenomelis speciosae",
+  "ten_cay": "Chaenomeles speciosa (Sweet) Nakai - Rosaceae"
+ },
+ {
+  "stt": 215,
+  "trang": 159,
+  "ten": "Mộc thông",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Caulis Clematidis",
+  "ten_cay": "Clematis armandii Franch. - Ranunculaceae"
+ },
+ {
+  "stt": 216,
+  "trang": 159,
+  "ten": "Một dược",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Myrrha",
+  "ten_cay": "Commiphora myrrha (Nees) Engl. - Burseraceae"
+ },
+ {
+  "stt": 217,
+  "trang": 159,
+  "ten": "Mù u",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Calophylli inophylli",
+  "ten_cay": "Calophyllum inophyllum L. - Clusiaceae"
+ },
+ {
+  "stt": 218,
+  "trang": 159,
+  "ten": "Muống biển",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Ipomoeae pescaprae",
+  "ten_cay": "Ipomoea pescaprae (L.) Sweet.- Convolvulaceae"
+ },
+ {
+  "stt": 219,
+  "trang": 159,
+  "ten": "Mướp đắng",
+  "ten_khac": [
+   "Khổ qua"
+  ],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Momordicae charantiae",
+  "ten_cay": "Momordica charantia L. - Cucurbitaceae"
+ },
+ {
+  "stt": 220,
+  "trang": 159,
+  "ten": "Mướp gai",
+  "ten_khac": [
+   "ráy gai"
+  ],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Rhizoma Lasiae spinosae",
+  "ten_cay": "Lasia spinosa Thw. - Araceae"
+ },
+ {
+  "stt": 221,
+  "trang": 159,
+  "ten": "Nga truật",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Rhizoma Curcumae zedoariae",
+  "ten_cay": "Curcuma zedoaria (Berg.) Roscoe - Zingiberaceae"
+ },
+ {
+  "stt": 222,
+  "trang": 159,
+  "ten": "Ngải cứu",
+  "ten_khac": [
+   "ngải diệp"
+  ],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Artemisiae vulgaris",
+  "ten_cay": "Artemisia vulgaris L. - Asteraceae"
+ },
+ {
+  "stt": 223,
+  "trang": 159,
+  "ten": "Ngấy hương",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Rubi conchinchinensis",
+  "ten_cay": "Rubus conchinchinesis Tratt. - Rosaceae"
+ },
+ {
+  "stt": 224,
+  "trang": 159,
+  "ten": "Ngô công",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Scolopendra",
+  "ten_cay": "Scolopendra morsitans L. - Scolopendridae"
+ },
+ {
+  "stt": 225,
+  "trang": 160,
+  "ten": "Ngô thù du",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Fructus Evodiae rutaecarpae",
+  "ten_cay": "Evodia rutaecarpa (A. Juss) Hartley - Rutaceae"
+ },
+ {
+  "stt": 226,
+  "trang": 160,
+  "ten": "Ngọc trúc",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Rhizoma Polygonati odorati",
+  "ten_cay": "Polygonation odoratum (Mill.) Druce - Convallariaceae"
+ },
+ {
+  "stt": 227,
+  "trang": 160,
+  "ten": "Ngũ bội tử",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Galla chinensis",
+  "ten_cay": "Schlechtendalia chinensis Bell."
+ },
+ {
+  "stt": 228,
+  "trang": 160,
+  "ten": "Ngũ gia bì chân chim",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Cortex Schefflerae heptaphyllae",
+  "ten_cay": "Scheflera heptaphylla (L.) Frodin - Araliaceae"
+ },
+ {
+  "stt": 229,
+  "trang": 160,
+  "ten": "Ngũ gia bì nam",
+  "ten_khac": [
+   "Mạn kinh"
+  ],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Cortex Viticis heterophyllae",
+  "ten_cay": "Vitex heterophylla Roxb. - Verbenaceae"
+ },
+ {
+  "stt": 230,
+  "trang": 160,
+  "ten": "Ngũ gia bì gai",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Cortex Acanthopanacis trifoliati",
+  "ten_cay": "Acanthopanax trifoliatus (L.) Merr. - Araliaceae"
+ },
+ {
+  "stt": 231,
+  "trang": 160,
+  "ten": "Ngũ linh chi",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Faeces Trogopteri",
+  "ten_cay": "Trogopterus xanthipes Milne Edwrds, - Petauristidae"
+ },
+ {
+  "stt": 232,
+  "trang": 160,
+  "ten": "Ngũ vị tử",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Fructus Schisandrae chinensis",
+  "ten_cay": "Schisandra chinensis (Turcz.) Baill. - Schisandraceae"
+ },
+ {
+  "stt": 233,
+  "trang": 160,
+  "ten": "Ngưu bàng tử",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Semen Arctii lappae",
+  "ten_cay": "Arctium lappa L. - Asteraceae"
+ },
+ {
+  "stt": 234,
+  "trang": 160,
+  "ten": "Ngưu tất",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Radix Achyranthis bidentatae",
+  "ten_cay": "Achyranthes bidentata Blume. - Amaranthaceae"
+ },
+ {
+  "stt": 235,
+  "trang": 160,
+  "ten": "Nha đảm tử",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Fructus Bruceae",
+  "ten_cay": "Brucea javanica (L.) Merr. - Simarubaceae"
+ },
+ {
+  "stt": 236,
+  "trang": 160,
+  "ten": "Nhân sâm",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Rhizoma et Radix Ginseng",
+  "ten_cay": "Panax ginseng C.A.Mey - Araliaceae"
+ },
+ {
+  "stt": 237,
+  "trang": 160,
+  "ten": "Nhân trần",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Adenosmatis caerulei",
+  "ten_cay": "Adenosma caeruleum R.Br. - Scrophulariaceae"
+ },
+ {
+  "stt": 238,
+  "trang": 160,
+  "ten": "Nhũ hương",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Gummi resina Olibanum",
+  "ten_cay": "Boswellia carterii Birdw. - Burseraceae"
+ },
+ {
+  "stt": 239,
+  "trang": 160,
+  "ten": "Nhục đậu khấu",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Semen Myristicae",
+  "ten_cay": "Myristica fragrans Houtt. - Myristicaceae"
+ },
+ {
+  "stt": 240,
+  "trang": 160,
+  "ten": "Nhục thung dung",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Herba Cistanches",
+  "ten_cay": "Cistanche deserticola Y. C. Ma - Orobanchaceae"
+ },
+ {
+  "stt": 241,
+  "trang": 160,
+  "ten": "Nữ trinh tử",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Fructus Ligustri",
+  "ten_cay": "Ligustrum lucidum L. - Fabaceae"
+ },
+ {
+  "stt": 242,
+  "trang": 160,
+  "ten": "Ô rô",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba et radix Acanthi ilicifolii",
+  "ten_cay": "Acanthus ilicifolius L, - Acanthaceae"
+ },
+ {
+  "stt": 243,
+  "trang": 160,
+  "ten": "Ô tặc cốt",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Os Sepiae",
+  "ten_cay": "Sepia escalenta Hoyle - Sepiidae"
+ },
+ {
+  "stt": 244,
+  "trang": 160,
+  "ten": "Ô dược",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Radix Linderae",
+  "ten_cay": "Lindera aggregata (Sims.) Kosterm. - Lauraceae"
+ },
+ {
+  "stt": 245,
+  "trang": 160,
+  "ten": "Ô mai",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Fructus Armeniacae praeparatum",
+  "ten_cay": "Prunus armeniaca L. - Rosaceae"
+ },
+ {
+  "stt": 246,
+  "trang": 160,
+  "ten": "Ổi",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Folium Psidii guajavae",
+  "ten_cay": "Psidium guajava L.- Myrtaceae"
+ },
+ {
+  "stt": 247,
+  "trang": 160,
+  "ten": "Phá cố chỉ",
+  "ten_khac": [
+   "Bổ cốt chỉ"
+  ],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Fructus Psoraleae corylifoliae",
+  "ten_cay": "Psoralea corylifolia L. - Fabaceac"
+ },
+ {
+  "stt": 248,
+  "trang": 160,
+  "ten": "Phác tiêu",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Natrium Sulfuricum",
+  "ten_cay": "Natrium sulfuricum"
+ },
+ {
+  "stt": 249,
+  "trang": 160,
+  "ten": "Phan tả diệp",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Folium Casside angustifoliae",
+  "ten_cay": "Cassia angustifolia Vahl. - Caesalpiniaceae"
+ },
+ {
+  "stt": 250,
+  "trang": 160,
+  "ten": "Phật thủ",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Fructus Citri medicae",
+  "ten_cay": "Citrus medica L. var. sarcodactylis (Noot.) Swingle. - Rutaceae"
+ },
+ {
+  "stt": 251,
+  "trang": 160,
+  "ten": "Phèn chua",
+  "ten_khac": [
+   "bạch phàn"
+  ],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Alumen",
+  "ten_cay": "Sulfas Alumino potassicus"
+ },
+ {
+  "stt": 252,
+  "trang": 161,
+  "ten": "Phòng kỷ",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Radix Stephaniae tetrandrae",
+  "ten_cay": "Stephania tetrandra S. Moore - Menispermaceae"
+ },
+ {
+  "stt": 253,
+  "trang": 161,
+  "ten": "Phòng phong",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Radix Saposhnikoviae divaricatae",
+  "ten_cay": "Saposhnikovia divaricata(Turcz.) Schischk.- Apiaceae"
+ },
+ {
+  "stt": 254,
+  "trang": 161,
+  "ten": "Phù bình",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Pistiae",
+  "ten_cay": "Pistia stratiotes L. - Araceae"
+ },
+ {
+  "stt": 255,
+  "trang": 161,
+  "ten": "Phụ tử chế",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Radix Aconiti lateralis praeparata",
+  "ten_cay": "Aconitum carmichaeli Debx. - Ranunculaceae"
+ },
+ {
+  "stt": 256,
+  "trang": 161,
+  "ten": "Phúc bồn tử",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Fructus Rubi alceaefolii",
+  "ten_cay": "Rubus alceaefolius Poir. - Rosaceae"
+ },
+ {
+  "stt": 257,
+  "trang": 161,
+  "ten": "Phục thần",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Poria",
+  "ten_cay": "Poria cocos (Schw.) Wolf. - Polyporaceae"
+ },
+ {
+  "stt": 258,
+  "trang": 161,
+  "ten": "Qua lâu nhân",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Semen Trichosanthis",
+  "ten_cay": "Trichosanthes spp. - Cucurbitaceae"
+ },
+ {
+  "stt": 259,
+  "trang": 161,
+  "ten": "Quả xộp",
+  "ten_khac": [
+   "trâu cổ"
+  ],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Fructus Fici Pumilae",
+  "ten_cay": "Ficus Pumila L. - Moraccae"
+ },
+ {
+  "stt": 260,
+  "trang": 161,
+  "ten": "Quán chúng",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Rhizoma Cyrtomii fortunei",
+  "ten_cay": "Cyrtomium fotunei J.Smi - Polypodiaccae"
+ },
+ {
+  "stt": 261,
+  "trang": 161,
+  "ten": "Quất hạch",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Semen Citri reticulatae",
+  "ten_cay": "Citrus reticulata Blanco. - Rutaceae"
+ },
+ {
+  "stt": 262,
+  "trang": 161,
+  "ten": "Quất hồng bì",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Fructus Clausenae lansii",
+  "ten_cay": "Clausena lansium (Lour) Skeels. - Rutaceae"
+ },
+ {
+  "stt": 263,
+  "trang": 161,
+  "ten": "Quế chi",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Ramulus Cinnamomi",
+  "ten_cay": "Cinnamomum sp. - Lauraceae"
+ },
+ {
+  "stt": 264,
+  "trang": 161,
+  "ten": "Quế nhục",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Cortex Cinnamomi",
+  "ten_cay": "Cinnamomum spp. - Lauraceae"
+ },
+ {
+  "stt": 265,
+  "trang": 161,
+  "ten": "Quy bản",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Carapax Testudinis",
+  "ten_cay": "Testudo elongata Blyth - Testudinidae"
+ },
+ {
+  "stt": 266,
+  "trang": 161,
+  "ten": "Rau má",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Centellae asiaticae",
+  "ten_cay": "Centella asiatica Urb. - Apiaceae"
+ },
+ {
+  "stt": 267,
+  "trang": 161,
+  "ten": "Râu mèo",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Orthosiphonis spiralis",
+  "ten_cay": "Orthosiphon spiralis (Lour.) Merr. - Lamiaceae"
+ },
+ {
+  "stt": 268,
+  "trang": 161,
+  "ten": "Râu ngô",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Styli et Stigmata Maydis",
+  "ten_cay": "Zea mays L. - Poaceae"
+ },
+ {
+  "stt": 269,
+  "trang": 161,
+  "ten": "Rau sam",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Portulacae oleraceae",
+  "ten_cay": "Portulaca oleracea L. - Portulacaceae"
+ },
+ {
+  "stt": 270,
+  "trang": 161,
+  "ten": "Rễ nhàu",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Radix Morindae citrifoliae",
+  "ten_cay": "Morinda citrifolia L.- Rubiaceae"
+ },
+ {
+  "stt": 271,
+  "trang": 161,
+  "ten": "Riềng",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Rhizoma Alpiniae officinari",
+  "ten_cay": "Alpinia officinarurn Hance. - Zingiberaceae"
+ },
+ {
+  "stt": 272,
+  "trang": 161,
+  "ten": "Sa nhân",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Fructus Amomi",
+  "ten_cay": "Amomum spp. - Zingiberaceae"
+ },
+ {
+  "stt": 273,
+  "trang": 161,
+  "ten": "Sa sâm",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Radix Glehniae",
+  "ten_cay": "Glehnia littoralis Fr. Schmidt ex Miq. - Apiaceae"
+ },
+ {
+  "stt": 274,
+  "trang": 161,
+  "ten": "Sài hồ bắc",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Radix Bupleuri",
+  "ten_cay": "Bupleurum spp. - Apiaceae"
+ },
+ {
+  "stt": 275,
+  "trang": 161,
+  "ten": "Sài hồ nam",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Radix et Folium Plucheae pteropodae",
+  "ten_cay": "Pluchea pteropoda Hemsl. - Asteraceae"
+ },
+ {
+  "stt": 276,
+  "trang": 161,
+  "ten": "Sài đất",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Wedeliae",
+  "ten_cay": "Wedelia chinensis (Osbeck) Merr. - Asteraceae"
+ },
+ {
+  "stt": 277,
+  "trang": 161,
+  "ten": "Sâm cau",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Rhizoma Curculiginis",
+  "ten_cay": "Curculigo orchtaides Gaertn. - Curculigonaceae"
+ },
+ {
+  "stt": 278,
+  "trang": 161,
+  "ten": "Sâm đại hành",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Bulbus Eleutherinis subaphyllae",
+  "ten_cay": "Eleutherine subaphylla Gagnep. - Iridaceae"
+ },
+ {
+  "stt": 279,
+  "trang": 161,
+  "ten": "Sâm ngọc linh",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Rhizoma et Radix Panacis Vietnamensis",
+  "ten_cay": "Panax Vietnamensis Ha et Grushv. - Araliaceae"
+ },
+ {
+  "stt": 280,
+  "trang": 161,
+  "ten": "Sim",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Folium, Fructus et Radix Rhodomyrti tomentosae",
+  "ten_cay": "Rhodomyrtus tomentosa (Ait.) Hassk - Myrtaceae"
+ },
+ {
+  "stt": 281,
+  "trang": 162,
+  "ten": "Sinh địa",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Radix Rehmanniae glutinosae",
+  "ten_cay": "Rehmannia glutinosa (Gaertn.) Libosch. - Scrophulariaceae"
+ },
+ {
+  "stt": 282,
+  "trang": 162,
+  "ten": "Sinh khương",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Rhizoma Zingiberis recens",
+  "ten_cay": "Zingiber officinale Rose. - Zingiberaceae"
+ },
+ {
+  "stt": 283,
+  "trang": 162,
+  "ten": "Sói rừng",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Sarcandrae glabrae",
+  "ten_cay": "Sarcandra glabra - Chloranthaceae."
+ },
+ {
+  "stt": 284,
+  "trang": 162,
+  "ten": "Sơn thù",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Fructus Corni officinalis",
+  "ten_cay": "Cornus officinalis Sieb, et Zucc. - Cornaceae"
+ },
+ {
+  "stt": 285,
+  "trang": 162,
+  "ten": "Sơn tra",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Fructus Mali",
+  "ten_cay": "Malus doumeri (Bois.) A. Chev. - Rosaceae"
+ },
+ {
+  "stt": 286,
+  "trang": 162,
+  "ten": "Sử quân tử",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Fructus Quisqualis",
+  "ten_cay": "Quisqualis indica L. - Combretaceae"
+ },
+ {
+  "stt": 287,
+  "trang": 162,
+  "ten": "Tam lăng",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Rhizoma Sparganii",
+  "ten_cay": "Sparganium stoloniferum Buch. Ham. - Sparganiaceae"
+ },
+ {
+  "stt": 288,
+  "trang": 162,
+  "ten": "Tam thất",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Radix Panasis notoginseng",
+  "ten_cay": "Panax notoginseng (Burk.) F. H. Chen - Araliaceae"
+ },
+ {
+  "stt": 289,
+  "trang": 162,
+  "ten": "Tầm xoong",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Atalaniae",
+  "ten_cay": "Atalania buxifolia (Poir.) Olive. - Rutaceae"
+ },
+ {
+  "stt": 290,
+  "trang": 162,
+  "ten": "Tầm xuân",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Rosae multiflorae",
+  "ten_cay": "Rosa multiflora Thunb. - Rosaceae"
+ },
+ {
+  "stt": 291,
+  "trang": 162,
+  "ten": "Tân di",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Flos Magnoliae liliflorae",
+  "ten_cay": "Magnolia liliflora Dear.- Magnoliaceae"
+ },
+ {
+  "stt": 292,
+  "trang": 162,
+  "ten": "Tần giao",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Radix Gentianae macrophyllae",
+  "ten_cay": "Gentiana macrophylla Pall. - Gentianaceae"
+ },
+ {
+  "stt": 293,
+  "trang": 162,
+  "ten": "Tang bạch bì",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Cortex Mori albae radicis",
+  "ten_cay": "Morus alba L. - Moraceae"
+ },
+ {
+  "stt": 294,
+  "trang": 162,
+  "ten": "Tang chi",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Ramulus Morri albae",
+  "ten_cay": "Morus alba L. - Moraceae"
+ },
+ {
+  "stt": 295,
+  "trang": 162,
+  "ten": "Tang diệp",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Folium Mori albae",
+  "ten_cay": "Morus alba L. - Moraceae"
+ },
+ {
+  "stt": 296,
+  "trang": 162,
+  "ten": "Tang ký sinh",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Loranthi gracilifolii",
+  "ten_cay": "Loranthus gracilifolius Schult. - Loranthaceae"
+ },
+ {
+  "stt": 297,
+  "trang": 162,
+  "ten": "Tang phiêu tiêu",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Cotheca Mantidis",
+  "ten_cay": "Mantis religiosa L. - Mantidae"
+ },
+ {
+  "stt": 298,
+  "trang": 162,
+  "ten": "Tang thầm",
+  "ten_khac": [
+   "quả dâu"
+  ],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Fructus Mori albae",
+  "ten_cay": "Morus alba L. - Moraceae"
+ },
+ {
+  "stt": 299,
+  "trang": 162,
+  "ten": "Tạo giác thích",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Spina Gledischiae australis",
+  "ten_cay": "Gledischia australis Hemsl. - Caealpiniaceae"
+ },
+ {
+  "stt": 300,
+  "trang": 162,
+  "ten": "Táo nhân",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Semen Ziziphi mauritianae",
+  "ten_cay": "Ziziphus mauritiana Lamk. - Rhamnaceae"
+ },
+ {
+  "stt": 301,
+  "trang": 162,
+  "ten": "Tế tân",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Radix et Rhizoma Asari",
+  "ten_cay": "Asarum heterotropoides Kitag. - Aristolochiaceae"
+ },
+ {
+  "stt": 302,
+  "trang": 162,
+  "ten": "Thạch cao",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Gypsum fibrosum",
+  "ten_cay": "Gypsum fibrosum"
+ },
+ {
+  "stt": 303,
+  "trang": 162,
+  "ten": "Thạch hộc",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Herba Dendrobii",
+  "ten_cay": "Dendrobium spp. - Orchidaceae"
+ },
+ {
+  "stt": 304,
+  "trang": 162,
+  "ten": "Thạch lưu bì",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Pericarpium Punicae Granati",
+  "ten_cay": "Punica granatium L. - Punicaceae"
+ },
+ {
+  "stt": 305,
+  "trang": 162,
+  "ten": "Thạch quyết minh",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Concha Haliotidis",
+  "ten_cay": "Haliotis sp. - Haliotidae"
+ },
+ {
+  "stt": 306,
+  "trang": 162,
+  "ten": "Thạch vĩ",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Herba pyrrosiae linguae",
+  "ten_cay": "Pyrrosia lingua (Thumb.) Fawell - Polypodiaceae"
+ },
+ {
+  "stt": 307,
+  "trang": 162,
+  "ten": "Thạch xương bồ",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Rhizoma Acori graminei",
+  "ten_cay": "Acorus gramineus Soland. - Araceae"
+ },
+ {
+  "stt": 308,
+  "trang": 162,
+  "ten": "Thăng ma",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Rhizoma Cimicifugae",
+  "ten_cay": "Cimicifuga sp. - Ranunculaceae"
+ },
+ {
+  "stt": 309,
+  "trang": 162,
+  "ten": "Thần sa",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Sinnabaris",
+  "ten_cay": ""
+ },
+ {
+  "stt": 310,
+  "trang": 163,
+  "ten": "Thanh bì",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Pericarpium Citri reticulatae viridae",
+  "ten_cay": "Citrus reticulata Blanco. - Rutaceae"
+ },
+ {
+  "stt": 311,
+  "trang": 163,
+  "ten": "Thanh táo",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Justiciae",
+  "ten_cay": "Justicia gendarussa L - Acanthaceae"
+ },
+ {
+  "stt": 312,
+  "trang": 163,
+  "ten": "Thanh tương tử",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Semen Celosiae",
+  "ten_cay": "Celosia argentea L. - Amaranthaceae"
+ },
+ {
+  "stt": 313,
+  "trang": 163,
+  "ten": "Thảo quả",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Fructus Amomi aromatici",
+  "ten_cay": "Amomum aromaticum Roxb. - Zingiberaceae"
+ },
+ {
+  "stt": 314,
+  "trang": 163,
+  "ten": "Thảo quyết minh",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Semen Cassiae torae",
+  "ten_cay": "Cassia tora L. - Fabaceae"
+ },
+ {
+  "stt": 315,
+  "trang": 163,
+  "ten": "Thị đế",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Calyx Kaki",
+  "ten_cay": "Diospyros kaki L.f. - Ebenaceae"
+ },
+ {
+  "stt": 316,
+  "trang": 163,
+  "ten": "Thiên hoa phấn",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Radix Trichosanthis",
+  "ten_cay": "Trichosanthes kirilowii Maxim. - Cucurbitaceae"
+ },
+ {
+  "stt": 317,
+  "trang": 163,
+  "ten": "Thiên ma",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Rhizoma Gastrodiae elatae",
+  "ten_cay": "Gastrodia elata Bl. - Orchidaceae"
+ },
+ {
+  "stt": 318,
+  "trang": 163,
+  "ten": "Thiên môn đông",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Radix Asparagi cochinchinensis",
+  "ten_cay": "Asparagus cochinchinensis(Lour.) Merr. - Asparagaceae"
+ },
+ {
+  "stt": 319,
+  "trang": 163,
+  "ten": "Thiên nam tinh",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Rhizoma Arisaemae",
+  "ten_cay": "Arisaema balansae Engl..- Araceae"
+ },
+ {
+  "stt": 320,
+  "trang": 163,
+  "ten": "Thiên niên kiện",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Rhizoma Homalomenae occultae",
+  "ten_cay": "Homalomena occulta (Lour.) Schott - Araccae"
+ },
+ {
+  "stt": 321,
+  "trang": 163,
+  "ten": "Thổ hoàng liên",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Rhizoma Thalictri foliolosi",
+  "ten_cay": "Thalictrum foliolosum DC. - Ranunculaceae"
+ },
+ {
+  "stt": 322,
+  "trang": 163,
+  "ten": "Thổ bối mẫu",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Bulbus Pseudolaricis",
+  "ten_cay": "Pseudolarix kaempferi Gord.- Cucurbitaccae"
+ },
+ {
+  "stt": 323,
+  "trang": 163,
+  "ten": "Thổ phục linh",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Rhizoma Smilacis glabrae",
+  "ten_cay": "Smilax glabra Roxb. - Smilacaceae"
+ },
+ {
+  "stt": 324,
+  "trang": 163,
+  "ten": "Thỏ ty tử",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Semen Cuscutae",
+  "ten_cay": "Cuscuta chinensis Lamk. - Cuscutaceae"
+ },
+ {
+  "stt": 325,
+  "trang": 163,
+  "ten": "Thông thảo",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Medulla Tetrapanacis",
+  "ten_cay": "Tetrapanax papyrifera (Hook.) K. Koch - Araliaceae"
+ },
+ {
+  "stt": 326,
+  "trang": 163,
+  "ten": "Thủ cung",
+  "ten_khac": [
+   "Thạch sùng"
+  ],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Scorpio Hemidactyli",
+  "ten_cay": "Hemidactylus frenatus Schlegel- Gekkonidae"
+ },
+ {
+  "stt": 327,
+  "trang": 163,
+  "ten": "Thục địa",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Radix Rehmanniae glutinosae praeparata",
+  "ten_cay": "Rehmannia glutinosa (Gaertn.) Libosch. - Scrophulariaceae"
+ },
+ {
+  "stt": 328,
+  "trang": 163,
+  "ten": "Thương lục",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Radix Phytolaccae",
+  "ten_cay": "Phytolacca esculenta Van Houtle - Phytolaccaceae"
+ },
+ {
+  "stt": 329,
+  "trang": 163,
+  "ten": "Thương nhĩ tử",
+  "ten_khac": [
+   "Ké đầu ngựa"
+  ],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Fructus Xanthii strumarii",
+  "ten_cay": "Xanthium strumarium L. - Asteraceae"
+ },
+ {
+  "stt": 330,
+  "trang": 163,
+  "ten": "Thương truật",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Rhizoma Atractylodis",
+  "ten_cay": "Atractylodes lancea (Thunb.) DC. - Asteraceae"
+ },
+ {
+  "stt": 331,
+  "trang": 163,
+  "ten": "Thủy xương bồ",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Rhizoma Acori calami",
+  "ten_cay": "Acorus calamus L. - Araceae"
+ },
+ {
+  "stt": 332,
+  "trang": 163,
+  "ten": "Thuyền thoái",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Periostracum Cicadae",
+  "ten_cay": "Crytotympana pustulataFabricius - Cicadidae"
+ },
+ {
+  "stt": 333,
+  "trang": 163,
+  "ten": "Tiên hạc thảo",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Herba Agrimoniae",
+  "ten_cay": "Agrimonia pilosa Ledeb. Nakai. - Rosaceae"
+ },
+ {
+  "stt": 334,
+  "trang": 163,
+  "ten": "Tiền hồ",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Radix Peucedani",
+  "ten_cay": "Peucedanum spp. - Apiaceae"
+ },
+ {
+  "stt": 335,
+  "trang": 163,
+  "ten": "Tiểu hồi",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Fructus Foeniculi",
+  "ten_cay": "Foeniculum vulgare Mill. - Apiaceae"
+ },
+ {
+  "stt": 336,
+  "trang": 163,
+  "ten": "Tiểu kế",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Radix Cirsii segenti",
+  "ten_cay": "Cirsium segetum Bunge - Asteraceae"
+ },
+ {
+  "stt": 337,
+  "trang": 163,
+  "ten": "Tiểu mạch",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Fructus Tritici aestivi",
+  "ten_cay": "Triticum aestivum L. - Poaceae"
+ },
+ {
+  "stt": 338,
+  "trang": 163,
+  "ten": "Tô mộc",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Lignum sappan",
+  "ten_cay": "Caesalpinia sappan L. - Fabaceae"
+ },
+ {
+  "stt": 339,
+  "trang": 163,
+  "ten": "Tô ngạnh",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Caulis Perillae",
+  "ten_cay": "Perilla frutescens (L.) Britt. - Lamiaceae"
+ },
+ {
+  "stt": 340,
+  "trang": 164,
+  "ten": "Tô tử",
+  "ten_khac": [
+   "Tía tô hạt"
+  ],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Semen Perillae frutescensis",
+  "ten_cay": "Perilla frutescens (L.) Britt. - Larniaceae"
+ },
+ {
+  "stt": 341,
+  "trang": 164,
+  "ten": "Tô diệp",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Folium Perillae",
+  "ten_cay": "Perilla frutescens (L.) Britt. - Lamiaceae"
+ },
+ {
+  "stt": 342,
+  "trang": 164,
+  "ten": "Toàn phúc hoa",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Flos Inulae",
+  "ten_cay": "Inula japonica Thunb. - Asteraceae"
+ },
+ {
+  "stt": 343,
+  "trang": 164,
+  "ten": "Toàn yết",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Scorpio",
+  "ten_cay": "Buthus martensii Karsch. - Buthidae"
+ },
+ {
+  "stt": 344,
+  "trang": 164,
+  "ten": "Trắc bách diệp",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Cacumen Platycladi",
+  "ten_cay": "Platycladus orientalis (L.) Franco - Cupressaceae"
+ },
+ {
+  "stt": 345,
+  "trang": 164,
+  "ten": "Trạch tả",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Rhizoma Alismatis",
+  "ten_cay": "Alisma plantago-aquatica L. var. orientate (Sammuels) Juzep. - Alismataceae"
+ },
+ {
+  "stt": 346,
+  "trang": 164,
+  "ten": "Tràm",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Ramulus cum Folium Melaleucae",
+  "ten_cay": "Melaleuca cajeputi Powell. - Myrtaceae"
+ },
+ {
+  "stt": 347,
+  "trang": 164,
+  "ten": "Trâm bầu",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Folium et Cortex Combreti quadrangulae",
+  "ten_cay": "Combretum quadrangula Kusz. - Combretaceae"
+ },
+ {
+  "stt": 348,
+  "trang": 164,
+  "ten": "Trần bì",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Pericarpium Citri reticulatae perenne",
+  "ten_cay": "Citrus reticulata Blanco. - Rutaceae"
+ },
+ {
+  "stt": 349,
+  "trang": 164,
+  "ten": "Trân châu mẫu",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Margarita",
+  "ten_cay": "Pteria martensii Dunker, - Pteridae"
+ },
+ {
+  "stt": 350,
+  "trang": 164,
+  "ten": "Trầu không",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Folium Piperis betle",
+  "ten_cay": "Piper betle L. - Piperaceae"
+ },
+ {
+  "stt": 351,
+  "trang": 164,
+  "ten": "Tri mẫu",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Rhizoma Anemarrhenae",
+  "ten_cay": "Anemarrhena asphodeloidesBge. - Liliaceae"
+ },
+ {
+  "stt": 352,
+  "trang": 164,
+  "ten": "Trinh nữ",
+  "ten_khac": [
+   "xấu hổ"
+  ],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Mimosae pudicae",
+  "ten_cay": "Mimosa pudica L. - Mimosaceae"
+ },
+ {
+  "stt": 353,
+  "trang": 164,
+  "ten": "Trinh nữ hoàng cung",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Folium Crini latifolii",
+  "ten_cay": "Crinum latifolium L. - Amaryllidaceae"
+ },
+ {
+  "stt": 354,
+  "trang": 164,
+  "ten": "Trư linh",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Polyporus",
+  "ten_cay": "Polyporus umbellatus (Pers.) Fries - Polyporaceae"
+ },
+ {
+  "stt": 355,
+  "trang": 164,
+  "ten": "Trúc diệp",
+  "ten_khac": [
+   "Lá tre"
+  ],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Folium Bambusae vulgaris",
+  "ten_cay": "Bambusa vulgaris Schrad. ex J.C.Wendl - Poaceae"
+ },
+ {
+  "stt": 356,
+  "trang": 164,
+  "ten": "Trúc nhự",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Caulis bambusae in teaniis",
+  "ten_cay": "Bambusa sp; Phyllostachys sp Poaceae"
+ },
+ {
+  "stt": 357,
+  "trang": 164,
+  "ten": "Trung quân",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Ancistrocladi",
+  "ten_cay": "Ancistrocladus scandens (Lour.) Merr.- Ancistrocladaceae"
+ },
+ {
+  "stt": 358,
+  "trang": 164,
+  "ten": "Tử thảo",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Radix Lithospermi",
+  "ten_cay": "Lithospermum erythrorhizonSieb, et Zucc. - Boraginaceae"
+ },
+ {
+  "stt": 359,
+  "trang": 164,
+  "ten": "Tử uyển",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Radix et Rhizoma Asteris",
+  "ten_cay": "Aster tataricus L.f. - Asteraceae"
+ },
+ {
+  "stt": 360,
+  "trang": 164,
+  "ten": "Tục đoạn",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Radix Dipsaci",
+  "ten_cay": "Dipsacus japonicus Miq. -Dipsacaceae"
+ },
+ {
+  "stt": 361,
+  "trang": 164,
+  "ten": "Tỳ bà diệp",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Folium Eriobotryae japonicae",
+  "ten_cay": "Eriobotrya japonica (Thunb.) Lindl. - Rosaceae"
+ },
+ {
+  "stt": 362,
+  "trang": 164,
+  "ten": "Tỳ giải",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Rhizoma Dioscoreae",
+  "ten_cay": "Dioscorea septembolaThunb.,D. futschanensis Uline ex R.Kunth, D. tokoro Makino -"
+ },
+ {
+  "stt": 363,
+  "trang": 164,
+  "ten": "Uất kim",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Radix Curcumae",
+  "ten_cay": "Dioscoreaceae Curcuma longa L. - Zingiberaceae"
+ },
+ {
+  "stt": 364,
+  "trang": 164,
+  "ten": "Uất lý nhân",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Semen Pruni",
+  "ten_cay": "Prunus humilis Bge"
+ },
+ {
+  "stt": 365,
+  "trang": 164,
+  "ten": "Uy linh tiên",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Radix et Rhizoma Clematidis",
+  "ten_cay": "Clematis chinensis Osbeck. - Ranunculaceae"
+ },
+ {
+  "stt": 366,
+  "trang": 164,
+  "ten": "Vàng đắng",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Caulis Coscinii fenestrati",
+  "ten_cay": "Coscinium fenestratum(Gaertn.) Colebr.- Menispermaceae"
+ },
+ {
+  "stt": 367,
+  "trang": 165,
+  "ten": "Viễn chí",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Radix Polygalae",
+  "ten_cay": "Polygala spp. - Polygalaceae"
+ },
+ {
+  "stt": 368,
+  "trang": 165,
+  "ten": "Vỏ đỗ xanh",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Pericapium Semen Vignae aurei",
+  "ten_cay": "Vigna aureus Roxb. - Fabaceae"
+ },
+ {
+  "stt": 369,
+  "trang": 165,
+  "ten": "Vọng cách",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Folium Premnae corymbosae",
+  "ten_cay": "Premna corymbosa Rottl. Ex Willd. - Verbenaceae"
+ },
+ {
+  "stt": 370,
+  "trang": 165,
+  "ten": "Vông nem",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Folium Erythrinae",
+  "ten_cay": "Erythrina variegata L. - Fabaceae"
+ },
+ {
+  "stt": 371,
+  "trang": 165,
+  "ten": "Vú bò",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Fici",
+  "ten_cay": "Ficus heterophyllus L, - Moraceae"
+ },
+ {
+  "stt": 372,
+  "trang": 165,
+  "ten": "Vừng đen",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Semen Sesami",
+  "ten_cay": "Sesamum indicum L. - Pedaliaceae"
+ },
+ {
+  "stt": 373,
+  "trang": 165,
+  "ten": "Vương bất lưu hành",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Semen Vaccariae",
+  "ten_cay": "Vaccaria segetalis Neck- Carryophylaceae"
+ },
+ {
+  "stt": 374,
+  "trang": 165,
+  "ten": "Vương tôn",
+  "ten_khac": [
+   "Gắm"
+  ],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Caulis et Radix Gneti montani",
+  "ten_cay": "Gnetum montanum Mgf. - Gnetaceae"
+ },
+ {
+  "stt": 375,
+  "trang": 165,
+  "ten": "Xạ can",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Rhizoma Belamcandae",
+  "ten_cay": "Belamcanda chinensis (L.) DC. - Iridaceae"
+ },
+ {
+  "stt": 376,
+  "trang": 165,
+  "ten": "Xạ hương",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Moschus",
+  "ten_cay": "Moschus moschiferus L.Cervidae"
+ },
+ {
+  "stt": 377,
+  "trang": 165,
+  "ten": "Xà sàng tử",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Fructus Cnidii",
+  "ten_cay": "Cnidium monnieri (L) Cuss - Apiaceae"
+ },
+ {
+  "stt": 378,
+  "trang": 165,
+  "ten": "Xa tiền tử",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Semen Plantaginis",
+  "ten_cay": "Plantago major L. - Plantaginaceae"
+ },
+ {
+  "stt": 379,
+  "trang": 165,
+  "ten": "Xạ đen",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Ehretiae asperulae",
+  "ten_cay": "Ehretia asperula Zoll.& Mor.- Boraginaceae"
+ },
+ {
+  "stt": 380,
+  "trang": 165,
+  "ten": "Xích đồng nam",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Herba Clerodendri infortunati",
+  "ten_cay": "Clerodendrum infortunatum L. - Verbenaceae"
+ },
+ {
+  "stt": 381,
+  "trang": 165,
+  "ten": "Xích thược",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Radix Paeoniae",
+  "ten_cay": "Paeonia lactiflora Pall - Ranunculaceae"
+ },
+ {
+  "stt": 382,
+  "trang": 165,
+  "ten": "Xoan nhừ",
+  "ten_khac": [],
+  "nguon_goc": "N",
+  "ten_khoa_hoc": "Cortex Choerospondiacis",
+  "ten_cay": "Choerospondias axillaris"
+ },
+ {
+  "stt": 383,
+  "trang": 165,
+  "ten": "Xuyên bối mẫu",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Bulbus Fritillariae",
+  "ten_cay": "Fritillaria cirrhosa D. Don - Liliaceae"
+ },
+ {
+  "stt": 384,
+  "trang": 165,
+  "ten": "Xuyên khung",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Rhizoma Ligustici wallichii",
+  "ten_cay": "Ligusticum wallichii Franch. - Apiaceae"
+ },
+ {
+  "stt": 385,
+  "trang": 165,
+  "ten": "Xuyên luyện tử",
+  "ten_khac": [],
+  "nguon_goc": "B",
+  "ten_khoa_hoc": "Fructus Meliae toosendan",
+  "ten_cay": "Melia toosendan Sid. Et Zuce L. - Melíaceae"
+ },
+ {
+  "stt": 386,
+  "trang": 165,
+  "ten": "Xuyên tâm liên",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Herba Andrographitis paniculatae",
+  "ten_cay": "Andrographis paniculata Burun.f. - Acanthaceae"
+ },
+ {
+  "stt": 387,
+  "trang": 165,
+  "ten": "Xuyên tiêu",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Fructus Zanthoxyli",
+  "ten_cay": "Zanthoxylum spp. - Rutaceae"
+ },
+ {
+  "stt": 388,
+  "trang": 165,
+  "ten": "Ý dĩ",
+  "ten_khac": [],
+  "nguon_goc": "B-N",
+  "ten_khoa_hoc": "Semen Coicis",
+  "ten_cay": "Coix lachryma-jobi L. - Poaceae"
+ }
+]

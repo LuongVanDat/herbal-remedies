@@ -111,7 +111,7 @@ test('khong-duoc-dung cho triệu chứng khai báo mà không thể bệnh nào
 })
 test('khong-duoc-dung cho vị thuốc không bài nào dùng', () => {
   const raw = sua(ok, (r) => { const v = structuredClone(vi(r, 'que-chi')); v.id = 'bach-chi'; r.viThuoc.push({ file: 'x/bach-chi.yaml', data: v }) })
-  expect(canhBao(raw, 'khong-duoc-dung').map((v) => v.file)).toEqual(['x/bach-chi.yaml'])
+  expect(canhBao(raw, 'khong-duoc-dung').map((v) => v.thongDiep)).toEqual(['1 vị thuốc chưa bài nào dùng (vd: bach-chi)'])
 })
 
 test('trung-id: bài thuốc lặp trong một thể bệnh', () => {
@@ -131,4 +131,13 @@ test('câu cảnh báo triệu chứng không dùng: "không thể bệnh nào d
 test('vuot-lieu bỏ qua thành phần không có lieu_g', () => {
   const raw = sua(ok, (r) => { bai(r, 'ma-hoang-thang').thanh_phan[0] = { vi: 'ma-hoang', lieu_g: null, lieu_text: '4-8g', vai_tro: 'quan', vuot_lieu_ly_do: null } })
   expect(validate(raw).loi).toEqual([])
+})
+
+test('khong-duoc-dung cho vị: gộp một dòng dù nhiều vị', () => {
+  const raw = sua(ok, (r) => {
+    for (const id of ['a-1', 'a-2', 'a-3', 'a-4']) {
+      const v = structuredClone(vi(r, 'que-chi')); v.id = id; r.viThuoc.push({ file: `x/${id}.yaml`, data: v })
+    }
+  })
+  expect(canhBao(raw, 'khong-duoc-dung').map((v) => v.thongDiep)).toEqual(['4 vị thuốc chưa bài nào dùng (vd: a-1, a-2, a-3)'])
 })
