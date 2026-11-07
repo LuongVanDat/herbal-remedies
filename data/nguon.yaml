@@ -1,0 +1,22 @@
+# Danh sách văn bản nguồn. Chỉ dùng nguồn hợp pháp (văn bản pháp luật không được bảo hộ bản quyền
+# — Điều 15 Luật SHTT) hoặc sách giấy người dùng tự sở hữu. URL ưu tiên cổng chính thức; nếu chỉ có
+# bản đăng lại thì ghi URL đó và đối chiếu số hiệu.
+van_ban:
+  - ma: qd-5013
+    ten: Hướng dẫn chẩn đoán và điều trị bệnh theo y học cổ truyền, kết hợp y học cổ truyền với y học hiện đại
+    ten_ngan: QĐ 5013
+    so_hieu: 5013/QĐ-BYT
+    ngay: "2020-12-01"
+    url: https://luatvietnam.vn/y-te/quyet-dinh-5013-qd-byt-huong-dan-chan-doan-va-dieu-tri-benh-theo-y-hoc-co-truyen-194863-d1.html
+  - ma: tt-05-2015
+    ten: Danh mục thuốc đông y, thuốc từ dược liệu và vị thuốc y học cổ truyền thuộc phạm vi thanh toán của quỹ BHYT (sửa đổi bởi TT 27/2020/TT-BYT)
+    ten_ngan: TT 05/2015
+    so_hieu: 05/2015/TT-BYT
+    ngay: "2015-03-17"
+    url: https://vbpl.vn/FileData/TW/Lists/vbpq/Attachments/58497/VanBanGoc_05.2015.TT.BYT.pdf
+  - ma: cv-855-2022
+    ten: Công bố danh mục dược liệu, vị thuốc cổ truyền, thuốc cổ truyền theo Nghị định 29/2022/NĐ-CP
+    ten_ngan: CV 855/2022
+    so_hieu: 855/YDCT-QLD
+    ngay: "2022"
+    url: https://thuvienphapluat.vn/cong-van/The-thao-Y-te/Cong-van-855-YDCT-QLD-2022-cong-bo-danh-muc-theo-Nghi-dinh-29-2022-ND-CP-526577.aspx
