@@ -27,3 +27,8 @@ test('href ∘ parseHash là đồng nhất', () => {
   ]
   for (const r of routes) expect(parseHash(href(r))).toEqual(r)
 })
+
+test('URL có mã thoát hỏng → khongThay, không ném lỗi', () => {
+  expect(parseHash('#/vi/%')).toEqual({ ten: 'khongThay' })
+  expect(parseHash('#/benh/%E0%A4%A')).toEqual({ ten: 'khongThay' })
+})

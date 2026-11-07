@@ -151,7 +151,7 @@ export function validate(raw: RawData): { loi: VanDe[]; canhBao: VanDe[] } {
   raw.trieuChung.data.nhom.forEach((n, i) =>
     n.trieu_chung.forEach((t, j) => {
       if (!tcDuocDung.has(t.id))
-        C('khong-duoc-dung', raw.trieuChung.file, `nhom[${i}].trieu_chung[${j}]`, `Triệu chứng "${t.id}" không thể nào dùng`)
+        C('khong-duoc-dung', raw.trieuChung.file, `nhom[${i}].trieu_chung[${j}]`, `Triệu chứng "${t.id}" không thể bệnh nào dùng`)
     }),
   )
 

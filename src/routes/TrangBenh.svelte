@@ -4,7 +4,7 @@
   import { layData } from '../data-context'
   import { href } from '../router'
   import { xepHang } from '../scoring'
-  import { docTc, ghiTc } from '../url-state'
+  import { docTc, ghiNhoTc, ghiTc } from '../url-state'
   import KhongTimThay from './KhongTimThay.svelte'
 
   let { id, tc }: { id: string; tc: string } = $props()
@@ -22,11 +22,14 @@
   // svelte-ignore state_referenced_locally
   const dau = docTc(tc, hopLe)
   let tich = $state<string[]>(dau.ids)
+  // svelte-ignore state_referenced_locally
+  if (benh) ghiNhoTc(id, ghiTc(dau.ids))
   const daTich = $derived(new Set(tich))
   const kq = $derived(benh ? xepHang(benh, daTich) : null)
 
   function doiTich(tcId: string) {
     tich = tich.includes(tcId) ? tich.filter((x) => x !== tcId) : [...tich, tcId]
+    ghiNhoTc(id, ghiTc(tich))
     history.replaceState(history.state, '', href({ ten: 'benh', id, tc: ghiTc(tich) }))
   }
 </script>

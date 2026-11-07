@@ -105,7 +105,7 @@ test('the-trung-nhau khi 2 thể cùng bộ chinh∪phu', () => {
   })
   expect(canhBao(raw, 'the-trung-nhau')).toHaveLength(1)
 })
-test('khong-duoc-dung cho triệu chứng khai báo mà không thể nào dùng', () => {
+test('khong-duoc-dung cho triệu chứng khai báo mà không thể bệnh nào dùng', () => {
   const raw = sua(ok, (r) => { r.trieuChung.data.nhom[0].trieu_chung.push({ id: 'ho-khan', ten: 'Ho khan' }) })
   expect(canhBao(raw, 'khong-duoc-dung').map((v) => v.thongDiep)).toEqual([expect.stringContaining('ho-khan')])
 })
@@ -121,4 +121,9 @@ test('trung-id: bài thuốc lặp trong một thể bệnh', () => {
 test('trung-id: dấu hiệu nguy hiểm trùng id triệu chứng dùng chung', () => {
   const raw = sua(ok, (r) => { camMao(r).dau_hieu_nguy_hiem[0].id = 'sot-cao' })
   expect(loi(raw, 'trung-id').map((v) => v.truong)).toEqual(['dau_hieu_nguy_hiem[0].id'])
+})
+
+test('câu cảnh báo triệu chứng không dùng: "không thể bệnh nào dùng"', () => {
+  const raw = sua(ok, (r) => { r.trieuChung.data.nhom[0].trieu_chung.push({ id: 'ho-khan', ten: 'Ho khan' }) })
+  expect(canhBao(raw, 'khong-duoc-dung')[0].thongDiep).toBe('Triệu chứng "ho-khan" không thể bệnh nào dùng')
 })

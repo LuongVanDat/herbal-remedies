@@ -3,6 +3,7 @@
   import NhanNguon from '../components/NhanNguon.svelte'
   import { layData } from '../data-context'
   import { href } from '../router'
+  import { layTcGanNhat } from '../url-state'
   import KhongTimThay from './KhongTimThay.svelte'
 
   let { benhId, theId }: { benhId: string; theId: string } = $props()
@@ -14,7 +15,7 @@
 {#if !benh || !the}
   <KhongTimThay />
 {:else}
-  <p><a href={href({ ten: 'benh', id: benh.id, tc: '' })}>← {benh.ten}</a></p>
+  <p><a href={href({ ten: 'benh', id: benh.id, tc: layTcGanNhat(benh.id) })}>← {benh.ten}</a></p>
   <h1>{benh.ten} — thể {the.ten}</h1>
   <p><strong>Pháp trị:</strong> {the.phap_tri} <NhanNguon nguon={the.nguon} /></p>
 

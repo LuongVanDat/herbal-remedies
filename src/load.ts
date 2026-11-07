@@ -4,6 +4,7 @@ import { parse } from 'yaml'
 import type { ZodType } from 'zod'
 import { BaiThuocSchema, BenhSchema, NguonFileSchema, TrieuChungFileSchema, ViThuocSchema } from './schema'
 import type { Loaded, RawData, VanDe } from './validate'
+import { viErrorMap } from './zod-vi'
 
 const duongDan = (path: (string | number)[]) =>
   path.reduce<string>((s, p) => (typeof p === 'number' ? `${s}[${p}]` : s ? `${s}.${p}` : p), '')
@@ -20,7 +21,7 @@ export async function loadData(dir: string): Promise<{ raw: RawData; loiSchema: 
       loiSchema.push({ ma: 'schema', file, truong: '', thongDiep })
       return null
     }
-    const r = schema.safeParse(doc)
+    const r = schema.safeParse(doc, { errorMap: viErrorMap })
     if (r.success) return r.data
     for (const issue of r.error.issues)
       loiSchema.push({ ma: 'schema', file, truong: duongDan(issue.path), thongDiep: issue.message })

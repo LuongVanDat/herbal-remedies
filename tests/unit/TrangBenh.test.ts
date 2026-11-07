@@ -80,3 +80,10 @@ test('id bệnh không tồn tại → render KhongTimThay', () => {
   renderVoiData(TrangBenh, { id: 'khong-co', tc: '' })
   expect(screen.getByRole('heading', { name: 'Không tìm thấy' })).toBeInTheDocument()
 })
+
+test('tích triệu chứng được ghi nhớ cho link quay lại', async () => {
+  const { layTcGanNhat } = await import('../../src/url-state')
+  renderVoiData(TrangBenh, { id: 'cam-mao', tc: '' })
+  await fireEvent.click(screen.getByLabelText('Sốt cao'))
+  expect(layTcGanNhat('cam-mao')).toBe('sot-cao')
+})

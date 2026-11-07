@@ -9,6 +9,8 @@
   const data = layData()
   const v = $derived(data.viThuoc[id])
   const bai = $derived((data.viTrongBai[id] ?? []).map((b) => data.baiThuoc[b]).filter(Boolean))
+  const theDung = (baiId: string) =>
+    data.benh.flatMap((b) => b.the_benh.filter((t) => t.bai_thuoc.includes(baiId)).map((t) => ({ b, t })))
 </script>
 
 {#if !v}
@@ -51,8 +53,11 @@
     {:else}
       <ul>
         {#each v.thay_the as t, i (i)}
+          {@const vt = data.viThuoc[t.vi]}
           <li>
-            <a href={href({ ten: 'vi', id: t.vi })}>{data.viThuoc[t.vi]?.ten ?? t.vi}</a> — {t.ghi_chu}
+            <a href={href({ ten: 'vi', id: t.vi })}>{vt?.ten ?? t.vi}</a>
+            {#if vt && vt.doc_tinh.muc !== 'khong'}<span class:doc={coDoc(vt)}> ⚠ {DOC_TINH[vt.doc_tinh.muc]}</span>{/if}
+            — {t.ghi_chu}
             <NhanNguon nguon={t.nguon} />
           </li>
         {/each}
@@ -65,7 +70,16 @@
     {#if bai.length === 0}
       <p class="mo">Chưa có bài thuốc nào trong dữ liệu dùng vị này.</p>
     {:else}
-      <ul>{#each bai as b (b.id)}<li>{b.ten}</li>{/each}</ul>
+      <ul>
+        {#each bai as b (b.id)}
+          <li>
+            {b.ten}
+            {#each theDung(b.id) as { b: benh, t } (`${benh.id}/${t.id}`)}
+              — <a href={href({ ten: 'the', benhId: benh.id, theId: t.id })}>{benh.ten} · {t.ten}</a>
+            {/each}
+          </li>
+        {/each}
+      </ul>
     {/if}
   </section>
 {/if}
@@ -75,4 +89,5 @@
   dt { font-weight: 600; }
   dd { margin: 0; }
   .kieng-ky { color: var(--do); }
+  .doc { color: var(--do); }
 </style>

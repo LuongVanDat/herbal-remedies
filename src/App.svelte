@@ -3,6 +3,7 @@
   import ThongBaoCapNhat from './components/ThongBaoCapNhat.svelte'
   import { datData } from './data-context'
   import { appData } from './data'
+  import { tick } from 'svelte'
   import { parseHash, type Route } from './router'
   import DanhSachVi from './routes/DanhSachVi.svelte'
   import KhongTimThay from './routes/KhongTimThay.svelte'
@@ -14,13 +15,23 @@
 
   datData(appData)
   let route = $state<Route>(parseHash(location.hash))
+  // Vị trí cuộn theo đường dẫn (bỏ ?query): quay lại trang đã xem thì về đúng chỗ, trang mới thì lên đầu.
+  const viTri = new Map<string, number>()
+  const khoa = () => location.hash.split('?')[0] || '#/'
   $effect(() => {
-    const nghe = () => {
+    const nghe = async () => {
       route = parseHash(location.hash)
-      window.scrollTo(0, 0)
+      const k = khoa()
+      await tick()
+      window.scrollTo(0, viTri.get(k) ?? 0)
     }
+    const cuon = () => viTri.set(khoa(), window.scrollY)
     window.addEventListener('hashchange', nghe)
-    return () => window.removeEventListener('hashchange', nghe)
+    window.addEventListener('scroll', cuon, { passive: true })
+    return () => {
+      window.removeEventListener('hashchange', nghe)
+      window.removeEventListener('scroll', cuon)
+    }
   })
 </script>
 

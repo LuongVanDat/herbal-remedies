@@ -9,7 +9,12 @@ export type Route =
 
 export function parseHash(hash: string): Route {
   const [duong, query = ''] = hash.replace(/^#/, '').split('?')
-  const p = duong.split('/').filter(Boolean).map(decodeURIComponent)
+  let p: string[]
+  try {
+    p = duong.split('/').filter(Boolean).map(decodeURIComponent)
+  } catch {
+    return { ten: 'khongThay' }
+  }
   const tc = new URLSearchParams(query).get('tc') ?? ''
   if (p.length === 0) return { ten: 'chu' }
   if (p[0] === 'benh' && p.length === 2) return { ten: 'benh', id: p[1], tc }

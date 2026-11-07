@@ -72,3 +72,12 @@ test('I2: vị ít độc hiện nhãn và cảnh báo trong bảng', () => {
   expect(maHoang).toHaveTextContent('Ít độc')
   expect(maHoang).toHaveTextContent('Gây tăng huyết áp, mất ngủ')
 })
+
+test('link quay lại giữ các triệu chứng đã tích gần nhất của bệnh', async () => {
+  const { ghiNhoTc } = await import('../../src/url-state')
+  ghiNhoTc('cam-mao', 'so-lanh-nhieu,khong-mo-hoi')
+  renderVoiData(TrangThe, { benhId: 'cam-mao', theId: 'phong-han' })
+  expect(screen.getByRole('link', { name: /Cảm mạo/ }))
+    .toHaveAttribute('href', '#/benh/cam-mao?tc=so-lanh-nhieu,khong-mo-hoi')
+  ghiNhoTc('cam-mao', '')
+})

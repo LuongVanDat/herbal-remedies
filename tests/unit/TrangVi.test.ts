@@ -1,7 +1,7 @@
 import { screen, within } from '@testing-library/svelte'
 import { expect, test } from 'vitest'
 import TrangVi from '../../src/routes/TrangVi.svelte'
-import { renderVoiData } from '../helpers-ui'
+import { appFixture, renderVoiData } from '../helpers-ui'
 
 test('TrangVi: đủ trường spec §3.5', () => {
   renderVoiData(TrangVi, { id: 'que-chi' })
@@ -40,11 +40,25 @@ test('TrangVi: không có vị thay thế → ghi rõ', () => {
 test('TrangVi: "Có trong các bài thuốc" liệt kê từ viTrongBai', () => {
   renderVoiData(TrangVi, { id: 'cam-thao' })
   const s = screen.getByRole('region', { name: 'Có trong các bài thuốc' })
-  expect(within(s).getAllByRole('listitem').map((li) => li.textContent!.trim()).sort())
+  expect(within(s).getAllByRole('listitem').map((li) => li.textContent!.trim().split(/\s+—/)[0]).sort())
     .toEqual(['Ma hoàng thang', 'Ngân kiều tán'])
 })
 
 test('TrangVi: id lạ → KhongTimThay', () => {
   renderVoiData(TrangVi, { id: 'khong-co' })
   expect(screen.getByRole('heading', { name: 'Không tìm thấy' })).toBeInTheDocument()
+})
+
+test('TrangVi: vị thay thế có độc có nhãn độc tính', () => {
+  const d = appFixture()
+  d.viThuoc['cam-thao'].thay_the = [{ vi: 'phu-tu-che', ghi_chu: 'x', nguon: null }]
+  renderVoiData(TrangVi, { id: 'cam-thao' }, d)
+  expect(screen.getByTestId('thay-the')).toHaveTextContent('⚠ Có độc')
+})
+
+test('TrangVi: "Có trong các bài thuốc" là link tới thể bệnh dùng bài đó', () => {
+  renderVoiData(TrangVi, { id: 'que-chi' })
+  const s = screen.getByRole('region', { name: 'Có trong các bài thuốc' })
+  expect(within(s).getByRole('link', { name: /Cảm mạo · Phong hàn/ })).toHaveAttribute('href', '#/benh/cam-mao/phong-han')
+  expect(s).toHaveTextContent('Ma hoàng thang')
 })
