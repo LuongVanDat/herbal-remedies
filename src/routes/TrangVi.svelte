@@ -1,7 +1,7 @@
 <script lang="ts">
   import NhanNguon from '../components/NhanNguon.svelte'
   import { layData } from '../data-context'
-  import { coDoc, coNhanDoc, DOC_TINH, NGUON_GOC, PHO_BIEN } from '../labels'
+  import { coDoc, coNhanDoc, DOC_TINH, khoangLieu, NGUON_GOC, PHO_BIEN } from '../labels'
   import { href } from '../router'
   import KhongTimThay from './KhongTimThay.svelte'
 
@@ -34,7 +34,7 @@
     <dt>Liều dùng</dt>
     <dd>
       {#if v.lieu_dung}
-        {v.lieu_dung.min_g}–{v.lieu_dung.max_g}g/ngày <NhanNguon nguon={v.lieu_dung.nguon ?? null} />
+        {khoangLieu(v.lieu_dung)}/ngày <NhanNguon nguon={v.lieu_dung.nguon ?? null} />
       {:else}
         <span class="mo">Chưa có liều chuẩn</span>
       {/if}

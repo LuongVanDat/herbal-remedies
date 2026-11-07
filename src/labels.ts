@@ -21,3 +21,6 @@ export const NGUON_GOC: Record<NonNullable<ViThuoc['nguon_goc']>, string> = {
   ca_hai: 'Cả trong nước và nước ngoài',
 }
 export const coNhanDoc = (v: ViThuoc) => v.doc_tinh.muc === 'it' || coDoc(v)
+
+/** "6–12g" hoặc "4g" khi liều tối thiểu = tối đa. */
+export const khoangLieu = (l: { min_g: number; max_g: number }) => (l.min_g === l.max_g ? `${l.min_g}g` : `${l.min_g}–${l.max_g}g`)

@@ -84,3 +84,11 @@ test('TrangVi: vị không có tên khoa học vẫn hiển thị', () => {
   expect(screen.getByRole('heading', { level: 1 })).toHaveTextContent('Quế chi')
   expect(screen.getByText(/Không có trong danh mục vị thuốc/)).toBeInTheDocument()
 })
+
+test('TrangVi: liều đơn (min = max) hiện một số, không "4–4g"', () => {
+  const d = appFixture()
+  d.viThuoc['que-chi'].lieu_dung = { min_g: 4, max_g: 4, nguon: d.viThuoc['que-chi'].lieu_dung!.nguon }
+  renderVoiData(TrangVi, { id: 'que-chi' }, d)
+  expect(screen.getByText(/4g\/ngày/)).toBeInTheDocument()
+  expect(screen.queryByText(/4–4g/)).toBeNull()
+})

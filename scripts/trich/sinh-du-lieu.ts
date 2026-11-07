@@ -14,6 +14,7 @@ import { stringify } from 'yaml'
 import { BI_DANH, NGOAI_DANH_MUC, VI_GOP } from './bi-danh-vi'
 import { boPhanDung, chiaChinhPhu, slug, timVi, xacNhanLieu, type DongDanhMuc, type DongDoc } from './lib'
 import { boDau } from '../../src/search'
+import { ghepLieu, tuDocAnh, type ChuyenLuan, type KetQuaDocAnh, type LieuDdvn } from './ddvn/lieu'
 
 const [dirJson = 'scripts/trich/ban-trich', dirData = 'data', fileText = '.superpowers/trich/full.txt'] = process.argv.slice(2)
 const trangText = readFileSync(fileText, 'utf8').split('\f')
@@ -74,6 +75,29 @@ for (const d of dm) {
   TEN_THEO_MA.set(id, d.ten)
 }
 const maVi = (d: DongDanhMuc) => MA_VI.get(d.stt)!
+
+// ---- Liều Dược điển Việt Nam V: tự động từ OCR (ddvn/chuyen-luan.json) + đọc ảnh trang (ddvn/doc-anh/*.json) ----
+const DIR_DOC_ANH = 'scripts/trich/ddvn/doc-anh'
+const docAnh: KetQuaDocAnh[] = readdirSync(DIR_DOC_ANH).filter((f) => f.endsWith('.json')).sort()
+  .flatMap((f) => JSON.parse(readFileSync(join(DIR_DOC_ANH, f), 'utf8')))
+const { suaTay, theoId: lieuNgoaiDm } = tuDocAnh(docAnh)
+const chuyenLuan: ChuyenLuan[] = JSON.parse(readFileSync('scripts/trich/ddvn/chuyen-luan.json', 'utf8'))
+const { theoStt: lieuTheoStt, baoCao: baoCaoLieu } = ghepLieu(chuyenLuan, dm, suaTay)
+const lieuCuaVi = new Map<string, LieuDdvn>()
+for (const d of dm) { const l = lieuTheoStt.get(d.stt); if (l) lieuCuaVi.set(maVi(d), l) }
+for (const g of Object.values(VI_GOP)) {
+  // Vị gộp: chỉ gán khi mọi vị thành phần có cùng một liều
+  const ls = g.stt.map((s) => lieuTheoStt.get(s))
+  if (ls.every((l) => l && l.min_g === ls[0]!.min_g && l.max_g === ls[0]!.max_g)) lieuCuaVi.set(g.id, ls[0]!)
+  else if (ls.some(Boolean)) baoCaoLieu.push(`VỊ GỘP ${g.id}: liều các vị thành phần khác nhau/thiếu → không gán`)
+}
+for (const [id, l] of lieuNgoaiDm) lieuCuaVi.set(id, l)
+const lieuDung = (id: string) => {
+  const l = lieuCuaVi.get(id)
+  return l
+    ? { min_g: l.min_g, max_g: l.max_g, nguon: { ma: 'ddvn-5', ...(l.trang ? { trang: l.trang } : {}), muc: l.muc, trang_thai: 'chua_doi_chieu' } }
+    : null
+}
 const NGOAI = Object.fromEntries(Object.entries(NGOAI_DANH_MUC).map(([k, v]) => [boDau(k), v]))
 const ngoaiDung = new Map<string, { ten: string; ten_khac?: string[]; trang: number }>()
 function viCuaTen(tenIn: string, noi: string, trang: number): string | null {
@@ -135,6 +159,9 @@ for (const f of files) {
           lieu_g: tp.lieu_g,
           ...(tp.lieu_text ? { lieu_text: tp.lieu_text } : tp.lieu_g === null ? { lieu_text: 'Văn bản không ghi liều' } : {}),
           vai_tro: null,
+          ...(vi && tp.lieu_g !== null && lieuCuaVi.has(vi) && tp.lieu_g > lieuCuaVi.get(vi)!.max_g
+            ? { vuot_lieu_ly_do: `Liều in trong QĐ 5013 (tr.${bj.trang}); cao hơn liều thường dùng ${lieuCuaVi.get(vi)!.min_g}–${lieuCuaVi.get(vi)!.max_g} g/ngày theo Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.` }
+            : {}),
         }
       })
       if (!thanhPhan.length) continue
@@ -221,7 +248,7 @@ for (const d of dm) {
     id: maVi(d), ten: d.ten, ten_khac: d.ten_khac, ten_khoa_hoc: d.ten_khoa_hoc,
     ...(d.ten_cay ? { ten_cay: d.ten_cay } : {}), ...(bp ? { bo_phan_dung: bp } : {}),
     ...(GOC[d.nguon_goc] ? { nguon_goc: GOC[d.nguon_goc] } : {}),
-    lieu_dung: null, doc_tinh: docTinh(d.stt), pho_bien: null, thay_the: [],
+    lieu_dung: lieuDung(maVi(d)), doc_tinh: docTinh(d.stt), pho_bien: null, thay_the: [],
     nguon: NG(d.trang),
   })
 }
@@ -231,7 +258,7 @@ for (const g of Object.values(VI_GOP)) {
     id: g.id, ten: g.ten, ten_khac: [], ten_khoa_hoc: tv[0].ten_khoa_hoc,
     ten_cay: tv.map((d) => `${d.ten} (STT ${d.stt}): ${d.ten_cay}`).join('; '),
     ...(boPhanDung(tv[0].ten_khoa_hoc) ? { bo_phan_dung: boPhanDung(tv[0].ten_khoa_hoc) } : {}),
-    lieu_dung: null, doc_tinh: docTinh(g.stt[0]), pho_bien: null, thay_the: [],
+    lieu_dung: lieuDung(g.id), doc_tinh: docTinh(g.stt[0]), pho_bien: null, thay_the: [],
     nguon: NG(tv[0].trang),
   })
 }
@@ -239,7 +266,7 @@ for (const g of Object.values(VI_GOP)) {
 for (const [id, v] of ngoaiDung) {
   ghi(`vi-thuoc/${id}.yaml`, {
     id, ten: v.ten, ten_khac: v.ten_khac ?? [],
-    lieu_dung: null, doc_tinh: { muc: 'chua_ro', canh_bao: null }, pho_bien: null, thay_the: [],
+    lieu_dung: lieuDung(id), doc_tinh: { muc: 'chua_ro', canh_bao: null }, pho_bien: null, thay_the: [],
     nguon: NG(v.trang), // trang văn bản đầu tiên dùng vị này (không có trong danh mục cuối tài liệu)
   })
 }
@@ -255,5 +282,8 @@ const soBai = baiOut.size
 console.log(`${benhOut.length} bệnh, ${benhOut.reduce((s, b) => s + (b.the_benh as unknown[]).length, 0)} thể, ${soBai} bài, ${tcInfo.size} triệu chứng, ${dm.length + new Set(Object.values(VI_GOP).map((g) => g.id)).size + ngoaiDung.size} vị (dùng ${viDung.size} vị trong danh mục)`)
 for (const [ten, noi] of khongKhop) console.log(`KHÔNG KHỚP VỊ: "${ten}" (${noi.length} lần, vd ${noi[0]})`)
 writeFileSync('.superpowers/trich/bao-cao.txt', baoCao.join('\n') + '\n')
+writeFileSync('scripts/trich/ddvn/bao-cao-lieu.txt', baoCaoLieu.join('\n') + '\n')
+const soViCoLieu = [...lieuCuaVi.keys()].length
+console.log(`Liều DĐVN V: ${soViCoLieu} vị (${Object.keys(suaTay).length} sửa tay/đọc ảnh), ${baoCaoLieu.length} mục cần xem: scripts/trich/ddvn/bao-cao-lieu.txt`)
 console.log(`${baoCao.filter((x) => x.startsWith('LIỀU?')).length} liều cần xem; báo cáo đầy đủ: .superpowers/trich/bao-cao.txt`)
 if (khongKhop.size) process.exit(1)

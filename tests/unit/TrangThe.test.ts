@@ -123,3 +123,9 @@ test('mọi vị đều chưa có liều chuẩn: một ghi chú dưới bảng 
   expect(within(b).queryByText('Chưa có liều chuẩn')).toBeNull()
   expect(screen.getAllByText(/Các vị trong bài chưa có liều chuẩn để đối chiếu/).length).toBeGreaterThan(0)
 })
+
+test('vị có liều chuẩn: dưới liều trong bài hiện liều thường dùng để so', () => {
+  renderVoiData(TrangThe, { benhId: 'cam-mao', theId: 'phong-han' })
+  const queChi = within(bang('Ma hoàng thang')).getAllByRole('row').find((r) => r.textContent!.includes('Quế chi'))!
+  expect(queChi).toHaveTextContent('thường dùng 4–12g/ngày')
+})

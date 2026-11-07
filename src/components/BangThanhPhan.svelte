@@ -1,6 +1,6 @@
 <script lang="ts">
   import { layData } from '../data-context'
-  import { coDoc, coNhanDoc, DOC_TINH, PHO_BIEN, VAI_TRO } from '../labels'
+  import { coDoc, coNhanDoc, DOC_TINH, khoangLieu, PHO_BIEN, VAI_TRO } from '../labels'
   import { href } from '../router'
   import type { BaiThuoc } from '../schema'
 
@@ -22,7 +22,10 @@
             <a href={href({ ten: 'vi', id: tp.vi })}>{tp.ten_trong_bai ?? v?.ten ?? tp.vi}</a>
             {#if tp.ten_trong_bai && v && tp.ten_trong_bai !== v.ten}<div class="mo nho">vị: {v.ten}</div>{/if}
           </td>
-          <td class="so">{tp.lieu_g !== null ? `${tp.lieu_g}g` : tp.lieu_text}</td>
+          <td class="so">
+            {tp.lieu_g !== null ? `${tp.lieu_g}g` : tp.lieu_text}
+            {#if v?.lieu_dung}<div class="mo nho">thường dùng {khoangLieu(v.lieu_dung)}/ngày</div>{/if}
+          </td>
           {#if coVaiTro}<td>{tp.vai_tro ? VAI_TRO[tp.vai_tro] : '—'}</td>{/if}
           <td>
             {#if v?.pho_bien}<span class="pb {v.pho_bien.muc}">{PHO_BIEN[v.pho_bien.muc]}</span>
