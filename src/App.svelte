@@ -6,6 +6,7 @@
   import KhongTimThay from './routes/KhongTimThay.svelte'
   import TrangBenh from './routes/TrangBenh.svelte'
   import TrangChu from './routes/TrangChu.svelte'
+  import TrangThe from './routes/TrangThe.svelte'
 
   datData(appData)
   let route = $state<Route>(parseHash(location.hash))
@@ -25,6 +26,8 @@
     <TrangChu />
   {:else if route.ten === 'benh'}
     {#key route.id}<TrangBenh id={route.id} tc={route.tc} />{/key}
+  {:else if route.ten === 'the'}
+    {#key `${route.benhId}/${route.theId}`}<TrangThe benhId={route.benhId} theId={route.theId} />{/key}
   {:else}
     <KhongTimThay />
   {/if}
