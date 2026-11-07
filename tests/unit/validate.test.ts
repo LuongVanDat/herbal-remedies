@@ -113,3 +113,12 @@ test('khong-duoc-dung cho vị thuốc không bài nào dùng', () => {
   const raw = sua(ok, (r) => { const v = structuredClone(vi(r, 'que-chi')); v.id = 'bach-chi'; r.viThuoc.push({ file: 'x/bach-chi.yaml', data: v }) })
   expect(canhBao(raw, 'khong-duoc-dung').map((v) => v.file)).toEqual(['x/bach-chi.yaml'])
 })
+
+test('trung-id: bài thuốc lặp trong một thể bệnh', () => {
+  const raw = sua(ok, (r) => { camMao(r).the_benh[0].bai_thuoc.push('ma-hoang-thang') })
+  expect(loi(raw, 'trung-id').map((v) => v.truong)).toEqual(['the_benh[0].bai_thuoc[1]'])
+})
+test('trung-id: dấu hiệu nguy hiểm trùng id triệu chứng dùng chung', () => {
+  const raw = sua(ok, (r) => { camMao(r).dau_hieu_nguy_hiem[0].id = 'sot-cao' })
+  expect(loi(raw, 'trung-id').map((v) => v.truong)).toEqual(['dau_hieu_nguy_hiem[0].id'])
+})

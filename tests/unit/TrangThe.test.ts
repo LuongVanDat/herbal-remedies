@@ -55,3 +55,20 @@ test('theId không thuộc bệnh → KhongTimThay', () => {
   renderVoiData(TrangThe, { benhId: 'cam-mao', theId: 'khong-co' })
   expect(screen.getByRole('heading', { name: 'Không tìm thấy' })).toBeInTheDocument()
 })
+
+test('I1: vị chưa có liều chuẩn → cột Lưu ý ghi "Chưa có liều chuẩn"', () => {
+  renderVoiData(TrangThe, { benhId: 'cam-mao', theId: 'phong-han' })
+  const camThao = within(bang('Ma hoàng thang')).getAllByRole('row').find((r) => r.textContent!.includes('Cam thảo'))!
+  expect(camThao).toHaveTextContent('Chưa có liều chuẩn')
+  const queChi = within(bang('Ma hoàng thang')).getAllByRole('row').find((r) => r.textContent!.includes('Quế chi'))!
+  expect(queChi).not.toHaveTextContent('Chưa có liều chuẩn')
+})
+
+test('I2: vị ít độc hiện nhãn và cảnh báo trong bảng', () => {
+  const d = appFixture()
+  d.viThuoc['ma-hoang'].doc_tinh = { muc: 'it', canh_bao: 'Gây tăng huyết áp, mất ngủ' }
+  renderVoiData(TrangThe, { benhId: 'cam-mao', theId: 'phong-han' }, d)
+  const maHoang = within(bang('Ma hoàng thang')).getAllByRole('row').find((r) => r.textContent!.includes('Ma hoàng'))!
+  expect(maHoang).toHaveTextContent('Ít độc')
+  expect(maHoang).toHaveTextContent('Gây tăng huyết áp, mất ngủ')
+})

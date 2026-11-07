@@ -72,12 +72,20 @@ export function validate(raw: RawData): { loi: VanDe[]; canhBao: VanDe[] } {
   for (const { file, data } of raw.benh) {
     kiemTrung(data.the_benh.map((t, i) => ({ id: t.id, file, truong: `the_benh[${i}].id` })), 'Thể bệnh')
     kiemTrung(data.dau_hieu_nguy_hiem.map((d, i) => ({ id: d.id, file, truong: `dau_hieu_nguy_hiem[${i}].id` })), 'Dấu hiệu')
+    data.the_benh.forEach((t, i) =>
+      kiemTrung(t.bai_thuoc.map((id, j) => ({ id, file, truong: `the_benh[${i}].bai_thuoc[${j}]` })), 'Bài thuốc trong thể'),
+    )
   }
 
   const maNguon = new Set(raw.nguon.data.van_ban.map((v) => v.ma))
   const idTC = new Set(raw.trieuChung.data.nhom.flatMap((n) => n.trieu_chung.map((t) => t.id)))
   const idBai = new Set(raw.baiThuoc.map((b) => b.data.id))
   const viMap = new Map(raw.viThuoc.map((v) => [v.data.id, v.data]))
+  for (const { file, data } of raw.benh)
+    data.dau_hieu_nguy_hiem.forEach((d, i) => {
+      if (idTC.has(d.id))
+        L('trung-id', file, `dau_hieu_nguy_hiem[${i}].id`, `Dấu hiệu nguy hiểm trùng id triệu chứng "${d.id}"`)
+    })
   const thamChieu = (co: boolean, file: string, truong: string, loai: string, id: string) => {
     if (!co) L('tham-chieu', file, truong, `${loai} "${id}" không tồn tại`)
   }

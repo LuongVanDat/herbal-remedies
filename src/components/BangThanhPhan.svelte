@@ -20,8 +20,13 @@
           <td>{tp.vai_tro ? VAI_TRO[tp.vai_tro] : '—'}</td>
           <td>{#if v}<span class="pb {v.pho_bien.muc}">{PHO_BIEN[v.pho_bien.muc]}</span>{/if}</td>
           <td class="luu-y">
-            {#if v && coDoc(v)}
-              <div class="doc"><strong>⚠ {DOC_TINH[v.doc_tinh.muc]}:</strong> {v.doc_tinh.canh_bao}</div>
+            {#if v && v.doc_tinh.muc !== 'khong'}
+              <div class:doc={coDoc(v)} class:it-doc={!coDoc(v)}>
+                <strong>⚠ {DOC_TINH[v.doc_tinh.muc]}</strong>{#if v.doc_tinh.canh_bao?.trim()}: {v.doc_tinh.canh_bao}{/if}
+              </div>
+            {/if}
+            {#if v && !v.lieu_dung}
+              <div class="mo">Chưa có liều chuẩn</div>
             {/if}
             {#if tp.vuot_lieu_ly_do && v?.lieu_dung}
               <div class="doc">Vượt liều chuẩn (tối đa {v.lieu_dung.max_g}g): {tp.vuot_lieu_ly_do}</div>
@@ -41,4 +46,6 @@
   .pb.thap { color: var(--do); }
   .co-doc { background: var(--nen-do); }
   .doc { color: var(--do); font-size: 0.85rem; }
+  .it-doc { color: var(--vang); font-size: 0.85rem; }
+  .mo { font-size: 0.85rem; }
 </style>

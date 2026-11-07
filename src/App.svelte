@@ -30,7 +30,7 @@
   {#if route.ten === 'chu'}
     <TrangChu />
   {:else if route.ten === 'benh'}
-    {#key route.id}<TrangBenh id={route.id} tc={route.tc} />{/key}
+    {#key `${route.id}?${route.tc}`}<TrangBenh id={route.id} tc={route.tc} />{/key}
   {:else if route.ten === 'the'}
     {#key `${route.benhId}/${route.theId}`}<TrangThe benhId={route.benhId} theId={route.theId} />{/key}
   {:else if route.ten === 'dsVi'}

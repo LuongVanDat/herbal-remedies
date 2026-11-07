@@ -1,0 +1,1 @@
+<!-- thay ThongBaoCapNhat trong test -->
