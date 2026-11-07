@@ -1,0 +1,61 @@
+:root {
+  --nen: #fbfaf7;
+  --chu: #1f1d1a;
+  --mo: #6b665e;
+  --vien: #e3dfd6;
+  --the: #ffffff;
+  --nhan: #7a4b14;
+  --xanh: #2f6b3a;
+  --vang: #8a6a00;
+  --do: #b3261e;
+  --nen-do: #fdecea;
+  --nen-vang: #fff6d6;
+  color-scheme: light dark;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --nen: #171614;
+    --chu: #ece8e1;
+    --mo: #a39d93;
+    --vien: #34312c;
+    --the: #211f1c;
+    --nhan: #e0a95e;
+    --xanh: #7cc58a;
+    --vang: #e5c45a;
+    --do: #ff8a80;
+    --nen-do: #3a1d1a;
+    --nen-vang: #33290f;
+  }
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--nen);
+  color: var(--chu);
+  font: 16px/1.55 system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+}
+main { max-width: 760px; margin: 0 auto; padding: 0 16px; }
+.dau-trang { padding: 12px 16px; border-bottom: 1px solid var(--vien); }
+.dau-trang a { color: var(--nhan); font-weight: 600; text-decoration: none; }
+a { color: var(--nhan); }
+h1 { font-size: 1.5rem; margin: 1.2rem 0 0.8rem; }
+h2 { font-size: 1.2rem; margin: 1.5rem 0 0.5rem; }
+.mo { color: var(--mo); }
+input[type='search'] {
+  width: 100%; padding: 0.7rem 0.9rem; font-size: 1rem;
+  border: 1px solid var(--vien); border-radius: 10px; background: var(--the); color: var(--chu);
+}
+.danh-sach { list-style: none; padding: 0; margin: 1rem 0; }
+.danh-sach li { border-bottom: 1px solid var(--vien); }
+.danh-sach a { display: block; padding: 0.7rem 0.2rem; text-decoration: none; color: var(--chu); }
+.nut {
+  display: inline-block; padding: 0.5rem 0.9rem; border: 1px solid var(--vien);
+  border-radius: 999px; text-decoration: none; background: var(--the);
+}
+.loi-vao { display: flex; gap: 0.6rem; flex-wrap: wrap; margin-top: 1.5rem; }
+.canh-bao { padding: 0.7rem 0.9rem; border-radius: 10px; margin: 0.8rem 0; }
+.canh-bao.do { background: var(--nen-do); color: var(--do); border: 1px solid var(--do); }
+.canh-bao.vang { background: var(--nen-vang); color: var(--vang); border: 1px solid var(--vang); }
+table { width: 100%; border-collapse: collapse; font-size: 0.95rem; }
+th, td { text-align: left; padding: 0.45rem 0.4rem; border-bottom: 1px solid var(--vien); vertical-align: top; }
+.bang-cuon { overflow-x: auto; }
