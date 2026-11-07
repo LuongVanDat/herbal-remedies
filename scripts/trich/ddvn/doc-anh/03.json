@@ -1,0 +1,522 @@
+[
+ {
+  "id": "bach-truat",
+  "stt": [
+   26
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "BẠCH TRUẬT (Thân rễ)",
+  "trang_in": 1078,
+  "min_g": 6,
+  "max_g": 12,
+  "cau": "Ngày dùng từ 6 g đến 12 g, dạng thuốc sắc hoặc bột. Bạch truật sao cám, tẩm mật ong tăng tác dụng kiện tỳ, sao cháy có tác dụng chỉ huyết.",
+  "ghi_chu": ""
+ },
+ {
+  "id": "mau-don-bi",
+  "stt": [
+   207
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "MẪU ĐƠN BÌ (Vỏ rễ)",
+  "trang_in": 1248,
+  "min_g": 6,
+  "max_g": 12,
+  "cau": "Ngày dùng từ 6 g đến 12 g, dạng thuốc sắc hay hoàn tán, thường phối hợp với các vị thuốc khác.",
+  "ghi_chu": ""
+ },
+ {
+  "id": "huong-phu",
+  "stt": [
+   148
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "HƯƠNG PHỤ (Thân rễ)",
+  "trang_in": 1206,
+  "min_g": 6,
+  "max_g": 9,
+  "cau": "Ngày dùng từ 6 g đến 9 g, dạng thuốc sắc.",
+  "ghi_chu": ""
+ },
+ {
+  "id": "phu-tu-che",
+  "stt": [
+   255
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "PHỤ TỬ",
+  "trang_in": 1292,
+  "min_g": 4,
+  "max_g": 12,
+  "cau": "Ngày dùng 4 g đến 12 g dược liệu đã bào chế đạt tiêu chuẩn giới hạn aconitin, dạng thuốc sắc.",
+  "ghi_chu": "Không có chuyên luận riêng 'Phụ tử chế'; chuyên luận PHỤ TỬ (Radix Aconiti lateralis) tr.1291-1292, câu liều nói rõ áp dụng cho dược liệu đã bào chế (Diêm phụ tử/Hắc phụ tử/Bạch phụ tử...) đạt giới hạn aconitin."
+ },
+ {
+  "id": "khuong-hoang",
+  "stt": [
+   164
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "NGHỆ (Thân rễ)",
+  "trang_in": 1265,
+  "min_g": 6,
+  "max_g": 12,
+  "cau": "Ngày dùng từ 6 g đến 12 g, dạng thuốc sắc hoặc bột. Dùng ngoài dưới dạng dịch tươi bôi vào vết thương để chóng lên da non.",
+  "ghi_chu": "Chuyên luận NGHỆ (Thân rễ), Rhizoma Curcumae longae, tên khác Khương hoàng (bắt đầu tr.1264)."
+ },
+ {
+  "id": "que-nhuc",
+  "stt": [
+   264
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "QUẾ (Vỏ thân, vỏ cành)",
+  "trang_in": 1297,
+  "min_g": 1,
+  "max_g": 4,
+  "cau": "Ngày dùng từ 1 g đến 4 g, dạng thuốc hãm, hoặc thuốc hoàn tán.",
+  "ghi_chu": "Cortex Cinnamomi, chuyên luận bắt đầu tr.1296; mục in là 'Cách dùng, liều dùng'."
+ },
+ {
+  "id": "cuc-hoa",
+  "stt": [
+   77
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "CÚC HOA VÀNG (Cụm hoa)",
+  "trang_in": 1131,
+  "min_g": 8,
+  "max_g": 30,
+  "cau": "Ngày dùng từ 8 g đến 12 g đến 30 g, dạng thuốc sắc hay thuốc bột.",
+  "ghi_chu": "Bản in ghi đúng nguyên văn 'từ 8 g đến 12 g đến 30 g' (có vẻ lỗi biên tập); lấy min 8, max 30 theo số in — CẦN NGƯỜI XEM LẠI. Flos Chrysanthemi indici."
+ },
+ {
+  "id": "phuc-than",
+  "stt": [
+   257
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "PHỤC LINH",
+  "trang_in": 1293,
+  "min_g": 9,
+  "max_g": 15,
+  "cau": "Ngày dùng từ 9 g đến 15 g, thường phối hợp với các vị thuốc khác.",
+  "ghi_chu": "Không có chuyên luận riêng Phục thần; chuyên luận PHỤC LINH (Poria) mô tả 'Phục thần: Là phần nấm Phục linh ôm đoạn rễ thông bên trong' như một phần của dược liệu. Câu liều là liều chung của Phục linh, không nói riêng Phục thần — cần người xem lại."
+ },
+ {
+  "kiem_tra": true,
+  "id": "stt-258",
+  "stt": [
+   258
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "QUA LÂU (Hạt)",
+  "trang_in": 1294,
+  "min_g": 9,
+  "max_g": 15,
+  "cau": "Ngày dùng từ 9 g đến 15 g, phối hợp trong các bài thuốc.",
+  "xac_nhan": true,
+  "ghi_chu": "Liều tự động (9-15) đúng nhưng trang_in tự động 1293 sai: câu 9-15 trên tr.1293 là của PHỤC LINH; liều Qua lâu (Hạt) nằm ở tr.1294. Trang đúng: 1294."
+ },
+ {
+  "id": "da-cam",
+  "stt": [
+   79
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "DẠ CẨM",
+  "trang_in": 1132,
+  "min_g": 20,
+  "max_g": 40,
+  "cau": "Ngày dùng từ 20 g đến 40 g lá khô, chia làm 2 lần, dạng thuốc sắc hoặc hãm, thuốc cao, thuốc bột hoặc cốm, uống vào lúc đau và trước khi ăn. Làm chóng lên da non: Lá tươi giã với muối, đắp nơi đau.",
+  "ghi_chu": "Herba Hedyotidis capitellatae, chuyên luận bắt đầu tr.1131."
+ },
+ {
+  "id": "thuong-nhi-tu",
+  "stt": [
+   329
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "KÉ ĐẦU NGỰA (Quả)",
+  "trang_in": 1211,
+  "min_g": 6,
+  "max_g": 12,
+  "cau": "Ngày dùng từ 6 g đến 12 g, dạng thuốc sắc, hoặc hoàn. Thường phối hợp với một số vị thuốc khác.",
+  "ghi_chu": "Fructus Xanthii strumarii, tên khác Thương nhĩ tử; chuyên luận bắt đầu tr.1210."
+ },
+ {
+  "id": "cot-toai-bo",
+  "stt": [
+   74
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "CỐT TOÁI BỔ (Thân rễ)",
+  "trang_in": 1125,
+  "min_g": 6,
+  "max_g": 12,
+  "cau": "Ngày dùng từ 6 g đến 12 g, dạng thuốc sắc hoặc hoàn tán. Thường phối hợp với các loại thuốc khác. Dùng ngoài, lượng thích hợp.",
+  "ghi_chu": ""
+ },
+ {
+  "id": "cot-khi-cu",
+  "stt": [
+   73
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "CỐT KHÍ (Rễ)",
+  "trang_in": 1124,
+  "min_g": 9,
+  "max_g": 15,
+  "cau": "Ngày dùng từ 9 g đến 15 g, dạng thuốc sắc. Dùng ngoài, lượng thích hợp, sắc lấy nước để bôi, rửa hoặc chế thành cao, bôi.",
+  "ghi_chu": "Radix Polygoni cuspidati, chuyên luận bắt đầu tr.1123."
+ },
+ {
+  "id": "rau-meo",
+  "stt": [
+   267
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "RÂU MÈO",
+  "trang_in": 1301,
+  "min_g": 5,
+  "max_g": 6,
+  "cau": "Ngày dùng từ 5 g đến 6 g, dạng hãm hoặc sắc.",
+  "ghi_chu": "Mục in là 'Cách dùng, liều dùng'."
+ },
+ {
+  "id": "to-diep",
+  "stt": [
+   341
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "TÍA TÔ (Lá)",
+  "trang_in": 1350,
+  "min_g": 5,
+  "max_g": 9,
+  "cau": "Ngày dùng từ 5 g đến 9 g dược liệu khô, dạng thuốc sắc. Dùng tươi: Lượng thích hợp.",
+  "ghi_chu": "Folium Perillae frutescensis, tên khác Tô diệp; chuyên luận bắt đầu tr.1349."
+ },
+ {
+  "id": "dau-den",
+  "stt": [
+   102
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "ĐẬU ĐEN (Hạt)",
+  "trang_in": 1161,
+  "min_g": 20,
+  "max_g": 40,
+  "cau": "Ngày dùng từ 20 g đến 40 g, có thể hơn. Dùng để chế Đạm đậu sị và làm phụ liệu.",
+  "ghi_chu": "Câu in có 'có thể hơn' sau 40 g."
+ },
+ {
+  "id": "dam-dau-xi",
+  "stt": [
+   94
+  ],
+  "ket_qua": "khong_ghi_lieu_gam",
+  "chuyen_luan": "ĐẬU ĐEN (Hạt)",
+  "trang_in": 1161,
+  "min_g": null,
+  "max_g": null,
+  "cau": "Ngày dùng từ 20 g đến 40 g, có thể hơn. Dùng để chế Đạm đậu sị và làm phụ liệu.",
+  "ghi_chu": "Không có chuyên luận riêng Đạm đậu xị. Cách chế 'Đạm đậu sị' chỉ nằm trong mục Bào chế của ĐẬU ĐEN (Hạt) tr.1160; câu liều là của Đậu đen, không nói áp dụng cho Đạm đậu sị nên không lấy số gam."
+ },
+ {
+  "id": "nguu-bang-tu",
+  "stt": [
+   233
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "NGƯU BÀNG (Quả)",
+  "trang_in": 1275,
+  "min_g": 6,
+  "max_g": 12,
+  "cau": "Ngày dùng từ 6 g đến 12 g, dạng thuốc sắc.",
+  "ghi_chu": "Chuyên luận là Fructus Arctii lappae (quả), tên khác Ngưu bàng tử; QĐ 5013 ghi 'Semen Arctii lappae'. Bắt đầu tr.1274."
+ },
+ {
+  "id": "nhan-sam",
+  "stt": [
+   236
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "NHÂN SÂM (Thân rễ và Rễ)",
+  "trang_in": 1280,
+  "min_g": 4,
+  "max_g": 10,
+  "cau": "Ngày dùng từ 4 g đến 10 g. Dạng thuốc hãm hoặc lấy dịch chiết bằng cách: Thái lát mỏng cho vào chén sứ, thêm ít nước, đậy nắp, đun cách thủy đến khi chiết hết mùi vị.",
+  "ghi_chu": "Rhizoma et Radix Ginseng, bắt đầu tr.1279 (không phải Nhân sâm Phú Yên)."
+ },
+ {
+  "id": "hoac-huong",
+  "stt": [
+   132
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "HOẮC HƯƠNG",
+  "trang_in": 1195,
+  "min_g": 3,
+  "max_g": 9,
+  "cau": "Ngày dùng từ 3 g đến 9 g, dạng thuốc sắc, hãm hay bột.",
+  "ghi_chu": "Herba Pogostemonis, chuyên luận bắt đầu tr.1194."
+ },
+ {
+  "id": "thach-hoc",
+  "stt": [
+   303
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "THẠCH HỘC (Thân)",
+  "trang_in": 1332,
+  "min_g": 6,
+  "max_g": 12,
+  "cau": "Ngày dùng từ 6 g đến 12 g dược liệu khô, từ 15 g đến 30 g dược liệu tươi, dạng thuốc sắc hoặc hoàn tán. Thường phối hợp với các loại thuốc khác.",
+  "ghi_chu": "Herba Dendrobii, bắt đầu tr.1330. Lấy liều dược liệu khô; tươi 15-30 g."
+ },
+ {
+  "id": "stt-59",
+  "stt": [
+   59
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "CHÈ ĐẮNG (Lá)",
+  "trang_in": 1109,
+  "min_g": 8,
+  "max_g": 10,
+  "cau": "Dùng dưới dạng hãm, hoặc sắc. Ngày dùng 8 g đến 10 g.",
+  "ghi_chu": "Folium Ilexi kaushii, bắt đầu tr.1108. Khớp báo cáo tự động."
+ },
+ {
+  "id": "stt-269",
+  "stt": [
+   269
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "RAU SAM",
+  "trang_in": 1300,
+  "min_g": 9,
+  "max_g": 10,
+  "cau": "Ngày dùng 9 g đến 10 g dược liệu khô hoặc từ 30 g đến 60 g dược liệu tươi. Dùng ngoài giã nát đắp tại chỗ với lượng thích hợp.",
+  "ghi_chu": "Herba Portulacae. Lấy liều khô; tươi 30-60 g. Khớp báo cáo tự động."
+ },
+ {
+  "id": "stt-108",
+  "stt": [
+   108
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "ĐỊA LIỀN (Thân rễ)",
+  "trang_in": 1166,
+  "min_g": 6,
+  "max_g": 9,
+  "cau": "Ngày dùng từ 6 g đến 9 g, dạng thuốc sắc, bột hoặc viên. Ngâm rượu trong 5 đến 7 ngày, lượng thích hợp, để xoa bóp. Thường phối hợp với các vị thuốc khác.",
+  "ghi_chu": "Rhizoma Kaempferiae galangae, bắt đầu tr.1165. Chú ý: câu 'Ngày dùng từ 12 g đến 24 g' ở tr.1165 ngay trước tiêu đề ĐỊA LIỀN là của chuyên luận đứng trước, KHÔNG phải Địa liền."
+ },
+ {
+  "id": "stt-360",
+  "stt": [
+   360
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "TỤC ĐOẠN (Rễ)",
+  "trang_in": 1364,
+  "min_g": 9,
+  "max_g": 15,
+  "cau": "Ngày dùng từ 9 g đến 15 g, phối hợp với các vị thuốc khác.",
+  "ghi_chu": "Radix Dipsaci, bắt đầu tr.1363. Chú ý: câu 'Ngày dùng 6 g đến 15 g' ở tr.1363 ngay trước tiêu đề TỤC ĐOẠN là của chuyên luận đứng trước, KHÔNG phải Tục đoạn."
+ },
+ {
+  "kiem_tra": true,
+  "id": "stt-285",
+  "stt": [
+   285
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "SƠN TRA (Quả)",
+  "trang_in": 1320,
+  "min_g": 8,
+  "max_g": 20,
+  "cau": "Ngày dùng từ 8 g đến 20 g, dạng thuốc sắc, bột hoặc viên. Thường dùng phối hợp với các vị thuốc khác.",
+  "xac_nhan": true,
+  "ghi_chu": "Fructus Mali, bắt đầu tr.1319."
+ },
+ {
+  "kiem_tra": true,
+  "id": "stt-29",
+  "stt": [
+   29
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "BÁN HẠ (Thân rễ)",
+  "trang_in": 1082,
+  "min_g": 3,
+  "max_g": 9,
+  "cau": "Ngày dùng từ 3 g đến 9 g (sau khi chế biến theo yêu cầu chữa bệnh), dạng thuốc sắc hoặc hoàn tán. Dùng ngoài tán nhỏ, làm bột trộn với rượu đắp nơi đau.",
+  "xac_nhan": true,
+  "ghi_chu": "Rhizoma Pinelliae, bắt đầu tr.1080. Liều áp dụng cho dạng đã chế biến; Bán hạ sống chỉ dùng ngoài."
+ },
+ {
+  "kiem_tra": true,
+  "id": "stt-54",
+  "stt": [
+   54
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "CÁT SÂM (Rễ)",
+  "trang_in": 1102,
+  "min_g": 16,
+  "max_g": 20,
+  "cau": "Ngày dùng từ 16 g đến 20 g, dạng thuốc sắc.",
+  "xac_nhan": true,
+  "ghi_chu": "Radix Millettiae speciosae."
+ },
+ {
+  "kiem_tra": true,
+  "id": "stt-46",
+  "stt": [
+   46
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "CAM THẢO (Rễ và thân rễ)",
+  "trang_in": 1096,
+  "min_g": 4,
+  "max_g": 12,
+  "cau": "Ngày dùng từ 4 g đến 12 g, dạng thuốc sắc hoặc bột.",
+  "xac_nhan": true,
+  "ghi_chu": "Radix et Rhizoma Glycyrrhizae, bắt đầu tr.1095."
+ },
+ {
+  "id": "trinh-nu",
+  "stt": [
+   352
+  ],
+  "ket_qua": "khong_co_chuyen_luan",
+  "chuyen_luan": null,
+  "trang_in": null,
+  "min_g": null,
+  "max_g": null,
+  "cau": "",
+  "ghi_chu": "Đã thử: chi-muc chỉ có 'Trinh nữ hoàng cung (lá)' tr.1360 — là loài Crinum, KHÔNG phải Herba Mimosae pudicae (Trinh nữ/xấu hổ); tìm 'xấu hổ', 'Mimosa' trong chi-muc và toàn văn OCR: không có."
+ },
+ {
+  "id": "moc-thong",
+  "stt": [
+   215
+  ],
+  "ket_qua": "khong_co_chuyen_luan",
+  "chuyen_luan": null,
+  "trang_in": null,
+  "min_g": null,
+  "max_g": null,
+  "cau": "",
+  "ghi_chu": "Đã thử: Mộc thông, Caulis Clematidis, Clematis/Akebia trong chi-muc và toàn văn OCR: không có (chỉ có Uy linh tiên Radix et rhizoma Clematidis tr.1367 và Thông thảo tr.1345 — vị khác)."
+ },
+ {
+  "id": "nganh-me",
+  "stt": [],
+  "ket_qua": "khong_co_chuyen_luan",
+  "chuyen_luan": null,
+  "trang_in": null,
+  "min_g": null,
+  "max_g": null,
+  "cau": "",
+  "ghi_chu": "Đã thử: 'ngành me', 'ngạnh' trong chi-muc/OCR: không có (chỉ có Ngành ngạnh (lá) tr.1263 và Tô ngạnh — không khớp); không có STT/Latin để đối chiếu."
+ },
+ {
+  "id": "vuong-bat-luu-hanh",
+  "stt": [
+   373
+  ],
+  "ket_qua": "khong_co_chuyen_luan",
+  "chuyen_luan": null,
+  "trang_in": null,
+  "min_g": null,
+  "max_g": null,
+  "cau": "",
+  "ghi_chu": "Đã thử: Vương bất lưu hành, Semen Vaccariae, Vaccaria: không có trong chi-muc và OCR."
+ },
+ {
+  "id": "bien-suc",
+  "stt": [
+   33
+  ],
+  "ket_qua": "khong_co_chuyen_luan",
+  "chuyen_luan": null,
+  "trang_in": null,
+  "min_g": null,
+  "max_g": null,
+  "cau": "",
+  "ghi_chu": "Đã thử: Biển súc, Herba Polygoni avicularis, 'avicular': không có trong chi-muc và OCR."
+ },
+ {
+  "id": "vo-buoi",
+  "stt": [],
+  "ket_qua": "khong_co_chuyen_luan",
+  "chuyen_luan": null,
+  "trang_in": null,
+  "min_g": null,
+  "max_g": null,
+  "cau": "",
+  "ghi_chu": "Đã thử: vỏ bưởi, Citrus grandis/maxima: không có trong chi-muc và OCR (chỉ có Chỉ thực/Trần bì từ cam/quýt)."
+ },
+ {
+  "id": "la-chanh",
+  "stt": [],
+  "ket_qua": "khong_co_chuyen_luan",
+  "chuyen_luan": null,
+  "trang_in": null,
+  "min_g": null,
+  "max_g": null,
+  "cau": "",
+  "ghi_chu": "Đã thử: lá chanh: không có chuyên luận (chỉ có Húng chanh (lá) tr.1199 — vị khác)."
+ },
+ {
+  "id": "long-cot",
+  "stt": [
+   190
+  ],
+  "ket_qua": "khong_co_chuyen_luan",
+  "chuyen_luan": null,
+  "trang_in": null,
+  "min_g": null,
+  "max_g": null,
+  "cau": "",
+  "ghi_chu": "Đã thử: Long cốt, Os Draconis: không có chuyên luận; chỉ được nhắc trong Phụ lục phương pháp chế biến (Nung)."
+ },
+ {
+  "id": "toa-duong",
+  "stt": [],
+  "ket_qua": "khong_co_chuyen_luan",
+  "chuyen_luan": null,
+  "trang_in": null,
+  "min_g": null,
+  "max_g": null,
+  "cau": "",
+  "ghi_chu": "Đã thử: Tỏa dương, Cynomorium: không có trong chi-muc và OCR."
+ },
+ {
+  "id": "bot-coc",
+  "stt": [],
+  "ket_qua": "khong_co_chuyen_luan",
+  "chuyen_luan": null,
+  "trang_in": null,
+  "min_g": null,
+  "max_g": null,
+  "cau": "",
+  "ghi_chu": "Đã thử: bột cóc, cóc: không có chuyên luận (chỉ có Cóc mẳn, Cốc tinh thảo — vị khác)."
+ },
+ {
+  "id": "xuyen-luyen-tu",
+  "stt": [
+   385
+  ],
+  "ket_qua": "khong_co_chuyen_luan",
+  "chuyen_luan": null,
+  "trang_in": null,
+  "min_g": null,
+  "max_g": null,
+  "cau": "",
+  "ghi_chu": "Đã thử: Xuyên luyện tử, Fructus Meliae toosendan, Melia: không có trong chi-muc và OCR."
+ }
+]

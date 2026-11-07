@@ -6,7 +6,14 @@ ten_khoa_hoc: Herba Lactucae indicae
 ten_cay: Lactuca indica L. - Asteraceae
 bo_phan_dung: Toàn cây hoặc phần trên mặt đất
 nguon_goc: trong_nuoc
-lieu_dung: null
+lieu_dung:
+  min_g: 8
+  max_g: 30
+  nguon:
+    ma: ddvn-5
+    trang: 1086
+    muc: Chuyên luận BỒ CÔNG ANH
+    trang_thai: chua_doi_chieu
 doc_tinh:
   muc: chua_ro
   canh_bao: null

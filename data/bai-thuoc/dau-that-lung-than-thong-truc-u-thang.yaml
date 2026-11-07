@@ -26,12 +26,15 @@ thanh_phan:
   - vi: huong-phu
     lieu_g: 12
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.10) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
   - vi: khuong-hoat
     lieu_g: 12
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.10) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
   - vi: tan-giao
     lieu_g: 12
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.10) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
   - vi: dia-long
     lieu_g: 6
     vai_tro: null

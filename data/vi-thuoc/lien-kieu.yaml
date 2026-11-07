@@ -6,7 +6,14 @@ ten_khoa_hoc: Fructus Forsythiae suspensae
 ten_cay: Forsythia suspensa (Thunb.) Vahl. - Oleaceac
 bo_phan_dung: Quả
 nguon_goc: nhap_khau
-lieu_dung: null
+lieu_dung:
+  min_g: 6
+  max_g: 15
+  nguon:
+    ma: ddvn-5
+    trang: 1229
+    muc: Chuyên luận LIÊN KIỀU
+    trang_thai: chua_doi_chieu
 doc_tinh:
   muc: chua_ro
   canh_bao: null

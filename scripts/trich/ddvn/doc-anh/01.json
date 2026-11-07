@@ -1,0 +1,533 @@
+[
+ {
+  "id": "bach-linh",
+  "stt": [
+   18
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "PHỤC LINH",
+  "trang_in": 1293,
+  "min_g": 9,
+  "max_g": 15,
+  "cau": "Ngày dùng từ 9 g đến 15 g, thường phối hợp với các vị thuốc khác.",
+  "ghi_chu": "Ảnh PDF 1394; mục liều cuối chuyên luận Phục linh (Poria), ngay trước QUA LÂU (Hạt)."
+ },
+ {
+  "id": "hoai-son",
+  "stt": [
+   133
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "HOÀI SƠN",
+  "trang_in": 1128,
+  "min_g": 12,
+  "max_g": 30,
+  "cau": "Ngày dùng từ 12 g đến 30 g, dạng thuốc sắc hay thuốc bột.",
+  "ghi_chu": "Ảnh PDF 1227; mục liều ngay trước chuyên luận CỦ SÚNG; bắt đầu ở tr.1127 (chỉ mục)."
+ },
+ {
+  "id": "sai-ho",
+  "stt": [
+   274
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "SÀI HỒ (Rễ)",
+  "trang_in": 1308,
+  "min_g": 3,
+  "max_g": 9,
+  "cau": "Ngày dùng từ 3 g đến 9 g, phối hợp trong các bài thuốc.",
+  "ghi_chu": "Tách từ việc sai-ho (vị gộp 274/275)."
+ },
+ {
+  "id": "sai-ho",
+  "stt": [
+   275
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "LỨC (Lá) / LỨC (Rễ)",
+  "trang_in": 1237,
+  "min_g": 8,
+  "max_g": 20,
+  "cau": "Ngày dùng từ 8 g đến 20 g, dạng thuốc sắc hay hoàn tán. Thường phối hợp với các vị thuốc khác.",
+  "ghi_chu": "Tách từ việc sai-ho (vị gộp 274/275)."
+ },
+ {
+  "id": "hong-hoa",
+  "stt": [
+   144
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "HỒNG HOA (Hoa)",
+  "trang_in": 1199,
+  "min_g": 4,
+  "max_g": 12,
+  "cau": "Ngày dùng từ 4 g đến 12 g, dạng thuốc sắc, thường phối hợp với các vị thuốc khác.",
+  "ghi_chu": "Ảnh PDF 1299 (chuyên luận bắt đầu tr.1197). Kiêng kỵ: Phụ nữ có thai không nên dùng."
+ },
+ {
+  "id": "co-xuoc",
+  "stt": [
+   69
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "CỎ XƯỚC (Rễ)",
+  "trang_in": 1120,
+  "min_g": 6,
+  "max_g": 15,
+  "cau": "Ngày dùng từ 6 g đến 15 g. Dạng thuốc sắc.",
+  "ghi_chu": "Ảnh PDF 1219. Lưu ý: câu 'Ngày dùng từ 9 g đến 30 g' ở tr.1119 thuộc CỎ TRANH, không phải Cỏ xước. Kiêng kỵ: Phụ nữ có thai, ỉa lỏng, người di tinh không dùng."
+ },
+ {
+  "id": "hoe-hoa",
+  "stt": [
+   143
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "HÒE (Nụ hoa)",
+  "trang_in": 1196,
+  "min_g": 6,
+  "max_g": 12,
+  "cau": "Ngày dùng từ 6 g đến 12 g, dạng thuốc sắc hoặc hãm uống như chè. Cần sao đen khi dùng cầm máu.",
+  "ghi_chu": "Ảnh PDF 1296; chỉ mục 'Hòe (nụ hoa)' tr.1195, Flos Styphnolobii japonici imaturi."
+ },
+ {
+  "id": "cam-thao-dat",
+  "stt": [
+   47
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "CAM THẢO ĐẤT",
+  "trang_in": 1097,
+  "min_g": 8,
+  "max_g": 12,
+  "cau": "Dùng tươi: Ngày dùng từ 20 g đến 40 g, dạng dịch ép. Dùng khô: Từ 8 g đến 12 g. Dạng thuốc hãm hoặc thuốc sắc.",
+  "ghi_chu": "Ảnh PDF 1196. Lấy liều khô 8–12 g; tươi 20–40 g."
+ },
+ {
+  "id": "a-giao",
+  "stt": [
+   1
+  ],
+  "ket_qua": "khong_co_chuyen_luan",
+  "chuyen_luan": null,
+  "trang_in": null,
+  "min_g": null,
+  "max_g": null,
+  "cau": "",
+  "ghi_chu": "Không tìm thấy chuyên luận trong DĐVN V. Đã thử: A giao, Colla Corii Asini, asini (chỉ mục + OCR). Chỉ có LỘC GIÁC GIAO (Colla Cornus Cervi) – vị khác. 'A giao' chỉ xuất hiện như thành phần trong công thức thành phẩm."
+ },
+ {
+  "id": "hanh-tuoi",
+  "stt": [],
+  "ket_qua": "khong_co_chuyen_luan",
+  "chuyen_luan": null,
+  "trang_in": null,
+  "min_g": null,
+  "max_g": null,
+  "cau": "",
+  "ghi_chu": "Không tìm thấy chuyên luận trong DĐVN V. Đã thử: hành, Allium (chỉ mục + OCR). Chỉ có Hành lào, Sâm đại hành – không phải hành tươi."
+ },
+ {
+  "id": "thien-nien-kien",
+  "stt": [
+   320
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "THIÊN NIÊN KIỆN (Thân rễ)",
+  "trang_in": 1340,
+  "min_g": 4.5,
+  "max_g": 9,
+  "cau": "Ngày dùng từ 4,5 g đến 9 g, phối hợp trong các bài thuốc hoặc ngâm rượu.",
+  "ghi_chu": "Ảnh PDF 1442. Kiêng kỵ: Không dùng cho người âm hư hỏa vượng, mồm khô, họng đắng."
+ },
+ {
+  "id": "trac-bach-diep",
+  "stt": [
+   344
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "TRẮC BÁCH DIỆP",
+  "trang_in": 1358,
+  "min_g": 6,
+  "max_g": 12,
+  "cau": "Ngày uống từ 6 g đến 12 g, dạng thuốc sắc.",
+  "ghi_chu": "Ảnh PDF 1460 (chuyên luận bắt đầu tr.1357). Câu 6–10 g ở tr.1357 thuộc chuyên luận trước đó, không phải Trắc bách diệp."
+ },
+ {
+  "id": "dia-long",
+  "stt": [
+   106
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "ĐỊA LONG",
+  "trang_in": 1167,
+  "min_g": 4.5,
+  "max_g": 9,
+  "cau": "Ngày dùng từ 4,5 g đến 9 g, dạng bột. Thường phối hợp trong các bài thuốc.",
+  "ghi_chu": "Ảnh PDF 1267. Kiêng kỵ: Không dùng cho người hư hàn."
+ },
+ {
+  "id": "huyet-du",
+  "stt": [
+   151
+  ],
+  "ket_qua": "khong_co_chuyen_luan",
+  "chuyen_luan": null,
+  "trang_in": null,
+  "min_g": null,
+  "max_g": null,
+  "cau": "",
+  "ghi_chu": "Không tìm thấy chuyên luận trong DĐVN V. Đã thử: Huyết dụ, Cordyline (chỉ mục + OCR)"
+ },
+ {
+  "id": "phen-chua",
+  "stt": [
+   251
+  ],
+  "ket_qua": "khong_co_chuyen_luan",
+  "chuyen_luan": null,
+  "trang_in": null,
+  "min_g": null,
+  "max_g": null,
+  "cau": "",
+  "ghi_chu": "Không tìm thấy chuyên luận trong DĐVN V. Đã thử: Phèn chua, Bạch phàn, Alumen (chỉ mục + OCR). Phèn chua chỉ xuất hiện như thuốc thử/phụ liệu."
+ },
+ {
+  "id": "truc-diep",
+  "stt": [
+   355
+  ],
+  "ket_qua": "khong_co_chuyen_luan",
+  "chuyen_luan": null,
+  "trang_in": null,
+  "min_g": null,
+  "max_g": null,
+  "cau": "",
+  "ghi_chu": "Không tìm thấy chuyên luận trong DĐVN V. Đã thử: Trúc diệp, Lá tre, Folium Bambusae, Bambusa (chỉ mục + OCR). DĐVN có ĐẠM TRÚC DIỆP / Cỏ lá tre (tr.1151, Lophatherum) – loài khác, không dùng thay cho Folium Bambusae vulgaris."
+ },
+ {
+  "id": "la-he",
+  "stt": [],
+  "ket_qua": "khong_co_chuyen_luan",
+  "chuyen_luan": null,
+  "trang_in": null,
+  "min_g": null,
+  "max_g": null,
+  "cau": "",
+  "ghi_chu": "Không tìm thấy chuyên luận trong DĐVN V. Đã thử: lá hẹ, Hẹ, Allium tuberosum (chỉ mục + OCR)"
+ },
+ {
+  "id": "day-dau-xuong",
+  "stt": [
+   81
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "DÂY ĐAU XƯƠNG (Thân)",
+  "trang_in": 1139,
+  "min_g": 12,
+  "max_g": 20,
+  "cau": "Ngày dùng từ 12 g đến 20 g, dạng thuốc sắc hay ngâm rượu để uống hay dùng ngoài.",
+  "ghi_chu": "Ảnh PDF 1239 (chuyên luận bắt đầu tr.1138). Câu 'Ngày dùng từ 6 đến 12 g' ở tr.1138 thuộc chuyên luận trước."
+ },
+ {
+  "id": "chi-thuc",
+  "stt": [
+   63
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "CHỈ THỰC",
+  "trang_in": 1111,
+  "min_g": 3,
+  "max_g": 9,
+  "cau": "Ngày dùng từ 3 g đến 9 g, phối hợp trong các bài thuốc.",
+  "ghi_chu": "Ảnh PDF 1210. Kiêng kỵ: Phụ nữ có thai, tỳ vị hư hàn mà không đầy tích thì không nên dùng."
+ },
+ {
+  "id": "mat-ong",
+  "stt": [
+   206
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "MẬT ONG",
+  "trang_in": 1247,
+  "min_g": 15,
+  "max_g": 30,
+  "cau": "Ngày dùng từ 15 g đến 30 g. Dùng ngoài điều trị mụn nhọt không thu miệng, bỏng nước, bỏng lửa, liều lượng thích hợp.",
+  "ghi_chu": "Ảnh PDF 1348. Câu 6–12 g ở tr.1246 thuộc chuyên luận trước Mật ong."
+ },
+ {
+  "id": "kha-tu",
+  "stt": [
+   158
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "KHA TỬ (Quả)",
+  "trang_in": 1213,
+  "min_g": 3,
+  "max_g": 6,
+  "cau": "Ngày dùng từ 3 g đến 6 g, dạng thuốc sắc hay thuốc viên.",
+  "ghi_chu": "Ảnh PDF 1314. Câu 3–9 g ở tr.1212 thuộc chuyên luận trước Kha tử."
+ },
+ {
+  "id": "rau-dua-nuoc",
+  "stt": [],
+  "ket_qua": "khong_co_chuyen_luan",
+  "chuyen_luan": null,
+  "trang_in": null,
+  "min_g": null,
+  "max_g": null,
+  "cau": "",
+  "ghi_chu": "Không tìm thấy chuyên luận trong DĐVN V. Đã thử: rau dừa nước, Ludwigia, Jussiaea (chỉ mục + OCR toàn văn)"
+ },
+ {
+  "id": "tien-ho",
+  "stt": [
+   334
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "TIỀN HỒ (Rễ)",
+  "trang_in": 1352,
+  "min_g": 3,
+  "max_g": 9,
+  "cau": "Ngày dùng từ 3 g đến 9 g, thường phối hợp với các vị thuốc khác.",
+  "ghi_chu": "Ảnh PDF 1454. Câu 5–9 g ở tr.1351 thuộc TÍA TÔ (Thân), không phải Tiền hồ."
+ },
+ {
+  "id": "le-bi",
+  "stt": [],
+  "ket_qua": "khong_co_chuyen_luan",
+  "chuyen_luan": null,
+  "trang_in": null,
+  "min_g": null,
+  "max_g": null,
+  "cau": "",
+  "ghi_chu": "Không tìm thấy chuyên luận trong DĐVN V. Đã thử: lê bì, Lê, Pyrus (chỉ mục + OCR). Tên không rõ nghĩa (vỏ quả lê?)."
+ },
+ {
+  "id": "truc-nhu",
+  "stt": [
+   356
+  ],
+  "ket_qua": "khong_co_chuyen_luan",
+  "chuyen_luan": null,
+  "trang_in": null,
+  "min_g": null,
+  "max_g": null,
+  "cau": "",
+  "ghi_chu": "Không tìm thấy chuyên luận trong DĐVN V. Đã thử: Trúc nhự, Caulis Bambusae in taeniis, Bambusa (chỉ mục + OCR). Chỉ có THIÊN TRÚC HOÀNG (Concretio Silicae Bambusae) và ĐẠM TRÚC DIỆP (Lophatherum) – là vị khác, không dùng thay."
+ },
+ {
+  "id": "thien-hoa-phan",
+  "stt": [
+   316
+  ],
+  "ket_qua": "khong_co_chuyen_luan",
+  "chuyen_luan": null,
+  "trang_in": null,
+  "min_g": null,
+  "max_g": null,
+  "cau": "",
+  "ghi_chu": "Không tìm thấy chuyên luận trong DĐVN V. Đã thử: Thiên hoa phấn, Radix Trichosanthis, Qua lâu (rễ) (chỉ mục + OCR). DĐVN chỉ có QUA LÂU (Hạt) tr.1293 và QUA LÂU (Quả) tr.1294 – bộ phận khác, không dùng thay."
+ },
+ {
+  "id": "man-trau",
+  "stt": [
+   204
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "CỎ MẦN TRẦU",
+  "trang_in": 1116,
+  "min_g": 16,
+  "max_g": 20,
+  "cau": "Ngày 80 g đến 120 g (cây tươi); 16 g đến 20 g (khô). Dạng thuốc sắc.",
+  "ghi_chu": "Ảnh PDF 1215; chỉ mục 'Cỏ mần trầu' tr.1115, Herba Eleusinis indicae. Lấy liều khô 16–20 g; tươi 80–120 g."
+ },
+ {
+  "id": "luc-than-khuc",
+  "stt": [
+   194
+  ],
+  "ket_qua": "khong_co_chuyen_luan",
+  "chuyen_luan": null,
+  "trang_in": null,
+  "min_g": null,
+  "max_g": null,
+  "cau": "",
+  "ghi_chu": "Không tìm thấy chuyên luận trong DĐVN V. Đã thử: Lục thần khúc, Thần khúc, Massa medicata fermentata (chỉ mục + OCR). 'Thần khúc' chỉ xuất hiện như phụ liệu trong phụ lục bào chế."
+ },
+ {
+  "id": "ich-mau",
+  "stt": [
+   154
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "ÍCH MẪU",
+  "trang_in": 1209,
+  "min_g": 6,
+  "max_g": 12,
+  "cau": "Ngày dùng từ 6 g đến 12 g, dạng thuốc sắc.",
+  "ghi_chu": "Ảnh PDF 1310 (chuyên luận bắt đầu tr.1207). Câu 9–12 g ở tr.1207 thuộc chuyên luận trước Ích mẫu."
+ },
+ {
+  "id": "tieu-hoi",
+  "stt": [
+   335
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "TIỂU HỒI (Quả)",
+  "trang_in": 1353,
+  "min_g": 3,
+  "max_g": 6,
+  "cau": "Ngày dùng từ 3 g đến 6 g, dạng thuốc sắc hoặc hoàn tán. Thường phối hợp với các dạng thuốc khác.",
+  "ghi_chu": "Ảnh PDF 1455. Kiêng kỵ: Âm hư hỏa vượng, người có thực nhiệt không dùng."
+ },
+ {
+  "id": "dat-long-bep",
+  "stt": [],
+  "ket_qua": "khong_co_chuyen_luan",
+  "chuyen_luan": null,
+  "trang_in": null,
+  "min_g": null,
+  "max_g": null,
+  "cau": "",
+  "ghi_chu": "Không tìm thấy chuyên luận trong DĐVN V. Đã thử: đất lòng bếp, Phục long can, Táo tâm thổ (chỉ mục + OCR). Chỉ xuất hiện như phụ liệu sao tẩm (phụ lục bào chế), không có chuyên luận."
+ },
+ {
+  "id": "vo-cay-dai",
+  "stt": [],
+  "ket_qua": "khong_co_chuyen_luan",
+  "chuyen_luan": null,
+  "trang_in": null,
+  "min_g": null,
+  "max_g": null,
+  "cau": "",
+  "ghi_chu": "Không tìm thấy chuyên luận trong DĐVN V. Đã thử: Đại, Plumeria (chỉ mục + OCR). DĐVN chỉ có ĐẠI (Hoa) – Flos Plumeriae rubrae tr.1146; không có chuyên luận vỏ thân."
+ },
+ {
+  "id": "hai-phong-dang",
+  "stt": [
+   124
+  ],
+  "ket_qua": "khong_co_chuyen_luan",
+  "chuyen_luan": null,
+  "trang_in": null,
+  "min_g": null,
+  "max_g": null,
+  "cau": "",
+  "ghi_chu": "Không tìm thấy chuyên luận trong DĐVN V. Đã thử: Hải phong đằng, Piperis futokadsurae, futok (chỉ mục + OCR)"
+ },
+ {
+  "id": "stt-118",
+  "stt": [
+   118
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "SEN (Lá)",
+  "trang_in": 1317,
+  "min_g": 3,
+  "max_g": 9,
+  "cau": "Ngày dùng từ 3 g đến 9 g dược liệu khô, dược liệu tươi dùng từ 15 g đến 30 g. Thán lá sen: Ngày dùng từ 3 g đến 6 g, dạng thuốc sắc hay hoàn tán.",
+  "ghi_chu": "Ảnh PDF 1419 (chuyên luận bắt đầu tr.1316). Khớp báo cáo tự động. Lấy liều khô 3–9 g; tươi 15–30 g; thán lá sen 3–6 g."
+ },
+ {
+  "id": "stt-361",
+  "stt": [
+   361
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "TỲ BÀ DIỆP",
+  "trang_in": 1366,
+  "min_g": 6,
+  "max_g": 9,
+  "cau": "Ngày dùng từ 6 g đến 9 g, phối hợp trong các bài thuốc.",
+  "ghi_chu": "Ảnh PDF 1468. Khớp báo cáo tự động. Câu 'Ngày dùng từ 5 đến 9 g' ở tr.1365 thuộc chuyên luận trước. Kiêng kỵ: Nôn do hư hàn, ho do phong hàn không nên dùng."
+ },
+ {
+  "id": "stt-271",
+  "stt": [
+   271
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "RIỀNG (Thân rễ)",
+  "trang_in": 1304,
+  "min_g": 3,
+  "max_g": 6,
+  "cau": "Ngày dùng từ 3 g đến 6 g, dạng thuốc sắc.",
+  "ghi_chu": "Ảnh PDF 1406 (chuyên luận bắt đầu tr.1303, Rhizoma Alpiniae officinari). Câu '3 g đến 6 g, dạng thuốc sắc hoặc bột; làm viên ngậm…' ở tr.1303 thuộc chuyên luận trước Riềng, KHÔNG phải Riềng (cùng con số nên dễ nhầm nhưng câu khác)."
+ },
+ {
+  "id": "kiem-tra-stt-225",
+  "stt": [
+   225
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "NGÔ THÙ DU (Quả)",
+  "trang_in": 1269,
+  "min_g": 1.5,
+  "max_g": 4.5,
+  "cau": "Ngày dùng từ 1,5 g đến 4,5 g, phối ngũ trong các bài thuốc. Dùng ngoài với lượng thích hợp.",
+  "ghi_chu": "Ảnh PDF 1370. Khớp tự động. Câu 3–5 g ở tr.1268 thuộc chuyên luận trước. Kiêng kỵ: Không dùng kéo dài và cho người âm hư nội nhiệt.",
+  "kiem_tra": true,
+  "xac_nhan": true
+ },
+ {
+  "id": "kiem-tra-stt-55",
+  "stt": [
+   55
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "CÂU ĐẰNG",
+  "trang_in": 1105,
+  "min_g": 12,
+  "max_g": 16,
+  "cau": "Ngày dùng từ 12 g đến 16 g, dạng thuốc sắc. Thời gian sắc thuốc không quá 10 min.",
+  "ghi_chu": "Ảnh PDF 1204. Khớp tự động.",
+  "kiem_tra": true,
+  "xac_nhan": true
+ },
+ {
+  "id": "kiem-tra-stt-378",
+  "stt": [
+   378
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "MÃ ĐỀ (Hạt)",
+  "trang_in": 1239,
+  "min_g": 16,
+  "max_g": 20,
+  "cau": "Ngày dùng từ 16 g đến 20 g, dạng thuốc sắc.",
+  "ghi_chu": "Ảnh PDF 1340; MÃ ĐỀ (Hạt), Semen Plantaginis, tên khác Xa tiền tử. Khớp tự động. Câu 4–12 g ở cùng trang thuộc MA HOÀNG. Kiêng kỵ: Phụ nữ có thai dùng thận trọng.",
+  "kiem_tra": true,
+  "xac_nhan": true
+ },
+ {
+  "id": "kiem-tra-stt-317",
+  "stt": [
+   317
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "THIÊN MA (Thân rễ)",
+  "trang_in": 1339,
+  "min_g": 3,
+  "max_g": 9,
+  "cau": "Ngày dùng từ 3 g đến 9 g, phối hợp trong các bài thuốc.",
+  "ghi_chu": "Ảnh PDF 1441. Khớp tự động. Câu 6–12 g cùng trang thuộc THIÊN MÔN ĐÔNG.",
+  "kiem_tra": true,
+  "xac_nhan": true
+ },
+ {
+  "id": "kiem-tra-stt-62",
+  "stt": [
+   62
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "DÀNH DÀNH (Quả)",
+  "trang_in": 1133,
+  "min_g": 6,
+  "max_g": 9,
+  "cau": "Ngày dùng từ 6 g đến 9 g, dạng thuốc sắc. Dùng ngoài: Lấy chi tử sống với lượng thích hợp, bôi, đắp chỗ đau.",
+  "ghi_chu": "Ảnh PDF 1233; Fructus Gardeniae (chỉ mục 'Chi tử' tr.1132). Khớp tự động.",
+  "kiem_tra": true,
+  "xac_nhan": true
+ }
+]

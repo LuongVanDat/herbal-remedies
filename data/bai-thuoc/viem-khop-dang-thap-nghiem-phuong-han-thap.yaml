@@ -15,13 +15,16 @@ thanh_phan:
   - vi: thien-nien-kien
     lieu_g: 10
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.32) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
   - vi: uy-linh-tien
     lieu_g: 12
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.32) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
   - vi: tang-chi
     ten_trong_bai: Cành dâu
     lieu_g: 16
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.32) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
   - vi: xuyen-khung
     lieu_g: 12
     vai_tro: null

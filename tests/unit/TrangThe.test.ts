@@ -33,7 +33,17 @@ test('liều vượt có lý do: hiện lý do trong bảng', () => {
   d.baiThuoc['ma-hoang-thang'].thanh_phan[1] = { vi: 'que-chi', lieu_g: 20, vai_tro: 'than', vuot_lieu_ly_do: 'Văn bản gốc ghi 20g' }
   renderVoiData(TrangThe, { benhId: 'cam-mao', theId: 'phong-han' }, d)
   const queChi = within(bang('Ma hoàng thang')).getAllByRole('row').find((r) => r.textContent!.includes('Quế chi'))!
-  expect(queChi).toHaveTextContent('Vượt liều chuẩn (tối đa 12g): Văn bản gốc ghi 20g')
+  expect(queChi).toHaveTextContent('⚠ Vượt liều (tối đa 12g)')
+  expect(screen.getByText(/Văn bản gốc ghi 20g/)).toBeInTheDocument()
+})
+
+test('nhiều vị vượt liều cùng lý do: lý do chỉ ghi một lần dưới bảng', () => {
+  const d = appFixture()
+  const tp = d.baiThuoc['ma-hoang-thang'].thanh_phan
+  tp[0] = { ...tp[0], lieu_g: 99, vuot_lieu_ly_do: 'Cùng một lý do' }
+  tp[1] = { vi: 'que-chi', lieu_g: 20, vai_tro: 'than', vuot_lieu_ly_do: 'Cùng một lý do' }
+  renderVoiData(TrangThe, { benhId: 'cam-mao', theId: 'phong-han' }, d)
+  expect(screen.getAllByText(/Cùng một lý do/)).toHaveLength(1)
 })
 
 test('hiện cách dùng, gia giảm, kiêng kỵ, nhãn nguồn của bài và của thể', () => {

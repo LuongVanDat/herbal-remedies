@@ -5,7 +5,14 @@ ten_khac: []
 ten_khoa_hoc: Endothelium Corneum Gigeriae Galli
 ten_cay: Gallus gallus domesticusBrisson - Phasianidae
 nguon_goc: ca_hai
-lieu_dung: null
+lieu_dung:
+  min_g: 3
+  max_g: 9
+  nguon:
+    ma: ddvn-5
+    trang: 1212
+    muc: Chuyên luận KÊ NỘI KIM
+    trang_thai: chua_doi_chieu
 doc_tinh:
   muc: chua_ro
   canh_bao: null

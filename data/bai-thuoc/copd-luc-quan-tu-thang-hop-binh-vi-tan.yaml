@@ -9,10 +9,12 @@ thanh_phan:
   - vi: bach-truat
     lieu_g: 16
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.130) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
   - vi: bach-linh
     ten_trong_bai: Phục linh
     lieu_g: 16
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.130) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
   - vi: cam-thao
     lieu_g: 4
     vai_tro: null
@@ -26,9 +28,11 @@ thanh_phan:
   - vi: thuong-truat
     lieu_g: 12
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.130) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
   - vi: hau-phac
     lieu_g: 12
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.130) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
   - vi: sinh-khuong
     lieu_g: 6
     vai_tro: null

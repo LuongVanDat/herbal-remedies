@@ -9,7 +9,14 @@ ten_khoa_hoc: Radix Angelicae sinensis
 ten_cay: Angelica sinensis (Oliv.) Diels - Apiaceae
 bo_phan_dung: Rễ
 nguon_goc: ca_hai
-lieu_dung: null
+lieu_dung:
+  min_g: 6
+  max_g: 12
+  nguon:
+    ma: ddvn-5
+    trang: 1175
+    muc: Chuyên luận ĐƯƠNG QUY (Rễ)
+    trang_thai: chua_doi_chieu
 doc_tinh:
   muc: chua_ro
   canh_bao: null

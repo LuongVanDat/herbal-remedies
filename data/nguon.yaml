@@ -28,3 +28,11 @@ van_ban:
     ngay: "2024-08-26"
     # Bản chính thức (thuvienphapluat.vn) chặn truy cập tự động; danh mục được chép từ bản trích dẫn nguyên văn dưới đây.
     url: https://thuviennhadat.vn/phap-ly-nha-dat/danh-muc-duoc-lieu-doc-lam-thuoc-ap-dung-tu-ngay-10102024-601000.html
+  - ma: ddvn-5
+    ten: Dược điển Việt Nam V — chuyên luận dược liệu, vị thuốc (mục "Cách dùng, liều lượng")
+    ten_ngan: DĐVN V
+    so_hieu: 5358/QĐ-BYT
+    ngay: "2017-11-28"
+    # Không tìm thấy bản trên cổng *.gov.vn; dùng bản quét đăng lại ở vnras.com (chỉ lấy số liệu liều, dùng cá nhân).
+    # Liều tự động từ chữ OCR (scripts/trich/ddvn/chuyen-luan.json) hoặc đọc từ ảnh trang (scripts/trich/ddvn/doc-anh/).
+    url: https://vnras.com/drug/duoc-dien-viet-nam-5/

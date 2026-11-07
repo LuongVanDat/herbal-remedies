@@ -1,0 +1,542 @@
+[
+ {
+  "id": "kt-stt-4",
+  "stt": [
+   4
+  ],
+  "kiem_tra": true,
+  "xac_nhan": true,
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "BÁ TỬ NHÂN",
+  "trang_in": 1065,
+  "min_g": 3,
+  "max_g": 12,
+  "cau": "Ngày dùng từ 3 g đến 12 g, thường phối hợp với các vị thuốc khác.",
+  "ghi_chu": ""
+ },
+ {
+  "id": "kt-stt-11",
+  "stt": [
+   11
+  ],
+  "kiem_tra": true,
+  "xac_nhan": true,
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "TẰM VÔI",
+  "trang_in": 1326,
+  "min_g": 5,
+  "max_g": 9,
+  "cau": "Ngày dùng từ 5 g đến 9 g, phối hợp trong các bài thuốc. Trẻ em dùng liều thích hợp theo chỉ dẫn của thầy thuốc.",
+  "ghi_chu": "Chuyên luận TẰM VÔI (Bombyx Botryticatus), tên khác Bạch cương tàm."
+ },
+ {
+  "id": "kt-stt-17",
+  "stt": [
+   17
+  ],
+  "kiem_tra": true,
+  "xac_nhan": true,
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "BÁCH HỢP (Thân hành)",
+  "trang_in": 1070,
+  "min_g": 6,
+  "max_g": 12,
+  "cau": "Ngày dùng từ 6 g đến 12 g. Dạng thuốc sắc hoặc dạng bột.",
+  "ghi_chu": "Tiêu đề chuyên luận ở tr.1069, câu liều đầu tr.1070."
+ },
+ {
+  "id": "kt-stt-35",
+  "stt": [
+   35
+  ],
+  "kiem_tra": true,
+  "xac_nhan": true,
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "CAU (Hạt)",
+  "trang_in": 1099,
+  "min_g": 8,
+  "max_g": 24,
+  "cau": "Binh lang: Ngày dùng từ 8 g đến 24 g, dạng thuốc sắc. Dùng 3 g đến 10 g trừ sán dây; 30 g đến 60 g trừ sán sơ mít. Binh lang sao đen: Ngày dùng 3 g đến 10 g.",
+  "ghi_chu": "Chuyên luận CAU (Hạt) Semen Arecae catechi bắt đầu tr.1097; lấy liều Binh lang sống (8–24 g); liều trừ sán 30–60 g không tính."
+ },
+ {
+  "id": "kt-stt-56",
+  "stt": [
+   56
+  ],
+  "kiem_tra": true,
+  "xac_nhan": true,
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "CÂU KỶ TỬ",
+  "trang_in": 1106,
+  "min_g": 6,
+  "max_g": 12,
+  "cau": "Ngày dùng từ 6 g đến 12 g, dạng thuốc sắc, ngâm rượu, hoàn tán.",
+  "ghi_chu": "Tiêu đề Fructus Lycii tr.1105."
+ },
+ {
+  "id": "kt-stt-70",
+  "stt": [
+   70
+  ],
+  "kiem_tra": true,
+  "xac_nhan": true,
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "CỐC TINH THẢO",
+  "trang_in": 1122,
+  "min_g": 9,
+  "max_g": 12,
+  "cau": "Ngày dùng từ 9 g đến 12 g, dạng thuốc sắc.",
+  "ghi_chu": "Tiêu đề tr.1121."
+ },
+ {
+  "id": "kt-stt-91",
+  "stt": [
+   91
+  ],
+  "kiem_tra": true,
+  "xac_nhan": true,
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "ĐẠI TÁO (Quả)",
+  "trang_in": 1151,
+  "min_g": 6,
+  "max_g": 15,
+  "cau": "Ngày dùng từ 6 g đến 15 g.",
+  "ghi_chu": ""
+ },
+ {
+  "id": "kt-stt-99",
+  "stt": [
+   99
+  ],
+  "kiem_tra": true,
+  "xac_nhan": true,
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "ĐẢNG SÂM VIỆT NAM (Rễ)",
+  "trang_in": 1157,
+  "min_g": 20,
+  "max_g": 40,
+  "cau": "Ngày dùng từ 20 g đến 40 g, dạng thuốc sắc, thuốc hoàn, bột, ngâm rượu. Thường phối hợp với các vị thuốc khác.",
+  "ghi_chu": "Tiêu đề tr.1156. (ĐẢNG SÂM VIỆT NAM CHẾ tr.1157 có liều riêng 20–30 g.)"
+ },
+ {
+  "id": "kt-stt-110",
+  "stt": [
+   110
+  ],
+  "kiem_tra": true,
+  "xac_nhan": true,
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "ĐINH LĂNG (Rễ)",
+  "trang_in": 1169,
+  "min_g": 2,
+  "max_g": 6,
+  "cau": "Ngày dùng từ 2 g đến 6 g, dạng thuốc sắc hoặc thuốc tán bột. Thường phối hợp với một số vị thuốc khác.",
+  "ghi_chu": "Tiêu đề Radix Polysciacis tr.1168."
+ },
+ {
+  "id": "kt-stt-116",
+  "stt": [
+   116
+  ],
+  "kiem_tra": true,
+  "xac_nhan": true,
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "GIẢO CỔ LAM",
+  "trang_in": 1178,
+  "min_g": 15,
+  "max_g": 30,
+  "cau": "Ngày dùng 15 g đến 30 g, dưới dạng thuốc sắc, hoặc có thể tán thành bột thô làm chè hãm uống.",
+  "ghi_chu": ""
+ },
+ {
+  "id": "kt-stt-121",
+  "stt": [
+   121
+  ],
+  "kiem_tra": true,
+  "xac_nhan": true,
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "HÀ THỦ Ô TRẮNG (Rễ)",
+  "trang_in": 1182,
+  "min_g": 12,
+  "max_g": 20,
+  "cau": "Ngày dùng từ 12 g đến 20 g, dạng thuốc sắc.",
+  "ghi_chu": "Tiêu đề tr.1181."
+ },
+ {
+  "id": "kt-stt-134",
+  "stt": [
+   134
+  ],
+  "kiem_tra": true,
+  "xac_nhan": true,
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "HOÀNG BÁ (Vỏ thân)",
+  "trang_in": 1185,
+  "min_g": 6,
+  "max_g": 12,
+  "cau": "Ngày dùng từ 6 g đến 12 g, dạng thuốc sắc hoặc hoàn tán.",
+  "ghi_chu": "Tiêu đề tr.1184; câu liều đầu cột phải tr.1185, trước tiêu đề HOÀNG CẦM."
+ },
+ {
+  "id": "kt-stt-138",
+  "stt": [
+   138
+  ],
+  "kiem_tra": true,
+  "xac_nhan": true,
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "HOÀNG KỲ (Rễ)",
+  "trang_in": 1190,
+  "min_g": 9,
+  "max_g": 30,
+  "cau": "Ngày dùng từ 9 g đến 30 g, dạng thuốc sắc hoặc hoàn tán.",
+  "ghi_chu": "Tiêu đề tr.1188."
+ },
+ {
+  "id": "kt-stt-146",
+  "stt": [
+   146
+  ],
+  "kiem_tra": true,
+  "xac_nhan": true,
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "HƯƠNG GIA BÌ (Vỏ rễ)",
+  "trang_in": 1202,
+  "min_g": 6,
+  "max_g": 12,
+  "cau": "Ngày dùng từ 6 g đến 12 g, dạng sắc hoặc ngâm rượu.",
+  "ghi_chu": "DĐVN ghi Latin 'Cortex Periplocae' (vỏ rễ), khớp bộ phận."
+ },
+ {
+  "id": "kt-stt-155",
+  "stt": [
+   155
+  ],
+  "kiem_tra": true,
+  "xac_nhan": true,
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "ÍCH TRÍ (Quả)",
+  "trang_in": 1210,
+  "min_g": 3,
+  "max_g": 9,
+  "cau": "Ngày dùng từ 3 g đến 9 g, dạng thuốc sắc.",
+  "ghi_chu": "Tiêu đề tr.1209; chuyên luận là quả (Fructus Alpiniae oxyphyllae), khớp QĐ 5013."
+ },
+ {
+  "id": "kt-stt-159",
+  "stt": [
+   159
+  ],
+  "kiem_tra": true,
+  "xac_nhan": true,
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "KHIẾM THỰC (Hạt)",
+  "trang_in": 1213,
+  "min_g": 9,
+  "max_g": 15,
+  "cau": "Ngày dùng từ 9 g đến 15 g, dạng thuốc sắc hoặc hoàn tán. Thường phối hợp với các loại thuốc khác.",
+  "ghi_chu": ""
+ },
+ {
+  "id": "kt-stt-168",
+  "stt": [
+   168
+  ],
+  "kiem_tra": true,
+  "xac_nhan": true,
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "KIM NGÂN (Hoa)",
+  "trang_in": 1222,
+  "min_g": 12,
+  "max_g": 16,
+  "cau": "Ngày dùng từ 12 g đến 16 g, dạng thuốc sắc hoặc hãm. Có thể ngâm rượu, làm hoàn tán.",
+  "ghi_chu": "Tiêu đề tr.1221."
+ },
+ {
+  "id": "kt-stt-178",
+  "stt": [
+   178
+  ],
+  "kiem_tra": true,
+  "xac_nhan": true,
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "LẠC TIÊN",
+  "trang_in": 1228,
+  "min_g": 20,
+  "max_g": 40,
+  "cau": "Ngày dùng từ 20 g đến 40 g, dạng thuốc sắc. Ngoài ra có thể uống cao lỏng, siro, rượu thuốc với lượng tương ứng. Nên uống trước khi đi ngủ.",
+  "ghi_chu": ""
+ },
+ {
+  "id": "kt-stt-182",
+  "stt": [
+   182
+  ],
+  "kiem_tra": true,
+  "xac_nhan": true,
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "SEN (Hạt)",
+  "trang_in": 1316,
+  "min_g": 6,
+  "max_g": 15,
+  "cau": "Ngày dùng từ 6 g đến 15 g, phối hợp trong các bài thuốc.",
+  "ghi_chu": "Tiêu đề SEN (Hạt) tr.1315; câu liều đầu tr.1316, trước tiêu đề SEN (Lá)."
+ },
+ {
+  "id": "kt-stt-196",
+  "stt": [
+   196
+  ],
+  "kiem_tra": true,
+  "xac_nhan": true,
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "MÃ ĐỀ (Lá)",
+  "trang_in": 1240,
+  "min_g": 16,
+  "max_g": 20,
+  "cau": "Ngày dùng từ 16 g đến 20 g, dạng thuốc sắc, cao thuốc. Dùng ngoài để chữa bỏng (lấy bông nhúng vào cao thuốc đắp lên chỗ bỏng, băng lại, mỗi ngày thay một lần).",
+  "ghi_chu": "Tiêu đề MÃ ĐỀ (Lá) tr.1239 (sau MÃ ĐỀ (Hạt)); câu liều thuộc chuyên luận Lá (Chế biến: hái lá), khớp Folium Plantaginis."
+ },
+ {
+  "id": "kt-stt-208",
+  "stt": [
+   208
+  ],
+  "kiem_tra": true,
+  "xac_nhan": true,
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "MẪU LỆ",
+  "trang_in": 1249,
+  "min_g": 9,
+  "max_g": 30,
+  "cau": "Ngày dùng từ 9 g đến 30 g, dạng thuốc sắc (cho vào túi vải màn sắc mẫu lệ trước), dạng thuốc tán.",
+  "ghi_chu": "Tiêu đề tr.1248. Cùng trang có liều MIẾT GIÁP 9–24 g (không nhầm)."
+ },
+ {
+  "id": "kt-stt-214",
+  "stt": [
+   214
+  ],
+  "kiem_tra": true,
+  "xac_nhan": true,
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "MỘC QUA (Quả)",
+  "trang_in": 1254,
+  "min_g": 6,
+  "max_g": 9,
+  "cau": "Ngày dùng từ 6 g đến 9 g, thường phối hợp với các vị thuốc khác.",
+  "ghi_chu": "Tiêu đề tr.1253; DĐVN ghi Latin 'Fructus Chaenomelis' (cây Chaenomeles speciosa), khớp."
+ },
+ {
+  "id": "kt-stt-226",
+  "stt": [
+   226
+  ],
+  "kiem_tra": true,
+  "xac_nhan": true,
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "NGỌC TRÚC (Thân rễ)",
+  "trang_in": 1266,
+  "min_g": 6,
+  "max_g": 12,
+  "cau": "Ngày dùng từ 6 g đến 12 g, dạng thuốc sắc.",
+  "ghi_chu": "Tiêu đề tr.1265."
+ },
+ {
+  "id": "kt-stt-239",
+  "stt": [
+   239
+  ],
+  "kiem_tra": true,
+  "xac_nhan": true,
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "NHỤC ĐẬU KHẤU (Hạt)",
+  "trang_in": 1284,
+  "min_g": 3,
+  "max_g": 6,
+  "cau": "Ngày dùng từ 3 g đến 6 g, thường phối hợp với các vị thuốc khác.",
+  "ghi_chu": "Tiêu đề tr.1283."
+ },
+ {
+  "id": "kt-stt-245",
+  "stt": [
+   245
+  ],
+  "kiem_tra": true,
+  "xac_nhan": true,
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "MƠ MUỐI",
+  "trang_in": 1256,
+  "min_g": 6,
+  "max_g": 10,
+  "cau": "Ngày dùng từ 6 g đến 10 g, dạng thuốc sắc. Thường phối hợp với các loại thuốc khác. Có thể dùng thịt quả bỏ hạch cứng, dùng sắc thuốc thì không cần bỏ hạch cứng.",
+  "ghi_chu": "Chuyên luận MƠ MUỐI (Fructus Armeniacae praeparatus; Diêm mai, Bạch mai) tiêu đề tr.1255."
+ },
+ {
+  "id": "kt-stt-254",
+  "stt": [
+   254
+  ],
+  "kiem_tra": true,
+  "xac_nhan": true,
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "ĐẠI PHÙ BÌNH",
+  "trang_in": 1151,
+  "min_g": 6,
+  "max_g": 8,
+  "cau": "Ngày dùng từ 6 g đến 8 g dược liệu khô, dạng thuốc sắc. Dùng ngoài: Giã nát với ít muối để đắp hoặc sắc nước đặc, xông rửa.",
+  "ghi_chu": "Chuyên luận ĐẠI PHÙ BÌNH (Herba Pistiae, Bèo cái) tiêu đề tr.1150; câu liều đầu tr.1151, trước tiêu đề ĐẠI TÁO."
+ },
+ {
+  "id": "kt-stt-272",
+  "stt": [
+   272
+  ],
+  "kiem_tra": true,
+  "xac_nhan": false,
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "SA NHÂN (Quả)",
+  "trang_in": 1306,
+  "min_g": 3,
+  "max_g": 6,
+  "cau": "Ngày dùng từ 3 g đến 6 g, dạng thuốc sắc, hoặc hoàn tán.",
+  "ghi_chu": "SAI TRANG: tr.1072 là câu liều của BẠCH ĐẬU KHẤU (Quả) (DĐVN cũng ghi Latin 'Fructus Amomi'), trùng số 3–6 g. Chuyên luận SA NHÂN (Quả) Fructus Amomi tiêu đề tr.1305, câu liều đầu tr.1306 (mục ghi 'Cách dùng, liều dùng')."
+ },
+ {
+  "id": "kt-stt-281",
+  "stt": [
+   281
+  ],
+  "kiem_tra": true,
+  "xac_nhan": true,
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "ĐỊA HOÀNG (Rễ)",
+  "trang_in": 1165,
+  "min_g": 12,
+  "max_g": 24,
+  "cau": "Ngày dùng từ 12 g đến 24 g. Dạng thuốc sắc.",
+  "ghi_chu": "Chuyên luận ĐỊA HOÀNG (Rễ), tên khác Sinh địa, tiêu đề tr.1164; câu liều chung, không tách Tiên địa hoàng (tươi) và Sinh địa (khô)."
+ },
+ {
+  "id": "kt-stt-298",
+  "stt": [
+   298
+  ],
+  "kiem_tra": true,
+  "xac_nhan": true,
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "DÂU (Quả)",
+  "trang_in": 1137,
+  "min_g": 9,
+  "max_g": 15,
+  "cau": "Ngày dùng từ 9 g đến 15 g. Dạng thuốc sắc hay ngâm rượu.",
+  "ghi_chu": "Câu liều cột phải tr.1137, ngay trước tiêu đề DÂU (Vỏ rễ); liều 5–12 g cột trái là của DÂU (Lá)."
+ },
+ {
+  "id": "kt-stt-310",
+  "stt": [
+   310
+  ],
+  "kiem_tra": true,
+  "xac_nhan": true,
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "THANH BÌ",
+  "trang_in": 1334,
+  "min_g": 6,
+  "max_g": 9,
+  "cau": "Ngày dùng 6 g đến 9 g, dạng thuốc sắc hoặc hoàn tán. Thường phối hợp với các vị thuốc khác.",
+  "ghi_chu": "Tiêu đề tr.1333."
+ },
+ {
+  "id": "kt-stt-323",
+  "stt": [
+   323
+  ],
+  "kiem_tra": true,
+  "xac_nhan": true,
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "THỔ PHỤC LINH (Thân rễ)",
+  "trang_in": 1345,
+  "min_g": 12,
+  "max_g": 30,
+  "cau": "Ngày dùng từ 12 g đến 30 g, dạng thuốc sắc, cao thuốc hoặc hoàn tán.",
+  "ghi_chu": "Tiêu đề tr.1344 (OCR); trang 1345 có định lượng astilbin của Thổ phục linh ngay trên câu liều."
+ },
+ {
+  "id": "kt-stt-332",
+  "stt": [
+   332
+  ],
+  "kiem_tra": true,
+  "xac_nhan": true,
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "THUYỀN THOÁI",
+  "trang_in": 1347,
+  "min_g": 3,
+  "max_g": 6,
+  "cau": "Ngày dùng từ 3 g đến 6 g, dạng thuốc sắc hoặc hoàn tán. Thường phối hợp với các vị thuốc khác.",
+  "ghi_chu": "Tiêu đề tr.1346."
+ },
+ {
+  "id": "kt-stt-345",
+  "stt": [
+   345
+  ],
+  "kiem_tra": true,
+  "xac_nhan": true,
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "TRẠCH TẢ (Thân rễ)",
+  "trang_in": 1356,
+  "min_g": 6,
+  "max_g": 9,
+  "cau": "Ngày dùng từ 6 g đến 9 g, dạng thuốc sắc hoặc hoàn tán.",
+  "ghi_chu": "Tiêu đề tr.1355."
+ },
+ {
+  "id": "kt-stt-351",
+  "stt": [
+   351
+  ],
+  "kiem_tra": true,
+  "xac_nhan": true,
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "TRI MẪU (Thân rễ)",
+  "trang_in": 1360,
+  "min_g": 6,
+  "max_g": 12,
+  "cau": "Ngày dùng từ 6 g đến 12 g, dạng thuốc sắc hoặc hoàn tán. Thường phối hợp với các vị thuốc khác.",
+  "ghi_chu": ""
+ },
+ {
+  "id": "kt-stt-367",
+  "stt": [
+   367
+  ],
+  "kiem_tra": true,
+  "xac_nhan": true,
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "VIỄN CHÍ (Rễ)",
+  "trang_in": 1370,
+  "min_g": 3,
+  "max_g": 9,
+  "cau": "Ngày dùng từ 3 g đến 9 g, dạng thuốc sắc hoặc hoàn tán, thường phối hợp với các vị thuốc khác.",
+  "ghi_chu": "Tiêu đề tr.1369."
+ },
+ {
+  "id": "kt-stt-384",
+  "stt": [
+   384
+  ],
+  "kiem_tra": true,
+  "xac_nhan": true,
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "XUYÊN KHUNG (Thân rễ)",
+  "trang_in": 1379,
+  "min_g": 6,
+  "max_g": 12,
+  "cau": "Ngày dùng từ 6 g đến 12 g, dạng thuốc sắc, thuốc bột hay rượu thuốc.",
+  "ghi_chu": "Tiêu đề tr.1378."
+ }
+]

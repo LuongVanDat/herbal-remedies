@@ -6,6 +6,7 @@ thanh_phan:
   - vi: rau-meo
     lieu_g: 30
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.143) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
   - vi: kim-tien-thao
     lieu_g: 30
     vai_tro: null
@@ -13,6 +14,7 @@ thanh_phan:
     ten_trong_bai: rau đắng đất
     lieu_g: 30
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.143) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
   - vi: rau-dua-nuoc
     ten_trong_bai: rau dừa nước
     lieu_g: 30

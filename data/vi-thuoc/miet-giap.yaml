@@ -5,7 +5,14 @@ ten_khac: []
 ten_khoa_hoc: Carapax Trionycis
 ten_cay: Trionyx sinensis Wiegmann - Trionychidae
 nguon_goc: ca_hai
-lieu_dung: null
+lieu_dung:
+  min_g: 9
+  max_g: 24
+  nguon:
+    ma: ddvn-5
+    trang: 1249
+    muc: Chuyên luận MIẾT GIÁP
+    trang_thai: chua_doi_chieu
 doc_tinh:
   muc: chua_ro
   canh_bao: null

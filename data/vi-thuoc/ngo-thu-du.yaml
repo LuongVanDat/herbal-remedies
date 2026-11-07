@@ -6,7 +6,14 @@ ten_khoa_hoc: Fructus Evodiae rutaecarpae
 ten_cay: Evodia rutaecarpa (A. Juss) Hartley - Rutaceae
 bo_phan_dung: Quả
 nguon_goc: nhap_khau
-lieu_dung: null
+lieu_dung:
+  min_g: 1.5
+  max_g: 4.5
+  nguon:
+    ma: ddvn-5
+    trang: 1269
+    muc: Chuyên luận NGÔ THÙ DU (Quả)
+    trang_thai: chua_doi_chieu
 doc_tinh:
   muc: chua_ro
   canh_bao: null

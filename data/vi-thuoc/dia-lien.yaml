@@ -6,7 +6,14 @@ ten_khoa_hoc: Rhizoma Kaempferiae galangae
 ten_cay: Kaempferia galanga L. - Zingiberaceae
 bo_phan_dung: Thân rễ
 nguon_goc: trong_nuoc
-lieu_dung: null
+lieu_dung:
+  min_g: 6
+  max_g: 9
+  nguon:
+    ma: ddvn-5
+    trang: 1166
+    muc: Chuyên luận ĐỊA LIỀN (Thân rễ)
+    trang_thai: chua_doi_chieu
 doc_tinh:
   muc: chua_ro
   canh_bao: null

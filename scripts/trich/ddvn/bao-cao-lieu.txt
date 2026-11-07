@@ -1,0 +1,7 @@
+VỊ GỘP dang-sam: liều các vị thành phần khác nhau/thiếu → không gán
+VỊ GỘP ha-thu-o: liều các vị thành phần khác nhau/thiếu → không gán
+VỊ GỘP thuoc-duoc: liều các vị thành phần khác nhau/thiếu → không gán
+VỊ GỘP sai-ho: liều các vị thành phần khác nhau/thiếu → không gán
+VỊ GỘP dia-hoang: liều các vị thành phần khác nhau/thiếu → không gán
+VỊ GỘP ban-ha: liều các vị thành phần khác nhau/thiếu → không gán
+VỊ GỘP tu-to: liều các vị thành phần khác nhau/thiếu → không gán

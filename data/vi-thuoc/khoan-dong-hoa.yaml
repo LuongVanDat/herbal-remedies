@@ -6,7 +6,14 @@ ten_khoa_hoc: Flos Tussilaginis farfarae
 ten_cay: Tussilago farfara L. - Asteraceae
 bo_phan_dung: Hoa
 nguon_goc: nhap_khau
-lieu_dung: null
+lieu_dung:
+  min_g: 5
+  max_g: 9
+  nguon:
+    ma: ddvn-5
+    trang: 1214
+    muc: Chuyên luận KHOẢN ĐÔNG HOA
+    trang_thai: chua_doi_chieu
 doc_tinh:
   muc: chua_ro
   canh_bao: null

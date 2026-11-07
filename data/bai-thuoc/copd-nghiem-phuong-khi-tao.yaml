@@ -10,6 +10,7 @@ thanh_phan:
     ten_trong_bai: Tang bạch bì (sao mật)
     lieu_g: 16
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.130) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
   - vi: la-chanh
     lieu_g: 12
     vai_tro: null

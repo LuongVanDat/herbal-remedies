@@ -6,7 +6,14 @@ ten_khoa_hoc: Radix Astragali membranacei
 ten_cay: Astragalus membranaceus(Fisch.) Bunge - Fabaceae
 bo_phan_dung: Rễ
 nguon_goc: nhap_khau
-lieu_dung: null
+lieu_dung:
+  min_g: 9
+  max_g: 30
+  nguon:
+    ma: ddvn-5
+    trang: 1190
+    muc: Chuyên luận HOÀNG KỲ (Rễ)
+    trang_thai: chua_doi_chieu
 doc_tinh:
   muc: chua_ro
   canh_bao: null

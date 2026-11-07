@@ -6,7 +6,14 @@ ten_khoa_hoc: Radix Streptocauli
 ten_cay: Streptocaulon juventas (Lour.) Merr. - Asclepiadaceae
 bo_phan_dung: Rễ
 nguon_goc: trong_nuoc
-lieu_dung: null
+lieu_dung:
+  min_g: 12
+  max_g: 20
+  nguon:
+    ma: ddvn-5
+    trang: 1182
+    muc: Chuyên luận HÀ THỦ Ô TRẮNG (Rễ)
+    trang_thai: chua_doi_chieu
 doc_tinh:
   muc: chua_ro
   canh_bao: null

@@ -6,7 +6,14 @@ ten_khoa_hoc: Herba Pistiae
 ten_cay: Pistia stratiotes L. - Araceae
 bo_phan_dung: Toàn cây hoặc phần trên mặt đất
 nguon_goc: trong_nuoc
-lieu_dung: null
+lieu_dung:
+  min_g: 6
+  max_g: 8
+  nguon:
+    ma: ddvn-5
+    trang: 1151
+    muc: Chuyên luận ĐẠI PHÙ BÌNH
+    trang_thai: chua_doi_chieu
 doc_tinh:
   muc: chua_ro
   canh_bao: null

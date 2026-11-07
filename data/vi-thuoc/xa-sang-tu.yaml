@@ -6,7 +6,14 @@ ten_khoa_hoc: Fructus Cnidii
 ten_cay: Cnidium monnieri (L) Cuss - Apiaceae
 bo_phan_dung: Quả
 nguon_goc: ca_hai
-lieu_dung: null
+lieu_dung:
+  min_g: 3
+  max_g: 9
+  nguon:
+    ma: ddvn-5
+    trang: 1376
+    muc: Chuyên luận XÀ SÀNG (Quả)
+    trang_thai: chua_doi_chieu
 doc_tinh:
   muc: chua_ro
   canh_bao: null

@@ -81,11 +81,17 @@ const DIR_DOC_ANH = 'scripts/trich/ddvn/doc-anh'
 const docAnh: KetQuaDocAnh[] = readdirSync(DIR_DOC_ANH).filter((f) => f.endsWith('.json')).sort()
   .flatMap((f) => JSON.parse(readFileSync(join(DIR_DOC_ANH, f), 'utf8')))
 const { suaTay, theoId: lieuNgoaiDm } = tuDocAnh(docAnh)
+// Quyết định bỏ qua (khác bộ phận dùng, câu liều mơ hồ…) — thắng mọi kết quả đọc ảnh/tự động
+const quyetDinh: { bo_qua: { stt?: number; id?: string; ly_do: string }[] } = JSON.parse(readFileSync('scripts/trich/ddvn/quyet-dinh.json', 'utf8'))
+for (const q of quyetDinh.bo_qua) {
+  if (q.stt !== undefined) suaTay[q.stt] = { bo_qua: true, ghi_chu: q.ly_do }
+  if (q.id) lieuNgoaiDm.delete(q.id)
+}
 const chuyenLuan: ChuyenLuan[] = JSON.parse(readFileSync('scripts/trich/ddvn/chuyen-luan.json', 'utf8'))
 const { theoStt: lieuTheoStt, baoCao: baoCaoLieu } = ghepLieu(chuyenLuan, dm, suaTay)
 const lieuCuaVi = new Map<string, LieuDdvn>()
 for (const d of dm) { const l = lieuTheoStt.get(d.stt); if (l) lieuCuaVi.set(maVi(d), l) }
-for (const g of Object.values(VI_GOP)) {
+for (const g of new Map(Object.values(VI_GOP).map((g) => [g.id, g])).values()) {
   // Vị gộp: chỉ gán khi mọi vị thành phần có cùng một liều
   const ls = g.stt.map((s) => lieuTheoStt.get(s))
   if (ls.every((l) => l && l.min_g === ls[0]!.min_g && l.max_g === ls[0]!.max_g)) lieuCuaVi.set(g.id, ls[0]!)
@@ -160,7 +166,7 @@ for (const f of files) {
           ...(tp.lieu_text ? { lieu_text: tp.lieu_text } : tp.lieu_g === null ? { lieu_text: 'Văn bản không ghi liều' } : {}),
           vai_tro: null,
           ...(vi && tp.lieu_g !== null && lieuCuaVi.has(vi) && tp.lieu_g > lieuCuaVi.get(vi)!.max_g
-            ? { vuot_lieu_ly_do: `Liều in trong QĐ 5013 (tr.${bj.trang}); cao hơn liều thường dùng ${lieuCuaVi.get(vi)!.min_g}–${lieuCuaVi.get(vi)!.max_g} g/ngày theo Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.` }
+            ? { vuot_lieu_ly_do: `bài thuốc trong QĐ 5013 (tr.${bj.trang}) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.` }
             : {}),
         }
       })

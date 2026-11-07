@@ -6,6 +6,7 @@ thanh_phan:
   - vi: thuc-dia
     lieu_g: 32
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.144) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
   - vi: mau-don-bi
     ten_trong_bai: Đơn bì
     lieu_g: 12
@@ -13,6 +14,7 @@ thanh_phan:
   - vi: son-thu
     lieu_g: 16
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.144) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
   - vi: phu-tu-che
     lieu_g: 6
     vai_tro: null
@@ -22,6 +24,7 @@ thanh_phan:
   - vi: que-chi
     lieu_g: 14
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.144) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
   - vi: hoai-son
     lieu_g: 16
     vai_tro: null
@@ -31,6 +34,7 @@ thanh_phan:
   - vi: trach-ta
     lieu_g: 12
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.144) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
   - vi: xa-tien-tu
     lieu_g: 12
     vai_tro: null

@@ -6,7 +6,14 @@ ten_khoa_hoc: Lignum sappan
 ten_cay: Caesalpinia sappan L. - Fabaceae
 bo_phan_dung: Gỗ
 nguon_goc: trong_nuoc
-lieu_dung: null
+lieu_dung:
+  min_g: 3
+  max_g: 9
+  nguon:
+    ma: ddvn-5
+    trang: 1355
+    muc: Chuyên luận TÔ MỘC
+    trang_thai: chua_doi_chieu
 doc_tinh:
   muc: chua_ro
   canh_bao: null

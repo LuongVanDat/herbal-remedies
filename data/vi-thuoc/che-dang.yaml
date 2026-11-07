@@ -6,7 +6,14 @@ ten_khoa_hoc: Folium Ilexi kaushii
 ten_cay: Ilex kaushue S.Y.Hu; Syn. Ilex kudingcha C.J Tseng - Aquifoliaceae
 bo_phan_dung: Lá
 nguon_goc: trong_nuoc
-lieu_dung: null
+lieu_dung:
+  min_g: 8
+  max_g: 10
+  nguon:
+    ma: ddvn-5
+    trang: 1109
+    muc: Chuyên luận CHÈ ĐẮNG (Lá)
+    trang_thai: chua_doi_chieu
 doc_tinh:
   muc: chua_ro
   canh_bao: null

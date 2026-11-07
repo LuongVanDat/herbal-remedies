@@ -6,7 +6,14 @@ ten_khoa_hoc: Radix Phytolaccae
 ten_cay: Phytolacca esculenta Van Houtle - Phytolaccaceae
 bo_phan_dung: Rễ
 nguon_goc: ca_hai
-lieu_dung: null
+lieu_dung:
+  min_g: 3
+  max_g: 9
+  nguon:
+    ma: ddvn-5
+    trang: 1348
+    muc: Chuyên luận THƯƠNG LỤC (Rễ củ)
+    trang_thai: chua_doi_chieu
 doc_tinh:
   muc: co
   canh_bao: Thuộc Danh mục dược liệu độc làm thuốc (TT 13/2024/TT-BYT, Phụ lục I, STT 20). Chỉ dùng theo chỉ định của thầy thuốc.

@@ -6,7 +6,14 @@ ten_khoa_hoc: Cortex Cinnamomi
 ten_cay: Cinnamomum spp. - Lauraceae
 bo_phan_dung: Vỏ
 nguon_goc: trong_nuoc
-lieu_dung: null
+lieu_dung:
+  min_g: 1
+  max_g: 4
+  nguon:
+    ma: ddvn-5
+    trang: 1297
+    muc: Chuyên luận QUẾ (Vỏ thân, vỏ cành)
+    trang_thai: chua_doi_chieu
 doc_tinh:
   muc: chua_ro
   canh_bao: null

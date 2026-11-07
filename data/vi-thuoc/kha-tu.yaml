@@ -6,7 +6,14 @@ ten_khoa_hoc: Fructus Terminaliae chebulae
 ten_cay: Terminalia chebula Retz. - Combretaceae
 bo_phan_dung: Quả
 nguon_goc: nhap_khau
-lieu_dung: null
+lieu_dung:
+  min_g: 3
+  max_g: 6
+  nguon:
+    ma: ddvn-5
+    trang: 1213
+    muc: Chuyên luận KHA TỬ (Quả)
+    trang_thai: chua_doi_chieu
 doc_tinh:
   muc: chua_ro
   canh_bao: null

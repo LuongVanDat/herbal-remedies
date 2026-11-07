@@ -6,7 +6,14 @@ ten_khoa_hoc: Herba Agrimoniae
 ten_cay: Agrimonia pilosa Ledeb. Nakai. - Rosaceae
 bo_phan_dung: Toàn cây hoặc phần trên mặt đất
 nguon_goc: ca_hai
-lieu_dung: null
+lieu_dung:
+  min_g: 12
+  max_g: 20
+  nguon:
+    ma: ddvn-5
+    trang: 1232
+    muc: Chuyên luận LONG NHA THẢO
+    trang_thai: chua_doi_chieu
 doc_tinh:
   muc: chua_ro
   canh_bao: null

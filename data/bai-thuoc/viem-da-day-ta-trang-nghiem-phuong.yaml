@@ -6,6 +6,7 @@ thanh_phan:
   - vi: la-khoi
     lieu_g: 20
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.112) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
   - vi: bo-cong-anh
     lieu_g: 20
     vai_tro: null
@@ -26,6 +27,7 @@ thanh_phan:
     ten_trong_bai: Cam thảo nam
     lieu_g: 16
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.112) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
 cach_dung: Sắc uống ngày 1 thang, chia 2 lần.
 gia_giam: []
 nguon:

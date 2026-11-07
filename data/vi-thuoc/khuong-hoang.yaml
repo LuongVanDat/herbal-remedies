@@ -6,7 +6,14 @@ ten_khoa_hoc: Rhizoma Curcumae longae
 ten_cay: Curcuma longa L. - Zingiberaceae
 bo_phan_dung: Thân rễ
 nguon_goc: trong_nuoc
-lieu_dung: null
+lieu_dung:
+  min_g: 6
+  max_g: 12
+  nguon:
+    ma: ddvn-5
+    trang: 1265
+    muc: Chuyên luận NGHỆ (Thân rễ)
+    trang_thai: chua_doi_chieu
 doc_tinh:
   muc: chua_ro
   canh_bao: null

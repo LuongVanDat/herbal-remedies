@@ -6,6 +6,7 @@ thanh_phan:
   - vi: thuc-dia
     lieu_g: 16
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.47) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
   - vi: son-thu
     lieu_g: 12
     vai_tro: null
@@ -34,9 +35,11 @@ thanh_phan:
   - vi: do-trong
     lieu_g: 12
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.47) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
   - vi: loc-giac-giao
     lieu_g: 16
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.47) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
 cach_dung: Sắc uống ngày 1 thang, chia 2 lần.
 gia_giam: []
 nguon:

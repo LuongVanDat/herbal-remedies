@@ -7,7 +7,14 @@ ten_khoa_hoc: Semen Perillae frutescensis
 ten_cay: Perilla frutescens (L.) Britt. - Larniaceae
 bo_phan_dung: Hạt
 nguon_goc: trong_nuoc
-lieu_dung: null
+lieu_dung:
+  min_g: 3
+  max_g: 9
+  nguon:
+    ma: ddvn-5
+    trang: 1351
+    muc: Chuyên luận TÍA TÔ (Quả)
+    trang_thai: chua_doi_chieu
 doc_tinh:
   muc: chua_ro
   canh_bao: null

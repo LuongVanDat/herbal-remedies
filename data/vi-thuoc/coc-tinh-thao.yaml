@@ -6,7 +6,14 @@ ten_khoa_hoc: Flos Eriocauli
 ten_cay: Eriocaulon sexangulare L. - Eriocaulaceae
 bo_phan_dung: Hoa
 nguon_goc: nhap_khau
-lieu_dung: null
+lieu_dung:
+  min_g: 9
+  max_g: 12
+  nguon:
+    ma: ddvn-5
+    trang: 1122
+    muc: Chuyên luận CỐC TINH THẢO
+    trang_thai: chua_doi_chieu
 doc_tinh:
   muc: chua_ro
   canh_bao: null

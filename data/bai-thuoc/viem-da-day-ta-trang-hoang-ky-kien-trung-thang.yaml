@@ -27,6 +27,7 @@ thanh_phan:
   - vi: mach-nha
     lieu_g: 30
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.116) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
 cach_dung: Tất cả các vị thuốc trừ Mạch nha sắc lấy nước bỏ bã, hòa với Mạch nha uống khi còn ấm, ngày 1 thang chia 2 lần.
 gia_giam: []
 nguon:

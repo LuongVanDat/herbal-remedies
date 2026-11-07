@@ -27,6 +27,9 @@ describe('docLieu — đọc liều ngày từ mục "Cách dùng, liều lượ
     expect(docLieu('Ngày 80 g đến 120 g (cây tươi); 16 g đến 20 g (khô). Dạng thuốc sắc.')).toBeNull()
     expect(docLieu('Ngày dùng tù 3 g đển 9 g hoặc uống mỗi lần từ 1,5 g đến 3 g dạng bột.')).toBeNull()
   })
+  it('câu liều đầu là liều dược liệu tươi → không tự đoán (cần liều khô)', () => {
+    expect(docLieu('Ngày dùng từ 30 g đến 40 g Rau má tươi, vò nát, lấy nước hoặc sắc uống. Dùng dược liệu khô, ngày dùng từ 15 g đến 30 g.')).toBeNull()
+  })
   it('đơn vị OCR sai hoặc số bị tách ("9 2.", "1 2 g", "30 e") → không tự đoán', () => {
     expect(docLieu('Ngày dùne từ 6 g đến 9 2. phối hợp trong các bài thuốc.')).toBeNull()
     expect(docLieu('Ngày dùng tử 4 g đến 1 2 g, dạng thuốc sắc')).toBeNull()
@@ -129,9 +132,16 @@ describe('tuDocAnh — kết quả đọc ảnh trang → sửa tay', () => {
     const { suaTay } = tuDocAnh([{ kiem_tra: true, stt: [7], xac_nhan: false, ket_qua: 'co_lieu', chuyen_luan: 'X', trang_in: 1100, min_g: 3, max_g: 6, cau: '', ghi_chu: '' }])
     expect(suaTay[7]).toMatchObject({ min_g: 3, max_g: 6 })
   })
-  it('kiểm tra xác nhận đúng → giữ bản tự động (không sửa tay)', () => {
-    const { suaTay } = tuDocAnh([{ kiem_tra: true, stt: [7], xac_nhan: true, min_g: 3, max_g: 6 }])
+  it('kiểm tra xác nhận đúng nhưng có giá trị đọc ảnh → vẫn dùng giá trị ảnh (trang chuẩn hơn bản tự động)', () => {
+    const { suaTay } = tuDocAnh([{ kiem_tra: true, stt: [7], xac_nhan: true, ket_qua: 'co_lieu', chuyen_luan: 'QUA LÂU (Hạt)', trang_in: 1294, min_g: 9, max_g: 15 }])
+    expect(suaTay[7]).toMatchObject({ trang: 1294, min_g: 9, max_g: 15 })
+  })
+  it('kiểm tra xác nhận đúng, không kèm giá trị → giữ bản tự động', () => {
+    const { suaTay } = tuDocAnh([{ kiem_tra: true, stt: [7], xac_nhan: true, min_g: null, max_g: null }])
     expect(suaTay[7]).toBeUndefined()
+  })
+  it('hai kết quả cùng giá trị, chỉ khác ghi chú → không lỗi', () => {
+    expect(() => tuDocAnh([kq({ ghi_chu: 'a' }), kq({ ghi_chu: 'b' })])).not.toThrow()
   })
   it('hai kết quả khác nhau cho cùng STT → lỗi', () => {
     expect(() => tuDocAnh([kq({}), kq({ min_g: 3 })])).toThrow(/STT 5/)

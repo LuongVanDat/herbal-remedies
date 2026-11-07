@@ -2,7 +2,14 @@
 id: sung-huou
 ten: Sừng hươu
 ten_khac: []
-lieu_dung: null
+lieu_dung:
+  min_g: 6
+  max_g: 15
+  nguon:
+    ma: ddvn-5
+    trang: 1234
+    muc: Chuyên luận LỘC GIÁC
+    trang_thai: chua_doi_chieu
 doc_tinh:
   muc: chua_ro
   canh_bao: null

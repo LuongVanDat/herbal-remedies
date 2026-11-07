@@ -6,10 +6,12 @@ thanh_phan:
   - vi: la-khoi
     lieu_g: 500
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.114) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
   - vi: bo-cong-anh
     ten_trong_bai: Bồ công anh nam
     lieu_g: 250
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.114) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
   - vi: chut-chit
     ten_trong_bai: Rễ chút chít
     lieu_g: 100
@@ -17,10 +19,12 @@ thanh_phan:
   - vi: nhan-tran
     lieu_g: 100
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.114) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
   - vi: kho-sam
     ten_trong_bai: Lá khổ sâm
     lieu_g: 50
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.114) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
 cach_dung: Các vị sấy khô tán bột mịn, ngày uống 24 – 32g, hãm nước sôi lấy nước trong uống.
 gia_giam: []
 nguon:

@@ -6,12 +6,14 @@ thanh_phan:
   - vi: sinh-dia
     lieu_g: 40
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.114) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
   - vi: cam-thao
     lieu_g: 6
     vai_tro: null
   - vi: hoang-cam
     lieu_g: 12
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.114) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
   - vi: bo-hoang
     ten_trong_bai: Bồ hoàng sống
     lieu_g: 12
@@ -19,6 +21,7 @@ thanh_phan:
   - vi: trac-bach-diep
     lieu_g: 16
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.114) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
   - vi: chi-tu
     lieu_g: 8
     vai_tro: null

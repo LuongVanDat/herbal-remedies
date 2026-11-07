@@ -15,6 +15,7 @@ thanh_phan:
   - vi: ngu-vi-tu
     lieu_g: 8
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.80) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
   - vi: mau-le
     ten_trong_bai: Sinh mẫu lệ
     lieu_g: 10

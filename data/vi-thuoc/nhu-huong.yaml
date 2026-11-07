@@ -5,7 +5,14 @@ ten_khac: []
 ten_khoa_hoc: Gummi resina Olibanum
 ten_cay: Boswellia carterii Birdw. - Burseraceae
 nguon_goc: nhap_khau
-lieu_dung: null
+lieu_dung:
+  min_g: 3
+  max_g: 6
+  nguon:
+    ma: ddvn-5
+    trang: 1283
+    muc: Chuyên luận NHŨ HƯƠNG (Gôm nhựa)
+    trang_thai: chua_doi_chieu
 doc_tinh:
   muc: chua_ro
   canh_bao: null

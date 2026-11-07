@@ -6,7 +6,14 @@ ten_khoa_hoc: Fructus Aurantii immaturus
 ten_cay: Citrus aurantium L. - Rutaceae
 bo_phan_dung: Quả
 nguon_goc: ca_hai
-lieu_dung: null
+lieu_dung:
+  min_g: 3
+  max_g: 9
+  nguon:
+    ma: ddvn-5
+    trang: 1111
+    muc: Chuyên luận CHỈ THỰC
+    trang_thai: chua_doi_chieu
 doc_tinh:
   muc: chua_ro
   canh_bao: null

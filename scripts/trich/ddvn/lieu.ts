@@ -9,6 +9,7 @@ import { boDau } from '../../../src/search'
 export function docLieu(text: string): { min_g: number; max_g: number } | null {
   const cau = text.split(/d[uù]ng ngo[aà]i/i)[0].split(/\.(?!\d)/)[0]
   const k = boDau(cau)
+  if (/\btuoi\b/.test(k)) return null // liều dược liệu tươi — cần đọc tay lấy liều khô
   const so = [...k.matchAll(/\d+(?:,\d+)?/g)]
   if (!so.length || so.length > 2) return null
   // Số cuối phải đứng ngay trước đơn vị "g" riêng lẻ; số đầu có thể bỏ đơn vị ("từ 6 đến 9 g")
@@ -101,12 +102,14 @@ export function tuDocAnh(ds: KetQuaDocAnh[]): { suaTay: SuaTay; theoId: Map<stri
   const theoId = new Map<string, LieuDdvn>()
   const dat = (stt: number, v: SuaTay[number]) => {
     const cu = suaTay[stt]
-    if (cu && JSON.stringify(cu) !== JSON.stringify(v)) throw new Error(`Đọc ảnh mâu thuẫn ở STT ${stt}: ${JSON.stringify(cu)} ≠ ${JSON.stringify(v)}`)
+    const giaTri = (o: SuaTay[number]) => JSON.stringify({ ...o, ghi_chu: undefined })
+    if (cu && giaTri(cu) !== giaTri(v)) throw new Error(`Đọc ảnh mâu thuẫn ở STT ${stt}: ${JSON.stringify(cu)} ≠ ${JSON.stringify(v)}`)
     suaTay[stt] = v
   }
   for (const x of ds) {
-    if (x.kiem_tra && x.xac_nhan) continue
     const coLieu = x.ket_qua === 'co_lieu' && x.min_g != null && x.max_g != null && x.trang_in != null
+    // Kiểm tra đã xác nhận mà không kèm giá trị → giữ bản tự động; có giá trị đọc ảnh → luôn dùng (trang chuẩn hơn)
+    if (x.kiem_tra && x.xac_nhan && !coLieu) continue
     if (coLieu && !x.stt.length && x.id) {
       theoId.set(x.id, { min_g: x.min_g!, max_g: x.max_g!, trang: x.trang_in!, muc: `Chuyên luận ${x.chuyen_luan}` })
       continue

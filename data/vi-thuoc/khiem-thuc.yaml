@@ -6,7 +6,14 @@ ten_khoa_hoc: Semen Euryales
 ten_cay: Euryale ferox Salisb. - Nymphaeaceae
 bo_phan_dung: Hạt
 nguon_goc: nhap_khau
-lieu_dung: null
+lieu_dung:
+  min_g: 9
+  max_g: 15
+  nguon:
+    ma: ddvn-5
+    trang: 1213
+    muc: Chuyên luận KHIẾM THỰC (Hạt)
+    trang_thai: chua_doi_chieu
 doc_tinh:
   muc: chua_ro
   canh_bao: null

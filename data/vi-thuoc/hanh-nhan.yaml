@@ -6,7 +6,14 @@ ten_khoa_hoc: Semen Armeniacae amarum
 ten_cay: Prunus armeniaca L. - Rosaceae
 bo_phan_dung: Hạt
 nguon_goc: nhap_khau
-lieu_dung: null
+lieu_dung:
+  min_g: 4.5
+  max_g: 9
+  nguon:
+    ma: ddvn-5
+    trang: 1215
+    muc: Chuyên luận KHỔ HẠNH NHÂN
+    trang_thai: chua_doi_chieu
 doc_tinh:
   muc: chua_ro
   canh_bao: null

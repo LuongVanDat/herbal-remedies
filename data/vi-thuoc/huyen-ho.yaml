@@ -6,7 +6,14 @@ ten_khoa_hoc: Tuber Corydalis
 ten_cay: Corydalis yanhusuo (Y.H.Chou & Chun C. Hsu)W.T.Wang - Fumariaceae
 bo_phan_dung: Củ
 nguon_goc: nhap_khau
-lieu_dung: null
+lieu_dung:
+  min_g: 3
+  max_g: 9
+  nguon:
+    ma: ddvn-5
+    trang: 1141
+    muc: Chuyên luận DIÊN HỒ SÁCH (Rễ củ)
+    trang_thai: chua_doi_chieu
 doc_tinh:
   muc: chua_ro
   canh_bao: null

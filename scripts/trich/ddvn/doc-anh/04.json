@@ -1,0 +1,514 @@
+[
+ {
+  "id": "thuc-dia",
+  "stt": [
+   327
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "THỤC ĐỊA",
+  "trang_in": 1346,
+  "min_g": 9,
+  "max_g": 15,
+  "cau": "Ngày dùng từ 9 g đến 15 g, dạng thuốc sắc hoặc hoàn. Thường phối hợp với các vị thuốc khác.",
+  "ghi_chu": "Chuyên luận riêng Radix Rehmanniae glutinosae praeparata, bắt đầu tr.1345"
+ },
+ {
+  "id": "son-thu",
+  "stt": [
+   284
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "SƠN THÙ (Quả)",
+  "trang_in": 1319,
+  "min_g": 6,
+  "max_g": 12,
+  "cau": "Ngày dùng từ 6 g đến 12 g, dạng thuốc sắc hoặc hoàn tán. Thường phối hợp với các vị thuốc khác.",
+  "ghi_chu": "Fructus Corni officinalis, bắt đầu tr.1318"
+ },
+ {
+  "id": "tan-giao",
+  "stt": [
+   292
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "TẦN GIAO (Rễ)",
+  "trang_in": 1327,
+  "min_g": 6,
+  "max_g": 9,
+  "cau": "Ngày dùng từ 6 g đến 9 g, dạng thuốc sắc hoặc hoàn tán. Thường phối hợp với các loại thuốc khác.",
+  "ghi_chu": "Radix Gentianae (gồm Gentiana macrophylla Pall.), bắt đầu tr.1326"
+ },
+ {
+  "id": "ma-hoang",
+  "stt": [
+   197
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "MA HOÀNG",
+  "trang_in": 1239,
+  "min_g": 4,
+  "max_g": 12,
+  "cau": "Ngày dùng từ 4 g đến 12 g, dạng thuốc sắc, thường phối hợp với các vị thuốc khác.",
+  "ghi_chu": "Herba Ephedrae, bắt đầu tr.1237"
+ },
+ {
+  "id": "khuong-hoat",
+  "stt": [
+   165
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "KHƯƠNG HOẠT (Thân rễ và Rễ)",
+  "trang_in": 1219,
+  "min_g": 3,
+  "max_g": 9,
+  "cau": "Ngày dùng từ 3 g đến 9 g, dạng thuốc sắc hoặc hoàn tán, thường phối hợp với các vị thuốc khác.",
+  "ghi_chu": "Rhizoma et Radix Notopterygii, bắt đầu tr.1218"
+ },
+ {
+  "id": "dan-sam",
+  "stt": [
+   96
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "ĐAN SÂM (Rễ và Thân rễ)",
+  "trang_in": 1154,
+  "min_g": 9,
+  "max_g": 15,
+  "cau": "Ngày dùng từ 9 g đến 15 g, dạng thuốc sắc.",
+  "ghi_chu": "Radix et Rhizoma Salviae miltiorrhizae, bắt đầu tr.1152"
+ },
+ {
+  "id": "uat-kim",
+  "stt": [
+   363
+  ],
+  "ket_qua": "khong_co_chuyen_luan",
+  "chuyen_luan": null,
+  "trang_in": null,
+  "min_g": null,
+  "max_g": null,
+  "cau": "",
+  "ghi_chu": "Không có chuyên luận Radix Curcumae (củ rễ). Chỉ mục 'Uất kim' tr.1264 trỏ tới NGHỆ (Thân rễ) - Rhizoma Curcumae longae, tên khác in 'Khương hoàng, Uất kim'; khác bộ phận dùng (thân rễ vs củ rễ) nên không gán. Tham khảo: liều Nghệ tr.1265 'Ngày dùng từ 6 g đến 12 g, dạng thuốc sắc hoặc bột. Dùng ngoài dưới dạng dịch tươi bôi vào vết thương để chóng lên da non.' — cần người duyệt quyết định."
+ },
+ {
+  "id": "nhan-tran",
+  "stt": [
+   237
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "NHÂN TRẦN",
+  "trang_in": 1281,
+  "min_g": 10,
+  "max_g": 15,
+  "cau": "Ngày dùng 10 g đến 15 g, dạng thuốc sắc. Dùng ngoài: Lượng thích hợp, sắc lấy nước rửa hoặc giã nhỏ đắp nơi đau.",
+  "ghi_chu": "Herba Adenosmatis caerulei, bắt đầu tr.1280 (không phải Nhân trần tía tr.1282)"
+ },
+ {
+  "id": "hoat-thach",
+  "stt": [
+   142
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "HOẠT THẠCH",
+  "trang_in": 1194,
+  "min_g": 10,
+  "max_g": 20,
+  "cau": "Ngày dùng từ 10 g đến 20 g, dạng thuốc bột, sắc hoặc hòa với nước uống. Phối hợp trong các bài thuốc. Dùng ngoài: Lượng thích hợp.",
+  "ghi_chu": "Talcum, bắt đầu tr.1193"
+ },
+ {
+  "id": "dam-truc-diep",
+  "stt": [
+   95
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "ĐẠM TRÚC DIỆP",
+  "trang_in": 1152,
+  "min_g": 6,
+  "max_g": 9,
+  "cau": "Ngày dùng từ 6 g đến 9 g, dạng thuốc sắc hoặc hoàn tán. Thường phối hợp với các loại thuốc khác.",
+  "ghi_chu": "Herba Lophatheri, bắt đầu tr.1151"
+ },
+ {
+  "id": "stt-141",
+  "stt": [
+   141
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "HOÀNG TINH (Thân rễ)",
+  "trang_in": 1193,
+  "min_g": 8,
+  "max_g": 16,
+  "cau": "Ngày dùng từ 8 g đến 16 g, dạng thuốc sắc hoặc hoàn tán. Thường phối hợp với các loại thuốc khác.",
+  "ghi_chu": "Rhizoma Polygonati, bắt đầu tr.1192"
+ },
+ {
+  "id": "bach-chi",
+  "stt": [
+   10
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "BẠCH CHỈ (Rễ)",
+  "trang_in": 1072,
+  "min_g": 3,
+  "max_g": 9,
+  "cau": "Ngày dùng 3 g đến 9 g, dạng thuốc sắc hoặc tán bột. Thường phối hợp với một số vị thuốc khác.",
+  "ghi_chu": "Radix Angelicae dahuricae, bắt đầu tr.1070"
+ },
+ {
+  "id": "tang-diep",
+  "stt": [
+   295
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "DÂU (Lá)",
+  "trang_in": 1137,
+  "min_g": 5,
+  "max_g": 12,
+  "cau": "Ngày dùng từ 5 g đến 12 g. Dạng thuốc sắc.",
+  "ghi_chu": "Folium Mori albae, tên khác Tang diệp; bắt đầu tr.1136"
+ },
+ {
+  "id": "kim-tien-thao",
+  "stt": [
+   169
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "KIM TIỀN THẢO",
+  "trang_in": 1223,
+  "min_g": 15,
+  "max_g": 30,
+  "cau": "Ngày dùng từ 15 g đến 30 g. Dạng thuốc sắc. Thường phối hợp với một số vị thuốc khác.",
+  "ghi_chu": "Herba Desmodii styracifolii, bắt đầu tr.1222"
+ },
+ {
+  "id": "nhu-huong",
+  "stt": [
+   238
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "NHŨ HƯƠNG (Gôm nhựa)",
+  "trang_in": 1283,
+  "min_g": 3,
+  "max_g": 6,
+  "cau": "Ngày dùng từ 3 g đến 6 g, thường phối hợp với các vị thuốc khác. Dùng ngoài với lượng bột mịn thích hợp đắp vào vết thương.",
+  "ghi_chu": "Gummi resina Olibanum, bắt đầu tr.1282"
+ },
+ {
+  "id": "tru-linh",
+  "stt": [
+   354
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "TRƯ LINH",
+  "trang_in": 1363,
+  "min_g": 6,
+  "max_g": 15,
+  "cau": "Ngày dùng 6 g đến 15 g, dạng thuốc sắc.",
+  "ghi_chu": "Polyporus, bắt đầu tr.1362"
+ },
+ {
+  "id": "la-mong",
+  "stt": [
+   175
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "LÁ MÓNG (Lá)",
+  "trang_in": 1226,
+  "min_g": 8,
+  "max_g": 12,
+  "cau": "Ngày dùng 8 g đến 12 g, dưới dạng thuốc sắc. Dùng ngoài: Lấy Lá móng giã nát, trộn với dấm thành bột nhão đắp vào nơi bị sưng đau, hoặc nhọt độc, hoặc vết rắn cắn. Cũng có thể nấu nước ngâm rửa.",
+  "ghi_chu": "Folium Lawsoniae"
+ },
+ {
+  "id": "rau-dang-dat",
+  "stt": [],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "RAU ĐẮNG ĐẤT",
+  "trang_in": 1299,
+  "min_g": 8,
+  "max_g": 12,
+  "cau": "Dùng dưới dạng thuốc sắc, ngày 8 g đến 12 g dược liệu khô. Dùng ngoài: Giã nát, thêm ít dầu thầu dầu, trộn đều rồi hơ nóng làm thuốc đắp trị đau đầu, hoặc đem cây tươi nấu nước rửa chỗ bị ngứa, ghẻ lở, mụn nhọt ngoài da. Lượng thích hợp.",
+  "ghi_chu": "Herba Glini oppositifolii, bắt đầu tr.1298"
+ },
+ {
+  "id": "o-duoc",
+  "stt": [
+   244
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "Ô DƯỢC (Rễ)",
+  "trang_in": 1288,
+  "min_g": 3,
+  "max_g": 9,
+  "cau": "Ngày dùng từ 3 g đến 9 g, dạng thuốc sắc hoặc hoàn tán.",
+  "ghi_chu": "Radix Linderae, bắt đầu tr.1287"
+ },
+ {
+  "id": "mot-duoc",
+  "stt": [
+   216
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "MỘT DƯỢC (Gôm nhựa)",
+  "trang_in": 1255,
+  "min_g": 4,
+  "max_g": 12,
+  "cau": "Ngày dùng từ 4 g đến 12 g, dạng thuốc sắc hoặc hoàn tán. Dùng ngoài tán bột để bôi, đắp.",
+  "ghi_chu": "Myrrha"
+ },
+ {
+  "id": "thanh-hao",
+  "stt": [],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "THANH CAO",
+  "trang_in": 1332,
+  "min_g": 6,
+  "max_g": 12,
+  "cau": "Ngày dùng từ 6 g đến 12 g, dạng thuốc sắc hoặc hoàn tán. Thường phối hợp với các loại thuốc khác.",
+  "ghi_chu": "KHÔNG CHẮC về định danh: 'thanh hao' không có STT/Latin. Chọn THANH CAO (Herba Artemisiae apiaceae, tr.1332) — vị Thanh hao dùng trong bài thuốc. Chuyên luận THANH CAO HOA VÀNG (Lá) (Folium Artemisiae annuae, tr.1332-1333) không có liều, chỉ ghi 'Công dụng: Dùng chiết xuất artemisinin'. Cần người duyệt xác nhận."
+ },
+ {
+  "id": "ca-gai-leo",
+  "stt": [
+   45
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "CÀ GAI LEO",
+  "trang_in": 1093,
+  "min_g": 16,
+  "max_g": 20,
+  "cau": "Ngày dùng 16 g đến 20 g, dưới dạng thuốc sắc. Thường dùng phối hợp với một số vị thuốc khác.",
+  "ghi_chu": "Herba Solani procumbensis, bắt đầu tr.1092"
+ },
+ {
+  "id": "stt-84",
+  "stt": [
+   84
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "DIẾP CÁ",
+  "trang_in": 1142,
+  "min_g": 15,
+  "max_g": 25,
+  "cau": "Ngày dùng từ 15 g đến 25 g dược liệu khô, sắc nhanh; hoặc từ 30 g đến 50 g dược liệu tươi sắc hoặc giã vắt lấy nước uống. Dùng ngoài lượng thích hợp, giã nát đắp tại chỗ hoặc sắc lấy nước để xông hoặc rửa vết thương.",
+  "ghi_chu": "Herba Houttuyniae cordatae, bắt đầu tr.1141; lấy liều khô. Khớp báo cáo tự động."
+ },
+ {
+  "id": "stt-288",
+  "stt": [
+   288
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "TAM THẤT (Rễ củ)",
+  "trang_in": 1322,
+  "min_g": 3,
+  "max_g": 9,
+  "cau": "Ngày dùng từ 3 g đến 9 g, tán bột, uống mỗi lần từ 1 g đến 3 g. Dùng ngoài: Lượng thích hợp.",
+  "ghi_chu": "Radix Panasis notoginseng, bắt đầu tr.1321. Khớp báo cáo tự động."
+ },
+ {
+  "id": "stt-40",
+  "stt": [
+   40
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "BỒ KẾT (Quả)",
+  "trang_in": 1088,
+  "min_g": 1,
+  "max_g": 1.5,
+  "cau": "Ngày dùng 1 g đến 1,5 g, thường dùng loại hoàn, tán. Dùng ngoài lượng thích hợp, tán thành bột mịn, thổi nhẹ vào mũi cho hắt hơi, hoặc đắp nơi đau.",
+  "ghi_chu": "Fructus Gleditsiae australis, bắt đầu tr.1087 (khác chuyên luận BỒ KẾT (Gai) tr.1086, liều 3-9 g)."
+ },
+ {
+  "id": "thien-nam-tinh",
+  "stt": [
+   319
+  ],
+  "ket_qua": "khong_co_chuyen_luan",
+  "chuyen_luan": null,
+  "trang_in": null,
+  "min_g": null,
+  "max_g": null,
+  "cau": "",
+  "ghi_chu": "Không có chuyên luận Rhizoma Arisaemae trong DĐVN V. Đã thử chỉ mục: 'nam tinh', 'Thiên nam tinh', 'Arisaema' (không có); OCR toàn văn: không thấy. (Có Bán hạ bắc/Bán hạ nam nhưng khác vị.)"
+ },
+ {
+  "id": "thach-xuong-bo",
+  "stt": [
+   307
+  ],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "XƯƠNG BỒ",
+  "trang_in": 1383,
+  "min_g": 4,
+  "max_g": 8,
+  "cau": "Ngày dùng từ 4 g đến 8 g, dạng thuốc sắc hoặc hoàn tán, thường phối hợp với các vị thuốc khác.",
+  "ghi_chu": "Chuyên luận chung XƯƠNG BỒ (Rhizoma Acori, tr.1382) gồm Thạch xương bồ lá to (Acorus gramineus Soland. var. macrospadiceus) và Thủy xương bồ (Acorus calamus var. angustatus); tên khác in 'Thạch xương bồ lá to, Thủy xương bồ'. Khớp Acori graminei."
+ },
+ {
+  "id": "cam-thao-day",
+  "stt": [],
+  "ket_qua": "khong_co_chuyen_luan",
+  "chuyen_luan": null,
+  "trang_in": null,
+  "min_g": null,
+  "max_g": null,
+  "cau": "",
+  "ghi_chu": "Không có chuyên luận Cam thảo dây (Abrus precatorius). Đã thử chỉ mục 'cam thảo' (chỉ có Cam thảo - Glycyrrhiza tr.1095, Cam thảo đất/nam tr.1096 - khác vị), 'Abrus', 'cườm', OCR toàn văn."
+ },
+ {
+  "id": "long-do-trung-ga",
+  "stt": [],
+  "ket_qua": "khong_co_chuyen_luan",
+  "chuyen_luan": null,
+  "trang_in": null,
+  "min_g": null,
+  "max_g": null,
+  "cau": "",
+  "ghi_chu": "Hiểu là 'lòng đỏ trứng gà' — không phải dược liệu có chuyên luận trong DĐVN V. Đã thử chỉ mục/OCR 'trứng gà' (chỉ gặp trong chuyên luận vắc xin)."
+ },
+ {
+  "id": "la-xuong-song",
+  "stt": [],
+  "ket_qua": "khong_co_chuyen_luan",
+  "chuyen_luan": null,
+  "trang_in": null,
+  "min_g": null,
+  "max_g": null,
+  "cau": "",
+  "ghi_chu": "Không có chuyên luận Lá xương sông (Blumea lanceolaria). Đã thử chỉ mục 'xương sông', 'Blumea', OCR toàn văn."
+ },
+ {
+  "id": "bot-chuoi",
+  "stt": [],
+  "ket_qua": "khong_co_chuyen_luan",
+  "chuyen_luan": null,
+  "trang_in": null,
+  "min_g": null,
+  "max_g": null,
+  "cau": "",
+  "ghi_chu": "Không có chuyên luận bột chuối/Musa. Đã thử chỉ mục 'chuối', 'Musa'; OCR chỉ thấy 'lá chuối' trong phần chế biến của vị khác."
+ },
+ {
+  "id": "thach-quyet-minh",
+  "stt": [
+   305
+  ],
+  "ket_qua": "khong_co_chuyen_luan",
+  "chuyen_luan": null,
+  "trang_in": null,
+  "min_g": null,
+  "max_g": null,
+  "cau": "",
+  "ghi_chu": "Không có chuyên luận dược liệu Concha Haliotidis. Đã thử chỉ mục 'quyết minh' (chỉ có Thảo quyết minh - hạt Senna tora, khác vị), 'Haliotis', 'bào ngư'. OCR chỉ thấy Thạch quyết minh trong thành phần một chuyên luận hoàn (PDF tr.1517)."
+ },
+ {
+  "id": "sung-huou",
+  "stt": [],
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "LỘC GIÁC",
+  "trang_in": 1234,
+  "min_g": 6,
+  "max_g": 15,
+  "cau": "Ngày dùng 6 g đến 15 g, dạng thuốc cao, chế tễ lộc giác giao, lộc giác sương.",
+  "ghi_chu": "KHÔNG CHẮC định danh: 'sừng hươu' gán vào LỘC GIÁC (Cornu Cervi, Gạc hươu — 'Sừng già (gạc) đã hoá xương'). Nếu ý là sừng non (Nhung hươu/Lộc nhung, Cornu Cervi pantotrichum tr.1236) thì liều khác — chưa đọc. Liên quan: LỘC GIÁC GIAO tr.1235 'Ngày dùng 3 g đến 6 g...'."
+ },
+ {
+  "id": "duong",
+  "stt": [],
+  "ket_qua": "khong_ghi_lieu_gam",
+  "chuyen_luan": "ĐƯỜNG TRẮNG",
+  "trang_in": 367,
+  "min_g": null,
+  "max_g": null,
+  "cau": "",
+  "ghi_chu": "KHÔNG CHẮC định danh 'duong'. Nếu là đường (Saccharum): chuyên luận ĐƯỜNG TRẮNG tr.367 là chuyên luận nguyên liệu, không có mục liều. Nếu thực ra là Đương quy thì xem chuyên luận ĐƯƠNG QUY (Rễ) tr.1173 — chưa đọc trong lô này."
+ },
+ {
+  "id": "vo-rut",
+  "stt": [],
+  "ket_qua": "khong_co_chuyen_luan",
+  "chuyen_luan": null,
+  "trang_in": null,
+  "min_g": null,
+  "max_g": null,
+  "cau": "",
+  "ghi_chu": "Không xác định được vị 'vỏ rụt'; không có trong chỉ mục (đã thử 'rụt', 'vỏ r…') hay OCR."
+ },
+ {
+  "kiem_tra": true,
+  "stt": [
+   36
+  ],
+  "id": "kt-stt-36",
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "BỒ CÔNG ANH",
+  "trang_in": 1086,
+  "min_g": 8,
+  "max_g": 30,
+  "cau": "Ngày dùng từ 8 g đến 30 g dược liệu khô, dạng thuốc sắc, thường phối hợp với các vị thuốc khác. Dược liệu tươi: Đắp ngoài trị mụn nhọt, sưng vú, tắc tia sữa.",
+  "xac_nhan": true,
+  "ghi_chu": "Herba Lactucae indicae, bắt đầu tr.1085 (câu 8-20 g ở tr.1085 thuộc chuyên luận BỒ BỒ, không phải Bồ công anh)."
+ },
+ {
+  "kiem_tra": true,
+  "stt": [
+   40
+  ],
+  "id": "kt-stt-40",
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "BỒ KẾT (Quả)",
+  "trang_in": 1088,
+  "min_g": 1,
+  "max_g": 1.5,
+  "cau": "Ngày dùng 1 g đến 1,5 g, thường dùng loại hoàn, tán. Dùng ngoài lượng thích hợp, tán thành bột mịn, thổi nhẹ vào mũi cho hắt hơi, hoặc đắp nơi đau.",
+  "xac_nhan": true,
+  "ghi_chu": ""
+ },
+ {
+  "kiem_tra": true,
+  "stt": [
+   60
+  ],
+  "id": "kt-stt-60",
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "CHÈ VẰNG (Lá)",
+  "trang_in": 1110,
+  "min_g": 20,
+  "max_g": 30,
+  "cau": "Ngày dùng 20 g đến 30 g dược liệu khô, dùng tươi giã nát đắp tại chỗ hoặc sắc làm nước tắm với lượng thích hợp.",
+  "xac_nhan": true,
+  "ghi_chu": "Bắt đầu tr.1109 (câu 8-10 g ở tr.1109 thuộc chuyên luận đứng trước). Lưu ý câu không ghi rõ đường uống."
+ },
+ {
+  "kiem_tra": true,
+  "stt": [
+   161
+  ],
+  "id": "kt-stt-161",
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "KHỔ SÂM (Lá và Cành)",
+  "trang_in": 1217,
+  "min_g": 15,
+  "max_g": 20,
+  "cau": "Ngày dùng từ 15 g đến 20 g, dạng thuốc sắc. Dùng ngoài: Lấy nước sắc đặc để rửa, chữa mụn nhọt lở ngứa. Lượng thích hợp.",
+  "xac_nhan": true,
+  "ghi_chu": "Folium et Ramulus Crotonis tonkinensis, bắt đầu tr.1215."
+ },
+ {
+  "kiem_tra": true,
+  "stt": [
+   98
+  ],
+  "id": "kt-stt-98",
+  "ket_qua": "co_lieu",
+  "chuyen_luan": "ĐẢNG SÂM (Rễ)",
+  "trang_in": 1156,
+  "min_g": 9,
+  "max_g": 30,
+  "cau": "Ngày dùng từ 9 đến 30 g, dạng thuốc sắc, thuốc hoàn hay bột.",
+  "xac_nhan": true,
+  "ghi_chu": "Radix Codonopsis (Đảng sâm bắc), bắt đầu tr.1154; câu liều ở đầu tr.1156 trước tiêu đề ĐẢNG SÂM VIỆT NAM."
+ }
+]

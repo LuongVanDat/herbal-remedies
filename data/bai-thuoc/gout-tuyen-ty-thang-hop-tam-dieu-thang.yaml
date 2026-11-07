@@ -9,25 +9,30 @@ thanh_phan:
   - vi: hoang-ba
     lieu_g: 15
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.22) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
   - vi: nguu-tat
     lieu_g: 15
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.22) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
   - vi: ty-giai
     lieu_g: 12
     vai_tro: null
   - vi: hoat-thach
     lieu_g: 30
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.22) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
   - vi: y-di
     lieu_g: 20
     vai_tro: null
   - vi: hanh-nhan
     lieu_g: 12
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.22) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
   - vi: hy-thiem
     ten_trong_bai: Hy thiêm thảo
     lieu_g: 15
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.22) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
   - vi: xich-tieu-dau
     lieu_g: 15
     vai_tro: null
@@ -37,6 +42,7 @@ thanh_phan:
   - vi: chi-tu
     lieu_g: 12
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.22) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
 cach_dung: Văn bản không ghi cách dùng.
 gia_giam: []
 nguon:

@@ -6,7 +6,14 @@ ten_khoa_hoc: Semen Raphani sativi
 ten_cay: Raphanus sativus L. Brassicaceae
 bo_phan_dung: Hạt
 nguon_goc: trong_nuoc
-lieu_dung: null
+lieu_dung:
+  min_g: 5
+  max_g: 10
+  nguon:
+    ma: ddvn-5
+    trang: 1094
+    muc: Chuyên luận CẢI CỦ (Hạt)
+    trang_thai: chua_doi_chieu
 doc_tinh:
   muc: chua_ro
   canh_bao: null

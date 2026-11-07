@@ -24,6 +24,7 @@ thanh_phan:
   - vi: xuyen-khung
     lieu_g: 16
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.32) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
 cach_dung: Sắc uống ngày 1 thang, chia 2 lần.
 gia_giam: []
 nguon:

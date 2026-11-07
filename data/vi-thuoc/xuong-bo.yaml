@@ -5,7 +5,14 @@ ten_khac: []
 ten_khoa_hoc: Rhizoma Acori graminei
 ten_cay: "Thạch xương bồ (STT 307): Acorus gramineus Soland. - Araceae; Thủy xương bồ (STT 331): Acorus calamus L. - Araceae"
 bo_phan_dung: Thân rễ
-lieu_dung: null
+lieu_dung:
+  min_g: 4
+  max_g: 8
+  nguon:
+    ma: ddvn-5
+    trang: 1383
+    muc: Chuyên luận XƯƠNG BỒ
+    trang_thai: chua_doi_chieu
 doc_tinh:
   muc: chua_ro
   canh_bao: null

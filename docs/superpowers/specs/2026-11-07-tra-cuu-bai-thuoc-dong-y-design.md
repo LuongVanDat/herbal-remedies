@@ -264,3 +264,12 @@ Văn bản thật khác giả định ban đầu ở vài chỗ, nên cấu trú
 - **Loại trừ:** chỉ khi văn bản phủ định rõ ("không đỏ", "không khát").
 - **Cảnh báo kiểm tra:** "vị không được dùng" và "chưa có liều chuẩn" gộp thành một dòng mỗi loại.
 - **Quy trình dữ liệu:** bản trích JSON (`scripts/trich/ban-trich/`) → `scripts/trich/sinh-du-lieu.ts` → `data/*.yaml`. Script đối chiếu mọi liều với chữ trên trang gốc và từ chối chạy nếu còn tên vị chưa khớp danh mục (bảng ánh xạ có lý do: `scripts/trich/bi-danh-vi.ts`).
+
+### 10.x Liều chuẩn theo Dược điển Việt Nam V (07/11/2026)
+
+- Nguồn `ddvn-5`: DĐVN V (QĐ 5358/QĐ-BYT), bản quét đăng lại ở vnras.com (không có bản trên cổng *.gov.vn); chỉ lấy số liệu liều, dùng cá nhân.
+- `vi_thuoc.lieu_dung` = liều một ngày, dược liệu khô, đường uống, từ mục "Cách dùng, liều lượng".
+- Quy trình: `scripts/trich/ddvn/cot.py` (tách 2 cột) → `chuyen-luan.py` (trích mục liều + tên Latin) → `lieu.ts` (đọc liều bảo thủ,
+  ghép theo tên Latin) → **mọi liều đã đối chiếu ảnh trang** (`doc-anh/*.json`, xem `HUONG-DAN-DOC-ANH.md`) → `quyet-dinh.json` (bỏ qua ca khác bộ phận dùng / câu mơ hồ).
+- Thành phần bài có `lieu_g` > `max_g` được sinh `vuot_lieu_ly_do` tự động; bảng hiện "⚠ Vượt liều (tối đa Xg)" và lý do một lần dưới bảng.
+- Vị gộp (VI_GOP) chỉ có liều khi mọi vị thành phần cùng liều.

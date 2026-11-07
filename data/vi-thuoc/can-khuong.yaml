@@ -6,7 +6,14 @@ ten_khoa_hoc: Rhizoma Zingiberis
 ten_cay: Zingiber officinale Rose. - Zingiberaceae
 bo_phan_dung: Thân rễ
 nguon_goc: trong_nuoc
-lieu_dung: null
+lieu_dung:
+  min_g: 4
+  max_g: 8
+  nguon:
+    ma: ddvn-5
+    trang: 1179
+    muc: Chuyên luận GỪNG (Thân rễ)
+    trang_thai: chua_doi_chieu
 doc_tinh:
   muc: chua_ro
   canh_bao: null

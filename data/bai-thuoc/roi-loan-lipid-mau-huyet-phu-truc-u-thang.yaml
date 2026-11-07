@@ -18,6 +18,7 @@ thanh_phan:
   - vi: dao-nhan
     lieu_g: 16
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.56) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
   - vi: sai-ho
     lieu_g: 4
     vai_tro: null

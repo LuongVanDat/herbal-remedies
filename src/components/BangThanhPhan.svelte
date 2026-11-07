@@ -8,6 +8,8 @@
   const data = layData()
   const coVaiTro = $derived(bai.thanh_phan.some((t) => t.vai_tro))
   const khongViNaoCoLieu = $derived(bai.thanh_phan.every((t) => !data.viThuoc[t.vi]?.lieu_dung))
+  const vuot = (t: BaiThuoc['thanh_phan'][number]) => !!t.vuot_lieu_ly_do && !!data.viThuoc[t.vi]?.lieu_dung
+  const lyDoVuot = $derived([...new Set(bai.thanh_phan.filter(vuot).map((t) => t.vuot_lieu_ly_do!))])
   const GOC_NGAN = { trong_nuoc: 'Trong nước', nhap_khau: 'Nhập khẩu', ca_hai: 'Trong & ngoài nước' } as const
 </script>
 
@@ -41,8 +43,8 @@
             {#if v && !v.lieu_dung && !khongViNaoCoLieu}
               <div class="mo">Chưa có liều chuẩn</div>
             {/if}
-            {#if tp.vuot_lieu_ly_do && v?.lieu_dung}
-              <div class="doc">Vượt liều chuẩn (tối đa {v.lieu_dung.max_g}g): {tp.vuot_lieu_ly_do}</div>
+            {#if vuot(tp) && v?.lieu_dung}
+              <div class="doc">⚠ Vượt liều (tối đa {v.lieu_dung.max_g}g)</div>
             {/if}
           </td>
         </tr>
@@ -50,6 +52,9 @@
     </tbody>
   </table>
 </div>
+{#each lyDoVuot as ly (ly)}
+  <p class="doc ghi-chu">⚠ Vượt liều: {ly}</p>
+{/each}
 {#if khongViNaoCoLieu}
   <p class="mo nho ghi-chu">Các vị trong bài chưa có liều chuẩn để đối chiếu — liều trên là liều ghi trong bài của văn bản nguồn.</p>
 {/if}
@@ -60,6 +65,7 @@
 
 <style>
   .so { white-space: nowrap; font-variant-numeric: tabular-nums; }
+  .so .nho { white-space: normal; }
   .pb { font-size: 0.8rem; white-space: nowrap; }
   .pb.cao { color: var(--xanh); }
   .pb.trung_binh { color: var(--vang); }

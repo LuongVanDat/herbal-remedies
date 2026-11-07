@@ -6,7 +6,14 @@ ten_khoa_hoc: Rhizoma et Radix Ginseng
 ten_cay: Panax ginseng C.A.Mey - Araliaceae
 bo_phan_dung: Thân rễ và rễ
 nguon_goc: nhap_khau
-lieu_dung: null
+lieu_dung:
+  min_g: 4
+  max_g: 10
+  nguon:
+    ma: ddvn-5
+    trang: 1280
+    muc: Chuyên luận NHÂN SÂM (Thân rễ và Rễ)
+    trang_thai: chua_doi_chieu
 doc_tinh:
   muc: chua_ro
   canh_bao: null

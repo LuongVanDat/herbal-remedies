@@ -6,6 +6,7 @@ thanh_phan:
   - vi: nhan-tran
     lieu_g: 30
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.121) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
   - vi: vo-cay-dai
     ten_trong_bai: Vỏ cây đại (sao vàng)
     lieu_g: 10
@@ -13,6 +14,7 @@ thanh_phan:
   - vi: chi-tu
     lieu_g: 12
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.121) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
 cach_dung: Thêm 600ml nước, sắc còn 200ml (sắc 2 nước). Uống chia 2 lần.
 gia_giam: []
 nguon:

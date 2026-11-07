@@ -7,6 +7,7 @@ thanh_phan:
     ten_trong_bai: Trần bì (sao)
     lieu_g: 12
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.131) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
   - vi: sinh-khuong
     ten_trong_bai: Gừng tươi
     lieu_g: 8
@@ -21,6 +22,7 @@ thanh_phan:
   - vi: bach-gioi-tu
     lieu_g: 12
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.131) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
   - vi: cam-thao-dat
     ten_trong_bai: Cam thảo nam
     lieu_g: 12
@@ -28,6 +30,7 @@ thanh_phan:
   - vi: la-bac-tu
     lieu_g: 12
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.131) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
 cach_dung: Sắc uống ngày 01 thang, chia 2 lần.
 gia_giam: []
 nguon:

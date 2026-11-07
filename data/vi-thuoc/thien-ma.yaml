@@ -6,7 +6,14 @@ ten_khoa_hoc: Rhizoma Gastrodiae elatae
 ten_cay: Gastrodia elata Bl. - Orchidaceae
 bo_phan_dung: Thân rễ
 nguon_goc: nhap_khau
-lieu_dung: null
+lieu_dung:
+  min_g: 3
+  max_g: 9
+  nguon:
+    ma: ddvn-5
+    trang: 1339
+    muc: Chuyên luận THIÊN MA (Thân rễ)
+    trang_thai: chua_doi_chieu
 doc_tinh:
   muc: chua_ro
   canh_bao: null

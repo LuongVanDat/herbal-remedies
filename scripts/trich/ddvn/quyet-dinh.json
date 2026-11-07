@@ -1,0 +1,45 @@
+{
+  "_mo_ta": "Quyết định của người dựng dữ liệu, áp dụng SAU kết quả đọc ảnh: không gán liều DĐVN cho các vị dưới đây (bảo thủ khi không chắc).",
+  "bo_qua": [
+    {
+      "stt": 219,
+      "ten": "Mướp đắng",
+      "ly_do": "DĐVN là quả, QĐ 5013 ghi Herba (toàn cây) — khác bộ phận dùng"
+    },
+    {
+      "stt": 66,
+      "ten": "Cỏ ngọt",
+      "ly_do": "DĐVN là lá, QĐ 5013 ghi Herba — khác bộ phận dùng"
+    },
+    {
+      "stt": 286,
+      "ten": "Sử quân tử",
+      "ly_do": "DĐVN là hạt (Semen), QĐ 5013 ghi quả (Fructus) — khác bộ phận dùng"
+    },
+    {
+      "stt": 276,
+      "ten": "Sài đất",
+      "ly_do": "Câu liều không nói rõ dược liệu khô hay tươi"
+    },
+    {
+      "stt": 77,
+      "ten": "Cúc hoa",
+      "ly_do": "Bản in ghi \"từ 8 g đến 12 g đến 30 g\" — mơ hồ, nghi lỗi biên tập"
+    },
+    {
+      "stt": 257,
+      "ten": "Phục thần",
+      "ly_do": "Không có chuyên luận riêng; câu liều của Phục linh không nói áp dụng cho Phục thần"
+    },
+    {
+      "stt": 364,
+      "ten": "Uất lý nhân",
+      "ly_do": "DĐVN không có chuyên luận riêng; liều 4,5–9 g là của chuyên luận ĐÀO (Hạt) — Đào nhân"
+    },
+    {
+      "stt": 85,
+      "ten": "Diệp hạ châu",
+      "ly_do": "Câu liều (DIỆP HẠ CHÂU ĐẮNG tr.1144) không nói rõ dược liệu khô hay tươi"
+    }
+  ]
+}

@@ -2,7 +2,14 @@
 id: loc-giac-giao
 ten: Lộc giác giao
 ten_khac: []
-lieu_dung: null
+lieu_dung:
+  min_g: 3
+  max_g: 6
+  nguon:
+    ma: ddvn-5
+    trang: 1235
+    muc: Chuyên luận LỘC GIÁC GIAO
+    trang_thai: chua_doi_chieu
 doc_tinh:
   muc: chua_ro
   canh_bao: null

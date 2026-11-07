@@ -2,7 +2,14 @@
 id: rau-dang-dat
 ten: Rau đắng đất
 ten_khac: []
-lieu_dung: null
+lieu_dung:
+  min_g: 8
+  max_g: 12
+  nguon:
+    ma: ddvn-5
+    trang: 1299
+    muc: Chuyên luận RAU ĐẮNG ĐẤT
+    trang_thai: chua_doi_chieu
 doc_tinh:
   muc: chua_ro
   canh_bao: null

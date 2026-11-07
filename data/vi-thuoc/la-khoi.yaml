@@ -6,7 +6,14 @@ ten_khoa_hoc: Folium Ardisiae
 ten_cay: Ardsia sylvestris Pitard. - Myrsinaceae
 bo_phan_dung: Lá
 nguon_goc: trong_nuoc
-lieu_dung: null
+lieu_dung:
+  min_g: 12
+  max_g: 16
+  nguon:
+    ma: ddvn-5
+    trang: 1218
+    muc: Chuyên luận KHÔI (Lá)
+    trang_thai: chua_doi_chieu
 doc_tinh:
   muc: chua_ro
   canh_bao: null

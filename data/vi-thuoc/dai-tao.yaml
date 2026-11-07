@@ -6,7 +6,14 @@ ten_khoa_hoc: Fructus Ziziphi jujubae
 ten_cay: Ziziphus jujuba Mill. var. inermis (Bge) Rehd. - Rhamnaceae
 bo_phan_dung: Quả
 nguon_goc: nhap_khau
-lieu_dung: null
+lieu_dung:
+  min_g: 6
+  max_g: 15
+  nguon:
+    ma: ddvn-5
+    trang: 1151
+    muc: Chuyên luận ĐẠI TÁO (Quả)
+    trang_thai: chua_doi_chieu
 doc_tinh:
   muc: chua_ro
   canh_bao: null

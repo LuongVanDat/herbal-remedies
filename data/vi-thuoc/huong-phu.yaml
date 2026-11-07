@@ -5,7 +5,14 @@ ten_khac: []
 ten_khoa_hoc: Rhizotna Cyperi
 ten_cay: Cyperus rotundus L. - Cyperaceae
 nguon_goc: ca_hai
-lieu_dung: null
+lieu_dung:
+  min_g: 6
+  max_g: 9
+  nguon:
+    ma: ddvn-5
+    trang: 1206
+    muc: Chuyên luận HƯƠNG PHỤ (Thân rễ)
+    trang_thai: chua_doi_chieu
 doc_tinh:
   muc: chua_ro
   canh_bao: null

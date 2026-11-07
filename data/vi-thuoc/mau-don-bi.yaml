@@ -6,7 +6,14 @@ ten_khoa_hoc: Cortex Paeoniae suffruticosae radicis
 ten_cay: Paeonia suffruticosa Andr. - Paeoniaceae
 bo_phan_dung: Vỏ
 nguon_goc: nhap_khau
-lieu_dung: null
+lieu_dung:
+  min_g: 6
+  max_g: 12
+  nguon:
+    ma: ddvn-5
+    trang: 1248
+    muc: Chuyên luận MẪU ĐƠN BÌ (Vỏ rễ)
+    trang_thai: chua_doi_chieu
 doc_tinh:
   muc: chua_ro
   canh_bao: null

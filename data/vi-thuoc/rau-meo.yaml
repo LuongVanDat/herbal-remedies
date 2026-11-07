@@ -6,7 +6,14 @@ ten_khoa_hoc: Herba Orthosiphonis spiralis
 ten_cay: Orthosiphon spiralis (Lour.) Merr. - Lamiaceae
 bo_phan_dung: Toàn cây hoặc phần trên mặt đất
 nguon_goc: trong_nuoc
-lieu_dung: null
+lieu_dung:
+  min_g: 5
+  max_g: 6
+  nguon:
+    ma: ddvn-5
+    trang: 1301
+    muc: Chuyên luận RÂU MÈO
+    trang_thai: chua_doi_chieu
 doc_tinh:
   muc: chua_ro
   canh_bao: null

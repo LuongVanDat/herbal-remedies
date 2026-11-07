@@ -7,6 +7,7 @@ thanh_phan:
     ten_trong_bai: Đương qui
     lieu_g: 16
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.121) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
   - vi: hong-hoa
     lieu_g: 8
     vai_tro: null
@@ -19,6 +20,7 @@ thanh_phan:
   - vi: chi-xac
     lieu_g: 10
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.121) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
   - vi: cam-thao
     lieu_g: 6
     vai_tro: null
@@ -31,6 +33,7 @@ thanh_phan:
   - vi: cat-canh
     lieu_g: 10
     vai_tro: null
+    vuot_lieu_ly_do: bài thuốc trong QĐ 5013 (tr.121) ghi liều cao hơn mức của Dược điển Việt Nam V. Hỏi thầy thuốc trước khi dùng.
   - vi: xuyen-khung
     lieu_g: 8
     vai_tro: null

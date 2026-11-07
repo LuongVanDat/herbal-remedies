@@ -6,7 +6,14 @@ ten_khoa_hoc: Herba Cistanches
 ten_cay: Cistanche deserticola Y. C. Ma - Orobanchaceae
 bo_phan_dung: Toàn cây hoặc phần trên mặt đất
 nguon_goc: nhap_khau
-lieu_dung: null
+lieu_dung:
+  min_g: 6
+  max_g: 9
+  nguon:
+    ma: ddvn-5
+    trang: 1285
+    muc: Chuyên luận NHỤC THUNG DUNG (Thân)
+    trang_thai: chua_doi_chieu
 doc_tinh:
   muc: chua_ro
   canh_bao: null

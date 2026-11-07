@@ -5,7 +5,14 @@ ten_khac: []
 ten_khoa_hoc: Cacumen Platycladi
 ten_cay: Platycladus orientalis (L.) Franco - Cupressaceae
 nguon_goc: ca_hai
-lieu_dung: null
+lieu_dung:
+  min_g: 6
+  max_g: 12
+  nguon:
+    ma: ddvn-5
+    trang: 1358
+    muc: Chuyên luận TRẮC BÁCH DIỆP
+    trang_thai: chua_doi_chieu
 doc_tinh:
   muc: chua_ro
   canh_bao: null

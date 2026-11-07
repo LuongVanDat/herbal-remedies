@@ -6,7 +6,14 @@ ten_khoa_hoc: Ramulus Morri albae
 ten_cay: Morus alba L. - Moraceae
 bo_phan_dung: Cành
 nguon_goc: trong_nuoc
-lieu_dung: null
+lieu_dung:
+  min_g: 9
+  max_g: 15
+  nguon:
+    ma: ddvn-5
+    trang: 1136
+    muc: Chuyên luận DÂU (Cành)
+    trang_thai: chua_doi_chieu
 doc_tinh:
   muc: chua_ro
   canh_bao: null

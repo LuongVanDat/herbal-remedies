@@ -6,7 +6,14 @@ ten_khoa_hoc: Rhizoma Atractylodis
 ten_cay: Atractylodes lancea (Thunb.) DC. - Asteraceae
 bo_phan_dung: Thân rễ
 nguon_goc: nhap_khau
-lieu_dung: null
+lieu_dung:
+  min_g: 3
+  max_g: 9
+  nguon:
+    ma: ddvn-5
+    trang: 1349
+    muc: Chuyên luận THƯƠNG TRUẬT
+    trang_thai: chua_doi_chieu
 doc_tinh:
   muc: chua_ro
   canh_bao: null
