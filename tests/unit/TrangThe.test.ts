@@ -81,3 +81,29 @@ test('link quay lại giữ các triệu chứng đã tích gần nhất của b
     .toHaveAttribute('href', '#/benh/cam-mao?tc=so-lanh-nhieu,khong-mo-hoi')
   ghiNhoTc('cam-mao', '')
 })
+
+test('bảng hiện tên vị như trong bài, liều dạng chữ, loại bài và mô tả thể', () => {
+  const d = appFixture()
+  const b = d.baiThuoc['ma-hoang-thang']
+  b.loai = 'co_phuong'
+  b.thanh_phan[2] = { vi: 'cam-thao', ten_trong_bai: 'Chích thảo', lieu_g: 6, vai_tro: 'su', vuot_lieu_ly_do: null }
+  b.thanh_phan[1] = { vi: 'que-chi', lieu_g: null, lieu_text: 'vừa đủ', vai_tro: 'than', vuot_lieu_ly_do: null }
+  d.benh[0].the_benh[0].mo_ta = 'Thường gặp do lạnh.'
+  renderVoiData(TrangThe, { benhId: 'cam-mao', theId: 'phong-han' }, d)
+  const dong = within(bang('Ma hoàng thang')).getAllByRole('row')
+  const chich = dong.find((r) => r.textContent!.includes('Chích thảo'))!
+  expect(within(chich).getByRole('link', { name: 'Chích thảo' })).toHaveAttribute('href', '#/vi/cam-thao')
+  expect(chich).toHaveTextContent('vị: Cam thảo')
+  expect(dong.find((r) => r.textContent!.includes('Quế chi'))).toHaveTextContent('vừa đủ')
+  expect(screen.getByText('Cổ phương')).toBeInTheDocument()
+  expect(screen.getByText('Thường gặp do lạnh.')).toBeInTheDocument()
+})
+
+test('vị độc tính chưa rõ: không gắn nhãn trong bảng, có ghi chú dưới bảng', () => {
+  const d = appFixture()
+  d.viThuoc['que-chi'].doc_tinh = { muc: 'chua_ro', canh_bao: null }
+  renderVoiData(TrangThe, { benhId: 'cam-mao', theId: 'phong-han' }, d)
+  const queChi = within(bang('Ma hoàng thang')).getAllByRole('row').find((r) => r.textContent!.includes('Quế chi'))!
+  expect(queChi).not.toHaveTextContent('⚠')
+  expect(screen.getAllByText(/Vị không có nhãn độc chưa chắc an toàn/).length).toBeGreaterThan(0)
+})

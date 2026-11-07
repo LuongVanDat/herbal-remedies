@@ -1,7 +1,7 @@
 <script lang="ts">
   import NhanNguon from '../components/NhanNguon.svelte'
   import { layData } from '../data-context'
-  import { coDoc, DOC_TINH, PHO_BIEN } from '../labels'
+  import { coDoc, coNhanDoc, DOC_TINH, NGUON_GOC, PHO_BIEN } from '../labels'
   import { href } from '../router'
   import KhongTimThay from './KhongTimThay.svelte'
 
@@ -25,7 +25,9 @@
   {/if}
 
   <dl>
-    <dt>Bộ phận dùng</dt><dd>{v.bo_phan_dung}</dd>
+    {#if v.ten_cay}<dt>Cây/con/khoáng vật</dt><dd><em>{v.ten_cay}</em></dd>{/if}
+    {#if v.bo_phan_dung}<dt>Bộ phận dùng</dt><dd>{v.bo_phan_dung}</dd>{/if}
+    {#if v.nguon_goc}<dt>Nguồn gốc</dt><dd>{NGUON_GOC[v.nguon_goc]}</dd>{/if}
     {#if v.tinh_vi}<dt>Tính vị</dt><dd>{v.tinh_vi}</dd>{/if}
     {#if v.quy_kinh.length}<dt>Quy kinh</dt><dd>{v.quy_kinh.join(', ')}</dd>{/if}
     {#if v.cong_nang.length}<dt>Công năng</dt><dd>{v.cong_nang.join('; ')}</dd>{/if}
@@ -38,7 +40,11 @@
       {/if}
     </dd>
     <dt>Độc tính</dt><dd>{DOC_TINH[v.doc_tinh.muc]}{#if v.doc_tinh.canh_bao && !coDoc(v)} — {v.doc_tinh.canh_bao}{/if}</dd>
-    <dt>Phổ biến</dt><dd>{PHO_BIEN[v.pho_bien.muc]} <span class="mo">({v.pho_bien.can_cu})</span></dd>
+    <dt>Phổ biến</dt>
+    <dd>
+      {#if v.pho_bien}{PHO_BIEN[v.pho_bien.muc]} <span class="mo">({v.pho_bien.can_cu})</span>
+      {:else}<span class="mo">Chưa có dữ liệu mức phổ biến</span>{/if}
+    </dd>
   </dl>
 
   {#if v.kieng_ky.length}
@@ -56,7 +62,7 @@
           {@const vt = data.viThuoc[t.vi]}
           <li>
             <a href={href({ ten: 'vi', id: t.vi })}>{vt?.ten ?? t.vi}</a>
-            {#if vt && vt.doc_tinh.muc !== 'khong'}<span class:doc={coDoc(vt)}> ⚠ {DOC_TINH[vt.doc_tinh.muc]}</span>{/if}
+            {#if vt && coNhanDoc(vt)}<span class:doc={coDoc(vt)}> ⚠ {DOC_TINH[vt.doc_tinh.muc]}</span>{/if}
             — {t.ghi_chu}
             <NhanNguon nguon={t.nguon} />
           </li>

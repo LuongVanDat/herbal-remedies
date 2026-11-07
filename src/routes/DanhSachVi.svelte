@@ -8,11 +8,11 @@
   const data = layData()
   const tatCa = Object.values(data.viThuoc).sort((a, b) => a.ten.localeCompare(b.ten, 'vi'))
   let q = $state('')
-  let phoBien = $state<'' | ViThuoc['pho_bien']['muc']>('')
+  let phoBien = $state<'' | NonNullable<ViThuoc['pho_bien']>['muc']>('')
   let chiDoc = $state(false)
   const ketQua = $derived(
     timKiem(tatCa, q, (v) => [v.ten, v.ten_khoa_hoc, ...v.ten_khac]).filter(
-      (v) => (!phoBien || v.pho_bien.muc === phoBien) && (!chiDoc || coDoc(v)),
+      (v) => (!phoBien || v.pho_bien?.muc === phoBien) && (!chiDoc || coDoc(v)),
     ),
   )
 </script>
@@ -34,7 +34,7 @@
   {#each ketQua as v (v.id)}
     <li>
       <a href={href({ ten: 'vi', id: v.id })}>{v.ten}</a>
-      <span class="mo"> <em>{v.ten_khoa_hoc}</em> · {PHO_BIEN[v.pho_bien.muc]}</span>
+      <span class="mo"> <em>{v.ten_khoa_hoc}</em>{#if v.pho_bien} · {PHO_BIEN[v.pho_bien.muc]}{/if}</span>
       {#if coDoc(v)}<span class="doc"> · ⚠ {DOC_TINH[v.doc_tinh.muc]}</span>{/if}
     </li>
   {/each}

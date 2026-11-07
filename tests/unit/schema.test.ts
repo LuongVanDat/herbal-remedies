@@ -62,3 +62,34 @@ test('mặc định: loai_tru, ten_khac, dau_hieu_nguy_hiem = []; vuot_lieu_ly_d
   expect(r.ten_khac).toEqual([]); expect(r.dau_hieu_nguy_hiem).toEqual([]); expect(r.the_benh[0].loai_tru).toEqual([])
   expect(BaiThuocSchema.parse(doc('bai-thuoc/ma-hoang-thang.yaml')).thanh_phan[0].vuot_lieu_ly_do).toBeNull()
 })
+
+test('mở rộng cho dữ liệu QĐ 5013: tên trong bài, liều dạng chữ, loại bài, mô tả thể', () => {
+  const b = doc('bai-thuoc/ma-hoang-thang.yaml')
+  b.loai = 'co_phuong'
+  b.thanh_phan.push({ vi: 'cam-thao', ten_trong_bai: 'Chích thảo', lieu_g: 6, vai_tro: null })
+  b.thanh_phan.push({ vi: 'que-chi', lieu_g: null, lieu_text: 'vừa đủ', vai_tro: null })
+  const r = BaiThuocSchema.parse(b)
+  expect(r.thanh_phan[4].ten_trong_bai).toBe('Chích thảo')
+  expect(r.thanh_phan[5]).toMatchObject({ lieu_g: null, lieu_text: 'vừa đủ' })
+  const be = doc('benh/cam-mao.yaml')
+  be.the_benh[0].mo_ta = 'Thường gặp do lạnh.'
+  expect(BenhSchema.parse(be).the_benh[0].mo_ta).toBe('Thường gặp do lạnh.')
+})
+
+test('thành phần phải có lieu_g hoặc lieu_text', () => {
+  const b = doc('bai-thuoc/ma-hoang-thang.yaml')
+  b.thanh_phan = [{ vi: 'que-chi', lieu_g: null, vai_tro: null }]
+  expect(BaiThuocSchema.safeParse(b).success).toBe(false)
+})
+
+test('vị thuốc: độc tính chưa rõ, phổ biến chưa có, nguồn gốc, tên cây, không bắt buộc bộ phận dùng', () => {
+  const v = doc('vi-thuoc/que-chi.yaml')
+  v.doc_tinh = { muc: 'chua_ro', canh_bao: null }
+  v.pho_bien = null
+  v.nguon_goc = 'ca_hai'
+  v.ten_cay = 'Cinnamomum cassia Presl - Lauraceae'
+  delete v.bo_phan_dung
+  const r = ViThuocSchema.parse(v)
+  expect(r).toMatchObject({ doc_tinh: { muc: 'chua_ro' }, pho_bien: null, nguon_goc: 'ca_hai' })
+  expect(ViThuocSchema.safeParse({ ...v, nguon_goc: 'khac' }).success).toBe(false)
+})

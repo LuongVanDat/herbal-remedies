@@ -129,7 +129,7 @@ export function validate(raw: RawData): { loi: VanDe[]; canhBao: VanDe[] } {
       viDuocDung.add(tp.vi)
       const v = viMap.get(tp.vi)
       thamChieu(!!v, file, `thanh_phan[${i}].vi`, 'Vị thuốc', tp.vi)
-      if (v?.lieu_dung && tp.lieu_g > v.lieu_dung.max_g && !tp.vuot_lieu_ly_do)
+      if (v?.lieu_dung && tp.lieu_g !== null && tp.lieu_g > v.lieu_dung.max_g && !tp.vuot_lieu_ly_do)
         L('vuot-lieu', file, `thanh_phan[${i}].lieu_g`, `${tp.lieu_g}g vượt liều tối đa ${v.lieu_dung.max_g}g của "${tp.vi}"`)
     })
   }

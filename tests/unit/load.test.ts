@@ -82,6 +82,6 @@ test('lỗi schema thông thường bằng tiếng Việt: trường lạ, sai k
   const m = Object.fromEntries(loiSchema.map((v) => [v.truong || '(gốc)', v.thongDiep]))
   expect(m['ten']).toBe('Sai kiểu: cần string, nhận number')
   expect(m['(gốc)']).toBe('Trường lạ: lieu')
-  expect(m['doc_tinh.muc']).toBe('Giá trị phải là một trong: khong, it, co, rat_doc')
+  expect(m['doc_tinh.muc']).toBe('Giá trị phải là một trong: khong, it, co, rat_doc, chua_ro')
   expect(m['thanh_phan']).toBe('Danh sách không được rỗng')
 })

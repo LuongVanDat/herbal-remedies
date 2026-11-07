@@ -2,6 +2,7 @@
   import BangThanhPhan from '../components/BangThanhPhan.svelte'
   import NhanNguon from '../components/NhanNguon.svelte'
   import { layData } from '../data-context'
+  import { LOAI_BAI } from '../labels'
   import { href } from '../router'
   import { layTcGanNhat } from '../url-state'
   import KhongTimThay from './KhongTimThay.svelte'
@@ -17,6 +18,7 @@
 {:else}
   <p><a href={href({ ten: 'benh', id: benh.id, tc: layTcGanNhat(benh.id) })}>← {benh.ten}</a></p>
   <h1>{benh.ten} — thể {the.ten}</h1>
+  {#if the.mo_ta}<p class="mo">{the.mo_ta}</p>{/if}
   <p><strong>Pháp trị:</strong> {the.phap_tri} <NhanNguon nguon={the.nguon} /></p>
 
   {#each the.bai_thuoc as baiId (baiId)}
@@ -25,7 +27,7 @@
       <section class="bai">
         <h2>{bai.ten}</h2>
         <p class="mo">
-          {#if bai.xuat_xu}Xuất xứ: {bai.xuat_xu} · {/if}<NhanNguon nguon={bai.nguon} />
+          {#if bai.loai}<span class="loai">{LOAI_BAI[bai.loai]}</span> · {/if}{#if bai.xuat_xu}Xuất xứ: {bai.xuat_xu} · {/if}<NhanNguon nguon={bai.nguon} />
         </p>
         <BangThanhPhan {bai} />
         <h3>Cách dùng</h3>
@@ -47,4 +49,5 @@
   .bai { border-top: 1px solid var(--vien); margin-top: 1.5rem; }
   h3 { font-size: 1rem; margin: 1rem 0 0.3rem; }
   .kieng-ky { color: var(--do); }
+  .loai { font-weight: 600; color: var(--nhan); }
 </style>

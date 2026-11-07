@@ -127,3 +127,8 @@ test('câu cảnh báo triệu chứng không dùng: "không thể bệnh nào d
   const raw = sua(ok, (r) => { r.trieuChung.data.nhom[0].trieu_chung.push({ id: 'ho-khan', ten: 'Ho khan' }) })
   expect(canhBao(raw, 'khong-duoc-dung')[0].thongDiep).toBe('Triệu chứng "ho-khan" không thể bệnh nào dùng')
 })
+
+test('vuot-lieu bỏ qua thành phần không có lieu_g', () => {
+  const raw = sua(ok, (r) => { bai(r, 'ma-hoang-thang').thanh_phan[0] = { vi: 'ma-hoang', lieu_g: null, lieu_text: '4-8g', vai_tro: 'quan', vuot_lieu_ly_do: null } })
+  expect(validate(raw).loi).toEqual([])
+})

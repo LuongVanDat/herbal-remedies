@@ -62,3 +62,17 @@ test('TrangVi: "Có trong các bài thuốc" là link tới thể bệnh dùng b
   expect(within(s).getByRole('link', { name: /Cảm mạo · Phong hàn/ })).toHaveAttribute('href', '#/benh/cam-mao/phong-han')
   expect(s).toHaveTextContent('Ma hoàng thang')
 })
+
+test('TrangVi: độc tính chưa rõ, phổ biến chưa có dữ liệu, nguồn gốc, tên cây', () => {
+  const d = appFixture()
+  Object.assign(d.viThuoc['que-chi'], {
+    doc_tinh: { muc: 'chua_ro', canh_bao: null }, pho_bien: null, nguon_goc: 'trong_nuoc',
+    ten_cay: 'Cinnamomum cassia Presl - Lauraceae', bo_phan_dung: undefined,
+  })
+  renderVoiData(TrangVi, { id: 'que-chi' }, d)
+  expect(screen.getByText('Chưa có dữ liệu độc tính')).toBeInTheDocument()
+  expect(screen.getByText(/Chưa có dữ liệu mức phổ biến/)).toBeInTheDocument()
+  expect(screen.getByText('Nuôi trồng, khai thác trong nước')).toBeInTheDocument()
+  expect(screen.getByText(/Cinnamomum cassia/)).toBeInTheDocument()
+  expect(screen.queryByText('Bộ phận dùng')).toBeNull()
+})

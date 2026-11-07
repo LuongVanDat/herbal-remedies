@@ -47,6 +47,7 @@ export const TheBenhSchema = z
       .object({ chinh: z.array(IdSchema).min(1), phu: z.array(IdSchema).default([]) })
       .strict(),
     loai_tru: z.array(IdSchema).default([]),
+    mo_ta: Text.nullable().optional(),
     phap_tri: Text,
     bai_thuoc: z.array(IdSchema),
     nguon: NguonRefSchema,
@@ -69,11 +70,14 @@ export type Benh = z.infer<typeof BenhSchema>
 export const ThanhPhanSchema = z
   .object({
     vi: IdSchema,
-    lieu_g: z.number().positive(),
+    ten_trong_bai: Text.optional(),
+    lieu_g: z.number().positive().nullable(),
+    lieu_text: Text.optional(),
     vai_tro: z.enum(['quan', 'than', 'ta', 'su']).nullable(),
     vuot_lieu_ly_do: Text.nullable().default(null),
   })
   .strict()
+  .refine((t) => t.lieu_g !== null || t.lieu_text !== undefined, { message: 'Cần lieu_g hoặc lieu_text' })
 export type ThanhPhan = z.infer<typeof ThanhPhanSchema>
 
 export const BaiThuocSchema = z
@@ -81,6 +85,7 @@ export const BaiThuocSchema = z
     id: IdSchema,
     ten: Text,
     xuat_xu: Text.optional(),
+    loai: z.enum(['co_phuong', 'nghiem_phuong', 'tan_phuong', 'thuoc_nam', 'dung_ngoai']).optional(),
     thanh_phan: z.array(ThanhPhanSchema).min(1),
     cach_dung: Text,
     gia_giam: z.array(Text).default([]),
@@ -101,7 +106,9 @@ export const ViThuocSchema = z
     ten: Text,
     ten_khac: z.array(Text).default([]),
     ten_khoa_hoc: Text,
-    bo_phan_dung: Text,
+    ten_cay: Text.optional(),
+    bo_phan_dung: Text.optional(),
+    nguon_goc: z.enum(['trong_nuoc', 'nhap_khau', 'ca_hai']).optional(),
     tinh_vi: Text.optional(),
     quy_kinh: z.array(Text).default([]),
     cong_nang: z.array(Text).default([]),
@@ -111,10 +118,10 @@ export const ViThuocSchema = z
       .refine((l) => l.min_g <= l.max_g, { message: 'min_g phải ≤ max_g' })
       .nullable(),
     doc_tinh: z
-      .object({ muc: z.enum(['khong', 'it', 'co', 'rat_doc']), canh_bao: z.string().nullable() })
+      .object({ muc: z.enum(['khong', 'it', 'co', 'rat_doc', 'chua_ro']), canh_bao: z.string().nullable() })
       .strict(),
     kieng_ky: z.array(Text).default([]),
-    pho_bien: z.object({ muc: z.enum(['cao', 'trung_binh', 'thap']), can_cu: Text }).strict(),
+    pho_bien: z.object({ muc: z.enum(['cao', 'trung_binh', 'thap']), can_cu: Text }).strict().nullable(),
     thay_the: z.array(ThayTheSchema).default([]),
     nguon: NguonRefSchema,
   })
