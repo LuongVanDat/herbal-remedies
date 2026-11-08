@@ -17,6 +17,15 @@ lieu_dung:
 doc_tinh:
   muc: chua_ro
   canh_bao: null
+kieng_ky:
+  - Không dùng cho người can dương thượng thăng, âm hư hỏa vượng.
+than_trong:
+  - Thân rễ cây Sài hồ lá dài (Bupleurum longiradiatum Turcz) bề ngoài phủ nhiều mấu tròn rất độc, không thể dùng làm vị thuốc Sài hồ được.
+kieng_ky_nguon:
+  ma: ddvn-5
+  trang: 1309
+  muc: Chuyên luận SÀI HỒ (Rễ)
+  trang_thai: chua_doi_chieu
 pho_bien: null
 thay_the: []
 nguon:

@@ -17,6 +17,14 @@ lieu_dung:
 doc_tinh:
   muc: chua_ro
   canh_bao: null
+kieng_ky:
+  - Không dùng cho người âm hư hỏa vượng.
+than_trong: []
+kieng_ky_nguon:
+  ma: ddvn-5
+  trang: 1364
+  muc: Chuyên luận TỤC ĐOẠN (Rễ)
+  trang_thai: chua_doi_chieu
 pho_bien: null
 thay_the: []
 nguon:

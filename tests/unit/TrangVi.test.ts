@@ -92,3 +92,17 @@ test('TrangVi: liều đơn (min = max) hiện một số, không "4–4g"', () 
   expect(screen.getByText(/4g\/ngày/)).toBeInTheDocument()
   expect(screen.queryByText(/4–4g/)).toBeNull()
 })
+
+test('TrangVi: kiêng kỵ và thận trọng theo Dược điển có nhãn nguồn', () => {
+  const d = appFixture()
+  Object.assign(d.viThuoc['que-chi'], {
+    kieng_ky: ['Âm hư hỏa vượng không nên dùng.'], than_trong: ['Thận trọng khi dùng cho phụ nữ có thai.'],
+    kieng_ky_nguon: { ma: 'test', trang: 1300, muc: 'Chuyên luận QUẾ CHI', trang_thai: 'chua_doi_chieu' },
+  })
+  renderVoiData(TrangVi, { id: 'que-chi' }, d)
+  const s = screen.getByRole('region', { name: /Kiêng kỵ/ })
+  expect(s).toHaveTextContent('Âm hư hỏa vượng không nên dùng.')
+  expect(within(s).getByRole('heading', { name: 'Thận trọng' })).toBeInTheDocument()
+  expect(s).toHaveTextContent('Thận trọng khi dùng cho phụ nữ có thai.')
+  expect(within(s).getByText('TEST tr.1300 · chưa đối chiếu')).toBeInTheDocument()
+})

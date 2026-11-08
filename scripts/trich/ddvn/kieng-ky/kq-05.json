@@ -1,0 +1,335 @@
+[
+ {
+  "id": "ngai-cuu",
+  "ket_qua": "co",
+  "chuyen_luan": "NGẢI CỨU",
+  "trang_in": 1263,
+  "kieng_ky": [
+   "Âm hư huyết nhiệt, không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "ngo-thu-du",
+  "ket_qua": "co",
+  "chuyen_luan": "NGÔ THÙ DU (Quả)",
+  "trang_in": 1269,
+  "kieng_ky": [
+   "Không dùng kéo dài và cho người âm hư nội nhiệt."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "ngoc-truc",
+  "ket_qua": "co",
+  "chuyen_luan": "NGỌC TRÚC (Thân rễ)",
+  "trang_in": 1266,
+  "kieng_ky": [
+   "Người dương suy âm thịnh, tỳ hư đờm thấp không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "ngu-vi-tu",
+  "ket_qua": "co",
+  "chuyen_luan": "NGŨ VỊ TỬ",
+  "trang_in": 1274,
+  "kieng_ky": [
+   "Đang cảm sốt cao, lên sởi, sốt phát ban."
+  ],
+  "than_trong": [],
+  "ghi_chu": "Bản in quét chữ đầu trông như 'Dang' (mất gạch ngang chữ Đ), chép là 'Đang'."
+ },
+ {
+  "id": "nguu-bang-tu",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "NGƯU BÀNG (Quả)",
+  "trang_in": 1275,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": "Sau 'Cách dùng, liều lượng' là tiêu đề NGƯU TẤT (Rễ), không có mục kiêng kỵ."
+ },
+ {
+  "id": "nguu-tat",
+  "ket_qua": "co",
+  "chuyen_luan": "NGƯU TẤT (Rễ)",
+  "trang_in": 1276,
+  "kieng_ky": [
+   "Phụ nữ có thai, băng huyết không dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "nhan-sam",
+  "ket_qua": "co",
+  "chuyen_luan": "NHÂN SÂM (Thân rễ và Rễ)",
+  "trang_in": 1280,
+  "kieng_ky": [
+   "Không được dùng phối hợp với Lê lô, Ngũ linh chi."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "nhan-tran",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "NHÂN TRẦN",
+  "trang_in": 1281,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": "Mục liều ở cuối trang 1281; trang 1282 bắt đầu chuyên luận NHÂN TRẦN TÍA."
+ },
+ {
+  "id": "nhu-huong",
+  "ket_qua": "co",
+  "chuyen_luan": "NHŨ HƯƠNG (Gôm nhựa)",
+  "trang_in": 1283,
+  "kieng_ky": [
+   "Không dùng cho phụ nữ có thai, mụn nhọt đã vỡ, người không có ứ trệ."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "nhuc-dau-khau",
+  "ket_qua": "co",
+  "chuyen_luan": "NHỤC ĐẬU KHẤU (Hạt)",
+  "trang_in": 1284,
+  "kieng_ky": [
+   "Nhiệt tả, nhiệt lỵ không dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "nhuc-thung-dung",
+  "ket_qua": "co",
+  "chuyen_luan": "NHỤC THUNG DUNG (Thân)",
+  "trang_in": 1285,
+  "kieng_ky": [
+   "Thận hỏa vượng, táo bón do thực nhiệt, ỉa lỏng do dương hư không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "o-duoc",
+  "ket_qua": "co",
+  "chuyen_luan": "Ô DƯỢC (Rễ)",
+  "trang_in": 1288,
+  "kieng_ky": [
+   "Khí hư, nội nhiệt không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "o-mai",
+  "ket_qua": "co",
+  "chuyen_luan": "MƠ MUỐI",
+  "trang_in": 1256,
+  "kieng_ky": [
+   "Bệnh cần phát tán không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "o-tac-cot",
+  "ket_qua": "co",
+  "chuyen_luan": "MAI MỰC",
+  "trang_in": 1244,
+  "kieng_ky": [
+   "Kỵ Bạch cập, Bạch liễm, Phụ tử."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "pha-co-chi",
+  "ket_qua": "co",
+  "chuyen_luan": "BỔ CỐT CHỈ (Quả)",
+  "trang_in": 1089,
+  "kieng_ky": [
+   "Âm hư hỏa động, tiểu tiện ra máu, đại tiện táo bón, viêm đường tiết niệu không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "phong-phong",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "PHÒNG PHONG (Rễ)",
+  "trang_in": 1291,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": "Sau mục liều là tiêu đề PHỤ TỬ, không có mục kiêng kỵ."
+ },
+ {
+  "id": "phu-binh",
+  "ket_qua": "co",
+  "chuyen_luan": "ĐẠI PHÙ BÌNH",
+  "trang_in": 1151,
+  "kieng_ky": [
+   "Không phải thực nhiệt, thực tà, người ra mồ hôi nhiều, thể hư không nên dùng.",
+   "Có thai, cấm dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "phu-tu-che",
+  "ket_qua": "co",
+  "chuyen_luan": "PHỤ TỬ",
+  "trang_in": 1292,
+  "kieng_ky": [
+   "Phụ nữ có thai, âm hư nội nhiệt, trẻ em dưới 15 tuổi không được dùng.",
+   "Không nên phối hợp với Bán hạ, Qua lâu, Bối mẫu, Bạch cập, Bạch liễm."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "qua-lau-nhan",
+  "ket_qua": "co",
+  "chuyen_luan": "QUA LÂU (Hạt)",
+  "trang_in": 1294,
+  "kieng_ky": [
+   "Phản Ô đầu, Phụ tử, và Thiên hùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "que-chi",
+  "ket_qua": "co",
+  "chuyen_luan": "QUẾ (Cành)",
+  "trang_in": 1296,
+  "kieng_ky": [
+   "Âm hư hỏa vượng và phụ nữ có thai không dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "que-nhuc",
+  "ket_qua": "co",
+  "chuyen_luan": "QUẾ (Vỏ thân, vỏ cành)",
+  "trang_in": 1297,
+  "kieng_ky": [
+   "Âm hư hỏa vượng, phụ nữ có thai không dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "quy-ban",
+  "ket_qua": "co",
+  "chuyen_luan": "QUI GIÁP VÀ QUI BẢN",
+  "trang_in": 1298,
+  "kieng_ky": [
+   "Người bệnh hư nhược mà không có hỏa, người hư hàn, ỉa lỏng không được dùng.",
+   "Phụ nữ có thai dùng phải thận trọng."
+  ],
+  "than_trong": [],
+  "ghi_chu": "Câu 'Phụ nữ có thai dùng phải thận trọng.' nằm trong mục Kiêng kỵ (không có mục Thận trọng riêng)."
+ },
+ {
+  "id": "rau-dang-dat",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "RAU ĐẮNG ĐẤT",
+  "trang_in": 1299,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": "Sau mục liều là tiêu đề RAU MÁ."
+ },
+ {
+  "id": "rau-ma",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "RAU MÁ",
+  "trang_in": 1300,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": "Sau mục liều là tiêu đề RAU SAM."
+ },
+ {
+  "id": "rau-meo",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "RÂU MÈO",
+  "trang_in": 1301,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": "Sau 'Cách dùng, liều dùng' là tiêu đề RÂU NGÔ."
+ },
+ {
+  "id": "rau-ngo",
+  "ket_qua": "co",
+  "chuyen_luan": "RÂU NGÔ",
+  "trang_in": 1302,
+  "kieng_ky": [
+   "Không dùng cho các trường hợp hư hàn, đái dầm."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "rau-sam",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "RAU SAM",
+  "trang_in": 1300,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": "Mục liều ở cuối trang 1300; trang 1301 bắt đầu chuyên luận RÂU MÈO."
+ },
+ {
+  "id": "rieng",
+  "ket_qua": "co",
+  "chuyen_luan": "RIỀNG (Thân rễ)",
+  "trang_in": 1304,
+  "kieng_ky": [
+   "Nôn mửa do vị hỏa và hoắc loạn do tràng nhiệt không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "sa-nhan",
+  "ket_qua": "co",
+  "chuyen_luan": "SA NHÂN (Quả)",
+  "trang_in": 1306,
+  "kieng_ky": [
+   "Âm hư nội nhiệt không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": "Chuyên luận bắt đầu trang 1305; mục liều và kiêng kỵ ở đầu trang 1306."
+ },
+ {
+  "id": "sa-sam",
+  "ket_qua": "co",
+  "chuyen_luan": "SA SÂM (Rễ)",
+  "trang_in": 1306,
+  "kieng_ky": [
+   "Không dùng kết hợp với Lê lô.",
+   "Không dùng cho người ho do phế hàn."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "sai-ho-bac",
+  "ket_qua": "co",
+  "chuyen_luan": "SÀI HỒ (Rễ)",
+  "trang_in": 1309,
+  "kieng_ky": [
+   "Không dùng cho người can dương thượng thăng, âm hư hỏa vượng."
+  ],
+  "than_trong": [
+   "Thân rễ cây Sài hồ lá dài (Bupleurum longiradiatum Turcz) bề ngoài phủ nhiều mấu tròn rất độc, không thể dùng làm vị thuốc Sài hồ được."
+  ],
+  "ghi_chu": "Mục liều cuối trang 1308; Kiêng kỵ và 'Chú ý' ở đầu trang 1309."
+ }
+]

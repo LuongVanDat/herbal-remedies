@@ -17,6 +17,15 @@ lieu_dung:
 doc_tinh:
   muc: chua_ro
   canh_bao: null
+kieng_ky:
+  - Không dùng kết hợp với Lê lô.
+  - Không dùng cho người ho do phế hàn.
+than_trong: []
+kieng_ky_nguon:
+  ma: ddvn-5
+  trang: 1306
+  muc: Chuyên luận SA SÂM (Rễ)
+  trang_thai: chua_doi_chieu
 pho_bien: null
 thay_the: []
 nguon:

@@ -17,6 +17,14 @@ lieu_dung:
 doc_tinh:
   muc: chua_ro
   canh_bao: null
+kieng_ky:
+  - Cơ thể hư nhược, thuộc chân khí hư thì không được dùng.
+than_trong: []
+kieng_ky_nguon:
+  ma: ddvn-5
+  trang: 1094
+  muc: Chuyên luận CẢI CỦ (Hạt)
+  trang_thai: chua_doi_chieu
 pho_bien: null
 thay_the: []
 nguon:

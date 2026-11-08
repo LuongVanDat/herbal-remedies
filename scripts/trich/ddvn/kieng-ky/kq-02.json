@@ -1,0 +1,317 @@
+[
+ {
+  "id": "che-day",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "CHÈ DÂY (Lá)",
+  "trang_in": 1108,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "che-vang",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "CHÈ VẰNG (Lá)",
+  "trang_in": 1110,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "chi-thuc",
+  "ket_qua": "co",
+  "chuyen_luan": "CHỈ THỰC",
+  "trang_in": 1111,
+  "kieng_ky": [
+   "Phụ nữ có thai, tỳ vị hư hàn mà không đầy tích thì không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "chi-tu",
+  "ket_qua": "co",
+  "chuyen_luan": "DÀNH DÀNH (Quả)",
+  "trang_in": 1133,
+  "kieng_ky": [
+   "Người suy nhược, tỳ vị hư hàn, tiêu hóa kém, ia chảy không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": "Bản in ghi \"ia\" (không thấy dấu hỏi), giữ nguyên như ảnh."
+ },
+ {
+  "id": "chi-xac",
+  "ket_qua": "co",
+  "chuyen_luan": "CHỈ XÁC",
+  "trang_in": 1112,
+  "kieng_ky": [
+   "Tỳ vị hư hàn không có tích trệ, phụ nữ có thai không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "co-nho-noi",
+  "ket_qua": "co",
+  "chuyen_luan": "CỎ NHỌ NỒI",
+  "trang_in": 1118,
+  "kieng_ky": [
+   "Tỳ vị hư hàn, ia chảy phân sống không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": "Bản in ghi \"ia\" (không thấy dấu hỏi), giữ nguyên như ảnh."
+ },
+ {
+  "id": "co-xuoc",
+  "ket_qua": "co",
+  "chuyen_luan": "CỎ XƯỚC (Rễ)",
+  "trang_in": 1120,
+  "kieng_ky": [
+   "Phụ nữ có thai, ia lỏng, người di tinh không dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": "Bản in ghi \"ia\" (không thấy dấu hỏi), giữ nguyên như ảnh."
+ },
+ {
+  "id": "coc-tinh-thao",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "CỐC TINH THẢO",
+  "trang_in": 1122,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "cot-khi-cu",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "CỐT KHÍ (Rễ)",
+  "trang_in": 1124,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "cot-toai-bo",
+  "ket_qua": "co",
+  "chuyen_luan": "CỐT TOÁI BỔ (Thân rễ)",
+  "trang_in": 1125,
+  "kieng_ky": [
+   "Âm hư, huyết hư không có huyết ứ không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "cu-gai",
+  "ket_qua": "co",
+  "chuyen_luan": "GAI (Rễ)",
+  "trang_in": 1176,
+  "kieng_ky": [
+   "Vị hư hàn, ia chảy không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": "Bản in ghi \"ia\" (không thấy dấu hỏi), giữ nguyên như ảnh."
+ },
+ {
+  "id": "da-cam",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "DẠ CẨM",
+  "trang_in": 1132,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "dai-hoang",
+  "ket_qua": "co",
+  "chuyen_luan": "ĐẠI HOÀNG (Thân rễ)",
+  "trang_in": 1149,
+  "kieng_ky": [
+   "Không có uất nhiệt tích đọng thì không nên dùng.",
+   "Phụ nữ có thai không được dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "dai-tao",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "ĐẠI TÁO (Quả)",
+  "trang_in": 1151,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "dam-truc-diep",
+  "ket_qua": "co",
+  "chuyen_luan": "ĐẠM TRÚC DIỆP",
+  "trang_in": 1152,
+  "kieng_ky": [
+   "Phụ nữ có thai không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "dan-sam",
+  "ket_qua": "co",
+  "chuyen_luan": "ĐAN SÂM (Rễ và Thân rễ)",
+  "trang_in": 1154,
+  "kieng_ky": [
+   "Không dùng chung với Lê lô."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "dang-sam-bac-xuyen-dang-sam",
+  "ket_qua": "co",
+  "chuyen_luan": "ĐẢNG SÂM (Rễ)",
+  "trang_in": 1156,
+  "kieng_ky": [
+   "Không dùng chung với Lê lô."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "dang-sam-bac",
+  "ket_qua": "co",
+  "chuyen_luan": "ĐẢNG SÂM (Rễ)",
+  "trang_in": 1156,
+  "kieng_ky": [
+   "Không dùng chung với Lê lô."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "dang-sam-viet-nam",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "ĐẢNG SÂM VIỆT NAM (Rễ)",
+  "trang_in": 1157,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "dao-nhan",
+  "ket_qua": "co",
+  "chuyen_luan": "ĐÀO (Hạt)",
+  "trang_in": 1159,
+  "kieng_ky": [
+   "Có thai không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "dau-den",
+  "ket_qua": "co",
+  "chuyen_luan": "ĐẬU ĐEN (Hạt)",
+  "trang_in": 1161,
+  "kieng_ky": [
+   "Tỳ vị hư hàn mà không nhiệt độc không dùng.",
+   "Ghét Long đởm, kỵ Hậu phác."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "day-dau-xuong",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "DÂY ĐAU XƯƠNG (Thân)",
+  "trang_in": 1139,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "dia-du",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "ĐỊA DU (Rễ)",
+  "trang_in": 1164,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "dia-lien",
+  "ket_qua": "co",
+  "chuyen_luan": "ĐỊA LIỀN (Thân rễ)",
+  "trang_in": 1166,
+  "kieng_ky": [
+   "Âm hư, thiếu máu hoặc vị có hỏa uất không dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "dia-long",
+  "ket_qua": "co",
+  "chuyen_luan": "ĐỊA LONG",
+  "trang_in": 1167,
+  "kieng_ky": [
+   "Không dùng cho người hư hàn."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "diep-ca",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "DIẾP CÁ",
+  "trang_in": 1142,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "dinh-lang",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "ĐINH LĂNG (Rễ)",
+  "trang_in": 1169,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "do-trong",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "ĐỖ TRỌNG (Vỏ thân)",
+  "trang_in": 1171,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "doc-hoat",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "ĐỘC HOẠT (Rễ)",
+  "trang_in": 1172,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "duong-quy",
+  "ket_qua": "co",
+  "chuyen_luan": "ĐƯƠNG QUY (Rễ)",
+  "trang_in": 1175,
+  "kieng_ky": [
+   "Tỳ vị có thấp nhiệt, đại tiện lỏng không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "giao-co-lam",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "GIẢO CỔ LAM",
+  "trang_in": 1178,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": ""
+ }
+]

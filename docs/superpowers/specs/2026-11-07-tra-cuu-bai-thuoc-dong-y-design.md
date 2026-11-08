@@ -273,3 +273,12 @@ Văn bản thật khác giả định ban đầu ở vài chỗ, nên cấu trú
   ghép theo tên Latin) → **mọi liều đã đối chiếu ảnh trang** (`doc-anh/*.json`, xem `HUONG-DAN-DOC-ANH.md`) → `quyet-dinh.json` (bỏ qua ca khác bộ phận dùng / câu mơ hồ).
 - Thành phần bài có `lieu_g` > `max_g` được sinh `vuot_lieu_ly_do` tự động; bảng hiện "⚠ Vượt liều (tối đa Xg)" và lý do một lần dưới bảng.
 - Vị gộp (VI_GOP) chỉ có liều khi mọi vị thành phần cùng liều.
+
+### 10.y Kiêng kỵ / thận trọng theo Dược điển Việt Nam V
+
+- Cùng nguồn `ddvn-5`, cùng chuyên luận đã xác minh khi lấy liều (§10.x). Chữ OCR không dùng trực tiếp: mỗi câu
+  được chép nguyên văn từ ảnh trang (`scripts/trich/ddvn/kieng-ky/kq-*.json`, hướng dẫn `kieng-ky/HUONG-DAN.md`).
+- Vị thuốc có thêm `than_trong: string[]` và `kieng_ky_nguon` (nguồn chung cho kiêng kỵ + thận trọng).
+  Chỉ nhận kết quả `co`; `khong_chac` (không rõ ranh giới chuyên luận) bị bỏ.
+- Trang thể bệnh: dưới bảng thành phần, nếu có vị mà câu kiêng kỵ/thận trọng nhắc "có thai/mang thai" → cảnh báo
+  "Phụ nữ có thai" liệt kê các vị (kiêng dùng / thận trọng). Chỉ dựa trên câu chép nguyên văn, không suy diễn.

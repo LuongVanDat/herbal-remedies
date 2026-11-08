@@ -17,6 +17,15 @@ lieu_dung:
 doc_tinh:
   muc: chua_ro
   canh_bao: null
+kieng_ky:
+  - Không phải thực nhiệt, thực tà, người ra mồ hôi nhiều, thể hư không nên dùng.
+  - Có thai, cấm dùng.
+than_trong: []
+kieng_ky_nguon:
+  ma: ddvn-5
+  trang: 1151
+  muc: Chuyên luận ĐẠI PHÙ BÌNH
+  trang_thai: chua_doi_chieu
 pho_bien: null
 thay_the: []
 nguon:

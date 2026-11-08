@@ -16,6 +16,14 @@ lieu_dung:
 doc_tinh:
   muc: chua_ro
   canh_bao: null
+kieng_ky:
+  - Không dùng cho người ở trong có đàm hỏa, thấp trệ, đàm ẩm.
+than_trong: []
+kieng_ky_nguon:
+  ma: ddvn-5
+  trang: 1233
+  muc: Chuyên luận LONG NHÃN
+  trang_thai: chua_doi_chieu
 pho_bien: null
 thay_the: []
 nguon:

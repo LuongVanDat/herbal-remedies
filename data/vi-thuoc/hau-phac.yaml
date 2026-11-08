@@ -17,6 +17,14 @@ lieu_dung:
 doc_tinh:
   muc: chua_ro
   canh_bao: null
+kieng_ky:
+  - Tỳ vị hư yếu, nguyên khí kém, phụ nữ có thai thận trọng khi dùng.
+than_trong: []
+kieng_ky_nguon:
+  ma: ddvn-5
+  trang: 1184
+  muc: Chuyên luận HẬU PHÁC
+  trang_thai: chua_doi_chieu
 pho_bien: null
 thay_the: []
 nguon:

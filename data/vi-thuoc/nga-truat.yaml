@@ -17,6 +17,15 @@ lieu_dung:
 doc_tinh:
   muc: chua_ro
   canh_bao: null
+kieng_ky:
+  - Phụ nữ có thai không nên dùng.
+  - Cơ thể hư yếu sau khi sinh có tích trệ không nên dùng, muốn dùng phải phối hợp với Nhân sâm, Bạch truật.
+than_trong: []
+kieng_ky_nguon:
+  ma: ddvn-5
+  trang: 1261
+  muc: Chuyên luận NGA TRUẬT (Thân rễ)
+  trang_thai: chua_doi_chieu
 pho_bien: null
 thay_the: []
 nguon:

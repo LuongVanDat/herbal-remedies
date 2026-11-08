@@ -47,9 +47,15 @@
     </dd>
   </dl>
 
-  {#if v.kieng_ky.length}
-    <h2>Kiêng kỵ</h2>
-    <ul class="kieng-ky">{#each v.kieng_ky as k, i (i)}<li>{k}</li>{/each}</ul>
+  {#if v.kieng_ky.length || v.than_trong.length}
+    <section aria-labelledby="kieng-ky">
+      <h2 id="kieng-ky">Kiêng kỵ{#if v.kieng_ky_nguon} <NhanNguon nguon={v.kieng_ky_nguon} />{/if}</h2>
+      {#if v.kieng_ky.length}<ul class="kieng-ky">{#each v.kieng_ky as k, i (i)}<li>{k}</li>{/each}</ul>{/if}
+      {#if v.than_trong.length}
+        <h3>Thận trọng</h3>
+        <ul>{#each v.than_trong as k, i (i)}<li>{k}</li>{/each}</ul>
+      {/if}
+    </section>
   {/if}
 
   <h2>Vị thay thế</h2>

@@ -139,3 +139,30 @@ test('vị có liều chuẩn: dưới liều trong bài hiện liều thường
   const queChi = within(bang('Ma hoàng thang')).getAllByRole('row').find((r) => r.textContent!.includes('Quế chi'))!
   expect(queChi).toHaveTextContent('thường dùng 4–12g/ngày')
 })
+
+test('bài có vị kiêng/thận trọng khi có thai: cảnh báo liệt kê các vị đó', () => {
+  const d = appFixture()
+  d.viThuoc['que-chi'].kieng_ky = ['Phụ nữ có thai không nên dùng.']
+  d.viThuoc['cam-thao'].than_trong = ['Thận trọng với người mang thai.']
+  renderVoiData(TrangThe, { benhId: 'cam-mao', theId: 'phong-han' }, d)
+  const cb = screen.getByTestId('canh-bao-thai-ma-hoang-thang')
+  expect(cb).toHaveTextContent('Quế chi (kiêng dùng)')
+  expect(cb).toHaveTextContent('Cam thảo (thận trọng)')
+  expect(cb).toHaveTextContent('Phụ tử chế (kiêng dùng)')
+  expect(cb).not.toHaveTextContent('Ma hoàng')
+})
+
+test('bài không có vị nào lưu ý khi có thai: không hiện cảnh báo', () => {
+  const d = appFixture()
+  d.viThuoc['phu-tu-che'].kieng_ky = []
+  renderVoiData(TrangThe, { benhId: 'cam-mao', theId: 'phong-han' }, d)
+  expect(screen.queryByTestId('canh-bao-thai-ma-hoang-thang')).toBeNull()
+})
+
+test('câu "có thai, dùng thận trọng" nằm dưới mục Kiêng kỵ vẫn chỉ là "thận trọng"', () => {
+  const d = appFixture()
+  d.viThuoc['phu-tu-che'].kieng_ky = []
+  d.viThuoc['que-chi'].kieng_ky = ['Phụ nữ có thai, dùng thận trọng.']
+  renderVoiData(TrangThe, { benhId: 'cam-mao', theId: 'phong-han' }, d)
+  expect(screen.getByTestId('canh-bao-thai-ma-hoang-thang')).toHaveTextContent('Quế chi (thận trọng)')
+})

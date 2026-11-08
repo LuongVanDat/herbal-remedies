@@ -16,6 +16,14 @@ lieu_dung:
 doc_tinh:
   muc: chua_ro
   canh_bao: null
+kieng_ky:
+  - Không bị tích trệ không nên dùng.
+than_trong: []
+kieng_ky_nguon:
+  ma: ddvn-5
+  trang: 1212
+  muc: Chuyên luận KÊ NỘI KIM
+  trang_thai: chua_doi_chieu
 pho_bien: null
 thay_the: []
 nguon:

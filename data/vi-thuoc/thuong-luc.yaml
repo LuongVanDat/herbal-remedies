@@ -17,6 +17,14 @@ lieu_dung:
 doc_tinh:
   muc: co
   canh_bao: Thuộc Danh mục dược liệu độc làm thuốc (TT 13/2024/TT-BYT, Phụ lục I, STT 20). Chỉ dùng theo chỉ định của thầy thuốc.
+kieng_ky:
+  - Không dùng cho phụ nữ có thai, người thủy thũng do tỳ hư.
+than_trong: []
+kieng_ky_nguon:
+  ma: ddvn-5
+  trang: 1348
+  muc: Chuyên luận THƯƠNG LỤC (Rễ củ)
+  trang_thai: chua_doi_chieu
 pho_bien: null
 thay_the: []
 nguon:

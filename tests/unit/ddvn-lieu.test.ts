@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { docLieu, ghepLieu, khopLatin, tuDocAnh } from '../../scripts/trich/ddvn/lieu'
+import { docLieu, ghepLieu, khopLatin, tuDocAnh, tuKiengKy, type KetQuaKiengKy } from '../../scripts/trich/ddvn/lieu'
 
 describe('docLieu — đọc liều ngày từ mục "Cách dùng, liều lượng" (OCR)', () => {
   it('khoảng "từ A g đến B g"', () => {
@@ -145,5 +145,31 @@ describe('tuDocAnh — kết quả đọc ảnh trang → sửa tay', () => {
   })
   it('hai kết quả khác nhau cho cùng STT → lỗi', () => {
     expect(() => tuDocAnh([kq({}), kq({ min_g: 3 })])).toThrow(/STT 5/)
+  })
+})
+
+describe('tuKiengKy', () => {
+  const x = (o: Partial<KetQuaKiengKy>): KetQuaKiengKy =>
+    ({ id: 'ban-ha', ket_qua: 'co', chuyen_luan: 'BÁN HẠ (Thân rễ)', trang_in: 1047, kieng_ky: ['A.'], than_trong: [], ...o })
+  it('chỉ lấy kết quả "co", kèm nguồn DĐVN V', () => {
+    const m = tuKiengKy([x({}), x({ id: 'b', ket_qua: 'khong_co', kieng_ky: [] }), x({ id: 'c', ket_qua: 'khong_chac' })])
+    expect([...m.keys()]).toEqual(['ban-ha'])
+    expect(m.get('ban-ha')).toEqual({
+      kieng_ky: ['A.'], than_trong: [],
+      nguon: { ma: 'ddvn-5', trang: 1047, muc: 'Chuyên luận BÁN HẠ (Thân rễ)', trang_thai: 'chua_doi_chieu' },
+    })
+  })
+  it('"co" mà cả hai mảng rỗng → lỗi', () => {
+    expect(() => tuKiengKy([x({ kieng_ky: [] })])).toThrow(/ban-ha/)
+  })
+  it('trùng id → lỗi', () => {
+    expect(() => tuKiengKy([x({}), x({})])).toThrow(/ban-ha/)
+  })
+  it('bỏ khoảng trắng thừa trong câu', () => {
+    expect(tuKiengKy([x({ kieng_ky: ['  Không   dùng. '] })]).get('ban-ha')!.kieng_ky).toEqual(['Không dùng.'])
+  })
+  it('chuẩn hóa "ia chảy/ia lỏng" (bản quét mất dấu hỏi) thành "ỉa"', () => {
+    const k = tuKiengKy([x({ kieng_ky: ['Tỳ vị hư hàn ia chảy, ia lỏng không nên dùng.', 'Ia chảy kéo dài.'] })]).get('ban-ha')!.kieng_ky
+    expect(k).toEqual(['Tỳ vị hư hàn ỉa chảy, ỉa lỏng không nên dùng.', 'Ỉa chảy kéo dài.'])
   })
 })

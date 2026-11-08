@@ -17,6 +17,15 @@ lieu_dung:
 doc_tinh:
   muc: chua_ro
   canh_bao: null
+kieng_ky:
+  - Người hư hỏa, không thực nhiệt, kiêng dùng.
+  - Phụ nữ có thai, dùng thận trọng.
+than_trong: []
+kieng_ky_nguon:
+  ma: ddvn-5
+  trang: 1119
+  muc: Chuyên luận CỎ TRANH (Thân rễ)
+  trang_thai: chua_doi_chieu
 pho_bien: null
 thay_the: []
 nguon:

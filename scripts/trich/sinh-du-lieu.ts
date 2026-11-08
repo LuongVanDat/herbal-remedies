@@ -14,7 +14,7 @@ import { stringify } from 'yaml'
 import { BI_DANH, NGOAI_DANH_MUC, VI_GOP } from './bi-danh-vi'
 import { boPhanDung, chiaChinhPhu, slug, timVi, xacNhanLieu, type DongDanhMuc, type DongDoc } from './lib'
 import { boDau } from '../../src/search'
-import { ghepLieu, tuDocAnh, type ChuyenLuan, type KetQuaDocAnh, type LieuDdvn } from './ddvn/lieu'
+import { ghepLieu, tuKiengKy, type KetQuaKiengKy, tuDocAnh, type ChuyenLuan, type KetQuaDocAnh, type LieuDdvn } from './ddvn/lieu'
 
 const [dirJson = 'scripts/trich/ban-trich', dirData = 'data', fileText = '.superpowers/trich/full.txt'] = process.argv.slice(2)
 const trangText = readFileSync(fileText, 'utf8').split('\f')
@@ -103,6 +103,14 @@ const lieuDung = (id: string) => {
   return l
     ? { min_g: l.min_g, max_g: l.max_g, nguon: { ma: 'ddvn-5', ...(l.trang ? { trang: l.trang } : {}), muc: l.muc, trang_thai: 'chua_doi_chieu' } }
     : null
+}
+// ---- Kiêng kỵ / thận trọng DĐVN V: chép từ ảnh trang (ddvn/kieng-ky/kq-*.json) ----
+const DIR_KK = 'scripts/trich/ddvn/kieng-ky'
+const kiengKyVi = tuKiengKy(readdirSync(DIR_KK).filter((f) => /^kq-.*\.json$/.test(f)).sort()
+  .flatMap((f) => JSON.parse(readFileSync(join(DIR_KK, f), 'utf8')) as KetQuaKiengKy[]))
+const kiengKy = (id: string) => {
+  const k = kiengKyVi.get(id)
+  return k ? { kieng_ky: k.kieng_ky, than_trong: k.than_trong, kieng_ky_nguon: k.nguon } : {}
 }
 const NGOAI = Object.fromEntries(Object.entries(NGOAI_DANH_MUC).map(([k, v]) => [boDau(k), v]))
 const ngoaiDung = new Map<string, { ten: string; ten_khac?: string[]; trang: number }>()
@@ -254,7 +262,7 @@ for (const d of dm) {
     id: maVi(d), ten: d.ten, ten_khac: d.ten_khac, ten_khoa_hoc: d.ten_khoa_hoc,
     ...(d.ten_cay ? { ten_cay: d.ten_cay } : {}), ...(bp ? { bo_phan_dung: bp } : {}),
     ...(GOC[d.nguon_goc] ? { nguon_goc: GOC[d.nguon_goc] } : {}),
-    lieu_dung: lieuDung(maVi(d)), doc_tinh: docTinh(d.stt), pho_bien: null, thay_the: [],
+    lieu_dung: lieuDung(maVi(d)), doc_tinh: docTinh(d.stt), ...kiengKy(maVi(d)), pho_bien: null, thay_the: [],
     nguon: NG(d.trang),
   })
 }
@@ -264,7 +272,7 @@ for (const g of Object.values(VI_GOP)) {
     id: g.id, ten: g.ten, ten_khac: [], ten_khoa_hoc: tv[0].ten_khoa_hoc,
     ten_cay: tv.map((d) => `${d.ten} (STT ${d.stt}): ${d.ten_cay}`).join('; '),
     ...(boPhanDung(tv[0].ten_khoa_hoc) ? { bo_phan_dung: boPhanDung(tv[0].ten_khoa_hoc) } : {}),
-    lieu_dung: lieuDung(g.id), doc_tinh: docTinh(g.stt[0]), pho_bien: null, thay_the: [],
+    lieu_dung: lieuDung(g.id), doc_tinh: docTinh(g.stt[0]), ...kiengKy(g.id), pho_bien: null, thay_the: [],
     nguon: NG(tv[0].trang),
   })
 }
@@ -272,7 +280,7 @@ for (const g of Object.values(VI_GOP)) {
 for (const [id, v] of ngoaiDung) {
   ghi(`vi-thuoc/${id}.yaml`, {
     id, ten: v.ten, ten_khac: v.ten_khac ?? [],
-    lieu_dung: lieuDung(id), doc_tinh: { muc: 'chua_ro', canh_bao: null }, pho_bien: null, thay_the: [],
+    lieu_dung: lieuDung(id), doc_tinh: { muc: 'chua_ro', canh_bao: null }, ...kiengKy(id), pho_bien: null, thay_the: [],
     nguon: NG(v.trang), // trang văn bản đầu tiên dùng vị này (không có trong danh mục cuối tài liệu)
   })
 }
@@ -290,6 +298,7 @@ for (const [ten, noi] of khongKhop) console.log(`KHÔNG KHỚP VỊ: "${ten}" ($
 writeFileSync('.superpowers/trich/bao-cao.txt', baoCao.join('\n') + '\n')
 writeFileSync('scripts/trich/ddvn/bao-cao-lieu.txt', baoCaoLieu.join('\n') + '\n')
 const soViCoLieu = [...lieuCuaVi.keys()].length
+console.log(`Kiêng kỵ/thận trọng DĐVN V: ${kiengKyVi.size} vị`)
 console.log(`Liều DĐVN V: ${soViCoLieu} vị (${Object.keys(suaTay).length} sửa tay/đọc ảnh), ${baoCaoLieu.length} mục cần xem: scripts/trich/ddvn/bao-cao-lieu.txt`)
 console.log(`${baoCao.filter((x) => x.startsWith('LIỀU?')).length} liều cần xem; báo cáo đầy đủ: .superpowers/trich/bao-cao.txt`)
 if (khongKhop.size) process.exit(1)

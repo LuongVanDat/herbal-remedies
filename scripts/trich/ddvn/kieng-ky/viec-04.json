@@ -1,0 +1,219 @@
+[
+ {
+  "id": "khoan-dong-hoa",
+  "ten": "Khoản đông hoa",
+  "ten_khoa_hoc": "Flos Tussilaginis farfarae",
+  "chuyen_luan": "KHOẢN ĐÔNG HOA",
+  "trang_in_lieu": 1214
+ },
+ {
+  "id": "khuong-hoang",
+  "ten": "Khương hoàng",
+  "ten_khoa_hoc": "Rhizoma Curcumae longae",
+  "chuyen_luan": "NGHỆ (Thân rễ)",
+  "trang_in_lieu": 1265
+ },
+ {
+  "id": "khuong-hoat",
+  "ten": "Khương hoạt",
+  "ten_khoa_hoc": "Rhizoma et Radix Notopterygii",
+  "chuyen_luan": "KHƯƠNG HOẠT (Thân rễ và Rễ)",
+  "trang_in_lieu": 1219
+ },
+ {
+  "id": "kim-anh",
+  "ten": "Kim anh",
+  "ten_khoa_hoc": "Fructus Rosae laevigatae",
+  "chuyen_luan": "KIM ANH (Quả)",
+  "trang_in_lieu": 1220
+ },
+ {
+  "id": "kim-ngan-hoa",
+  "ten": "Kim ngân hoa",
+  "ten_khoa_hoc": "Flos Lonicerae",
+  "chuyen_luan": "KIM NGÂN (Hoa)",
+  "trang_in_lieu": 1222
+ },
+ {
+  "id": "kim-tien-thao",
+  "ten": "Kim tiền thảo",
+  "ten_khoa_hoc": "Herba Desmodii styracifolii",
+  "chuyen_luan": "KIM TIỀN THẢO",
+  "trang_in_lieu": 1223
+ },
+ {
+  "id": "kinh-gioi",
+  "ten": "Kinh giới",
+  "ten_khoa_hoc": "Herba Elsholtziae ciliatae",
+  "chuyen_luan": "KINH GIỚI",
+  "trang_in_lieu": 1224
+ },
+ {
+  "id": "la-bac-tu",
+  "ten": "La bạc tử",
+  "ten_khoa_hoc": "Semen Raphani sativi",
+  "chuyen_luan": "CẢI CỦ (Hạt)",
+  "trang_in_lieu": 1094
+ },
+ {
+  "id": "la-khoi",
+  "ten": "Lá khôi",
+  "ten_khoa_hoc": "Folium Ardisiae",
+  "chuyen_luan": "KHÔI (Lá)",
+  "trang_in_lieu": 1218
+ },
+ {
+  "id": "la-lot",
+  "ten": "Lá lốt",
+  "ten_khoa_hoc": "Herba Piperis lolot",
+  "chuyen_luan": "LÁ LỐT",
+  "trang_in_lieu": 1226
+ },
+ {
+  "id": "la-mong",
+  "ten": "Lá móng",
+  "ten_khoa_hoc": "Folium Lawsoniae",
+  "chuyen_luan": "LÁ MÓNG (Lá)",
+  "trang_in_lieu": 1226
+ },
+ {
+  "id": "lac-tien",
+  "ten": "Lạc tiên",
+  "ten_khoa_hoc": "Herba Passiflorae foetidae",
+  "chuyen_luan": "LẠC TIÊN",
+  "trang_in_lieu": 1228
+ },
+ {
+  "id": "lai-phuc-tu",
+  "ten": "Lai phục tử",
+  "ten_khoa_hoc": "Semen Raphani sativi",
+  "chuyen_luan": "CẢI CỦ (Hạt)",
+  "trang_in_lieu": 1094
+ },
+ {
+  "id": "lien-kieu",
+  "ten": "Liên kiều",
+  "ten_khoa_hoc": "Fructus Forsythiae suspensae",
+  "chuyen_luan": "LIÊN KIỀU",
+  "trang_in_lieu": 1229
+ },
+ {
+  "id": "lien-nhuc",
+  "ten": "Liên nhục",
+  "ten_khoa_hoc": "Semen Nelumbinis nuciferae",
+  "chuyen_luan": "SEN (Hạt)",
+  "trang_in_lieu": 1316
+ },
+ {
+  "id": "loc-giac-giao",
+  "ten": "Lộc giác giao",
+  "ten_khoa_hoc": null,
+  "chuyen_luan": "LỘC GIÁC GIAO",
+  "trang_in_lieu": 1235
+ },
+ {
+  "id": "long-dom-thao",
+  "ten": "Long đởm thảo",
+  "ten_khoa_hoc": "Radix et rhizoma Gentianae",
+  "chuyen_luan": "LONG ĐỞM (Rễ và thân rễ)",
+  "trang_in_lieu": 1231
+ },
+ {
+  "id": "long-nhan",
+  "ten": "Long nhãn",
+  "ten_khoa_hoc": "Arillus Longan",
+  "chuyen_luan": "LONG NHÃN",
+  "trang_in_lieu": 1233
+ },
+ {
+  "id": "ma-de",
+  "ten": "Mã đề",
+  "ten_khoa_hoc": "Folium Plantaginis",
+  "chuyen_luan": "MÃ ĐỀ (Lá)",
+  "trang_in_lieu": 1240
+ },
+ {
+  "id": "ma-hoang",
+  "ten": "Ma hoàng",
+  "ten_khoa_hoc": "Herba Ephedrae",
+  "chuyen_luan": "MA HOÀNG",
+  "trang_in_lieu": 1239
+ },
+ {
+  "id": "mach-mon",
+  "ten": "Mạch môn",
+  "ten_khoa_hoc": "Radix Ophiopogonis japonici",
+  "chuyen_luan": "MẠCH MÔN (Rễ)",
+  "trang_in_lieu": 1242
+ },
+ {
+  "id": "mach-nha",
+  "ten": "Mạch nha",
+  "ten_khoa_hoc": "Fructus Hordei germinatus",
+  "chuyen_luan": "MẠCH NHA",
+  "trang_in_lieu": 1243
+ },
+ {
+  "id": "man-trau",
+  "ten": "Mần trầu",
+  "ten_khoa_hoc": "Herba eleusinis indicae",
+  "chuyen_luan": "CỎ MẦN TRẦU",
+  "trang_in_lieu": 1116
+ },
+ {
+  "id": "mat-ong",
+  "ten": "Mật ong",
+  "ten_khoa_hoc": "Mel",
+  "chuyen_luan": "MẬT ONG",
+  "trang_in_lieu": 1247
+ },
+ {
+  "id": "mau-don-bi",
+  "ten": "Mẫu đơn bì",
+  "ten_khoa_hoc": "Cortex Paeoniae suffruticosae radicis",
+  "chuyen_luan": "MẪU ĐƠN BÌ (Vỏ rễ)",
+  "trang_in_lieu": 1248
+ },
+ {
+  "id": "mau-le",
+  "ten": "Mẫu lệ",
+  "ten_khoa_hoc": "Concha Ostreae",
+  "chuyen_luan": "MẪU LỆ",
+  "trang_in_lieu": 1249
+ },
+ {
+  "id": "miet-giap",
+  "ten": "Miết giáp",
+  "ten_khoa_hoc": "Carapax Trionycis",
+  "chuyen_luan": "MIẾT GIÁP",
+  "trang_in_lieu": 1249
+ },
+ {
+  "id": "moc-huong",
+  "ten": "Mộc hương",
+  "ten_khoa_hoc": "Radix Saussureae lappae",
+  "chuyen_luan": "MỘC HƯƠNG (Rễ)",
+  "trang_in_lieu": 1253
+ },
+ {
+  "id": "moc-qua",
+  "ten": "Mộc qua",
+  "ten_khoa_hoc": "Fructus Chaenomelis speciosae",
+  "chuyen_luan": "MỘC QUA (Quả)",
+  "trang_in_lieu": 1254
+ },
+ {
+  "id": "mot-duoc",
+  "ten": "Một dược",
+  "ten_khoa_hoc": "Myrrha",
+  "chuyen_luan": "MỘT DƯỢC (Gôm nhựa)",
+  "trang_in_lieu": 1255
+ },
+ {
+  "id": "nga-truat",
+  "ten": "Nga truật",
+  "ten_khoa_hoc": "Rhizoma Curcumae zedoariae",
+  "chuyen_luan": "NGA TRUẬT (Thân rễ)",
+  "trang_in_lieu": 1261
+ }
+]

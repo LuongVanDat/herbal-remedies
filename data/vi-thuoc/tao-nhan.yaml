@@ -17,6 +17,14 @@ lieu_dung:
 doc_tinh:
   muc: chua_ro
   canh_bao: null
+kieng_ky:
+  - Người thực tà uất hỏa không dùng.
+than_trong: []
+kieng_ky_nguon:
+  ma: ddvn-5
+  trang: 1324
+  muc: Chuyên luận TÁO (Hạt)
+  trang_thai: chua_doi_chieu
 pho_bien: null
 thay_the: []
 nguon:

@@ -1,0 +1,322 @@
+[
+ {
+  "id": "ha-diep",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "SEN (Lá)",
+  "trang_in": 1317,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": "Sau Cách dùng, liều lượng là hết cột; cột kế bắt đầu SÓI RỪNG."
+ },
+ {
+  "id": "ha-kho-thao",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "HẠ KHÔ THẢO (Cụm quả)",
+  "trang_in": 1183,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": "Sau Cách dùng, liều lượng là tiêu đề HẬU PHÁC."
+ },
+ {
+  "id": "ha-thu-o-do",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "HÀ THỦ Ô ĐỎ (Rễ củ)",
+  "trang_in": 1181,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": "Sau Cách dùng, liều lượng là tiêu đề HÀ THỦ Ô TRẮNG."
+ },
+ {
+  "id": "ha-thu-o-trang",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "HÀ THỦ Ô TRẮNG (Rễ)",
+  "trang_in": 1182,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": "Sau Cách dùng, liều lượng là tiêu đề HẠ KHÔ THẢO."
+ },
+ {
+  "id": "hanh-nhan",
+  "ket_qua": "co",
+  "chuyen_luan": "KHỔ HẠNH NHÂN",
+  "trang_in": 1215,
+  "kieng_ky": [
+   "Hư nhược mà ho không phải do tà khí thì không dùng, không dùng quá liều, kéo dài để tránh methemoglobin."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "hau-phac",
+  "ket_qua": "co",
+  "chuyen_luan": "HẬU PHÁC",
+  "trang_in": 1184,
+  "kieng_ky": [
+   "Tỳ vị hư yếu, nguyên khí kém, phụ nữ có thai thận trọng khi dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "hoac-huong",
+  "ket_qua": "co",
+  "chuyen_luan": "HOẮC HƯƠNG",
+  "trang_in": 1195,
+  "kieng_ky": [
+   "Không dùng cho người âm hư, khí hư."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "hoai-son",
+  "ket_qua": "co",
+  "chuyen_luan": "CỦ MÀI (Củ)",
+  "trang_in": 1128,
+  "kieng_ky": [
+   "Có thực tà thấp nhiệt thì không dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": "Tiêu đề chuyên luận trong bản in: CỦ MÀI (Củ), tên khác Hoài sơn (trang in 1127–1128)."
+ },
+ {
+  "id": "hoang-ba-nam",
+  "ket_qua": "co",
+  "chuyen_luan": "NÚC NÁC (Vỏ thân)",
+  "trang_in": 1286,
+  "kieng_ky": [
+   "Người hư hàn gây đau bụng, đầy bụng tiêu chảy không dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": "Chuyên luận NÚC NÁC (Vỏ thân) bắt đầu trang 1285; mục Kiêng kỵ ở đầu trang 1286, ngay trước Ô ĐẦU."
+ },
+ {
+  "id": "hoang-ba",
+  "ket_qua": "co",
+  "chuyen_luan": "HOÀNG BÁ (Vỏ thân)",
+  "trang_in": 1185,
+  "kieng_ky": [
+   "Tỳ hư, đại tiện lỏng, ăn uống không tiêu không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "hoang-cam",
+  "ket_qua": "co",
+  "chuyen_luan": "HOÀNG CẦM (Rễ)",
+  "trang_in": 1186,
+  "kieng_ky": [
+   "Người tỳ vị hư hàn, không có thấp nhiệt, thực hỏa thì không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "hoang-dang",
+  "ket_qua": "co",
+  "chuyen_luan": "HOÀNG ĐẰNG (Thân và Rễ)",
+  "trang_in": 1188,
+  "kieng_ky": [
+   "Bệnh thuộc hàn không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "hoang-ky",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "HOÀNG KỲ (Rễ)",
+  "trang_in": 1190,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": "Sau Cách dùng, liều lượng là tiêu đề HOÀNG LIÊN."
+ },
+ {
+  "id": "hoang-lien",
+  "ket_qua": "co",
+  "chuyen_luan": "HOÀNG LIÊN (Thân rễ)",
+  "trang_in": 1191,
+  "kieng_ky": [
+   "Âm hư phiền nhiệt, tỳ hư tiết tả không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "hoang-tinh",
+  "ket_qua": "co",
+  "chuyen_luan": "HOÀNG TINH (Thân rễ)",
+  "trang_in": 1193,
+  "kieng_ky": [
+   "Người phế vị có đờm thấp nặng, không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "hoat-thach",
+  "ket_qua": "co",
+  "chuyen_luan": "HOẠT THẠCH",
+  "trang_in": 1194,
+  "kieng_ky": [
+   "Không dùng cho phụ nữ có thai và người có chứng dương hư."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "hoe-hoa",
+  "ket_qua": "co",
+  "chuyen_luan": "HÒE (Nụ hoa)",
+  "trang_in": 1196,
+  "kieng_ky": [
+   "Không có thực hỏa không được dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "hong-hoa",
+  "ket_qua": "co",
+  "chuyen_luan": "HỒNG HOA (Hoa)",
+  "trang_in": 1199,
+  "kieng_ky": [
+   "Phụ nữ có thai không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "huong-gia-bi",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "HƯƠNG GIA BÌ (Vỏ rễ)",
+  "trang_in": 1202,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": "Sau Cách dùng, liều lượng là tiêu đề HƯƠNG NHU TÍA."
+ },
+ {
+  "id": "huong-phu",
+  "ket_qua": "co",
+  "chuyen_luan": "HƯƠNG PHỤ (Thân rễ)",
+  "trang_in": 1206,
+  "kieng_ky": [
+   "Âm hư huyết nhiệt không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "huyen-ho",
+  "ket_qua": "co",
+  "chuyen_luan": "DIÊN HỒ SÁCH (Rễ củ)",
+  "trang_in": 1141,
+  "kieng_ky": [
+   "Không dùng cho phụ nữ có thai, người huyết hư, phụ nữ rối loạn kinh nguyệt."
+  ],
+  "than_trong": [],
+  "ghi_chu": "Chuyên luận DIÊN HỒ SÁCH; mục Kiêng kỵ ở đầu cột trái trang 1141, ngay trước DIẾP CÁ."
+ },
+ {
+  "id": "huyen-sam",
+  "ket_qua": "co",
+  "chuyen_luan": "HUYỀN SÂM (Rễ)",
+  "trang_in": 1201,
+  "kieng_ky": [
+   "Tỳ vị hư hàn, tiêu hóa rối loạn không dùng.",
+   "Không dùng chung với Lê lô."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "huyet-giac",
+  "ket_qua": "co",
+  "chuyen_luan": "HUYẾT GIÁC (Lõi gỗ)",
+  "trang_in": 1202,
+  "kieng_ky": [
+   "Phụ nữ có thai không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "hy-thiem",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "HY THIÊM",
+  "trang_in": 1207,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": "Sau Cách dùng, liều lượng là tiêu đề ÍCH MẪU (trang in 1207)."
+ },
+ {
+  "id": "ich-mau",
+  "ket_qua": "co",
+  "chuyen_luan": "ÍCH MẪU",
+  "trang_in": 1209,
+  "kieng_ky": [
+   "Không dùng cho người huyết hư không có huyết ứ."
+  ],
+  "than_trong": [],
+  "ghi_chu": "Trang in 1209 = PDF 1310 (PDF 1308 là bản lặp của trang 1207)."
+ },
+ {
+  "id": "ich-tri-nhan",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "ÍCH TRÍ (Quả)",
+  "trang_in": 1210,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": "Sau Cách dùng, liều lượng là tiêu đề KÉ ĐẦU NGỰA."
+ },
+ {
+  "id": "ke-huyet-dang",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "KÊ HUYẾT ĐẰNG (Thân)",
+  "trang_in": 1212,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": "Sau Cách dùng, liều lượng là tiêu đề KÊ NỘI KIM."
+ },
+ {
+  "id": "ke-noi-kim",
+  "ket_qua": "co",
+  "chuyen_luan": "KÊ NỘI KIM",
+  "trang_in": 1212,
+  "kieng_ky": [
+   "Không bị tích trệ không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "kha-tu",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "KHA TỬ (Quả)",
+  "trang_in": 1213,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": "Sau Cách dùng, liều lượng là tiêu đề KHIẾM THỰC."
+ },
+ {
+  "id": "khiem-thuc",
+  "ket_qua": "co",
+  "chuyen_luan": "KHIẾM THỰC (Hạt)",
+  "trang_in": 1213,
+  "kieng_ky": [
+   "Đại tiện táo bón, tiểu tiện bí không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "kho-sam",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "KHỔ SÂM (Lá và Cành)",
+  "trang_in": 1217,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": "Sau Cách dùng, liều lượng là tiêu đề KHÔI (Lá)."
+ }
+]

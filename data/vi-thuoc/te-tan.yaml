@@ -17,6 +17,15 @@ lieu_dung:
 doc_tinh:
   muc: chua_ro
   canh_bao: null
+kieng_ky:
+  - Không dùng phối hợp với Lê lô.
+  - Dùng thận trọng với người âm hư hỏa vượng.
+than_trong: []
+kieng_ky_nguon:
+  ma: ddvn-5
+  trang: 1329
+  muc: Chuyên luận TẾ TÂN (Rễ và Thân rễ)
+  trang_thai: chua_doi_chieu
 pho_bien: null
 thay_the: []
 nguon:

@@ -1,0 +1,337 @@
+[
+ {
+  "id": "khoan-dong-hoa",
+  "ket_qua": "co",
+  "chuyen_luan": "KHOẢN ĐÔNG HOA",
+  "trang_in": 1214,
+  "kieng_ky": [
+   "Không dùng cho người âm hư phế nhiệt, phế ráo."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "khuong-hoang",
+  "ket_qua": "co",
+  "chuyen_luan": "NGHỆ (Thân rễ)",
+  "trang_in": 1265,
+  "kieng_ky": [
+   "Cơ thể suy nhược, không có ứ trệ, không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "khuong-hoat",
+  "ket_qua": "co",
+  "chuyen_luan": "KHƯƠNG HOẠT (Thân rễ và Rễ)",
+  "trang_in": 1219,
+  "kieng_ky": [
+   "Chứng thực nhiệt, hư nhiệt không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "kim-anh",
+  "ket_qua": "co",
+  "chuyen_luan": "KIM ANH (Quả)",
+  "trang_in": 1220,
+  "kieng_ky": [
+   "Có thấp nhiệt, tiểu tiện bí, rất không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": "Mục Kiêng kỵ ở đầu trang 1220 (tràn từ trang 1219)."
+ },
+ {
+  "id": "kim-ngan-hoa",
+  "ket_qua": "co",
+  "chuyen_luan": "KIM NGÂN (Hoa)",
+  "trang_in": 1222,
+  "kieng_ky": [
+   "Tỳ vị hư hàn ỉa chảy, hoặc vết thương, mụn nhọt có mủ loãng do khí hư; mụn nhọt đã có mủ, vỡ loét không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "kim-tien-thao",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "KIM TIỀN THẢO",
+  "trang_in": 1223,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": "Sau Cách dùng, liều lượng là tiêu đề KINH GIỚI; không có mục Kiêng kỵ/Thận trọng."
+ },
+ {
+  "id": "kinh-gioi",
+  "ket_qua": "co",
+  "chuyen_luan": "KINH GIỚI",
+  "trang_in": 1224,
+  "kieng_ky": [
+   "Biểu hư, tự ra mồ hôi nhiều, không có ngoại cảm, phong hàn không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": "Mục liều và Kiêng kỵ ở đầu trang 1224 (tràn từ trang 1223)."
+ },
+ {
+  "id": "la-bac-tu",
+  "ket_qua": "co",
+  "chuyen_luan": "CẢI CỦ (Hạt)",
+  "trang_in": 1094,
+  "kieng_ky": [
+   "Cơ thể hư nhược, thuộc chân khí hư thì không được dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "la-khoi",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "KHÔI (Lá)",
+  "trang_in": 1218,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": "Không có mục Kiêng kỵ/Thận trọng. Trong mục Cách dùng, liều lượng có câu 'Ghi chú: Loại lá Khôi có hai mặt đều xanh, không dùng.' (về nhận dạng dược liệu, không chép vào kiêng kỵ)."
+ },
+ {
+  "id": "la-lot",
+  "ket_qua": "co",
+  "chuyen_luan": "LÁ LỐT",
+  "trang_in": 1226,
+  "kieng_ky": [
+   "Vị nhiệt, táo bón không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "la-mong",
+  "ket_qua": "co",
+  "chuyen_luan": "LÁ MÓNG (Lá)",
+  "trang_in": 1226,
+  "kieng_ky": [
+   "Phụ nữ có thai, hoặc đa kinh không dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "lac-tien",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "LẠC TIÊN",
+  "trang_in": 1228,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": "Sau Cách dùng, liều lượng là tiêu đề LIÊN KIỀU (Quả); không có mục Kiêng kỵ/Thận trọng."
+ },
+ {
+  "id": "lai-phuc-tu",
+  "ket_qua": "co",
+  "chuyen_luan": "CẢI CỦ (Hạt)",
+  "trang_in": 1094,
+  "kieng_ky": [
+   "Cơ thể hư nhược, thuộc chân khí hư thì không được dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "lien-kieu",
+  "ket_qua": "co",
+  "chuyen_luan": "LIÊN KIỀU",
+  "trang_in": 1229,
+  "kieng_ky": [
+   "Không dùng cho người tỳ vị hư hàn, âm hư nội nhiệt, nhọt đã vỡ."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "lien-nhuc",
+  "ket_qua": "co",
+  "chuyen_luan": "SEN (Hạt)",
+  "trang_in": 1316,
+  "kieng_ky": [
+   "Thực nhiệt, táo bón không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": "Liều ở cuối trang 1315, Kiêng kỵ ở đầu trang 1316 (chuyên luận SEN (Hạt), trước SEN (Lá))."
+ },
+ {
+  "id": "loc-giac-giao",
+  "ket_qua": "co",
+  "chuyen_luan": "LỘC GIÁC GIAO",
+  "trang_in": 1235,
+  "kieng_ky": [
+   "Người thực nhiệt không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "long-dom-thao",
+  "ket_qua": "co",
+  "chuyen_luan": "LONG ĐỞM (Rễ và thân rễ)",
+  "trang_in": 1231,
+  "kieng_ky": [
+   "Tỳ vị hư hàn không dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "long-nhan",
+  "ket_qua": "co",
+  "chuyen_luan": "LONG NHÃN",
+  "trang_in": 1233,
+  "kieng_ky": [
+   "Không dùng cho người ở trong có đàm hỏa, thấp trệ, đàm ẩm."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "ma-de",
+  "ket_qua": "co",
+  "chuyen_luan": "MÃ ĐỀ (Lá)",
+  "trang_in": 1240,
+  "kieng_ky": [
+   "Phụ nữ có thai dùng phải thận trọng.",
+   "Người già thận kém, đái đêm nhiều không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": "Câu 'thận trọng' nằm trong mục Kiêng kỵ nên giữ ở kieng_ky."
+ },
+ {
+  "id": "ma-hoang",
+  "ket_qua": "co",
+  "chuyen_luan": "MA HOÀNG",
+  "trang_in": 1239,
+  "kieng_ky": [
+   "Dương hư tự ra mồ hôi, không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "mach-mon",
+  "ket_qua": "co",
+  "chuyen_luan": "MẠCH MÔN (Rễ)",
+  "trang_in": 1242,
+  "kieng_ky": [
+   "Tỳ vị hư hàn, ăn uống chậm tiêu, ỉa chảy không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "mach-nha",
+  "ket_qua": "co",
+  "chuyen_luan": "MẠCH NHA",
+  "trang_in": 1243,
+  "kieng_ky": [
+   "Phụ nữ có thai, hoặc đang thời kỳ cho con bú không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "man-trau",
+  "ket_qua": "co",
+  "chuyen_luan": "CỎ MẦN TRẦU",
+  "trang_in": 1116,
+  "kieng_ky": [
+   "Không có thực nhiệt không dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "mat-ong",
+  "ket_qua": "co",
+  "chuyen_luan": "MẬT ONG",
+  "trang_in": 1247,
+  "kieng_ky": [
+   "Sôi bụng, ỉa chảy hay đầy bụng, không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "mau-don-bi",
+  "ket_qua": "co",
+  "chuyen_luan": "MẪU ĐƠN BÌ (Vỏ rễ)",
+  "trang_in": 1248,
+  "kieng_ky": [
+   "Không dùng cho người tỳ vị hư hàn, ỉa chảy, kinh nguyệt ra nhiều, phụ nữ có thai."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "mau-le",
+  "ket_qua": "co",
+  "chuyen_luan": "MẪU LỆ",
+  "trang_in": 1249,
+  "kieng_ky": [
+   "Nếu âm hư mà không có hỏa và ỉa chảy thuộc hàn khí thì cấm dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "miet-giap",
+  "ket_qua": "co",
+  "chuyen_luan": "MIẾT GIÁP",
+  "trang_in": 1250,
+  "kieng_ky": [
+   "Hư mà không nhiệt, vị yếu hay nôn mửa, tỳ hư có tiết tả, phụ nữ có thai không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": "Liều ở cuối trang 1249, Kiêng kỵ ở đầu trang 1250."
+ },
+ {
+  "id": "moc-huong",
+  "ket_qua": "co",
+  "chuyen_luan": "MỘC HƯƠNG (Rễ)",
+  "trang_in": 1253,
+  "kieng_ky": [
+   "Các chứng bệnh do khí hư, huyết hư mà táo thì không dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "moc-qua",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "MỘC QUA (Quả)",
+  "trang_in": 1254,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": "Sau Cách dùng, liều lượng là tiêu đề MỘC TẶC; không có mục Kiêng kỵ/Thận trọng."
+ },
+ {
+  "id": "mot-duoc",
+  "ket_qua": "co",
+  "chuyen_luan": "MỘT DƯỢC (Gôm nhựa)",
+  "trang_in": 1255,
+  "kieng_ky": [
+   "Phụ nữ có thai, mụn nhọt đã vỡ không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "nga-truat",
+  "ket_qua": "co",
+  "chuyen_luan": "NGA TRUẬT (Thân rễ)",
+  "trang_in": 1261,
+  "kieng_ky": [
+   "Phụ nữ có thai không nên dùng.",
+   "Cơ thể hư yếu sau khi sinh có tích trệ không nên dùng, muốn dùng phải phối hợp với Nhân sâm, Bạch truật."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ }
+]

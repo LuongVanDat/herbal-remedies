@@ -1,0 +1,319 @@
+[
+ {
+  "id": "sai-ho-nam",
+  "ket_qua": "co",
+  "chuyen_luan": "LỨC (Lá) / LỨC (Rễ)",
+  "trang_in": 1237,
+  "kieng_ky": [
+   "Hư hỏa không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": "Cả LỨC (Lá) và LỨC (Rễ) cùng trang 1237 đều có mục Kiêng kỵ giống hệt: 'Hư hỏa không nên dùng.'"
+ },
+ {
+  "id": "sam-cau",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "SÂM CAU (Thân rễ)",
+  "trang_in": 1312,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": "Ngay sau Cách dùng, liều lượng là chuyên luận SÂM ĐẠI HÀNH (cũng có tên khác 'Sâm cau' nhưng là loài khác: Eleutherine subaphylla)."
+ },
+ {
+  "id": "sinh-dia",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "ĐỊA HOÀNG (Rễ)",
+  "trang_in": 1165,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": "ĐỊA HOÀNG (Rễ) không có mục Kiêng kỵ; THỤC ĐỊA là chuyên luận riêng."
+ },
+ {
+  "id": "son-thu",
+  "ket_qua": "co",
+  "chuyen_luan": "SƠN THÙ (Quả)",
+  "trang_in": 1319,
+  "kieng_ky": [
+   "Dùng thận trọng khi tiểu khó, ít."
+  ],
+  "than_trong": [],
+  "ghi_chu": "Nằm dưới tiêu đề 'Kiêng kỵ' (nội dung là lời thận trọng)."
+ },
+ {
+  "id": "son-tra",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "SƠN TRA (Quả)",
+  "trang_in": 1320,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "sung-huou",
+  "ket_qua": "co",
+  "chuyen_luan": "LỘC GIÁC",
+  "trang_in": 1234,
+  "kieng_ky": [
+   "Người thận hư có hỏa không nên dùng, người thượng tiêu có đờm nhiệt, trung vị có hỏa không nên uống."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "tam-that",
+  "ket_qua": "co",
+  "chuyen_luan": "TAM THẤT (Rễ củ)",
+  "trang_in": 1322,
+  "kieng_ky": [
+   "Phụ nữ có thai."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "tan-giao",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "TẦN GIAO (Rễ)",
+  "trang_in": 1327,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "tang-bach-bi",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "DÂU (Vỏ rễ)",
+  "trang_in": 1138,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "tang-chi",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "DÂU (Cành)",
+  "trang_in": 1136,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "tang-diep",
+  "ket_qua": "co",
+  "chuyen_luan": "DÂU (Lá)",
+  "trang_in": 1137,
+  "kieng_ky": [
+   "Bệnh hư hàn thì không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "tang-ky-sinh",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "TANG KÝ SINH",
+  "trang_in": 1323,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "tang-tham",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "DÂU (Quả)",
+  "trang_in": 1137,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "tao-nhan",
+  "ket_qua": "co",
+  "chuyen_luan": "TÁO (Hạt)",
+  "trang_in": 1324,
+  "kieng_ky": [
+   "Người thực tà uất hỏa không dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": "Mục Kiêng kỵ ở đầu cột phải trang 1324."
+ },
+ {
+  "id": "te-tan",
+  "ket_qua": "co",
+  "chuyen_luan": "TẾ TÂN (Rễ và Thân rễ)",
+  "trang_in": 1329,
+  "kieng_ky": [
+   "Không dùng phối hợp với Lê lô.",
+   "Dùng thận trọng với người âm hư hỏa vượng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "thach-cao",
+  "ket_qua": "co",
+  "chuyen_luan": "THẠCH CAO",
+  "trang_in": 1330,
+  "kieng_ky": [
+   "Chứng hư hàn không dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "thach-hoc",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "THẠCH HỘC (Thân)",
+  "trang_in": 1332,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "thach-xuong-bo",
+  "ket_qua": "co",
+  "chuyen_luan": "XƯƠNG BỒ",
+  "trang_in": 1383,
+  "kieng_ky": [
+   "Âm hư, hoạt tinh, ra nhiều mồ hôi, không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": "Chuyên luận XƯƠNG BỒ chung cho Thạch xương bồ lá to và Thủy xương bồ."
+ },
+ {
+  "id": "thang-ma",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "THĂNG MA (Thân rễ)",
+  "trang_in": 1337,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "thanh-bi",
+  "ket_qua": "co",
+  "chuyen_luan": "THANH BÌ",
+  "trang_in": 1334,
+  "kieng_ky": [
+   "Người can huyết hư không có khí trệ thì kiêng dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "thanh-hao",
+  "ket_qua": "co",
+  "chuyen_luan": "THANH CAO",
+  "trang_in": 1332,
+  "kieng_ky": [
+   "Người khí hư, ỉa lỏng không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": "Chuyên luận THANH CAO (Herba Artemisiae apiaceae), không phải THANH CAO HOA VÀNG ngay sau. Bản quét không thấy rõ dấu hỏi trên chữ 'ỉa' (in như 'ia'); chép theo chính tả chuẩn 'ỉa'."
+ },
+ {
+  "id": "thi-de",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "THỊ ĐẾ",
+  "trang_in": 1337,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "thien-ma",
+  "ket_qua": "co",
+  "chuyen_luan": "THIÊN MA (Thân rễ)",
+  "trang_in": 1339,
+  "kieng_ky": [
+   "Không dùng cho người âm hư."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "thien-mon-dong",
+  "ket_qua": "co",
+  "chuyen_luan": "THIÊN MÔN ĐÔNG (Rễ)",
+  "trang_in": 1339,
+  "kieng_ky": [
+   "Tỳ vị hư hàn, ỉa chảy không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": "Bản quét không thấy rõ dấu hỏi trên chữ 'ỉa' (in như 'ia'); chép theo chính tả chuẩn 'ỉa'."
+ },
+ {
+  "id": "thien-nien-kien",
+  "ket_qua": "co",
+  "chuyen_luan": "THIÊN NIÊN KIỆN (Thân rễ)",
+  "trang_in": 1340,
+  "kieng_ky": [
+   "Không dùng cho người âm hư hỏa vượng, mồm khô, họng đắng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "tho-phuc-linh",
+  "ket_qua": "co",
+  "chuyen_luan": "THỔ PHỤC LINH (Thân rễ)",
+  "trang_in": 1345,
+  "kieng_ky": [
+   "Không nên uống nước chè khi dùng thuốc, không dùng cho người có can thận âm hư."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "tho-ty-tu",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "THỎ TY TỬ",
+  "trang_in": 1342,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "thuc-dia",
+  "ket_qua": "co",
+  "chuyen_luan": "THỤC ĐỊA",
+  "trang_in": 1346,
+  "kieng_ky": [
+   "Kỵ sắt.",
+   "Tỳ vị hư hàn không dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "thuong-luc",
+  "ket_qua": "co",
+  "chuyen_luan": "THƯƠNG LỤC (Rễ củ)",
+  "trang_in": 1348,
+  "kieng_ky": [
+   "Không dùng cho phụ nữ có thai, người thủy thũng do tỳ hư."
+  ],
+  "than_trong": [],
+  "ghi_chu": "Tính vị ghi 'có độc'."
+ },
+ {
+  "id": "thuong-nhi-tu",
+  "ket_qua": "co",
+  "chuyen_luan": "KÉ ĐẦU NGỰA (Quả)",
+  "trang_in": 1211,
+  "kieng_ky": [
+   "Đau đầu do huyết hư không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "thuong-truat",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "THƯƠNG TRUẬT",
+  "trang_in": 1349,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": ""
+ }
+]

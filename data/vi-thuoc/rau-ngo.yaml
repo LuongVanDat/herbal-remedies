@@ -16,6 +16,14 @@ lieu_dung:
 doc_tinh:
   muc: chua_ro
   canh_bao: null
+kieng_ky:
+  - Không dùng cho các trường hợp hư hàn, đái dầm.
+than_trong: []
+kieng_ky_nguon:
+  ma: ddvn-5
+  trang: 1302
+  muc: Chuyên luận RÂU NGÔ
+  trang_thai: chua_doi_chieu
 pho_bien: null
 thay_the: []
 nguon:

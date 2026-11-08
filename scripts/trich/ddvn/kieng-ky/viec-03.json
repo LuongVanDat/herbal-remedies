@@ -1,0 +1,219 @@
+[
+ {
+  "id": "ha-diep",
+  "ten": "Hà diệp",
+  "ten_khoa_hoc": "Folium Nelumbinis nuciferae",
+  "chuyen_luan": "SEN (Lá)",
+  "trang_in_lieu": 1317
+ },
+ {
+  "id": "ha-kho-thao",
+  "ten": "Hạ khô thảo",
+  "ten_khoa_hoc": "Spica Prunellae",
+  "chuyen_luan": "HẠ KHÔ THẢO (Cụm quả)",
+  "trang_in_lieu": 1183
+ },
+ {
+  "id": "ha-thu-o-do",
+  "ten": "Hà thủ ô đỏ",
+  "ten_khoa_hoc": "Radix Fallopiae multiflorae",
+  "chuyen_luan": "HÀ THỦ Ô ĐỎ (Rễ củ)",
+  "trang_in_lieu": 1181
+ },
+ {
+  "id": "ha-thu-o-trang",
+  "ten": "Hà thủ ô trắng",
+  "ten_khoa_hoc": "Radix Streptocauli",
+  "chuyen_luan": "HÀ THỦ Ô TRẮNG (Rễ)",
+  "trang_in_lieu": 1182
+ },
+ {
+  "id": "hanh-nhan",
+  "ten": "Hạnh nhân",
+  "ten_khoa_hoc": "Semen Armeniacae amarum",
+  "chuyen_luan": "KHỔ HẠNH NHÂN",
+  "trang_in_lieu": 1215
+ },
+ {
+  "id": "hau-phac",
+  "ten": "Hậu phác",
+  "ten_khoa_hoc": "Cortex Magnoliae officinalis",
+  "chuyen_luan": "HẬU PHÁC",
+  "trang_in_lieu": 1184
+ },
+ {
+  "id": "hoac-huong",
+  "ten": "Hoắc hương",
+  "ten_khoa_hoc": "Herba Pogostemonis",
+  "chuyen_luan": "HOẮC HƯƠNG",
+  "trang_in_lieu": 1195
+ },
+ {
+  "id": "hoai-son",
+  "ten": "Hoài sơn",
+  "ten_khoa_hoc": "Tuber Dioscoreae persimilis",
+  "chuyen_luan": "HOÀI SƠN",
+  "trang_in_lieu": 1128
+ },
+ {
+  "id": "hoang-ba-nam",
+  "ten": "Hoàng bá nam",
+  "ten_khoa_hoc": "Cortex Oroxyli indici",
+  "chuyen_luan": "NÚC NÁC (Vỏ thân)",
+  "trang_in_lieu": 1286
+ },
+ {
+  "id": "hoang-ba",
+  "ten": "Hoàng bá",
+  "ten_khoa_hoc": "Cortex Phellodendri",
+  "chuyen_luan": "HOÀNG BÁ (Vỏ thân)",
+  "trang_in_lieu": 1185
+ },
+ {
+  "id": "hoang-cam",
+  "ten": "Hoàng cầm",
+  "ten_khoa_hoc": "Radix Scutellariae",
+  "chuyen_luan": "HOÀNG CẦM (Rễ)",
+  "trang_in_lieu": 1186
+ },
+ {
+  "id": "hoang-dang",
+  "ten": "Hoàng đằng",
+  "ten_khoa_hoc": "Caulis et Radix Fibraureae",
+  "chuyen_luan": "HOÀNG ĐẰNG (Thân và Rễ)",
+  "trang_in_lieu": 1188
+ },
+ {
+  "id": "hoang-ky",
+  "ten": "Hoàng kỳ",
+  "ten_khoa_hoc": "Radix Astragali membranacei",
+  "chuyen_luan": "HOÀNG KỲ (Rễ)",
+  "trang_in_lieu": 1190
+ },
+ {
+  "id": "hoang-lien",
+  "ten": "Hoàng liên",
+  "ten_khoa_hoc": "Rhizoma Coptidis",
+  "chuyen_luan": "HOÀNG LIÊN (Thân rễ)",
+  "trang_in_lieu": 1191
+ },
+ {
+  "id": "hoang-tinh",
+  "ten": "Hoàng tinh",
+  "ten_khoa_hoc": "Rhizoma Polygonati",
+  "chuyen_luan": "HOÀNG TINH (Thân rễ)",
+  "trang_in_lieu": 1193
+ },
+ {
+  "id": "hoat-thach",
+  "ten": "Hoạt thạch",
+  "ten_khoa_hoc": "Talcum",
+  "chuyen_luan": "HOẠT THẠCH",
+  "trang_in_lieu": 1194
+ },
+ {
+  "id": "hoe-hoa",
+  "ten": "Hòe hoa",
+  "ten_khoa_hoc": "Flos Styphnolobii japonici",
+  "chuyen_luan": "HÒE (Nụ hoa)",
+  "trang_in_lieu": 1196
+ },
+ {
+  "id": "hong-hoa",
+  "ten": "Hồng hoa",
+  "ten_khoa_hoc": "Flos Carthami tinctorii",
+  "chuyen_luan": "HỒNG HOA (Hoa)",
+  "trang_in_lieu": 1199
+ },
+ {
+  "id": "huong-gia-bi",
+  "ten": "Hương gia bì",
+  "ten_khoa_hoc": "Cortex Periplocae radicis",
+  "chuyen_luan": "HƯƠNG GIA BÌ (Vỏ rễ)",
+  "trang_in_lieu": 1202
+ },
+ {
+  "id": "huong-phu",
+  "ten": "Hương phụ",
+  "ten_khoa_hoc": "Rhizotna Cyperi",
+  "chuyen_luan": "HƯƠNG PHỤ (Thân rễ)",
+  "trang_in_lieu": 1206
+ },
+ {
+  "id": "huyen-ho",
+  "ten": "Huyền hồ",
+  "ten_khoa_hoc": "Tuber Corydalis",
+  "chuyen_luan": "DIÊN HỒ SÁCH (Rễ củ)",
+  "trang_in_lieu": 1141
+ },
+ {
+  "id": "huyen-sam",
+  "ten": "Huyền sâm",
+  "ten_khoa_hoc": "Radix Scrophulariae",
+  "chuyen_luan": "HUYỀN SÂM (Rễ)",
+  "trang_in_lieu": 1201
+ },
+ {
+  "id": "huyet-giac",
+  "ten": "Huyết giác",
+  "ten_khoa_hoc": "Lignum Dracaenae cambodianae",
+  "chuyen_luan": "HUYẾT GIÁC (Lõi gỗ)",
+  "trang_in_lieu": 1202
+ },
+ {
+  "id": "hy-thiem",
+  "ten": "Hy thiêm",
+  "ten_khoa_hoc": "Herba Siegesbeckiae",
+  "chuyen_luan": "HY THIÊM",
+  "trang_in_lieu": 1207
+ },
+ {
+  "id": "ich-mau",
+  "ten": "Ích mẫu",
+  "ten_khoa_hoc": "Herba Leonuri japonici",
+  "chuyen_luan": "ÍCH MẪU",
+  "trang_in_lieu": 1209
+ },
+ {
+  "id": "ich-tri-nhan",
+  "ten": "Ích trí nhân",
+  "ten_khoa_hoc": "Fructus Alpiniae oxyphyllae",
+  "chuyen_luan": "ÍCH TRÍ (Quả)",
+  "trang_in_lieu": 1210
+ },
+ {
+  "id": "ke-huyet-dang",
+  "ten": "Kê huyết đằng",
+  "ten_khoa_hoc": "Caulis Spatholobi suberecti",
+  "chuyen_luan": "KÊ HUYẾT ĐẰNG (Thân)",
+  "trang_in_lieu": 1212
+ },
+ {
+  "id": "ke-noi-kim",
+  "ten": "Kê nội kim",
+  "ten_khoa_hoc": "Endothelium Corneum Gigeriae Galli",
+  "chuyen_luan": "KÊ NỘI KIM",
+  "trang_in_lieu": 1212
+ },
+ {
+  "id": "kha-tu",
+  "ten": "Kha tử",
+  "ten_khoa_hoc": "Fructus Terminaliae chebulae",
+  "chuyen_luan": "KHA TỬ (Quả)",
+  "trang_in_lieu": 1213
+ },
+ {
+  "id": "khiem-thuc",
+  "ten": "Khiếm thực",
+  "ten_khoa_hoc": "Semen Euryales",
+  "chuyen_luan": "KHIẾM THỰC (Hạt)",
+  "trang_in_lieu": 1213
+ },
+ {
+  "id": "kho-sam",
+  "ten": "Khổ sâm",
+  "ten_khoa_hoc": "Folium et Ramulus Crotonis tonkinensis",
+  "chuyen_luan": "KHỔ SÂM (Lá và Cành)",
+  "trang_in_lieu": 1217
+ }
+]

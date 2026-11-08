@@ -1,0 +1,219 @@
+[
+ {
+  "id": "sai-ho-nam",
+  "ten": "Sài hồ nam",
+  "ten_khoa_hoc": "Radix et Folium Plucheae pteropodae",
+  "chuyen_luan": "LỨC (Lá) / LỨC (Rễ)",
+  "trang_in_lieu": 1237
+ },
+ {
+  "id": "sam-cau",
+  "ten": "Sâm cau",
+  "ten_khoa_hoc": "Rhizoma Curculiginis",
+  "chuyen_luan": "SÂM CAU (Thân rễ)",
+  "trang_in_lieu": 1312
+ },
+ {
+  "id": "sinh-dia",
+  "ten": "Sinh địa",
+  "ten_khoa_hoc": "Radix Rehmanniae glutinosae",
+  "chuyen_luan": "ĐỊA HOÀNG (Rễ)",
+  "trang_in_lieu": 1165
+ },
+ {
+  "id": "son-thu",
+  "ten": "Sơn thù",
+  "ten_khoa_hoc": "Fructus Corni officinalis",
+  "chuyen_luan": "SƠN THÙ (Quả)",
+  "trang_in_lieu": 1319
+ },
+ {
+  "id": "son-tra",
+  "ten": "Sơn tra",
+  "ten_khoa_hoc": "Fructus Mali",
+  "chuyen_luan": "SƠN TRA (Quả)",
+  "trang_in_lieu": 1320
+ },
+ {
+  "id": "sung-huou",
+  "ten": "Sừng hươu",
+  "ten_khoa_hoc": null,
+  "chuyen_luan": "LỘC GIÁC",
+  "trang_in_lieu": 1234
+ },
+ {
+  "id": "tam-that",
+  "ten": "Tam thất",
+  "ten_khoa_hoc": "Radix Panasis notoginseng",
+  "chuyen_luan": "TAM THẤT (Rễ củ)",
+  "trang_in_lieu": 1322
+ },
+ {
+  "id": "tan-giao",
+  "ten": "Tần giao",
+  "ten_khoa_hoc": "Radix Gentianae macrophyllae",
+  "chuyen_luan": "TẦN GIAO (Rễ)",
+  "trang_in_lieu": 1327
+ },
+ {
+  "id": "tang-bach-bi",
+  "ten": "Tang bạch bì",
+  "ten_khoa_hoc": "Cortex Mori albae radicis",
+  "chuyen_luan": "DÂU (Vỏ rễ)",
+  "trang_in_lieu": 1138
+ },
+ {
+  "id": "tang-chi",
+  "ten": "Tang chi",
+  "ten_khoa_hoc": "Ramulus Morri albae",
+  "chuyen_luan": "DÂU (Cành)",
+  "trang_in_lieu": 1136
+ },
+ {
+  "id": "tang-diep",
+  "ten": "Tang diệp",
+  "ten_khoa_hoc": "Folium Mori albae",
+  "chuyen_luan": "DÂU (Lá)",
+  "trang_in_lieu": 1137
+ },
+ {
+  "id": "tang-ky-sinh",
+  "ten": "Tang ký sinh",
+  "ten_khoa_hoc": "Herba Loranthi gracilifolii",
+  "chuyen_luan": "TANG KÝ SINH",
+  "trang_in_lieu": 1323
+ },
+ {
+  "id": "tang-tham",
+  "ten": "Tang thầm",
+  "ten_khoa_hoc": "Fructus Mori albae",
+  "chuyen_luan": "DÂU (Quả)",
+  "trang_in_lieu": 1137
+ },
+ {
+  "id": "tao-nhan",
+  "ten": "Táo nhân",
+  "ten_khoa_hoc": "Semen Ziziphi mauritianae",
+  "chuyen_luan": "TÁO (Hạt)",
+  "trang_in_lieu": 1324
+ },
+ {
+  "id": "te-tan",
+  "ten": "Tế tân",
+  "ten_khoa_hoc": "Radix et Rhizoma Asari",
+  "chuyen_luan": "TẾ TÂN (Rễ và Thân rễ)",
+  "trang_in_lieu": 1329
+ },
+ {
+  "id": "thach-cao",
+  "ten": "Thạch cao",
+  "ten_khoa_hoc": "Gypsum fibrosum",
+  "chuyen_luan": "THẠCH CAO",
+  "trang_in_lieu": 1330
+ },
+ {
+  "id": "thach-hoc",
+  "ten": "Thạch hộc",
+  "ten_khoa_hoc": "Herba Dendrobii",
+  "chuyen_luan": "THẠCH HỘC (Thân)",
+  "trang_in_lieu": 1332
+ },
+ {
+  "id": "thach-xuong-bo",
+  "ten": "Thạch xương bồ",
+  "ten_khoa_hoc": "Rhizoma Acori graminei",
+  "chuyen_luan": "XƯƠNG BỒ",
+  "trang_in_lieu": 1383
+ },
+ {
+  "id": "thang-ma",
+  "ten": "Thăng ma",
+  "ten_khoa_hoc": "Rhizoma Cimicifugae",
+  "chuyen_luan": "THĂNG MA (Thân rễ)",
+  "trang_in_lieu": 1337
+ },
+ {
+  "id": "thanh-bi",
+  "ten": "Thanh bì",
+  "ten_khoa_hoc": "Pericarpium Citri reticulatae viridae",
+  "chuyen_luan": "THANH BÌ",
+  "trang_in_lieu": 1334
+ },
+ {
+  "id": "thanh-hao",
+  "ten": "Thanh hao",
+  "ten_khoa_hoc": null,
+  "chuyen_luan": "THANH CAO",
+  "trang_in_lieu": 1332
+ },
+ {
+  "id": "thi-de",
+  "ten": "Thị đế",
+  "ten_khoa_hoc": "Calyx Kaki",
+  "chuyen_luan": "THỊ ĐẾ",
+  "trang_in_lieu": 1337
+ },
+ {
+  "id": "thien-ma",
+  "ten": "Thiên ma",
+  "ten_khoa_hoc": "Rhizoma Gastrodiae elatae",
+  "chuyen_luan": "THIÊN MA (Thân rễ)",
+  "trang_in_lieu": 1339
+ },
+ {
+  "id": "thien-mon-dong",
+  "ten": "Thiên môn đông",
+  "ten_khoa_hoc": "Radix Asparagi cochinchinensis",
+  "chuyen_luan": "THIÊN MÔN ĐÔNG (Rễ)",
+  "trang_in_lieu": 1339
+ },
+ {
+  "id": "thien-nien-kien",
+  "ten": "Thiên niên kiện",
+  "ten_khoa_hoc": "Rhizoma Homalomenae occultae",
+  "chuyen_luan": "THIÊN NIÊN KIỆN (Thân rễ)",
+  "trang_in_lieu": 1340
+ },
+ {
+  "id": "tho-phuc-linh",
+  "ten": "Thổ phục linh",
+  "ten_khoa_hoc": "Rhizoma Smilacis glabrae",
+  "chuyen_luan": "THỔ PHỤC LINH (Thân rễ)",
+  "trang_in_lieu": 1345
+ },
+ {
+  "id": "tho-ty-tu",
+  "ten": "Thỏ ty tử",
+  "ten_khoa_hoc": "Semen Cuscutae",
+  "chuyen_luan": "THỎ TY TỬ",
+  "trang_in_lieu": 1342
+ },
+ {
+  "id": "thuc-dia",
+  "ten": "Thục địa",
+  "ten_khoa_hoc": "Radix Rehmanniae glutinosae praeparata",
+  "chuyen_luan": "THỤC ĐỊA",
+  "trang_in_lieu": 1346
+ },
+ {
+  "id": "thuong-luc",
+  "ten": "Thương lục",
+  "ten_khoa_hoc": "Radix Phytolaccae",
+  "chuyen_luan": "THƯƠNG LỤC (Rễ củ)",
+  "trang_in_lieu": 1348
+ },
+ {
+  "id": "thuong-nhi-tu",
+  "ten": "Thương nhĩ tử",
+  "ten_khoa_hoc": "Fructus Xanthii strumarii",
+  "chuyen_luan": "KÉ ĐẦU NGỰA (Quả)",
+  "trang_in_lieu": 1211
+ },
+ {
+  "id": "thuong-truat",
+  "ten": "Thương truật",
+  "ten_khoa_hoc": "Rhizoma Atractylodis",
+  "chuyen_luan": "THƯƠNG TRUẬT",
+  "trang_in_lieu": 1349
+ }
+]

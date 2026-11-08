@@ -1,0 +1,316 @@
+[
+ {
+  "id": "thuy-xuong-bo",
+  "ket_qua": "co",
+  "chuyen_luan": "XƯƠNG BỒ",
+  "trang_in": 1383,
+  "kieng_ky": [
+   "Âm hư, hoạt tinh, ra nhiều mồ hôi, không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": "Chuyên luận XƯƠNG BỒ (Rhizoma Acori) gộp Thạch xương bồ lá to và Thủy xương bồ (Acorus calamus L. var. angustatus Bess.); mục Kiêng kỵ chung cho cả hai."
+ },
+ {
+  "id": "thuyen-thoai",
+  "ket_qua": "co",
+  "chuyen_luan": "THUYỀN THOÁI",
+  "trang_in": 1347,
+  "kieng_ky": [
+   "Chứng hư không do phong nhiệt, phụ nữ có thai không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "tien-hac-thao",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "LONG NHA THẢO",
+  "trang_in": 1232,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": "Sau Cách dùng, liều lượng là chuyên luận LONG NHÃN; không có mục Kiêng kỵ/Thận trọng."
+ },
+ {
+  "id": "tien-ho",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "TIỀN HỒ (Rễ)",
+  "trang_in": 1352,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": "Sau Cách dùng, liều lượng là chuyên luận TIỂU HỒI (Quả)."
+ },
+ {
+  "id": "tieu-hoi",
+  "ket_qua": "co",
+  "chuyen_luan": "TIỂU HỒI (Quả)",
+  "trang_in": 1353,
+  "kieng_ky": [
+   "Âm hư hỏa vượng, người có thực nhiệt không dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "to-diep",
+  "ket_qua": "co",
+  "chuyen_luan": "TÍA TÔ (Lá)",
+  "trang_in": 1350,
+  "kieng_ky": [
+   "Ho khan, ho ra máu, người âm hư hàn nhiệt, hoặc nóng trong, mồ hôi ra nhiều và không phải ngoại cảm phong hàn không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": "Bản in ghi 'âm hư hàn nhiệt' (chép đúng bản in)."
+ },
+ {
+  "id": "to-moc",
+  "ket_qua": "co",
+  "chuyen_luan": "TÔ MỘC",
+  "trang_in": 1355,
+  "kieng_ky": [
+   "Phụ nữ có thai, huyết hư không ứ trệ thì không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "to-nganh",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "TÍA TÔ (Thân)",
+  "trang_in": 1351,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": "Sau Cách dùng, liều lượng là chuyên luận TIỀN HỒ (Rễ)."
+ },
+ {
+  "id": "to-tu",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "TÍA TÔ (Quả)",
+  "trang_in": 1351,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": "Sau Cách dùng, liều lượng là chuyên luận TÍA TÔ (Thân)."
+ },
+ {
+  "id": "trac-bach-diep",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "TRẮC BÁCH DIỆP",
+  "trang_in": 1358,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": "Sau Cách dùng, liều lượng là chuyên luận TRẦN BÌ."
+ },
+ {
+  "id": "trach-ta",
+  "ket_qua": "co",
+  "chuyen_luan": "TRẠCH TẢ (Thân rễ)",
+  "trang_in": 1356,
+  "kieng_ky": [
+   "Thận hỏa hư, tiểu tiện không cầm, tỳ hư không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "tram",
+  "ket_qua": "co",
+  "chuyen_luan": "TRÀM (Cành và lá)",
+  "trang_in": 1357,
+  "kieng_ky": [
+   "Cơ thể suy nhược, tân dịch khô, táo bón, ho khan không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "tran-bi",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "TRẦN BÌ",
+  "trang_in": 1359,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": "Cách dùng, liều lượng ở cuối trang 1359; trang 1360 bắt đầu chuyên luận TRI MẪU (Thân rễ)."
+ },
+ {
+  "id": "tri-mau",
+  "ket_qua": "co",
+  "chuyen_luan": "TRI MẪU (Thân rễ)",
+  "trang_in": 1360,
+  "kieng_ky": [
+   "Người hư hàn không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "tru-linh",
+  "ket_qua": "co",
+  "chuyen_luan": "TRƯ LINH",
+  "trang_in": 1363,
+  "kieng_ky": [
+   "Người bệnh đau thận, phụ nữ có thai phải cẩn thận khi dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": "Nằm dưới tiêu đề Kiêng kỵ dù nội dung mang tính thận trọng."
+ },
+ {
+  "id": "tuc-doan",
+  "ket_qua": "co",
+  "chuyen_luan": "TỤC ĐOẠN (Rễ)",
+  "trang_in": 1364,
+  "kieng_ky": [
+   "Không dùng cho người âm hư hỏa vượng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "ty-ba-diep",
+  "ket_qua": "co",
+  "chuyen_luan": "TỲ BÀ DIỆP",
+  "trang_in": 1366,
+  "kieng_ky": [
+   "Nôn do hư hàn, ho do phong hàn không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "ty-giai",
+  "ket_qua": "co",
+  "chuyen_luan": "TỲ GIẢI (Thân rễ)",
+  "trang_in": 1366,
+  "kieng_ky": [
+   "Không dùng cho người âm hư hỏa vượng, đau lưng do thận hư."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "uy-linh-tien",
+  "ket_qua": "co",
+  "chuyen_luan": "UY LINH TIÊN (Rễ và Thân rễ)",
+  "trang_in": 1368,
+  "kieng_ky": [
+   "Huyết hư gây gân co rút, không phong thấp thực tà thì không dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": "Mục liều ở cuối trang 1367, Kiêng kỵ tràn sang đầu trang 1368."
+ },
+ {
+  "id": "vang-dang",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "VÀNG ĐẮNG (Thân)",
+  "trang_in": 1369,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": "Sau Cách dùng, liều lượng là chuyên luận VIỄN CHÍ (Rễ)."
+ },
+ {
+  "id": "vien-chi",
+  "ket_qua": "co",
+  "chuyen_luan": "VIỄN CHÍ (Rễ)",
+  "trang_in": 1370,
+  "kieng_ky": [
+   "Người viêm loét dạ dày, phụ nữ có thai, người trầm cảm không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "xa-sang-tu",
+  "ket_qua": "co",
+  "chuyen_luan": "XÀ SÀNG (Quả)",
+  "trang_in": 1376,
+  "kieng_ky": [
+   "Người thận suy, hỏa bốc hay cường dương không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "xa-tien-tu",
+  "ket_qua": "co",
+  "chuyen_luan": "MÃ ĐỀ (Hạt)",
+  "trang_in": 1239,
+  "kieng_ky": [
+   "Phụ nữ có thai dùng thận trọng."
+  ],
+  "than_trong": [],
+  "ghi_chu": "Nằm dưới tiêu đề Kiêng kỵ."
+ },
+ {
+  "id": "xich-thuoc",
+  "ket_qua": "co",
+  "chuyen_luan": "XÍCH THƯỢC (Rễ)",
+  "trang_in": 1378,
+  "kieng_ky": [
+   "Không dùng phối hợp với Lê lô."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "xuong-bo",
+  "ket_qua": "co",
+  "chuyen_luan": "XƯƠNG BỒ",
+  "trang_in": 1383,
+  "kieng_ky": [
+   "Âm hư, hoạt tinh, ra nhiều mồ hôi, không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": "Chuyên luận gộp Thạch xương bồ lá to và Thủy xương bồ."
+ },
+ {
+  "id": "xuyen-khung",
+  "ket_qua": "co",
+  "chuyen_luan": "XUYÊN KHUNG (Thân rễ)",
+  "trang_in": 1379,
+  "kieng_ky": [
+   "Người âm hư hỏa vượng không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "y-di",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "Ý DĨ (Hạt)",
+  "trang_in": 1384,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": "Chuyên luận kết thúc ở Cách dùng, liều lượng (trang 1384), không có mục Kiêng kỵ/Thận trọng."
+ },
+ {
+  "id": "ma-tien",
+  "ket_qua": "co",
+  "chuyen_luan": "MÃ TIỀN (Hạt)",
+  "trang_in": 1241,
+  "kieng_ky": [
+   "Không dùng cho phụ nữ có thai, cho con bú."
+  ],
+  "than_trong": [],
+  "ghi_chu": "Tự tìm qua chỉ mục (Mã tiền (hạt) tr. 1240); mục liều và kiêng kỵ ở tr. 1241. Trong mục Cách dùng, liều lượng có cảnh báo: 'Dùng Mã tiền chế.' 'Trẻ em từ 2 tuổi trở xuống không được dùng.' 'Không dùng quá liều quy định.' 'Dùng quá liều có thể ngộ độc: Chân tay máy động, kinh giật khó thở, nặng thì có thể hôn mê.' (không thuộc mục Kiêng kỵ nên không đưa vào mảng)."
+ },
+ {
+  "id": "cuc-hoa",
+  "ket_qua": "co",
+  "chuyen_luan": "CÚC HOA VÀNG (Cụm hoa)",
+  "trang_in": 1131,
+  "kieng_ky": [
+   "Tỳ vị hư hàn ia chảy không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": "Tự tìm qua chỉ mục (Cúc hoa vàng (cụm hoa) tr. 1130; Flos Chrysanthemi indici); mục liều và kiêng kỵ ở tr. 1131. PDF trang 1230 và 1231 đều là trang in 1131 (trùng lặp bản quét)."
+ },
+ {
+  "id": "hoang-nan-che",
+  "ket_qua": "co",
+  "chuyen_luan": "HOÀNG NÀN (Vỏ thân, vỏ cành)",
+  "trang_in": 1192,
+  "kieng_ky": [
+   "Không dùng cho phụ nữ có thai, đang cho con bú, trẻ em dưới 5 tuổi."
+  ],
+  "than_trong": [],
+  "ghi_chu": "Tự tìm qua chỉ mục (Hoàng nàn (vỏ thân, vỏ cành) tr. 1191; Cortex Strychni wallichianae); DĐVN V không có chuyên luận riêng 'Hoàng nàn chế' — chế biến nằm trong chuyên luận này. Liều: tối đa 0,1 g/lần, không quá 0,4 g/ngày."
+ }
+]

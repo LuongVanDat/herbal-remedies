@@ -1,0 +1,219 @@
+[
+ {
+  "id": "ba-kich",
+  "ten": "Ba kích",
+  "ten_khoa_hoc": "Radix Morindae officinalis",
+  "chuyen_luan": "BA KÍCH (Rễ)",
+  "trang_in_lieu": 1065
+ },
+ {
+  "id": "ba-tu-nhan",
+  "ten": "Bá tử nhân",
+  "ten_khoa_hoc": "Semen Platycladi orientalis",
+  "chuyen_luan": "BÁ TỬ NHÂN",
+  "trang_in_lieu": 1065
+ },
+ {
+  "id": "bac-ha",
+  "ten": "Bạc hà",
+  "ten_khoa_hoc": "Herba Menthae",
+  "chuyen_luan": "BẠC HÀ",
+  "trang_in_lieu": 1067
+ },
+ {
+  "id": "bach-bien-dau",
+  "ten": "Bạch biển đậu",
+  "ten_khoa_hoc": "Semen Lablab",
+  "chuyen_luan": "ĐẬU VÁN TRẮNG (Hạt)",
+  "trang_in_lieu": 1161
+ },
+ {
+  "id": "bach-chi",
+  "ten": "Bạch chỉ",
+  "ten_khoa_hoc": "Radix Angelicae dahuricae",
+  "chuyen_luan": "BẠCH CHỈ (Rễ)",
+  "trang_in_lieu": 1072
+ },
+ {
+  "id": "bach-cuong-tam",
+  "ten": "Bạch cương tàm",
+  "ten_khoa_hoc": "Bombyx Botryticatus",
+  "chuyen_luan": "TẰM VÔI",
+  "trang_in_lieu": 1326
+ },
+ {
+  "id": "bach-dau-khau",
+  "ten": "Bạch đậu khấu",
+  "ten_khoa_hoc": "Fructus Amomi",
+  "chuyen_luan": "BẠCH ĐẬU KHẤU (Quả)",
+  "trang_in_lieu": 1072
+ },
+ {
+  "id": "bach-gioi-tu",
+  "ten": "Bạch giới tử",
+  "ten_khoa_hoc": "Semen Sinapis albae",
+  "chuyen_luan": "BẠCH GIỚI TỬ",
+  "trang_in_lieu": 1074
+ },
+ {
+  "id": "bach-hoa-xa-thiet-thao",
+  "ten": "Bạch hoa xà thiệt thảo",
+  "ten_khoa_hoc": "Herba Hedyotis diffusae",
+  "chuyen_luan": "BẠCH HOA XÀ THIỆT THẢO",
+  "trang_in_lieu": 1075
+ },
+ {
+  "id": "bach-hop",
+  "ten": "Bách hợp",
+  "ten_khoa_hoc": "Bulbus Lilii",
+  "chuyen_luan": "BÁCH HỢP (Thân hành)",
+  "trang_in_lieu": 1070
+ },
+ {
+  "id": "bach-linh",
+  "ten": "Bạch linh",
+  "ten_khoa_hoc": "Poria",
+  "chuyen_luan": "PHỤC LINH",
+  "trang_in_lieu": 1293
+ },
+ {
+  "id": "bach-mao-can",
+  "ten": "Bạch mao căn",
+  "ten_khoa_hoc": "Rhizoma Imperatae cylindricae",
+  "chuyen_luan": "CỎ TRANH (Thân rễ)",
+  "trang_in_lieu": 1119
+ },
+ {
+  "id": "bach-thuoc",
+  "ten": "Bạch thược",
+  "ten_khoa_hoc": "Radix Paeoniae lactiflorae",
+  "chuyen_luan": "BẠCH THƯỢC (Rễ)",
+  "trang_in_lieu": 1077
+ },
+ {
+  "id": "bach-truat",
+  "ten": "Bạch truật",
+  "ten_khoa_hoc": "Rhizoma Alractylodis macrocephalae",
+  "chuyen_luan": "BẠCH TRUẬT (Thân rễ)",
+  "trang_in_lieu": 1078
+ },
+ {
+  "id": "ban-ha-bac",
+  "ten": "Bán hạ bắc",
+  "ten_khoa_hoc": "Rhizoma Pinelliae",
+  "chuyen_luan": "BÁN HẠ (Thân rễ)",
+  "trang_in_lieu": 1082
+ },
+ {
+  "id": "binh-lang",
+  "ten": "Binh lang",
+  "ten_khoa_hoc": "Semen Arecae Catechi",
+  "chuyen_luan": "CAU (Hạt)",
+  "trang_in_lieu": 1099
+ },
+ {
+  "id": "binh-voi",
+  "ten": "Bình vôi",
+  "ten_khoa_hoc": "Tuber Stephaniae",
+  "chuyen_luan": "BÌNH VÔI",
+  "trang_in_lieu": 1084
+ },
+ {
+  "id": "bo-chinh-sam",
+  "ten": "Bố chính sâm",
+  "ten_khoa_hoc": "Radix Abelmoschi sagittifolii",
+  "chuyen_luan": "SÂM BỐ CHÍNH (Rễ)",
+  "trang_in_lieu": 1311
+ },
+ {
+  "id": "bo-cong-anh",
+  "ten": "Bồ công anh",
+  "ten_khoa_hoc": "Herba Lactucae indicae",
+  "chuyen_luan": "BỒ CÔNG ANH",
+  "trang_in_lieu": 1086
+ },
+ {
+  "id": "bo-ket-qua",
+  "ten": "Bồ kết (quả)",
+  "ten_khoa_hoc": "Fructus Gleditsiae australis",
+  "chuyen_luan": "BỒ KẾT (Quả)",
+  "trang_in_lieu": 1088
+ },
+ {
+  "id": "ca-gai-leo",
+  "ten": "Cà gai leo",
+  "ten_khoa_hoc": "Herba Solani procumbensis",
+  "chuyen_luan": "CÀ GAI LEO",
+  "trang_in_lieu": 1093
+ },
+ {
+  "id": "cam-thao-dat",
+  "ten": "Cam thảo đất",
+  "ten_khoa_hoc": "Herba et radix Scopariae",
+  "chuyen_luan": "CAM THẢO ĐẤT",
+  "trang_in_lieu": 1097
+ },
+ {
+  "id": "cam-thao",
+  "ten": "Cam thảo",
+  "ten_khoa_hoc": "Radix et Rhizoma Glycyrrhizae",
+  "chuyen_luan": "CAM THẢO (Rễ và thân rễ)",
+  "trang_in_lieu": 1096
+ },
+ {
+  "id": "can-khuong",
+  "ten": "Can khương",
+  "ten_khoa_hoc": "Rhizoma Zingiberis",
+  "chuyen_luan": "GỪNG (Thân rễ)",
+  "trang_in_lieu": 1179
+ },
+ {
+  "id": "cat-can",
+  "ten": "Cát căn",
+  "ten_khoa_hoc": "Radix Puerariae thomsonii",
+  "chuyen_luan": "SẮN DÂY (Rễ củ)",
+  "trang_in_lieu": 1310
+ },
+ {
+  "id": "cat-canh",
+  "ten": "Cát cánh",
+  "ten_khoa_hoc": "grandiflori Radix Platycodi",
+  "chuyen_luan": "CÁT CÁNH (Rễ)",
+  "trang_in_lieu": 1102
+ },
+ {
+  "id": "cat-sam",
+  "ten": "Cát sâm",
+  "ten_khoa_hoc": "Radix Mellettiae speciosae",
+  "chuyen_luan": "CÁT SÂM (Rễ)",
+  "trang_in_lieu": 1102
+ },
+ {
+  "id": "cau-dang",
+  "ten": "Câu đằng",
+  "ten_khoa_hoc": "Ramulus cum unco Uncariae",
+  "chuyen_luan": "CÂU ĐẰNG",
+  "trang_in_lieu": 1105
+ },
+ {
+  "id": "cau-ky-tu",
+  "ten": "Câu kỷ tử",
+  "ten_khoa_hoc": "Fructus Lycii",
+  "chuyen_luan": "CÂU KỶ TỬ",
+  "trang_in_lieu": 1106
+ },
+ {
+  "id": "cau-tich",
+  "ten": "Cẩu tích",
+  "ten_khoa_hoc": "Rhizoma Cibotii",
+  "chuyen_luan": "CẨU TÍCH (Thân rễ)",
+  "trang_in_lieu": 1107
+ },
+ {
+  "id": "che-dang",
+  "ten": "Chè đắng",
+  "ten_khoa_hoc": "Folium Ilexi kaushii",
+  "chuyen_luan": "CHÈ ĐẮNG (Lá)",
+  "trang_in_lieu": 1109
+ }
+]

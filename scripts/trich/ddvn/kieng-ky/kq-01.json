@@ -1,0 +1,329 @@
+[
+ {
+  "id": "ba-kich",
+  "ket_qua": "co",
+  "chuyen_luan": "BA KÍCH (Rễ)",
+  "trang_in": 1065,
+  "kieng_ky": [
+   "Âm hư hỏa vượng, táo bón không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "ba-tu-nhan",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "BÁ TỬ NHÂN",
+  "trang_in": 1065,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": "Sau mục liều (cuối trang 1065) là chuyên luận BẠC HÀ (trang 1066)."
+ },
+ {
+  "id": "bac-ha",
+  "ket_qua": "co",
+  "chuyen_luan": "BẠC HÀ",
+  "trang_in": 1067,
+  "kieng_ky": [
+   "Người khí hư huyết táo, mồ hôi nhiều, trẻ em dưới 1 tuổi không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "bach-bien-dau",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "ĐẬU VÁN TRẮNG (Hạt)",
+  "trang_in": 1161,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": "Sau mục liều là chuyên luận ĐẬU XANH (Hạt)."
+ },
+ {
+  "id": "bach-chi",
+  "ket_qua": "co",
+  "chuyen_luan": "BẠCH CHỈ (Rễ)",
+  "trang_in": 1072,
+  "kieng_ky": [
+   "Âm hư hỏa vượng, nhiệt thịnh không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "bach-cuong-tam",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "TẰM VÔI",
+  "trang_in": 1326,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": "Sau mục liều là chuyên luận TẦN GIAO (Rễ)."
+ },
+ {
+  "id": "bach-dau-khau",
+  "ket_qua": "co",
+  "chuyen_luan": "BẠCH ĐẬU KHẤU (Quả)",
+  "trang_in": 1072,
+  "kieng_ky": [
+   "Trường vị thực nhiệt, táo bón không dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "bach-gioi-tu",
+  "ket_qua": "co",
+  "chuyen_luan": "BẠCH GIỚI TỬ",
+  "trang_in": 1074,
+  "kieng_ky": [
+   "Phế hư, ho khan không dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "bach-hoa-xa-thiet-thao",
+  "ket_qua": "co",
+  "chuyen_luan": "BẠCH HOA XÀ THIỆT THẢO",
+  "trang_in": 1075,
+  "kieng_ky": [
+   "Không dùng cho phụ nữ có thai."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "bach-hop",
+  "ket_qua": "co",
+  "chuyen_luan": "BÁCH HỢP (Thân hành)",
+  "trang_in": 1070,
+  "kieng_ky": [
+   "Trúng hàn (cảm lạnh), hàn thấp ứ trệ, tỳ, thận dương suy không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "bach-linh",
+  "ket_qua": "co",
+  "chuyen_luan": "PHỤC LINH",
+  "trang_in": 1293,
+  "kieng_ky": [
+   "Âm hư thấp nhiệt không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "bach-mao-can",
+  "ket_qua": "co",
+  "chuyen_luan": "CỎ TRANH (Thân rễ)",
+  "trang_in": 1119,
+  "kieng_ky": [
+   "Người hư hỏa, không thực nhiệt, kiêng dùng.",
+   "Phụ nữ có thai, dùng thận trọng."
+  ],
+  "than_trong": [],
+  "ghi_chu": "Cả hai câu nằm dưới tiêu đề 'Kiêng kỵ'."
+ },
+ {
+  "id": "bach-thuoc",
+  "ket_qua": "co",
+  "chuyen_luan": "BẠCH THƯỢC (Rễ)",
+  "trang_in": 1077,
+  "kieng_ky": [
+   "Đầy bụng không nên dùng.",
+   "Không dùng cùng Lê lô."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "bach-truat",
+  "ket_qua": "co",
+  "chuyen_luan": "BẠCH TRUẬT (Thân rễ)",
+  "trang_in": 1078,
+  "kieng_ky": [
+   "Âm hư nội nhiệt, tân dịch hư hao gây đại tiện táo, không dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "ban-ha-bac",
+  "ket_qua": "co",
+  "chuyen_luan": "BÁN HẠ (Thân rễ)",
+  "trang_in": 1082,
+  "kieng_ky": [
+   "Âm huyết hư, tân dịch kém và người có thai không nên dùng.",
+   "Không kết hợp với các thuốc loại Ô đầu."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "binh-lang",
+  "ket_qua": "co",
+  "chuyen_luan": "CAU (Hạt)",
+  "trang_in": 1099,
+  "kieng_ky": [
+   "Cơ thể hư nhược không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "binh-voi",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "BÌNH VÔI",
+  "trang_in": 1084,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": "Sau mục liều là chuyên luận BỒ BỒ."
+ },
+ {
+  "id": "bo-chinh-sam",
+  "ket_qua": "co",
+  "chuyen_luan": "SÂM BỐ CHÍNH (Rễ)",
+  "trang_in": 1311,
+  "kieng_ky": [
+   "Thể tạng hư hàn, phải chích gừng.",
+   "Không dùng chung với Lê lô."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "bo-cong-anh",
+  "ket_qua": "co",
+  "chuyen_luan": "BỒ CÔNG ANH",
+  "trang_in": 1086,
+  "kieng_ky": [
+   "Các chứng âm hư hoặc tràng nhạc, ung nhọt đã vỡ cấm dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "bo-ket-qua",
+  "ket_qua": "co",
+  "chuyen_luan": "BỒ KẾT (Quả)",
+  "trang_in": 1088,
+  "kieng_ky": [
+   "Có thai hoặc thổ huyết, khạc ra huyết cấm dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": "Mục liều cuối cột trái, 'Kiêng kỵ' đầu cột phải trang 1088."
+ },
+ {
+  "id": "ca-gai-leo",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "CÀ GAI LEO",
+  "trang_in": 1093,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": "Sau mục liều là chuyên luận CÁ NGỰA."
+ },
+ {
+  "id": "cam-thao-dat",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "CAM THẢO NAM",
+  "trang_in": 1097,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": "Tiêu đề chuyên luận in là 'CAM THẢO NAM' (Herba et Radix Scopariae; tên khác Cam thảo đất). Sau mục liều là chuyên luận CAU (Hạt)."
+ },
+ {
+  "id": "cam-thao",
+  "ket_qua": "co",
+  "chuyen_luan": "CAM THẢO (Rễ và thân rễ)",
+  "trang_in": 1096,
+  "kieng_ky": [
+   "Không dùng chung với các vị Đại kích, Nguyên hoa, Hải tảo, Cam toại."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "can-khuong",
+  "ket_qua": "co",
+  "chuyen_luan": "GỪNG (Thân rễ)",
+  "trang_in": 1179,
+  "kieng_ky": [
+   "Âm hư nội nhiệt sinh ho, biểu hư ra mồ hôi nhiều hoặc mất máu không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": "Chuyên luận GỪNG (Thân rễ), tên khác Can khương."
+ },
+ {
+  "id": "cat-can",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "SẮN DÂY (Rễ củ)",
+  "trang_in": 1310,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": "Sau mục liều là chuyên luận SÂM BỐ CHÍNH (Rễ)."
+ },
+ {
+  "id": "cat-canh",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "CÁT CÁNH (Rễ)",
+  "trang_in": 1102,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": "Sau mục liều là chuyên luận CÁT SÂM (Rễ)."
+ },
+ {
+  "id": "cat-sam",
+  "ket_qua": "co",
+  "chuyen_luan": "CÁT SÂM (Rễ)",
+  "trang_in": 1102,
+  "kieng_ky": [
+   "Không dùng chung với Lê lô; đang nôn mửa, ỉa chảy do lạnh. không phải âm hư, phổi ráo, không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": "Bản in có dấu chấm sau 'lạnh' rồi chữ thường 'không' — giữ nguyên như bản in."
+ },
+ {
+  "id": "cau-dang",
+  "ket_qua": "khong_co",
+  "chuyen_luan": "CÂU ĐẰNG",
+  "trang_in": 1105,
+  "kieng_ky": [],
+  "than_trong": [],
+  "ghi_chu": "Sau mục liều (cuối cột trái) là chuyên luận CÂU KỶ TỬ."
+ },
+ {
+  "id": "cau-ky-tu",
+  "ket_qua": "co",
+  "chuyen_luan": "CÂU KỶ TỬ",
+  "trang_in": 1106,
+  "kieng_ky": [
+   "Tỳ vị hư yếu, đại tiện sống phân hoặc phân lỏng không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "cau-tich",
+  "ket_qua": "co",
+  "chuyen_luan": "CẨU TÍCH (Thân rễ)",
+  "trang_in": 1107,
+  "kieng_ky": [
+   "Thận hư nhiệt, nước tiểu vàng không nên dùng."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ },
+ {
+  "id": "che-dang",
+  "ket_qua": "co",
+  "chuyen_luan": "CHÈ ĐẮNG (Lá)",
+  "trang_in": 1109,
+  "kieng_ky": [
+   "Vì vị thuốc rất đắng nên không nên dùng liều quá cao và thời gian dài sẽ ảnh hưởng đến tiêu hóa."
+  ],
+  "than_trong": [],
+  "ghi_chu": ""
+ }
+]

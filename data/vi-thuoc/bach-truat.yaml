@@ -17,6 +17,14 @@ lieu_dung:
 doc_tinh:
   muc: chua_ro
   canh_bao: null
+kieng_ky:
+  - Âm hư nội nhiệt, tân dịch hư hao gây đại tiện táo, không dùng.
+than_trong: []
+kieng_ky_nguon:
+  ma: ddvn-5
+  trang: 1078
+  muc: Chuyên luận BẠCH TRUẬT (Thân rễ)
+  trang_thai: chua_doi_chieu
 pho_bien: null
 thay_the: []
 nguon:

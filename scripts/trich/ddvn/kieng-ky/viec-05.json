@@ -1,0 +1,219 @@
+[
+ {
+  "id": "ngai-cuu",
+  "ten": "Ngải cứu",
+  "ten_khoa_hoc": "Herba Artemisiae vulgaris",
+  "chuyen_luan": "NGẢI CỨU",
+  "trang_in_lieu": 1263
+ },
+ {
+  "id": "ngo-thu-du",
+  "ten": "Ngô thù du",
+  "ten_khoa_hoc": "Fructus Evodiae rutaecarpae",
+  "chuyen_luan": "NGÔ THÙ DU (Quả)",
+  "trang_in_lieu": 1269
+ },
+ {
+  "id": "ngoc-truc",
+  "ten": "Ngọc trúc",
+  "ten_khoa_hoc": "Rhizoma Polygonati odorati",
+  "chuyen_luan": "NGỌC TRÚC (Thân rễ)",
+  "trang_in_lieu": 1266
+ },
+ {
+  "id": "ngu-vi-tu",
+  "ten": "Ngũ vị tử",
+  "ten_khoa_hoc": "Fructus Schisandrae chinensis",
+  "chuyen_luan": "NGŨ VỊ TỬ",
+  "trang_in_lieu": 1274
+ },
+ {
+  "id": "nguu-bang-tu",
+  "ten": "Ngưu bàng tử",
+  "ten_khoa_hoc": "Semen Arctii lappae",
+  "chuyen_luan": "NGƯU BÀNG (Quả)",
+  "trang_in_lieu": 1275
+ },
+ {
+  "id": "nguu-tat",
+  "ten": "Ngưu tất",
+  "ten_khoa_hoc": "Radix Achyranthis bidentatae",
+  "chuyen_luan": "NGƯU TẤT (Rễ)",
+  "trang_in_lieu": 1276
+ },
+ {
+  "id": "nhan-sam",
+  "ten": "Nhân sâm",
+  "ten_khoa_hoc": "Rhizoma et Radix Ginseng",
+  "chuyen_luan": "NHÂN SÂM (Thân rễ và Rễ)",
+  "trang_in_lieu": 1280
+ },
+ {
+  "id": "nhan-tran",
+  "ten": "Nhân trần",
+  "ten_khoa_hoc": "Herba Adenosmatis caerulei",
+  "chuyen_luan": "NHÂN TRẦN",
+  "trang_in_lieu": 1281
+ },
+ {
+  "id": "nhu-huong",
+  "ten": "Nhũ hương",
+  "ten_khoa_hoc": "Gummi resina Olibanum",
+  "chuyen_luan": "NHŨ HƯƠNG (Gôm nhựa)",
+  "trang_in_lieu": 1283
+ },
+ {
+  "id": "nhuc-dau-khau",
+  "ten": "Nhục đậu khấu",
+  "ten_khoa_hoc": "Semen Myristicae",
+  "chuyen_luan": "NHỤC ĐẬU KHẤU (Hạt)",
+  "trang_in_lieu": 1284
+ },
+ {
+  "id": "nhuc-thung-dung",
+  "ten": "Nhục thung dung",
+  "ten_khoa_hoc": "Herba Cistanches",
+  "chuyen_luan": "NHỤC THUNG DUNG (Thân)",
+  "trang_in_lieu": 1285
+ },
+ {
+  "id": "o-duoc",
+  "ten": "Ô dược",
+  "ten_khoa_hoc": "Radix Linderae",
+  "chuyen_luan": "Ô DƯỢC (Rễ)",
+  "trang_in_lieu": 1288
+ },
+ {
+  "id": "o-mai",
+  "ten": "Ô mai",
+  "ten_khoa_hoc": "Fructus Armeniacae praeparatum",
+  "chuyen_luan": "MƠ MUỐI",
+  "trang_in_lieu": 1256
+ },
+ {
+  "id": "o-tac-cot",
+  "ten": "Ô tặc cốt",
+  "ten_khoa_hoc": "Os Sepiae",
+  "chuyen_luan": "MAI MỰC",
+  "trang_in_lieu": 1244
+ },
+ {
+  "id": "pha-co-chi",
+  "ten": "Phá cố chỉ",
+  "ten_khoa_hoc": "Fructus Psoraleae corylifoliae",
+  "chuyen_luan": "BỔ CỐT CHỈ (Quả)",
+  "trang_in_lieu": 1089
+ },
+ {
+  "id": "phong-phong",
+  "ten": "Phòng phong",
+  "ten_khoa_hoc": "Radix Saposhnikoviae divaricatae",
+  "chuyen_luan": "PHÒNG PHONG (Rễ)",
+  "trang_in_lieu": 1291
+ },
+ {
+  "id": "phu-binh",
+  "ten": "Phù bình",
+  "ten_khoa_hoc": "Herba Pistiae",
+  "chuyen_luan": "ĐẠI PHÙ BÌNH",
+  "trang_in_lieu": 1151
+ },
+ {
+  "id": "phu-tu-che",
+  "ten": "Phụ tử chế",
+  "ten_khoa_hoc": "Radix Aconiti lateralis praeparata",
+  "chuyen_luan": "PHỤ TỬ",
+  "trang_in_lieu": 1292
+ },
+ {
+  "id": "qua-lau-nhan",
+  "ten": "Qua lâu nhân",
+  "ten_khoa_hoc": "Semen Trichosanthis",
+  "chuyen_luan": "QUA LÂU (Hạt)",
+  "trang_in_lieu": 1294
+ },
+ {
+  "id": "que-chi",
+  "ten": "Quế chi",
+  "ten_khoa_hoc": "Ramulus Cinnamomi",
+  "chuyen_luan": "QUẾ (Cành)",
+  "trang_in_lieu": 1296
+ },
+ {
+  "id": "que-nhuc",
+  "ten": "Quế nhục",
+  "ten_khoa_hoc": "Cortex Cinnamomi",
+  "chuyen_luan": "QUẾ (Vỏ thân, vỏ cành)",
+  "trang_in_lieu": 1297
+ },
+ {
+  "id": "quy-ban",
+  "ten": "Quy bản",
+  "ten_khoa_hoc": "Carapax Testudinis",
+  "chuyen_luan": "QUI GIÁP VÀ QUI BẢN",
+  "trang_in_lieu": 1298
+ },
+ {
+  "id": "rau-dang-dat",
+  "ten": "Rau đắng đất",
+  "ten_khoa_hoc": null,
+  "chuyen_luan": "RAU ĐẮNG ĐẤT",
+  "trang_in_lieu": 1299
+ },
+ {
+  "id": "rau-ma",
+  "ten": "Rau má",
+  "ten_khoa_hoc": "Herba Centellae asiaticae",
+  "chuyen_luan": "RAU MÁ",
+  "trang_in_lieu": 1300
+ },
+ {
+  "id": "rau-meo",
+  "ten": "Râu mèo",
+  "ten_khoa_hoc": "Herba Orthosiphonis spiralis",
+  "chuyen_luan": "RÂU MÈO",
+  "trang_in_lieu": 1301
+ },
+ {
+  "id": "rau-ngo",
+  "ten": "Râu ngô",
+  "ten_khoa_hoc": "Styli et Stigmata Maydis",
+  "chuyen_luan": "RÂU NGÔ",
+  "trang_in_lieu": 1302
+ },
+ {
+  "id": "rau-sam",
+  "ten": "Rau sam",
+  "ten_khoa_hoc": "Herba Portulacae oleraceae",
+  "chuyen_luan": "RAU SAM",
+  "trang_in_lieu": 1300
+ },
+ {
+  "id": "rieng",
+  "ten": "Riềng",
+  "ten_khoa_hoc": "Rhizoma Alpiniae officinari",
+  "chuyen_luan": "RIỀNG (Thân rễ)",
+  "trang_in_lieu": 1304
+ },
+ {
+  "id": "sa-nhan",
+  "ten": "Sa nhân",
+  "ten_khoa_hoc": "Fructus Amomi",
+  "chuyen_luan": "SA NHÂN (Quả)",
+  "trang_in_lieu": 1306
+ },
+ {
+  "id": "sa-sam",
+  "ten": "Sa sâm",
+  "ten_khoa_hoc": "Radix Glehniae",
+  "chuyen_luan": "SA SÂM (Rễ)",
+  "trang_in_lieu": 1306
+ },
+ {
+  "id": "sai-ho-bac",
+  "ten": "Sài hồ bắc",
+  "ten_khoa_hoc": "Radix Bupleuri",
+  "chuyen_luan": "SÀI HỒ (Rễ)",
+  "trang_in_lieu": 1308
+ }
+]

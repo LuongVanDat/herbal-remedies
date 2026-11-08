@@ -17,6 +17,14 @@ lieu_dung:
 doc_tinh:
   muc: chua_ro
   canh_bao: null
+kieng_ky:
+  - Không nên uống nước chè khi dùng thuốc, không dùng cho người có can thận âm hư.
+than_trong: []
+kieng_ky_nguon:
+  ma: ddvn-5
+  trang: 1345
+  muc: Chuyên luận THỔ PHỤC LINH (Thân rễ)
+  trang_thai: chua_doi_chieu
 pho_bien: null
 thay_the: []
 nguon:

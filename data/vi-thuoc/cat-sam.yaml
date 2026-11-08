@@ -17,6 +17,14 @@ lieu_dung:
 doc_tinh:
   muc: chua_ro
   canh_bao: null
+kieng_ky:
+  - Không dùng chung với Lê lô; đang nôn mửa, ỉa chảy do lạnh. không phải âm hư, phổi ráo, không nên dùng.
+than_trong: []
+kieng_ky_nguon:
+  ma: ddvn-5
+  trang: 1102
+  muc: Chuyên luận CÁT SÂM (Rễ)
+  trang_thai: chua_doi_chieu
 pho_bien: null
 thay_the: []
 nguon:

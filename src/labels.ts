@@ -24,3 +24,15 @@ export const coNhanDoc = (v: ViThuoc) => v.doc_tinh.muc === 'it' || coDoc(v)
 
 /** "6–12g" hoặc "4g" khi liều tối thiểu = tối đa. */
 export const khoangLieu = (l: { min_g: number; max_g: number }) => (l.min_g === l.max_g ? `${l.min_g}g` : `${l.min_g}–${l.max_g}g`)
+
+const RE_THAI = /có thai|mang thai|thai phụ|phụ nữ mang/i
+const RE_THAN_TRONG = /thận trọng|cẩn thận/i
+/**
+ * Mức lưu ý khi có thai của một vị, xét từng câu nhắc tới thai: câu dưới mục Kiêng kỵ là "kiêng dùng" trừ khi
+ * chính câu đó chỉ nói "thận trọng/cẩn thận" (DĐVN đôi khi đặt câu thận trọng dưới tiêu đề Kiêng kỵ).
+ */
+export const luuYThai = (v: { kieng_ky: string[]; than_trong: string[] }): 'kieng_dung' | 'than_trong' | null => {
+  if (v.kieng_ky.some((k) => RE_THAI.test(k) && !RE_THAN_TRONG.test(k))) return 'kieng_dung'
+  return [...v.kieng_ky, ...v.than_trong].some((k) => RE_THAI.test(k)) ? 'than_trong' : null
+}
+export const LUU_Y_THAI = { kieng_dung: 'kiêng dùng', than_trong: 'thận trọng' } as const

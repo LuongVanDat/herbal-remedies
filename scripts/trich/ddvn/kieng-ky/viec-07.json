@@ -1,0 +1,212 @@
+[
+ {
+  "id": "thuy-xuong-bo",
+  "ten": "Thủy xương bồ",
+  "ten_khoa_hoc": "Rhizoma Acori calami",
+  "chuyen_luan": "XƯƠNG BỒ",
+  "trang_in_lieu": 1383
+ },
+ {
+  "id": "thuyen-thoai",
+  "ten": "Thuyền thoái",
+  "ten_khoa_hoc": "Periostracum Cicadae",
+  "chuyen_luan": "THUYỀN THOÁI",
+  "trang_in_lieu": 1347
+ },
+ {
+  "id": "tien-hac-thao",
+  "ten": "Tiên hạc thảo",
+  "ten_khoa_hoc": "Herba Agrimoniae",
+  "chuyen_luan": "LONG NHA THẢO",
+  "trang_in_lieu": 1232
+ },
+ {
+  "id": "tien-ho",
+  "ten": "Tiền hồ",
+  "ten_khoa_hoc": "Radix Peucedani",
+  "chuyen_luan": "TIỀN HỒ (Rễ)",
+  "trang_in_lieu": 1352
+ },
+ {
+  "id": "tieu-hoi",
+  "ten": "Tiểu hồi",
+  "ten_khoa_hoc": "Fructus Foeniculi",
+  "chuyen_luan": "TIỂU HỒI (Quả)",
+  "trang_in_lieu": 1353
+ },
+ {
+  "id": "to-diep",
+  "ten": "Tô diệp",
+  "ten_khoa_hoc": "Folium Perillae",
+  "chuyen_luan": "TÍA TÔ (Lá)",
+  "trang_in_lieu": 1350
+ },
+ {
+  "id": "to-moc",
+  "ten": "Tô mộc",
+  "ten_khoa_hoc": "Lignum sappan",
+  "chuyen_luan": "TÔ MỘC",
+  "trang_in_lieu": 1355
+ },
+ {
+  "id": "to-nganh",
+  "ten": "Tô ngạnh",
+  "ten_khoa_hoc": "Caulis Perillae",
+  "chuyen_luan": "TÍA TÔ (Thân)",
+  "trang_in_lieu": 1351
+ },
+ {
+  "id": "to-tu",
+  "ten": "Tô tử",
+  "ten_khoa_hoc": "Semen Perillae frutescensis",
+  "chuyen_luan": "TÍA TÔ (Quả)",
+  "trang_in_lieu": 1351
+ },
+ {
+  "id": "trac-bach-diep",
+  "ten": "Trắc bách diệp",
+  "ten_khoa_hoc": "Cacumen Platycladi",
+  "chuyen_luan": "TRẮC BÁCH DIỆP",
+  "trang_in_lieu": 1358
+ },
+ {
+  "id": "trach-ta",
+  "ten": "Trạch tả",
+  "ten_khoa_hoc": "Rhizoma Alismatis",
+  "chuyen_luan": "TRẠCH TẢ (Thân rễ)",
+  "trang_in_lieu": 1356
+ },
+ {
+  "id": "tram",
+  "ten": "Tràm",
+  "ten_khoa_hoc": "Ramulus cum Folium Melaleucae",
+  "chuyen_luan": "TRÀM (Cành và lá)",
+  "trang_in_lieu": 1357
+ },
+ {
+  "id": "tran-bi",
+  "ten": "Trần bì",
+  "ten_khoa_hoc": "Pericarpium Citri reticulatae perenne",
+  "chuyen_luan": "TRẦN BÌ",
+  "trang_in_lieu": 1359
+ },
+ {
+  "id": "tri-mau",
+  "ten": "Tri mẫu",
+  "ten_khoa_hoc": "Rhizoma Anemarrhenae",
+  "chuyen_luan": "TRI MẪU (Thân rễ)",
+  "trang_in_lieu": 1360
+ },
+ {
+  "id": "tru-linh",
+  "ten": "Trư linh",
+  "ten_khoa_hoc": "Polyporus",
+  "chuyen_luan": "TRƯ LINH",
+  "trang_in_lieu": 1363
+ },
+ {
+  "id": "tuc-doan",
+  "ten": "Tục đoạn",
+  "ten_khoa_hoc": "Radix Dipsaci",
+  "chuyen_luan": "TỤC ĐOẠN (Rễ)",
+  "trang_in_lieu": 1364
+ },
+ {
+  "id": "ty-ba-diep",
+  "ten": "Tỳ bà diệp",
+  "ten_khoa_hoc": "Folium Eriobotryae japonicae",
+  "chuyen_luan": "TỲ BÀ DIỆP",
+  "trang_in_lieu": 1366
+ },
+ {
+  "id": "ty-giai",
+  "ten": "Tỳ giải",
+  "ten_khoa_hoc": "Rhizoma Dioscoreae",
+  "chuyen_luan": "TỲ GIẢI (Thân rễ)",
+  "trang_in_lieu": 1366
+ },
+ {
+  "id": "uy-linh-tien",
+  "ten": "Uy linh tiên",
+  "ten_khoa_hoc": "Radix et Rhizoma Clematidis",
+  "chuyen_luan": "UY LINH TIÊN (Rễ và Thân rễ)",
+  "trang_in_lieu": 1367
+ },
+ {
+  "id": "vang-dang",
+  "ten": "Vàng đắng",
+  "ten_khoa_hoc": "Caulis Coscinii fenestrati",
+  "chuyen_luan": "VÀNG ĐẮNG (Thân)",
+  "trang_in_lieu": 1369
+ },
+ {
+  "id": "vien-chi",
+  "ten": "Viễn chí",
+  "ten_khoa_hoc": "Radix Polygalae",
+  "chuyen_luan": "VIỄN CHÍ (Rễ)",
+  "trang_in_lieu": 1370
+ },
+ {
+  "id": "xa-sang-tu",
+  "ten": "Xà sàng tử",
+  "ten_khoa_hoc": "Fructus Cnidii",
+  "chuyen_luan": "XÀ SÀNG (Quả)",
+  "trang_in_lieu": 1376
+ },
+ {
+  "id": "xa-tien-tu",
+  "ten": "Xa tiền tử",
+  "ten_khoa_hoc": "Semen Plantaginis",
+  "chuyen_luan": "MÃ ĐỀ (Hạt)",
+  "trang_in_lieu": 1239
+ },
+ {
+  "id": "xich-thuoc",
+  "ten": "Xích thược",
+  "ten_khoa_hoc": "Radix Paeoniae",
+  "chuyen_luan": "XÍCH THƯỢC (Rễ)",
+  "trang_in_lieu": 1378
+ },
+ {
+  "id": "xuong-bo",
+  "ten": "Xương bồ",
+  "ten_khoa_hoc": "Rhizoma Acori graminei",
+  "chuyen_luan": "XƯƠNG BỒ",
+  "trang_in_lieu": 1383
+ },
+ {
+  "id": "xuyen-khung",
+  "ten": "Xuyên khung",
+  "ten_khoa_hoc": "Rhizoma Ligustici wallichii",
+  "chuyen_luan": "XUYÊN KHUNG (Thân rễ)",
+  "trang_in_lieu": 1379
+ },
+ {
+  "id": "y-di",
+  "ten": "Ý dĩ",
+  "ten_khoa_hoc": "Semen Coicis",
+  "chuyen_luan": "Ý DĨ (Hạt)",
+  "trang_in_lieu": 1384
+ },
+ {
+  "id": "ma-tien",
+  "ten": "Mã tiền",
+  "ten_khoa_hoc": "Semen Strychni",
+  "chuyen_luan": null,
+  "trang_in_lieu": null
+ },
+ {
+  "id": "cuc-hoa",
+  "ten": "Cúc hoa",
+  "ten_khoa_hoc": "Flos Chrysanthemi indici",
+  "chuyen_luan": null,
+  "trang_in_lieu": null
+ },
+ {
+  "id": "hoang-nan-che",
+  "ten": "Hoàng nàn chế",
+  "ten_khoa_hoc": "Cotex Strychni wallichianae",
+  "chuyen_luan": null,
+  "trang_in_lieu": null
+ }
+]

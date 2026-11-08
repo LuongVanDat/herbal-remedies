@@ -17,6 +17,14 @@ lieu_dung:
 doc_tinh:
   muc: chua_ro
   canh_bao: null
+kieng_ky:
+  - Không dùng cho người âm hư hỏa vượng, đau lưng do thận hư.
+than_trong: []
+kieng_ky_nguon:
+  ma: ddvn-5
+  trang: 1366
+  muc: Chuyên luận TỲ GIẢI (Thân rễ)
+  trang_thai: chua_doi_chieu
 pho_bien: null
 thay_the: []
 nguon:

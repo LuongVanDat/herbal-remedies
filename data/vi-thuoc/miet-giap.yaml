@@ -16,6 +16,14 @@ lieu_dung:
 doc_tinh:
   muc: chua_ro
   canh_bao: null
+kieng_ky:
+  - Hư mà không nhiệt, vị yếu hay nôn mửa, tỳ hư có tiết tả, phụ nữ có thai không nên dùng.
+than_trong: []
+kieng_ky_nguon:
+  ma: ddvn-5
+  trang: 1250
+  muc: Chuyên luận MIẾT GIÁP
+  trang_thai: chua_doi_chieu
 pho_bien: null
 thay_the: []
 nguon:

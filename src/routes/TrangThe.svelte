@@ -2,7 +2,7 @@
   import BangThanhPhan from '../components/BangThanhPhan.svelte'
   import NhanNguon from '../components/NhanNguon.svelte'
   import { layData } from '../data-context'
-  import { LOAI_BAI } from '../labels'
+  import { LOAI_BAI, LUU_Y_THAI, luuYThai } from '../labels'
   import { href } from '../router'
   import { layTcGanNhat } from '../url-state'
   import KhongTimThay from './KhongTimThay.svelte'
@@ -11,6 +11,16 @@
   const data = layData()
   const benh = data.benh.find((b) => b.id === benhId)
   const the = benh?.the_benh.find((t) => t.id === theId)
+  /** Các vị trong bài cần lưu ý khi có thai (theo kiêng kỵ/thận trọng của vị), không lặp. */
+  const viLuuYThai = (baiId: string) => {
+    const ra = new Map<string, string>()
+    for (const tp of data.baiThuoc[baiId]?.thanh_phan ?? []) {
+      const v = data.viThuoc[tp.vi]
+      const m = v && luuYThai(v)
+      if (m && !ra.has(v.id)) ra.set(v.id, `${v.ten} (${LUU_Y_THAI[m]})`)
+    }
+    return [...ra.values()]
+  }
 </script>
 
 {#if !benh || !the}
@@ -23,6 +33,7 @@
 
   {#each the.bai_thuoc as baiId (baiId)}
     {@const bai = data.baiThuoc[baiId]}
+    {@const thai = viLuuYThai(baiId)}
     {#if bai}
       <section class="bai">
         <h2>{bai.ten}</h2>
@@ -30,6 +41,11 @@
           {#if bai.loai}<span class="loai">{LOAI_BAI[bai.loai]}</span> · {/if}{#if bai.xuat_xu}Xuất xứ: {bai.xuat_xu} · {/if}<NhanNguon nguon={bai.nguon} />
         </p>
         <BangThanhPhan {bai} />
+        {#if thai.length}
+          <p class="canh-bao-thai" data-testid="canh-bao-thai-{baiId}">
+            ⚠ <strong>Phụ nữ có thai:</strong> bài có vị cần lưu ý — {thai.join(', ')}. Xem mục kiêng kỵ của từng vị.
+          </p>
+        {/if}
         <h3>Cách dùng</h3>
         <p>{bai.cach_dung}</p>
         {#if bai.gia_giam.length}
@@ -49,5 +65,6 @@
   .bai { border-top: 1px solid var(--vien); margin-top: 1.5rem; }
   h3 { font-size: 1rem; margin: 1rem 0 0.3rem; }
   .kieng-ky { color: var(--do); }
+  .canh-bao-thai { color: var(--do); font-size: 0.9rem; }
   .loai { font-weight: 600; color: var(--nhan); }
 </style>

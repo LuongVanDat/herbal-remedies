@@ -1,0 +1,219 @@
+[
+ {
+  "id": "che-day",
+  "ten": "Chè dây",
+  "ten_khoa_hoc": "Folium Ampelopsis",
+  "chuyen_luan": "CHÈ DÂY (Lá)",
+  "trang_in_lieu": 1108
+ },
+ {
+  "id": "che-vang",
+  "ten": "Chè vằng",
+  "ten_khoa_hoc": "Folium Jasmini subtriplinervis",
+  "chuyen_luan": "CHÈ VẰNG (Lá)",
+  "trang_in_lieu": 1110
+ },
+ {
+  "id": "chi-thuc",
+  "ten": "Chỉ thực",
+  "ten_khoa_hoc": "Fructus Aurantii immaturus",
+  "chuyen_luan": "CHỈ THỰC",
+  "trang_in_lieu": 1111
+ },
+ {
+  "id": "chi-tu",
+  "ten": "Chi tử",
+  "ten_khoa_hoc": "Fructus Gardeniae",
+  "chuyen_luan": "DÀNH DÀNH (Quả)",
+  "trang_in_lieu": 1133
+ },
+ {
+  "id": "chi-xac",
+  "ten": "Chỉ xác",
+  "ten_khoa_hoc": "Fructus Aurantii",
+  "chuyen_luan": "CHỈ XÁC",
+  "trang_in_lieu": 1112
+ },
+ {
+  "id": "co-nho-noi",
+  "ten": "Cỏ nhọ nồi",
+  "ten_khoa_hoc": "Herba Ecliptae",
+  "chuyen_luan": "CỎ NHỌ NỒI",
+  "trang_in_lieu": 1118
+ },
+ {
+  "id": "co-xuoc",
+  "ten": "Cỏ xước",
+  "ten_khoa_hoc": "Radix Achyranthis asperae",
+  "chuyen_luan": "CỎ XƯỚC (Rễ)",
+  "trang_in_lieu": 1120
+ },
+ {
+  "id": "coc-tinh-thao",
+  "ten": "Cốc tinh thảo",
+  "ten_khoa_hoc": "Flos Eriocauli",
+  "chuyen_luan": "CỐC TINH THẢO",
+  "trang_in_lieu": 1122
+ },
+ {
+  "id": "cot-khi-cu",
+  "ten": "Cốt khí củ",
+  "ten_khoa_hoc": "Radix Polygoni cuspidati",
+  "chuyen_luan": "CỐT KHÍ (Rễ)",
+  "trang_in_lieu": 1124
+ },
+ {
+  "id": "cot-toai-bo",
+  "ten": "Cốt toái bổ",
+  "ten_khoa_hoc": "Rhizoma Drynariae",
+  "chuyen_luan": "CỐT TOÁI BỔ (Thân rễ)",
+  "trang_in_lieu": 1125
+ },
+ {
+  "id": "cu-gai",
+  "ten": "Củ gai",
+  "ten_khoa_hoc": "Radix Boehmeriae niveae",
+  "chuyen_luan": "GAI (Rễ)",
+  "trang_in_lieu": 1176
+ },
+ {
+  "id": "da-cam",
+  "ten": "Dạ cẩm",
+  "ten_khoa_hoc": "Herba Hedyotidis capitellatae",
+  "chuyen_luan": "DẠ CẨM",
+  "trang_in_lieu": 1132
+ },
+ {
+  "id": "dai-hoang",
+  "ten": "Đại hoàng",
+  "ten_khoa_hoc": "Rhizoma Rhei",
+  "chuyen_luan": "ĐẠI HOÀNG (Thân rễ)",
+  "trang_in_lieu": 1149
+ },
+ {
+  "id": "dai-tao",
+  "ten": "Đại táo",
+  "ten_khoa_hoc": "Fructus Ziziphi jujubae",
+  "chuyen_luan": "ĐẠI TÁO (Quả)",
+  "trang_in_lieu": 1151
+ },
+ {
+  "id": "dam-truc-diep",
+  "ten": "Đạm trúc diệp",
+  "ten_khoa_hoc": "Herba Lophatheri",
+  "chuyen_luan": "ĐẠM TRÚC DIỆP",
+  "trang_in_lieu": 1152
+ },
+ {
+  "id": "dan-sam",
+  "ten": "Đan sâm",
+  "ten_khoa_hoc": "Radix Salviae miltiorrhizae",
+  "chuyen_luan": "ĐAN SÂM (Rễ và Thân rễ)",
+  "trang_in_lieu": 1154
+ },
+ {
+  "id": "dang-sam-bac-xuyen-dang-sam",
+  "ten": "Đảng sâm bắc",
+  "ten_khoa_hoc": "Radix Codonopsis",
+  "chuyen_luan": "ĐẢNG SÂM (Rễ)",
+  "trang_in_lieu": 1156
+ },
+ {
+  "id": "dang-sam-bac",
+  "ten": "Đảng sâm bắc",
+  "ten_khoa_hoc": "Radix Codonopsis",
+  "chuyen_luan": "ĐẢNG SÂM (Rễ)",
+  "trang_in_lieu": 1156
+ },
+ {
+  "id": "dang-sam-viet-nam",
+  "ten": "Đảng sâm Việt Nam",
+  "ten_khoa_hoc": "Radix Codonopsis javanicae",
+  "chuyen_luan": "ĐẢNG SÂM VIỆT NAM (Rễ)",
+  "trang_in_lieu": 1157
+ },
+ {
+  "id": "dao-nhan",
+  "ten": "Đào nhân",
+  "ten_khoa_hoc": "Semen Pruni",
+  "chuyen_luan": "ĐÀO (Hạt)",
+  "trang_in_lieu": 1159
+ },
+ {
+  "id": "dau-den",
+  "ten": "Đậu đen",
+  "ten_khoa_hoc": "Semen Vignae cylindricae",
+  "chuyen_luan": "ĐẬU ĐEN (Hạt)",
+  "trang_in_lieu": 1161
+ },
+ {
+  "id": "day-dau-xuong",
+  "ten": "Dây đau xương",
+  "ten_khoa_hoc": "Caulis Tinosporae sinensis",
+  "chuyen_luan": "DÂY ĐAU XƯƠNG (Thân)",
+  "trang_in_lieu": 1139
+ },
+ {
+  "id": "dia-du",
+  "ten": "Địa du",
+  "ten_khoa_hoc": "Radix Sanguisorbae",
+  "chuyen_luan": "ĐỊA DU (Rễ)",
+  "trang_in_lieu": 1164
+ },
+ {
+  "id": "dia-lien",
+  "ten": "Địa liền",
+  "ten_khoa_hoc": "Rhizoma Kaempferiae galangae",
+  "chuyen_luan": "ĐỊA LIỀN (Thân rễ)",
+  "trang_in_lieu": 1166
+ },
+ {
+  "id": "dia-long",
+  "ten": "Địa long",
+  "ten_khoa_hoc": "Pheretima",
+  "chuyen_luan": "ĐỊA LONG",
+  "trang_in_lieu": 1167
+ },
+ {
+  "id": "diep-ca",
+  "ten": "Diếp cá",
+  "ten_khoa_hoc": "Herba Houttuyniae cordatae",
+  "chuyen_luan": "DIẾP CÁ",
+  "trang_in_lieu": 1142
+ },
+ {
+  "id": "dinh-lang",
+  "ten": "Đinh lăng",
+  "ten_khoa_hoc": "Radix Polysciacis",
+  "chuyen_luan": "ĐINH LĂNG (Rễ)",
+  "trang_in_lieu": 1169
+ },
+ {
+  "id": "do-trong",
+  "ten": "Đỗ trọng",
+  "ten_khoa_hoc": "Cortex Eucommiae",
+  "chuyen_luan": "ĐỖ TRỌNG (Vỏ thân)",
+  "trang_in_lieu": 1171
+ },
+ {
+  "id": "doc-hoat",
+  "ten": "Độc hoạt",
+  "ten_khoa_hoc": "Radix Angelicae pubescentis",
+  "chuyen_luan": "ĐỘC HOẠT (Rễ)",
+  "trang_in_lieu": 1172
+ },
+ {
+  "id": "duong-quy",
+  "ten": "Đương quy",
+  "ten_khoa_hoc": "Radix Angelicae sinensis",
+  "chuyen_luan": "ĐƯƠNG QUY (Rễ)",
+  "trang_in_lieu": 1175
+ },
+ {
+  "id": "giao-co-lam",
+  "ten": "Giảo cổ lam",
+  "ten_khoa_hoc": "Herba Gynostemmae",
+  "chuyen_luan": "GIẢO CỔ LAM",
+  "trang_in_lieu": 1178
+ }
+]

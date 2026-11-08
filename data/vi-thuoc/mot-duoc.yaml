@@ -16,6 +16,14 @@ lieu_dung:
 doc_tinh:
   muc: chua_ro
   canh_bao: null
+kieng_ky:
+  - Phụ nữ có thai, mụn nhọt đã vỡ không nên dùng.
+than_trong: []
+kieng_ky_nguon:
+  ma: ddvn-5
+  trang: 1255
+  muc: Chuyên luận MỘT DƯỢC (Gôm nhựa)
+  trang_thai: chua_doi_chieu
 pho_bien: null
 thay_the: []
 nguon:

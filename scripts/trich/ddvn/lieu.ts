@@ -121,3 +121,34 @@ export function tuDocAnh(ds: KetQuaDocAnh[]): { suaTay: SuaTay; theoId: Map<stri
   }
   return { suaTay, theoId }
 }
+
+/** Một phần tử trong scripts/trich/ddvn/kieng-ky/kq-*.json (xem kieng-ky/HUONG-DAN.md). */
+export type KetQuaKiengKy = {
+  id: string; ket_qua: 'co' | 'khong_co' | 'khong_chac'; chuyen_luan?: string; trang_in?: number
+  kieng_ky: string[]; than_trong: string[]; ghi_chu?: string
+}
+export type KiengKyDdvn = {
+  kieng_ky: string[]; than_trong: string[]
+  nguon: { ma: 'ddvn-5'; trang?: number; muc: string; trang_thai: 'chua_doi_chieu' }
+}
+
+/** Kiêng kỵ/thận trọng chép từ ảnh trang DĐVN V → theo id vị. Chỉ nhận kết quả "co". */
+export function tuKiengKy(ds: KetQuaKiengKy[]): Map<string, KiengKyDdvn> {
+  const ra = new Map<string, KiengKyDdvn>()
+  // Bản quét hay mất dấu hỏi của "ỉa" (chép ảnh có agent giữ "ia", có agent sửa) → thống nhất "ỉa"
+  const gon = (a: string[]) => a.map((c) => c.replace(/\s+/g, ' ').trim()
+    .replace(/\bia (chảy|lỏng)/g, 'ỉa $1').replace(/\bIa (chảy|lỏng)/g, 'Ỉa $1')).filter(Boolean)
+  const daGap = new Set<string>()
+  for (const x of ds) {
+    if (daGap.has(x.id)) throw new Error(`Kiêng kỵ trùng id ${x.id}`)
+    daGap.add(x.id)
+    if (x.ket_qua !== 'co') continue
+    const kk = gon(x.kieng_ky), tt = gon(x.than_trong)
+    if (!kk.length && !tt.length) throw new Error(`Kiêng kỵ ${x.id}: ket_qua "co" nhưng không có câu nào`)
+    ra.set(x.id, {
+      kieng_ky: kk, than_trong: tt,
+      nguon: { ma: 'ddvn-5', ...(x.trang_in ? { trang: x.trang_in } : {}), muc: `Chuyên luận ${x.chuyen_luan}`, trang_thai: 'chua_doi_chieu' },
+    })
+  }
+  return ra
+}

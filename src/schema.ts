@@ -121,6 +121,8 @@ export const ViThuocSchema = z
       .object({ muc: z.enum(['khong', 'it', 'co', 'rat_doc', 'chua_ro']), canh_bao: z.string().nullable() })
       .strict(),
     kieng_ky: z.array(Text).default([]),
+    than_trong: z.array(Text).default([]),
+    kieng_ky_nguon: NguonRefSchema.optional(), // nguồn chung cho kieng_ky + than_trong
     pho_bien: z.object({ muc: z.enum(['cao', 'trung_binh', 'thap']), can_cu: Text }).strict().nullable(),
     thay_the: z.array(ThayTheSchema).default([]),
     nguon: NguonRefSchema,
